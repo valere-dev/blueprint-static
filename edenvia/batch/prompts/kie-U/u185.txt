@@ -1,0 +1,13 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
+Changes: the 3 product pouches → our Edenvia stand-up resealable pouch in the same center-lower spot and size; the brand name/logo on pouch and top logo → Edenvia with small atom icon; the plant/oil graphics → subtle molecular hydrogen/water droplet cues; the green accents → Edenvia blue (#1468DB) and navy (#14488F); keep the white studio background and product arrangement, but show a single pouch if needed.
+Text, exactly and nothing else:
+"Our Return Policy is Simple,"
+"The Parasites Will Never Return"
+"MOLECULAR HYDROGEN"
+"GENERATES 8PPM OF HYDROGEN PER TABLET"
+"CONSUME DAILY ANTIOXIDANTS AND EXHIBIT HEALTHIER, IMPROVED LIVING"
+"DIETARY SUPPLEMENT"
+"30 TABLETS | 30 DAY SUPPLY"
+"One tablet in a glass of water once a day."
+Do not draw any capsules, pills, powders, bottles, jars, parasites, organs, medical devices, extra claims, or competitor branding.

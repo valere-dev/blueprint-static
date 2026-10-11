@@ -1,0 +1,5 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
+Changes: replace the hair-growth theme with Edenvia: keep the same cheerful floral Bitmoji-style scene, same raised-arm avatar pose, but the woman becomes a 40–55 woman with heavy, swollen, puffy legs/ankles implied by the message; swap the megaphone for a clear glass of water with one white effervescent tablet fizzing; use Edenvia blue (#1468DB) for any accent where the template uses the brand color; include the Edenvia pouch only if a product appears, but this template has none.
+Text, exactly and nothing else: "Ladies, this molecular hydrogen effervescent tablet from Edenvia is EVERYTHING! 💯✨ I can’t believe how much lighter my legs feel by evening. 😍🙆‍♀️" / "I’m practically a walking hydration-commercial now. 🎥🙋‍♀️"
+Do not draw a bottle, jar, capsule, pill, powder, competitor name, disease name, or drug name.

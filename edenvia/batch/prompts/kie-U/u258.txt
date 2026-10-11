@@ -1,0 +1,11 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
+Changes: the beauty cream bottle → our Edenvia stand-up resealable pouch same spot and size; the woman’s midsection/body → our avatar A8 with heavy, swollen, puffy legs and ankles, hiding her legs, natural studio smile; the red sale burst → Edenvia blue (#1468DB); keep the pink-lilac studio background, same clean Meta-style composition.
+Text, exactly and nothing else:
+“i’m 46 and now”
+“I have heavy, swollen legs”
+“Tighten & Smooth”
+“Legs & Ankles”
+“61%”
+“OFF”
+What not to draw: no capsule, pill, powder, bottle, or jar; no competitor name; no disease name; no extra props; no water glass; no medical claims.

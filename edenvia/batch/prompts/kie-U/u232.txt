@@ -1,0 +1,6 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
+Changes: the “30LBS LIGHTER with Burn Box” headline → “SLIMMER, LIGHTER LEGS” with smaller “with Edenvia”; the central woman → our avatar A8, a 40–55 woman with heavy, swollen, puffy legs and ankles, hidden, aching, sock marks; the 4 icon claims → “SMOOTHER CELLULAR DRAINAGE”, “BOOST ANTIOXIDANTS”, “LOSE WATER RETENTION”, “LIGHTER BY EVENING”; the three product boxes → one Edenvia pouch in the same lower-left spot and size, plus a clear glass of water with one white tablet fizzing; all pink accents → Edenvia blue (#1468DB), keep ice-blue background and Manrope-like geometric sans.
+Text, exactly and nothing else: “SLIMMER, LIGHTER” / “with Edenvia” / “SMOOTHER CELLULAR DRAINAGE” / “BOOST ANTIOXIDANTS” / “LOSE WATER RETENTION” / “LIGHTER BY EVENING” / “30 DAYS MONEY BACK GUARANTEE” / “BUY NOW, PAY LATER”
+What not to draw: no capsule, pill bottle, jar, powder, competitor branding, disease names, drugs, clinical claims, extra products, or different layout.
+---

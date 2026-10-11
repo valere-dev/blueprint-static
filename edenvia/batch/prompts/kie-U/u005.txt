@@ -1,0 +1,10 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
+Changes: replace the toilet paper scene with an avatar about lymphatic bloating: a woman 40–55 with heavy, swollen, puffy legs and ankles, sock marks, boots won’t zip, hidden legs, “it was never fat”; keep the same four-panel collage layout. Replace the orange/bidet imagery with Edenvia use cues: one white effervescent tablet fizzing in a clear glass of water, a hand holding the pouch, and a calm bathroom lifestyle scene. Swap the brand colour accents to Edenvia blue (#1468DB); keep the same soft social-post card overlay style.
+Text, exactly and nothing else:
+"WITH TABLET WATER"
+"Zach H. @zachhh • 3d"
+"Nothing has had such an impact on my daily life as Edenvia. I’ve got 1 in every bathroom of my home."
+"With Edenvia"
+"lighter legs by evening"
+Do not draw a bottle, jar, capsule, pill, powder, competitor name, disease name, or drug name.

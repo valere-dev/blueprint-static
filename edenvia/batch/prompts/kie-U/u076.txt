@@ -1,0 +1,4 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — label readable, water droplets, lit by the scene.  
+Changes: the giant ranch sign → a giant Edenvia blue sign; the food texture → our white-to-sky-blue pouch texture motif integrated behind the sign; the brand mark → Edenvia logo with small atom icon. Keep the billboard-on-water-city composition, same perspective and scale.  
+Text, exactly and nothing else: "SLIMMER ANKLES." / "LIGHTER LEGS BY EVENING." / "EDENVIA" / "MOLECULAR HYDROGEN" / "8 PPM" / "DAILY ANTIOXIDANTS."  
+Do not draw any competitor name, disease name, drug, capsule, pill, powder, bottle, or jar; do not add extra text, extra products, or extra people.

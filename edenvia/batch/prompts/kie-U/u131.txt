@@ -1,0 +1,5 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
+Changes: the sunscreen tube → our stand-up resealable Edenvia pouch in the same spot and size; the pink accent → Edenvia blue (#1468DB); the quote/avatar → a woman 45–50 with heavy, swollen, puffy legs and ankles, hiding her legs, “it’s not a fat problem”; keep the same speech-bubble layout; bottom benefit pills rewritten for lymphatic bloating.
+Text, exactly and nothing else: "Why you’ll regret buying this" / "Sunscreen" / “Heavy, swollen legs” / “The fact that it feels just like a normal cream or moisturiser and not like anything that helps my puffy legs really makes me wonder if I’m even using support” / “– Alissa” / “Great Texture” / “Doesn’t feel like support” / “Leaves no white cast”
+Do not draw a tube, sunscreen, beach scene, pills, capsules, jars, bottles, or any disease name.

@@ -1,0 +1,10 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.  
+Changes: the two capsules → one white effervescent tablet pair visual becomes a clear glass of water with one white tablet fizzing; the hand-held pouch → the Edenvia pouch same spot and size; the hot pink accents → Edenvia blue (#1468DB) and navy; replace the woman figure with an A8 avatar woman 40–55 with heavy, swollen, puffy legs and ankles, hiding her legs, puffy face optional; keep the same overall ad energy and bold CTA button styling.  
+Text, exactly and nothing else:  
+"GET YOUR LYMPHATIC BLOATING"  
+"BACK ON TRACK"  
+"Heavy, swollen legs"  
+"Puffy ankles"  
+"Lighter legs by evening"  
+"Try Edenvia"  
+What not to draw: capsules, pills, powder, bottles, jars, competitor names, disease names, drug claims, lab coats, medical devices, or extra text beyond the template.

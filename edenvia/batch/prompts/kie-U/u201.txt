@@ -1,0 +1,10 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
+Changes: replace the cartoon woman with a 40–55 woman avatar showing heavy, swollen, puffy legs/ankles, standing in the same lower-right pose; keep the warm dreamy sky, sparkles, and golden field; use Edenvia blue accents where the template uses purple; preserve the Bitmoji-style 3D look and cheerful ad composition.
+Text, exactly and nothing else:
+"I've been dealing with heavy, swollen legs for a while.
+I tried everything and was told to just lose weight.
+(It's not a fat problem)
+I started my routine with Edenvia and since January my legs felt lighter by evening.
+Slower water retention, slimmer ankles, and no bathroom runs."
+Do not draw a bottle, jar, capsule, pill, powder, competitor name, disease name, drug name, medical claim, or extra objects.

@@ -1,0 +1,17 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
+
+Changes: the jar → our stand-up resealable pouch same spot and size; the waistline graphic → a woman 40–55 with heavy, swollen, puffy legs and ankles, sock marks, hiding her legs; the blue accents → Edenvia blue (#1468DB), navy #14488F, deep navy #172A54, ice blue #EAF1F9; person style → clean studio ad avatar, same bold infographic look.
+
+Text, exactly and nothing else:
+"YOUR 14-DAY"  
+"LIGHTER"  
+"LEGS RESET"  
+"After 24-48 Hours:"  
+"95% of participants reported fuller drainage support and less water retention*"  
+"After 7 Days:"  
+"96% of participants felt less puffy*"  
+"After 14 Days and Beyond:"  
+"84% of participants reported slimmer ankles*"  
+"*Reported based on a consumer survey of 200 women."
+
+Do not draw capsules, pills, powder, bottles, jars, medical claims, a disease name, or any competitor branding.

@@ -1,0 +1,13 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
+Changes: replace the left-side problem pills with avatar symptoms for a woman 40–55 with heavy, swollen legs and ankles: “heavy, swollen legs”, “puffy”, “sock marks”, “boots won’t zip”, “legs ache by 5 p.m.”, “slimmer ankles”; keep the right-side solution area as the Edenvia pouch standing upright, same size and placement as the template’s product silhouette; use Edenvia blue #1468DB for any accent; overall clean peach background, black text, Manrope-like geometric sans.
+Text, exactly and nothing else:
+“THE PROBLEM:”
+“THE SOLUTION:”
+“heavy, swollen legs”
+“puffy”
+“sock marks”
+“boots won’t zip”
+“legs ache by 5 p.m.”
+“slimmer ankles”
+“TRY BEFORE YOU BUY”
+Do not draw a bottle, jar, capsule, pill, powder, competitor name, extra icons, extra copy, disease names, or medical claims.

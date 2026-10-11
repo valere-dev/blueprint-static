@@ -1,0 +1,356 @@
+pass 1: 191 jobs
+ERREUR kie gpt-image-2-image-to-image: HTTP Error 500: Internal Server Error
+Traceback (most recent call last):
+  File "/home/adanalysis/workspace/blueprint-static/edenvia/batch/kgen.py", line 20, in <module>
+    open(f"{R}/batch/calls.jsonl", "a").write(json.dumps({"num": a.num, "engine": "kie " + a.model, "ok": True, "ts": time.strftime("%Y-%m-%d %H:%M:%S"), "credits": c0 - c1, "secs": round(time.time() - t), "size": files[0]["size"], "params": params}) + "\n")
+                                                                                                                                                                     ~~~^~~~
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+U17: u_017_v1.png [1254, 1254] — 126.0 credits (9675.0 left), 84 s
+U13: u_013_v1.png [940, 1672] — 126.0 credits (9675.0 left), 85 s
+U6: u_006_v1.png [1254, 1254] — 126.0 credits (9675.0 left), 85 s
+Traceback (most recent call last):
+  File "/home/adanalysis/workspace/blueprint-static/edenvia/batch/kgen.py", line 20, in <module>
+    open(f"{R}/batch/calls.jsonl", "a").write(json.dumps({"num": a.num, "engine": "kie " + a.model, "ok": True, "ts": time.strftime("%Y-%m-%d %H:%M:%S"), "credits": c0 - c1, "secs": round(time.time() - t), "size": files[0]["size"], "params": params}) + "\n")
+                                                                                                                                                                     ~~~^~~~
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+U2: u_002_v1.png [1254, 1254] — 150.0 credits (9651.0 left), 91 s
+Traceback (most recent call last):
+  File "/home/adanalysis/workspace/blueprint-static/edenvia/batch/kgen.py", line 20, in <module>
+    open(f"{R}/batch/calls.jsonl", "a").write(json.dumps({"num": a.num, "engine": "kie " + a.model, "ok": True, "ts": time.strftime("%Y-%m-%d %H:%M:%S"), "credits": c0 - c1, "secs": round(time.time() - t), "size": files[0]["size"], "params": params}) + "\n")
+                                                                                                                                                                     ~~~^~~~
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+U10: u_010_v1.png [1254, 1254] — 150.0 credits (9651.0 left), 91 s
+U9: u_009_v1.png [1254, 1254] — 150.0 credits (9651.0 left), 91 s
+U5: u_005_v1.png [1254, 1254] — 150.0 credits (9651.0 left), 91 s
+U21: u_021_v1.png [941, 1672] — 84.0 credits (9633.0 left), 91 s
+Traceback (most recent call last):
+  File "/home/adanalysis/workspace/blueprint-static/edenvia/batch/kgen.py", line 20, in <module>
+    open(f"{R}/batch/calls.jsonl", "a").write(json.dumps({"num": a.num, "engine": "kie " + a.model, "ok": True, "ts": time.strftime("%Y-%m-%d %H:%M:%S"), "credits": c0 - c1, "secs": round(time.time() - t), "size": files[0]["size"], "params": params}) + "\n")
+                                                                                                                                                                     ~~~^~~~
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+Traceback (most recent call last):
+  File "/home/adanalysis/workspace/blueprint-static/edenvia/batch/kgen.py", line 20, in <module>
+    open(f"{R}/batch/calls.jsonl", "a").write(json.dumps({"num": a.num, "engine": "kie " + a.model, "ok": True, "ts": time.strftime("%Y-%m-%d %H:%M:%S"), "credits": c0 - c1, "secs": round(time.time() - t), "size": files[0]["size"], "params": params}) + "\n")
+                                                                                                                                                                     ~~~^~~~
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+U7: u_007_v1.png [1254, 1254] — 198.0 credits (9603.0 left), 104 s
+Traceback (most recent call last):
+  File "/home/adanalysis/workspace/blueprint-static/edenvia/batch/kgen.py", line 20, in <module>
+    open(f"{R}/batch/calls.jsonl", "a").write(json.dumps({"num": a.num, "engine": "kie " + a.model, "ok": True, "ts": time.strftime("%Y-%m-%d %H:%M:%S"), "credits": c0 - c1, "secs": round(time.time() - t), "size": files[0]["size"], "params": params}) + "\n")
+                                                                                                                                                                     ~~~^~~~
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+U14: u_014_v1.png [1254, 1254] — 210.0 credits (9591.0 left), 128 s
+Traceback (most recent call last):
+  File "/home/adanalysis/workspace/blueprint-static/edenvia/batch/kgen.py", line 20, in <module>
+    open(f"{R}/batch/calls.jsonl", "a").write(json.dumps({"num": a.num, "engine": "kie " + a.model, "ok": True, "ts": time.strftime("%Y-%m-%d %H:%M:%S"), "credits": c0 - c1, "secs": round(time.time() - t), "size": files[0]["size"], "params": params}) + "\n")
+                                                                                                                                                                     ~~~^~~~
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+U27: u_027_v1.png [940, 1672] — 72.0 credits (9579.0 left), 65 s
+U32: u_032_v1.png [941, 1672] — 48.0 credits (9573.0 left), 66 s
+U15: u_015_v1.png [941, 1672] — 234.0 credits (9567.0 left), 165 s
+U25: u_025_v1.png [941, 1672] — 108.0 credits (9567.0 left), 81 s
+U30: u_030_v1.png [941, 1672] — 96.0 credits (9555.0 left), 78 s
+U26: u_026_v1.png [941, 1672] — 114.0 credits (9555.0 left), 84 s
+U24: u_024_v1.png [940, 1672] — 132.0 credits (9543.0 left), 90 s
+U35: u_035_v1.png [1254, 1254] — 66.0 credits (9537.0 left), 73 s
+ERREUR kie gpt-image-2-image-to-image: fail Sorry, but the image we created may violate OpenAI's content policies.
+U31: u_031_v1.png [1254, 1254] — 114.0 credits (9537.0 left), 89 s
+U28: u_028_v1.png [1254, 1254] — 114.0 credits (9537.0 left), 90 s
+U36: u_036_v1.png [1254, 1254] — 78.0 credits (9519.0 left), 78 s
+U33: u_033_v1.png [1254, 1254] — 96.0 credits (9519.0 left), 91 s
+U29: u_029_v1.png [1254, 1254] — 132.0 credits (9519.0 left), 97 s
+U34: u_034_v1.png [1254, 1254] — 114.0 credits (9501.0 left), 97 s
+Traceback (most recent call last):
+  File "/home/adanalysis/workspace/blueprint-static/edenvia/batch/kgen.py", line 20, in <module>
+    open(f"{R}/batch/calls.jsonl", "a").write(json.dumps({"num": a.num, "engine": "kie " + a.model, "ok": True, "ts": time.strftime("%Y-%m-%d %H:%M:%S"), "credits": c0 - c1, "secs": round(time.time() - t), "size": files[0]["size"], "params": params}) + "\n")
+                                                                                                                                                                     ~~~^~~~
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+U23: u_023_v1.png [1254, 1254] — 186.0 credits (9489.0 left), 116 s
+U22: u_022_v1.png [1254, 1254] — 198.0 credits (9483.0 left), 134 s
+U42: u_042_v1.png [941, 1672] — 90.0 credits (9477.0 left), 79 s
+U39: u_039_v1.png [941, 1672] — 102.0 credits (9477.0 left), 91 s
+U43: u_043_v1.png [1122, 1402] — 84.0 credits (9471.0 left), 78 s
+U38: u_038_v1.png [1254, 1254] — 120.0 credits (9465.0 left), 116 s
+U45: u_045_v1.png [941, 1672] — 84.0 credits (9459.0 left), 78 s
+U46: u_046_v1.png [941, 1672] — 90.0 credits (9447.0 left), 84 s
+U44: u_044_v1.png [1254, 1254] — 108.0 credits (9447.0 left), 91 s
+U40: u_040_v1.png [1122, 1402] — 138.0 credits (9435.0 left), 110 s
+U47: u_047_v1.png [1254, 1254] — 102.0 credits (9435.0 left), 90 s
+U49: u_049_v1.png [1254, 1254] — 108.0 credits (9423.0 left), 91 s
+U51: u_051_v1.png [1254, 1254] — 102.0 credits (9417.0 left), 94 s
+U48: u_048_v1.png [1254, 1254] — 126.0 credits (9411.0 left), 103 s
+U55: u_055_v1.png [1254, 1254] — 78.0 credits (9411.0 left), 84 s
+U50: u_050_v1.png [1254, 1254] — 108.0 credits (9411.0 left), 97 s
+U53: u_053_v1.png [1254, 1254] — 108.0 credits (9393.0 left), 97 s
+U54: u_054_v1.png [1254, 1254] — 108.0 credits (9393.0 left), 97 s
+U56: u_056_v1.png [1254, 1254] — 102.0 credits (9381.0 left), 97 s
+ERREUR kie gpt-image-2-image-to-image: fail Sorry, but the image we created may violate OpenAI's content policies.
+U58: u_058_v1.png [1254, 1254] — 96.0 credits (9381.0 left), 78 s
+U60: u_060_v1.png [941, 1672] — 90.0 credits (9369.0 left), 78 s
+U52: u_052_v1.png [1254, 1254] — 156.0 credits (9363.0 left), 146 s
+U59: u_059_v1.png [1254, 1254] — 114.0 credits (9357.0 left), 91 s
+U65: u_065_v1.png [941, 1672] — 78.0 credits (9357.0 left), 71 s
+U62: u_062_v1.png [941, 1672] — 102.0 credits (9345.0 left), 84 s
+U63: u_063_v1.png [1254, 1254] — 108.0 credits (9339.0 left), 91 s
+U61: u_061_v1.png [1254, 1254] — 120.0 credits (9333.0 left), 103 s
+U69: u_069_v1.png [941, 1672] — 84.0 credits (9327.0 left), 83 s
+U64: u_064_v1.png [1254, 1254] — 114.0 credits (9321.0 left), 103 s
+U70: u_070_v1.png [1254, 1254] — 96.0 credits (9315.0 left), 97 s
+U71: u_071_v1.png [1122, 1402] — 78.0 credits (9315.0 left), 90 s
+U67: u_067_v1.png [1254, 1254] — 114.0 credits (9303.0 left), 106 s
+U72: u_072_v1.png [1254, 1254] — 90.0 credits (9303.0 left), 97 s
+ERREUR kie gpt-image-2-image-to-image: fail Sorry, but the image we created may violate OpenAI's content policies.
+U73: u_073_v1.png [1254, 1254] — 90.0 credits (9291.0 left), 98 s
+U68: u_068_v1.png [1122, 1402] — 120.0 credits (9291.0 left), 116 s
+Traceback (most recent call last):
+  File "/home/adanalysis/workspace/blueprint-static/edenvia/batch/kgen.py", line 20, in <module>
+    open(f"{R}/batch/calls.jsonl", "a").write(json.dumps({"num": a.num, "engine": "kie " + a.model, "ok": True, "ts": time.strftime("%Y-%m-%d %H:%M:%S"), "credits": c0 - c1, "secs": round(time.time() - t), "size": files[0]["size"], "params": params}) + "\n")
+                                                                                                                                                                     ~~~^~~~
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+U74: u_074_v1.png [1672, 941] — 102.0 credits (9279.0 left), 77 s
+U75: u_075_v1.png [941, 1672] — 114.0 credits (9267.0 left), 85 s
+U76: u_076_v1.png [941, 1672] — 108.0 credits (9261.0 left), 89 s
+U77: u_077_v1.png [940, 1672] — 108.0 credits (9255.0 left), 85 s
+U78: u_078_v1.png [941, 1672] — 108.0 credits (9249.0 left), 91 s
+U81: u_081_v1.png [940, 1672] — 96.0 credits (9243.0 left), 85 s
+U82: u_082_v1.png [940, 1672] — 96.0 credits (9237.0 left), 85 s
+U41: u_041_v1.png [1122, 1402] — 336.0 credits (9231.0 left), 302 s
+U84: u_084_v1.png [940, 1672] — 96.0 credits (9225.0 left), 103 s
+U91: u_091_v1.png [1122, 1402] — 72.0 credits (9219.0 left), 78 s
+U87: u_087_v1.png [1254, 1254] — 84.0 credits (9219.0 left), 91 s
+U85: u_085_v1.png [1254, 1254] — 96.0 credits (9219.0 left), 97 s
+U86: u_086_v1.png [1254, 1254] — 102.0 credits (9213.0 left), 97 s
+U90: u_090_v1.png [1122, 1402] — 96.0 credits (9195.0 left), 84 s
+U83: u_083_v1.png [1254, 1254] — 132.0 credits (9195.0 left), 116 s
+U89: u_089_v1.png [1254, 1254] — 102.0 credits (9195.0 left), 91 s
+U92: u_092_v1.png [941, 1672] — 102.0 credits (9177.0 left), 84 s
+U80: u_080_v1.png [941, 1672] — 174.0 credits (9171.0 left), 146 s
+U93: u_093_v1.png [1122, 1402] — 114.0 credits (9165.0 left), 91 s
+U95: u_095_v1.png [941, 1672] — 102.0 credits (9159.0 left), 83 s
+U88: u_088_v1.png [1254, 1254] — 150.0 credits (9153.0 left), 116 s
+U96: u_096_v1.png [1122, 1402] — 108.0 credits (9147.0 left), 91 s
+U98: u_098_v1.png [1254, 1254] — 102.0 credits (9141.0 left), 97 s
+U99: u_099_v1.png [1122, 1402] — 102.0 credits (9135.0 left), 97 s
+U94: u_094_v1.png [941, 1672] — 138.0 credits (9129.0 left), 135 s
+U100: u_100_v1.png [1122, 1402] — 108.0 credits (9123.0 left), 85 s
+U101: u_101_v1.png [1122, 1402] — 108.0 credits (9117.0 left), 83 s
+U106: u_106_v1.png [940, 1672] — 84.0 credits (9111.0 left), 78 s
+U102: u_102_v1.png [1122, 1402] — 114.0 credits (9105.0 left), 91 s
+U108: u_108_v1.png [1254, 1254] — 90.0 credits (9105.0 left), 85 s
+U104: u_104_v1.png [1122, 1402] — 114.0 credits (9105.0 left), 90 s
+U109: u_109_v1.png [941, 1672] — 72.0 credits (9105.0 left), 84 s
+U107: u_107_v1.png [941, 1672] — 90.0 credits (9105.0 left), 86 s
+U110: u_110_v1.png [941, 1672] — 66.0 credits (9105.0 left), 79 s
+U97: u_097_v1.png [1254, 1254] — 150.0 credits (9099.0 left), 141 s
+U105: u_105_v1.png [1122, 1402] — 150.0 credits (9063.0 left), 97 s
+U111: u_111_v1.png [1254, 1254] — 108.0 credits (9057.0 left), 91 s
+U113: u_113_v1.png [1122, 1402] — 102.0 credits (9051.0 left), 85 s
+U114: u_114_v1.png [1122, 1402] — 102.0 credits (9045.0 left), 84 s
+U103: u_103_v1.png [1122, 1402] — 180.0 credits (9039.0 left), 121 s
+U112: u_112_v1.png [1122, 1402] — 126.0 credits (9033.0 left), 103 s
+U117: u_117_v1.png [1254, 1254] — 102.0 credits (9027.0 left), 83 s
+U115: u_115_v1.png [1122, 1402] — 120.0 credits (9021.0 left), 108 s
+U120: u_120_v1.png [940, 1672] — 90.0 credits (9021.0 left), 84 s
+U57: u_057_v1.png [768, 1344] — 456.0 credits (9021.0 left), 402 s
+ERREUR kie gpt-image-2-image-to-image: fail Sorry, but the image we created may violate OpenAI's content policies.
+U118: u_118_v1.png [1254, 1254] — 108.0 credits (9015.0 left), 96 s
+U125: u_125_v1.png [940, 1672] — 90.0 credits (9015.0 left), 79 s
+U127: u_127_v1.png [941, 1672] — 96.0 credits (8997.0 left), 79 s
+U116: u_116_v1.png [940, 1672] — 144.0 credits (8991.0 left), 115 s
+U121: u_121_v1.png [940, 1672] — 120.0 credits (8985.0 left), 85 s
+U126: u_126_v1.png [1254, 1254] — 132.0 credits (8973.0 left), 91 s
+U123: u_123_v1.png [1254, 1254] — 132.0 credits (8973.0 left), 91 s
+U128: u_128_v1.png [1122, 1402] — 90.0 credits (8973.0 left), 85 s
+U122: u_122_v1.png [1254, 1254] — 150.0 credits (8955.0 left), 103 s
+U129: u_129_v1.png [1122, 1402] — 108.0 credits (8949.0 left), 91 s
+U132: u_132_v1.png [1254, 1254] — 96.0 credits (8943.0 left), 90 s
+U131: u_131_v1.png [1254, 1254] — 102.0 credits (8943.0 left), 97 s
+U133: u_133_v1.png [1254, 1254] — 102.0 credits (8931.0 left), 97 s
+U119: u_119_v1.png [1254, 1254] — 192.0 credits (8925.0 left), 146 s
+U124: u_124_v1.png [1254, 1254] — 186.0 credits (8919.0 left), 139 s
+ERREUR kie gpt-image-2-image-to-image: fail Sorry, but the image we created may violate OpenAI's content policies.
+U135: u_135_v1.png [940, 1672] — 108.0 credits (8913.0 left), 84 s
+U134: u_134_v1.png [1254, 1254] — 120.0 credits (8907.0 left), 103 s
+U137: u_137_v1.png [941, 1672] — 114.0 credits (8907.0 left), 84 s
+U139: u_139_v1.png [1254, 1254] — 108.0 credits (8907.0 left), 84 s
+U136: u_136_v1.png [1254, 1254] — 132.0 credits (8889.0 left), 91 s
+U142: u_142_v1.png [940, 1672] — 108.0 credits (8883.0 left), 85 s
+U143: u_143_v1.png [1122, 1402] — 102.0 credits (8883.0 left), 85 s
+U146: u_146_v1.png [1254, 1254] — 102.0 credits (8871.0 left), 79 s
+U141: u_141_v1.png [941, 1672] — 120.0 credits (8871.0 left), 91 s
+U138: u_138_v1.png [941, 1672] — 156.0 credits (8859.0 left), 97 s
+U148: u_148_v1.png [1254, 1254] — 96.0 credits (8853.0 left), 72 s
+U147: u_147_v1.png [940, 1672] — 108.0 credits (8847.0 left), 77 s
+U144: u_144_v1.png [1122, 1402] — 132.0 credits (8841.0 left), 109 s
+U150: u_150_v1.png [940, 1672] — 108.0 credits (8835.0 left), 85 s
+U149: u_149_v1.png [1254, 1254] — 114.0 credits (8829.0 left), 97 s
+U153: u_153_v1.png [1254, 1254] — 96.0 credits (8823.0 left), 84 s
+U152: u_152_v1.png [1122, 1402] — 108.0 credits (8817.0 left), 91 s
+U154: u_154_v1.png [1254, 1254] — 108.0 credits (8811.0 left), 80 s
+U158: u_158_v1.png [1254, 1254] — 102.0 credits (8805.0 left), 73 s
+U159: u_159_v1.png [940, 1672] — 90.0 credits (8799.0 left), 77 s
+U157: u_157_v1.png [1254, 1254] — 114.0 credits (8793.0 left), 91 s
+U163: u_163_v1.png [941, 1672] — 84.0 credits (8787.0 left), 85 s
+U160: u_160_v1.png [941, 1672] — 102.0 credits (8781.0 left), 91 s
+U162: u_162_v1.png [1122, 1402] — 96.0 credits (8775.0 left), 91 s
+U164: u_164_v1.png [1122, 1402] — 90.0 credits (8769.0 left), 90 s
+U166: u_166_v1.png [1254, 1254] — 84.0 credits (8763.0 left), 90 s
+U167: u_167_v1.png [1122, 1402] — 84.0 credits (8757.0 left), 73 s
+U165: u_165_v1.png [1254, 1254] — 96.0 credits (8757.0 left), 97 s
+U140: u_140_v1.png [1254, 1254] — 258.0 credits (8757.0 left), 196 s
+U161: u_161_v1.png [941, 1672] — 144.0 credits (8739.0 left), 116 s
+U169: u_169_v1.png [1122, 1402] — 96.0 credits (8733.0 left), 77 s
+U168: u_168_v1.png [941, 1672] — 102.0 credits (8733.0 left), 89 s
+U156: u_156_v1.png [1254, 1254] — 186.0 credits (8721.0 left), 140 s
+U170: u_170_v1.png [941, 1672] — 108.0 credits (8715.0 left), 90 s
+U171: u_171_v1.png [1254, 1254] — 108.0 credits (8709.0 left), 91 s
+U174: u_174_v1.png [941, 1672] — 96.0 credits (8703.0 left), 79 s
+U173: u_173_v1.png [940, 1672] — 108.0 credits (8697.0 left), 91 s
+U155: u_155_v1.png [1122, 1402] — 216.0 credits (8697.0 left), 171 s
+U175: u_175_v1.png [1254, 1254] — 102.0 credits (8691.0 left), 85 s
+U172: u_172_v1.png [941, 1672] — 120.0 credits (8691.0 left), 110 s
+U180: u_180_v1.png [1254, 1254] — 72.0 credits (8691.0 left), 72 s
+U178: u_178_v1.png [1254, 1254] — 84.0 credits (8691.0 left), 90 s
+U181: u_181_v1.png [941, 1672] — 66.0 credits (8691.0 left), 85 s
+U183: u_183_v1.png [940, 1672] — 66.0 credits (8691.0 left), 86 s
+U186: u_186_v1.png [941, 1672] — 42.0 credits (8691.0 left), 65 s
+U179: u_179_v1.png [1254, 1254] — 78.0 credits (8691.0 left), 97 s
+U184: u_184_v1.png [1024, 1536] — 48.0 credits (8691.0 left), 84 s
+U185: u_185_v1.png [1024, 1536] — 42.0 credits (8691.0 left), 86 s
+U187: u_187_v1.png [1254, 1254] — 30.0 credits (8691.0 left), 84 s
+U182: u_182_v1.png [941, 1672] — 66.0 credits (8691.0 left), 115 s
+U189: u_189_v1.png [1122, 1402] — 18.0 credits (8691.0 left), 85 s
+U177: u_177_v1.png [941, 1672] — 90.0 credits (8691.0 left), 147 s
+U190: u_190_v1.png [1254, 1254] — 12.0 credits (8691.0 left), 91 s
+U191: u_191_v1.png [1254, 1254] — 6.0 credits (8691.0 left), 91 s
+U188: u_188_v1.png [1122, 1402] — 24.0 credits (8691.0 left), 160 s
+U176: u_176_v1.png [1254, 1254] — 96.0 credits (8691.0 left), 240 s
+U151: u_151_v1.png [768, 1344] — 240.0 credits (8691.0 left), 384 s
+pass 2: 85 jobs
+ERREUR kie gpt-image-2-image-to-image: HTTP Error 500: Internal Server Error
+ERREUR kie gpt-image-2-image-to-image: HTTP Error 500: Internal Server Error
+ERREUR kie gpt-image-2-image-to-image: fail Sorry, but the image we created may violate OpenAI's content policies.
+ERREUR kie gpt-image-2-image-to-image: fail Sorry, but the image we created may violate OpenAI's content policies.
+Traceback (most recent call last):
+  File "/home/adanalysis/workspace/blueprint-static/edenvia/batch/kgen.py", line 20, in <module>
+    open(f"{R}/batch/calls.jsonl", "a").write(json.dumps({"num": a.num, "engine": "kie " + a.model, "ok": True, "ts": time.strftime("%Y-%m-%d %H:%M:%S"), "credits": c0 - c1, "secs": round(time.time() - t), "size": files[0]["size"], "params": params}) + "\n")
+                                                                                                                                                                     ~~~^~~~
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+ERREUR kie gpt-image-2-image-to-image: fail Sorry, but the image we created may violate OpenAI's content policies.
+Traceback (most recent call last):
+  File "/home/adanalysis/workspace/blueprint-static/edenvia/batch/kgen.py", line 20, in <module>
+    open(f"{R}/batch/calls.jsonl", "a").write(json.dumps({"num": a.num, "engine": "kie " + a.model, "ok": True, "ts": time.strftime("%Y-%m-%d %H:%M:%S"), "credits": c0 - c1, "secs": round(time.time() - t), "size": files[0]["size"], "params": params}) + "\n")
+                                                                                                                                                                     ~~~^~~~
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+Traceback (most recent call last):
+  File "/home/adanalysis/workspace/blueprint-static/edenvia/batch/kgen.py", line 20, in <module>
+    open(f"{R}/batch/calls.jsonl", "a").write(json.dumps({"num": a.num, "engine": "kie " + a.model, "ok": True, "ts": time.strftime("%Y-%m-%d %H:%M:%S"), "credits": c0 - c1, "secs": round(time.time() - t), "size": files[0]["size"], "params": params}) + "\n")
+                                                                                                                                                                     ~~~^~~~
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+U197: u_197_v1.png [1254, 1254] — 138.0 credits (8553.0 left), 77 s
+Traceback (most recent call last):
+  File "/home/adanalysis/workspace/blueprint-static/edenvia/batch/kgen.py", line 20, in <module>
+    open(f"{R}/batch/calls.jsonl", "a").write(json.dumps({"num": a.num, "engine": "kie " + a.model, "ok": True, "ts": time.strftime("%Y-%m-%d %H:%M:%S"), "credits": c0 - c1, "secs": round(time.time() - t), "size": files[0]["size"], "params": params}) + "\n")
+                                                                                                                                                                     ~~~^~~~
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+Traceback (most recent call last):
+  File "/home/adanalysis/workspace/blueprint-static/edenvia/batch/kgen.py", line 20, in <module>
+    open(f"{R}/batch/calls.jsonl", "a").write(json.dumps({"num": a.num, "engine": "kie " + a.model, "ok": True, "ts": time.strftime("%Y-%m-%d %H:%M:%S"), "credits": c0 - c1, "secs": round(time.time() - t), "size": files[0]["size"], "params": params}) + "\n")
+                                                                                                                                                                     ~~~^~~~
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+U206: u_206_v1.png [941, 1672] — 90.0 credits (8541.0 left), 85 s
+Traceback (most recent call last):
+  File "/home/adanalysis/workspace/blueprint-static/edenvia/batch/kgen.py", line 20, in <module>
+    open(f"{R}/batch/calls.jsonl", "a").write(json.dumps({"num": a.num, "engine": "kie " + a.model, "ok": True, "ts": time.strftime("%Y-%m-%d %H:%M:%S"), "credits": c0 - c1, "secs": round(time.time() - t), "size": files[0]["size"], "params": params}) + "\n")
+                                                                                                                                                                     ~~~^~~~
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+Traceback (most recent call last):
+  File "/home/adanalysis/workspace/blueprint-static/edenvia/batch/kgen.py", line 20, in <module>
+    open(f"{R}/batch/calls.jsonl", "a").write(json.dumps({"num": a.num, "engine": "kie " + a.model, "ok": True, "ts": time.strftime("%Y-%m-%d %H:%M:%S"), "credits": c0 - c1, "secs": round(time.time() - t), "size": files[0]["size"], "params": params}) + "\n")
+                                                                                                                                                                     ~~~^~~~
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+U193: u_193_v1.png [1254, 1254] — 162.0 credits (8529.0 left), 92 s
+U207: u_207_v1.png [940, 1672] — 84.0 credits (8511.0 left), 93 s
+U201: u_201_v1.png [1254, 1254] — 180.0 credits (8511.0 left), 96 s
+U203: u_203_v1.png [1122, 1402] — 180.0 credits (8511.0 left), 97 s
+U37: u_037_v1.png [1122, 1402] — 198.0 credits (8493.0 left), 100 s
+U198: u_198_v1.png [1254, 1254] — 198.0 credits (8493.0 left), 102 s
+Traceback (most recent call last):
+  File "/home/adanalysis/workspace/blueprint-static/edenvia/batch/kgen.py", line 20, in <module>
+    open(f"{R}/batch/calls.jsonl", "a").write(json.dumps({"num": a.num, "engine": "kie " + a.model, "ok": True, "ts": time.strftime("%Y-%m-%d %H:%M:%S"), "credits": c0 - c1, "secs": round(time.time() - t), "size": files[0]["size"], "params": params}) + "\n")
+                                                                                                                                                                     ~~~^~~~
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+U209: u_209_v1.png [941, 1672] — 108.0 credits (8475.0 left), 71 s
+U210: u_210_v1.png [941, 1672] — 102.0 credits (8469.0 left), 71 s
+U214: u_214_v1.png [768, 1344] — 90.0 credits (8463.0 left), 59 s
+U18: u_018_v1.png [1254, 1254] — 234.0 credits (8457.0 left), 141 s
+U215: u_215_v1.png [1254, 1254] — 96.0 credits (8451.0 left), 71 s
+U213: u_213_v1.png [1122, 1402] — 126.0 credits (8445.0 left), 83 s
+U212: u_212_v1.png [941, 1672] — 126.0 credits (8445.0 left), 84 s
+U216: u_216_v1.png [1254, 1254] — 108.0 credits (8433.0 left), 78 s
+U211: u_211_v1.png [1254, 1254] — 144.0 credits (8427.0 left), 97 s
+U208: u_208_v1.png [941, 1672] — 162.0 credits (8421.0 left), 122 s
+U220: u_220_v1.png [1254, 1254] — 108.0 credits (8415.0 left), 85 s
+U217: u_217_v1.png [1254, 1254] — 126.0 credits (8415.0 left), 91 s
+U225: u_225_v1.png [941, 1672] — 84.0 credits (8409.0 left), 77 s
+U221: u_221_v1.png [1254, 1254] — 108.0 credits (8403.0 left), 85 s
+U218: u_218_v1.png [1254, 1254] — 126.0 credits (8403.0 left), 91 s
+U226: u_226_v1.png [941, 1672] — 96.0 credits (8385.0 left), 85 s
+ERREUR kie gpt-image-2-image-to-image: fail We’re so sorry, but the prompt may violate OpenAI's guardrails around nudity, sexuality, or erotic content.
+U223: u_223_v1.png [1254, 1254] — 126.0 credits (8385.0 left), 109 s
+U229: u_229_v1.png [941, 1672] — 90.0 credits (8373.0 left), 78 s
+U228: u_228_v1.png [941, 1672] — 96.0 credits (8373.0 left), 85 s
+U224: u_224_v1.png [941, 1672] — 132.0 credits (8361.0 left), 128 s
+U231: u_231_v1.png [1254, 1254] — 96.0 credits (8355.0 left), 91 s
+U222: u_222_v1.png [1254, 1254] — 156.0 credits (8355.0 left), 147 s
+U234: u_234_v1.png [1254, 1254] — 84.0 credits (8349.0 left), 83 s
+U233: u_233_v1.png [1254, 1254] — 96.0 credits (8349.0 left), 91 s
+ERREUR kie gpt-image-2-image-to-image: fail The input or output was flagged as sensitive. Please try again with different inputs.
+U232: u_232_v1.png [1254, 1254] — 108.0 credits (8337.0 left), 98 s
+U238: u_238_v1.png [1254, 1254] — 90.0 credits (8325.0 left), 77 s
+U236: u_236_v1.png [1254, 1254] — 102.0 credits (8319.0 left), 84 s
+U227: u_227_v1.png [941, 1672] — 162.0 credits (8313.0 left), 140 s
+U239: u_239_v1.png [1254, 1254] — 96.0 credits (8307.0 left), 91 s
+U241: u_241_v1.png [1254, 1254] — 96.0 credits (8307.0 left), 90 s
+U240: u_240_v1.png [1254, 1254] — 96.0 credits (8307.0 left), 90 s
+U244: u_244_v1.png [940, 1672] — 96.0 credits (8289.0 left), 72 s
+U242: u_242_v1.png [1122, 1402] — 96.0 credits (8289.0 left), 79 s
+U237: u_237_v1.png [1122, 1402] — 126.0 credits (8289.0 left), 103 s
+U243: u_243_v1.png [941, 1672] — 114.0 credits (8271.0 left), 91 s
+U246: u_246_v1.png [1122, 1402] — 108.0 credits (8265.0 left), 84 s
+U247: u_247_v1.png [1122, 1402] — 102.0 credits (8259.0 left), 78 s
+U235: u_235_v1.png [940, 1672] — 174.0 credits (8253.0 left), 153 s
+U248: u_248_v1.png [1122, 1402] — 108.0 credits (8247.0 left), 85 s
+U252: u_252_v1.png [940, 1672] — 96.0 credits (8241.0 left), 79 s
+U253: u_253_v1.png [940, 1672] — 90.0 credits (8241.0 left), 77 s
+U250: u_250_v1.png [1254, 1254] — 120.0 credits (8229.0 left), 90 s
+U257: u_257_v1.png [1254, 1254] — 84.0 credits (8223.0 left), 72 s
+U251: u_251_v1.png [1122, 1402] — 126.0 credits (8223.0 left), 97 s
+U254: u_254_v1.png [1254, 1254] — 102.0 credits (8223.0 left), 93 s
+U255: u_255_v1.png [941, 1672] — 96.0 credits (8223.0 left), 90 s
+U256: u_256_v1.png [1254, 1254] — 90.0 credits (8223.0 left), 91 s
+U258: u_258_v1.png [1254, 1254] — 78.0 credits (8229.0 left), 90 s
+U259: u_259_v1.png [1254, 1254] — 78.0 credits (8229.0 left), 91 s
+ERREUR kie gpt-image-2-image-to-image: fail Sorry, but the image we created may violate OpenAI's content policies.
+U260: u_260_v1.png [1254, 1254] — 60.0 credits (8229.0 left), 91 s
+U261: u_261_v1.png [1254, 1254] — 60.0 credits (8229.0 left), 91 s
+U262: u_262_v1.png [1254, 1254] — 60.0 credits (8229.0 left), 91 s
+U263: u_263_v1.png [1254, 1254] — 42.0 credits (8229.0 left), 98 s
+U264: u_264_v1.png [1254, 1254] — 36.0 credits (8229.0 left), 97 s
+U266: u_266_v1.png [940, 1672] — 24.0 credits (8229.0 left), 85 s
+U269: u_269_v1.png [941, 1672] — 12.0 credits (8229.0 left), 86 s
+U268: u_268_v1.png [1254, 1254] — 12.0 credits (8229.0 left), 91 s
+U270: u_270_v1.png [941, 1672] — 0.0 credits (8229.0 left), 87 s
+U267: u_267_v1.png [1254, 1254] — 18.0 credits (8229.0 left), 104 s
+U219: u_219_v1.png [1024, 1280] — 300.0 credits (8229.0 left), 359 s
+U245: u_245_v1.png [1024, 1024] — 144.0 credits (8229.0 left), 390 s
+pass 3: 8 jobs
+ERREUR kie gpt-image-2-image-to-image: HTTP Error 500: Internal Server Error
+ERREUR kie gpt-image-2-image-to-image: fail The input or output was flagged as sensitive. Please try again with different inputs.
+ERREUR kie gpt-image-2-image-to-image: fail Sorry, but the image we created may violate OpenAI's content policies.
+ERREUR kie gpt-image-2-image-to-image: fail Sorry, but the image we created may violate OpenAI's content policies.
+ERREUR kie gpt-image-2-image-to-image: fail Sorry, but the image we created may violate OpenAI's content policies.
+ERREUR kie gpt-image-2-image-to-image: fail Sorry, but the image we created may violate OpenAI's content policies.
+U145: u_145_v1.png [1122, 1402] — 12.0 credits (8217.0 left), 91 s
+U192: u_192_v1.png [1254, 1254] — 12.0 credits (8217.0 left), 147 s
+DONE

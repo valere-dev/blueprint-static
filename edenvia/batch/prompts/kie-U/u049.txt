@@ -1,0 +1,19 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
+Changes: the two supplement pouches → our Edenvia pouch, same spot and size; the skin problem → the avatar’s heavy, swollen, puffy legs and ankles; the brand colour accents → Edenvia blue (#1468DB); the testimonials → an older woman about 45–55 saying it’s not fat, it was never fat, her legs ache by 5 p.m., sock marks, boots won’t zip; keep the same clean static-ad collage style.
+Text, exactly and nothing else:
+"WHAT'S YOUR SKIN"
+"TRYING TO EXPEL?"
+"\"My heavy, swollen legs (which doctors called just weight) are GONE!\""
+"When you're bloated, your legs aren't the problem. Hidden inflammatory response and oxidative stress keep fluid sitting there, causing water retention."
+"At 48, I finally reached the fluid stuck in my legs using daily drainage support."
+"In just days after starting,"
+"the heaviness eased"
+"and my ankles looked"
+"slimmer without any"
+"bathroom runs."
+"So I didn't need anything else,"
+"this is antioxidants and takes moments"
+"with a glass of water."
+"It works for most people whose legs reflect internal fluid overload.*"
+Do not draw capsules, pills, powder, bottle, jar, a disease name, a drug name, competitor branding, or a different product package.

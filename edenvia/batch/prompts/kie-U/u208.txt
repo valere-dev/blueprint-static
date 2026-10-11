@@ -1,0 +1,14 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.  
+Changes: the woman → our avatar woman 40–55 with heavy, swollen, puffy legs and ankles, tired and frustrated, pointing at her legs; the product in hand → Edenvia pouch same spot and size; the cat/second scene subject → same woman seated at table, legs hidden under table; brand colour accents → Edenvia blue (#1468DB); keep the same bold meme-style split-panel layout.  
+Text, exactly and nothing else:  
+"MY LEGS FEEL HEAVY, SWOLLEN, PUFFY!"  
+"EDENVIA MOLECULAR HYDROGEN."  
+"ONE TABLET IN A GLASS OF WATER"  
+"SLIMMER ANKLES BY EVENING."  
+"NO BATHROOM RUNS"  
+"REACHES THE FLUID STUCK IN YOUR LEGS."  
+"30-DAY MONEY BACK GUARANTEE"  
+"RATED 4.9/5 · 12,000+ CUSTOMERS"  
+"TRUSTED BY HEALTHCARE PROFESSIONALS"  
+"THIRD-PARTY LAB TESTED"  
+Do not draw a bottle, jar, capsule, pill, powder, competitor branding, disease names, or any extra text.

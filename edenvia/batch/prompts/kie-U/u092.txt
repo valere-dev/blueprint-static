@@ -1,0 +1,13 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
+Changes: replace every colorful can/tub with the Edenvia stand-up resealable pouch, same scene spacing and stack positions; make the central handwritten sign about Edenvia; change the neon green accent to Edenvia blue (#1468DB); use the woman 40–55 with heavy, swollen, puffy legs and ankles as the implied avatar; keep the template’s bold retail-sale look but make it feel like a clean wellness promo.
+Text, exactly and nothing else:
+"SELLING QUICK!!"
+"ONCE A YEAR"
+"SALE!!"
+"20% OFF EVERYTHING" -> "$39.00" / "BUY 2 GET 1 FREE" / "BUY 3 GET 2 FREE"
+"FIRST 1,000 ORDERS"
+"93% SOLD"
+"FREE EXPRESS SHIPPING"
+"30-DAY MONEY BACK GUARANTEE"
+Do not draw extra products, bottles, jars, capsules, pills, powder, competitor branding, disease names, or medical claims.

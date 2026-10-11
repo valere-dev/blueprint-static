@@ -1,0 +1,9 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
+Changes: the brand mark at top → Edenvia with atom icon in Manrope-like geometric sans; the highlighted statistic → “8 in 10 women over 45 are” / “hiding heavy, swollen legs”; the subheadline → “That’s a lot of puffy legs that were never a fat problem.”; the silhouette row → 10 women with swollen legs/ankles, varied poses, one or two highlighted lighter silhouettes at the end; the background country shape → abstract soft wash silhouette; the bottom pill CTA → dark navy rounded button with a small tablet-in-water icon, Edenvia blue accent; place the Edenvia pouch where the template’s product/brand element would sit if shown.
+Text, exactly and nothing else:
+"8 in 10 women over 45 are"
+"hiding heavy, swollen legs"
+"That’s a lot of puffy legs that were never a fat problem."
+"See if it’s drainage support with EDENVIA"
+"EDENVIA · 30-DAY GUARANTEE"
+What NOT to draw: no competitor branding, no disease names, no pill/capsule/bottle/jar, no medical claims, no hot water, no extra copy, no red accents.

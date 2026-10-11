@@ -12,7 +12,7 @@ import sac_config as C
 from pages_common import HEAD, CSS, load_specs, load_json, web, outs_for
 
 B = C.BATCH; EX = f"{C.PAGES}/ex"; os.makedirs(EX, exist_ok=True); KP = os.environ.get("SAC_KEY_PREFIX", "s")
-BATCH_T = KP == "t"
+BATCH_T = KP in ("t", "u"); TD = {"t": "templates-T", "u": "templates-U"}.get(KP); PD = {"t": "kie-T", "u": "kie-U"}.get(KP); DIG = 3 if KP == "u" else 2
 FAMILY = {1: "US vs THEM / comparison"}            # family per batch round (B01-clone-plan.md §8.1); round 1 = family 1
 HEADLINES = {1: "3 Leg-Swelling Fixes. 1 Pair Of Heavy Legs. Here's The Truth.", 2: "Lose The Fluid, Not More Weight.",
              3: "Edenvia's HYDROGEN vs Detox Tea", 4: "What comes with ANOTHER D!ET · What comes with EDENVIA",
@@ -22,10 +22,10 @@ HEADLINES = {1: "3 Leg-Swelling Fixes. 1 Pair Of Heavy Legs. Here's The Truth.",
 SO = load_json(f"{B}/sell_override.json", {})
 if BATCH_T:   # batch T: no specs; one row per template file, caption = the prompt's text line
     specs = []
-    for f in sorted(os.listdir(f"{B}/templates-T")):
-        n = int(f[1:3]); pr = open(f"{B}/prompts/kie-T/t_{n:02d}.txt").read()
+    for f in sorted(x for x in os.listdir(f"{B}/{TD}") if not x.endswith(".tsv")):
+        n = int(f[1:1 + DIG]); pr = open(f"{B}/prompts/{PD}/{KP}_{n:02d}.txt" if KP == "t" else f"{B}/prompts/{PD}/{KP}{n:03d}.txt").read()
         m = re.search(r"Text, exactly and nothing else[^:]*:\s*(.*)", pr, re.S); cap = (m.group(1) if m else pr).replace("\n", " ")[:220]
-        specs.append({"num": n, "tpl_abs": f"{B}/templates-T/{f}", "angle": f.split("_")[1], "texts": [cap]})
+        specs.append({"num": n, "tpl_abs": f"{B}/{TD}/{f}", "angle": f.split("_")[1], "texts": [cap]})
 else:
     specs = sorted(load_specs().values(), key=lambda s: s["num"])
 EXTRA = """.pair{display:grid;grid-template-columns:1fr 1fr;gap:16px;align-items:start}.pair figure{margin:0;position:relative}
@@ -34,12 +34,12 @@ h2{font:700 24px Oswald,sans-serif;text-transform:uppercase;margin:30px 0 6px}@m
 
 rows = ""; fam_done = set(); sells = []
 for s in specs:
-    n = s["num"]; key = f"{KP}_{n:02d}"; tf = s.get("tpl_abs") or f"{B}/templates/{s['tpl']}"
+    n = s["num"]; key = f"{KP}_{n:0{DIG}d}"; tf = s.get("tpl_abs") or f"{B}/templates/{s['tpl']}"
     outs = outs_for(key)
     if not outs: continue
     sell = outs[SO.get(str(n), len(outs)) - 1]; sells.append((n, sell))
     shutil.copy(sell, f"{EX}/{key}_sell.png")
-    fam = "Batch T — 25 templates drawn at random across all 9 families" if BATCH_T else FAMILY.get(1)
+    fam = ("Batch U — every remaining template of the swipe file (270)" if KP == "u" else "Batch T — 25 templates drawn at random across all 9 families") if BATCH_T else FAMILY.get(1)
     if fam not in fam_done: rows += f'<h2>{html.escape(fam)}</h2>'; fam_done.add(fam)
     rows += (f'<section class="row" id="s{n}"><div class="num">{KP.upper()}{n}</div><div class="pair">'
              f'<figure><span class="lb">Template</span><img src="{web(tf, key + "_tpl")}" loading="lazy"></figure>'
@@ -47,8 +47,8 @@ for s in specs:
              f'<p class="cap"><b>{html.escape(s["angle"].split(" — ")[0])}</b> · {html.escape(s["texts"][0] if BATCH_T else HEADLINES.get(n, s["texts"][0]))}</p></section>')
 os.makedirs(C.PAGES, exist_ok=True)
 head = HEAD.format(title="Edenvia — batch 01, template vs ad", css=CSS + EXTRA)
-open(f"{C.PAGES}/compare{"-T" if BATCH_T else ""}.html", "w").write(head + f'<body><div class="wrap"><h1>Edenvia — {"batch T" if BATCH_T else "batch 01"} · template | ad</h1>'
+open(f"{C.PAGES}/compare{"-" + KP.upper() if BATCH_T else ""}.html", "w").write(head + f'<body><div class="wrap"><h1>Edenvia — {"batch " + KP.upper() if BATCH_T else "batch 01"} · template | ad</h1>'
     f'<p>{"25 random templates across all families" if BATCH_T else "Concept family 1"}, {len(sells)} ads. Left: the template. Right: our ad (click for full size). Angle and headline under each pair.</p>{rows}</div></body></html>')
-grid = "".join(f'<a href="ex/{KP}_{n:02d}_sell.png" target="_blank"><img src="{web(p, f"{KP}_{n:02d}_sell")}" loading="lazy" alt=""></a>' for n, p in sells)
-open(f"{C.PAGES}/demo{"-T" if BATCH_T else ""}.html", "w").write(HEAD.format(title="Edenvia ads", css=CSS) + f'<body><div class="wrap"><h1>Edenvia ads</h1><div class="g">{grid}</div></div></body></html>')
+grid = "".join(f'<a href="ex/{KP}_{n:0{DIG}d}_sell.png" target="_blank"><img src="{web(p, f"{KP}_{n:0{DIG}d}_sell")}" loading="lazy" alt=""></a>' for n, p in sells)
+open(f"{C.PAGES}/demo{"-" + KP.upper() if BATCH_T else ""}.html", "w").write(HEAD.format(title="Edenvia ads", css=CSS) + f'<body><div class="wrap"><h1>Edenvia ads</h1><div class="g">{grid}</div></div></body></html>')
 print(f"compare.html + demo.html: {len(sells)} ads")

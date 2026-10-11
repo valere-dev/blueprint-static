@@ -1,0 +1,8 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.  
+Changes: the acne headline → lymphatic bloating headline for a 45–55 woman with heavy, swollen, puffy legs and ankles; the profile avatar → the same woman; the brand name in the comment/footer → Edenvia; the red accent → Edenvia blue (#1468DB); keep the same social-comment layout, white background, black and pale pink blocks.  
+Text, exactly and nothing else:  
+"HEAVY, SWOLLEN LEGS"  
+"Gone in 4 days"  
+"i will preface this with the fact i don’t ever leave reviews and i promise i’m not paid by these guys. i am 48 years old and have been struggling with puffy, heavy legs since i was 40. i have tried everything and i do mean everything. my legs ache by 5 p.m. and my boots won’t zip. i have been using Edenvia for 4 days. 4 DAYS. my legs feel lighter by evening. my ankles look slimmer. it’s not a fat problem."  
+"These results may seem shocking, but we have seen thousands of transformations like this. When people switch from low-quality products and routines to Edenvia, the legs get immediate relief, and overnight results are possible. Even for those with years of sticky water retention."  
+Do not draw acne, skin lesions, pills, capsules, jars, bottles, a competitor name, a disease name, or hot water.

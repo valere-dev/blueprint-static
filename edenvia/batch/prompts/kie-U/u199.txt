@@ -1,0 +1,14 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — label readable, water droplets, lit by the scene.
+
+Changes: the two bottles → one stand-up resealable Edenvia pouch in the same lower-right area and visual weight; the pink gradient → Edenvia blue #1468DB with navy/deep navy accents; the review subject → a woman 45–50 with puffy, swollen legs and ankles, hiding her legs, “it was never fat,” heavier by 5 p.m.; the product name and all brand marks → Edenvia logo with atom icon.
+
+Text, exactly and nothing else:
+"STANLEY KEYES" / "2 reviews" / "US"
+"★★★★★"
+"Mar 10, 2026"
+"EDENVIA" / "Molecular Hydrogen"
+"The product, Edenvia Molecular Hydrogen has worked wonders for me in less than a month. My heavy, swollen legs were always worse by evening. In 3 weeks of taking Edenvia it’s now lighter legs by evening and my slimmer ankles are back. Amazing results!!!!"
+"March 10, 2026" / "Unprompted review"
+"Buy 1 Get 1 Free"
+
+Do not draw capsules, pills, powder, jar, bottle, competitor names, extra logos, extra badges, medical claims, or any missing text.

@@ -1,0 +1,6 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
+Changes: the white jar → the Edenvia stand-up resealable pouch same spot and size, fully readable label, water droplets, lit by the scene; the woman in the pool → Edenvia avatar A8, woman 40–55 with heavy, swollen, puffy legs and ankles, hidden/partially visible as the template allows; orange sunset accent → Edenvia blue (#1468DB) in branding details.
+Text, exactly and nothing else:
+“At almost 50 years of age, I feel like I am 25 again. I will never stop taking this.”
+Do not draw capsules, pills, powder, bottle, jar, competitor names, medical claims, disease names, or extra text.

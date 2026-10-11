@@ -1,0 +1,20 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
+Changes: the weight-loss brand names → Edenvia / avatar angle A8 lymphatic bloating woman, same crossed-out list style; the product can → our stand-up resealable pouch same spot and size; pink accents → Edenvia blue (#1468DB), navy, deep navy, ice blue; replace the body icons with swollen legs/ankles, puffy face, and evening sock marks; woman shown with heavy, swollen, puffy legs, hiding her legs, tired by 5 p.m., boots won’t zip.
+Text, exactly and nothing else:
+"SOLUTION!"
+"lighter legs by evening"
+"Expensive"
+"Side-effects"
+"Boxed warnings"
+"heavy, swollen legs"
+"puffy"
+"slimmer ankles"
+"my boots zip again"
+"no bathroom runs"
+"first 1,000 orders"
+"93% sold"
+"Rated 4.9/5"
+"12,000+ customers"
+"Trusted by healthcare professionals"
+"Third-party lab tested"
+Do not draw capsules, pills, powder, jars, bottles, a disease name, a drug name, a competitor name, or any medical claim language outside the allowed words.

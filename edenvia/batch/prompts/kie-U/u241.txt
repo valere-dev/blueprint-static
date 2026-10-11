@@ -1,0 +1,5 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
+Changes: replace the 8 face panels with the Edenvia avatar theme: a woman 40–55 with heavy, swollen, puffy legs and ankles that no diet ever fixed, hiding her legs, sock marks, boots won’t zip; keep the same grid, same black dividers, same clinical skincare-ad look. Use Edenvia blue (#1468DB) and icy blue accents where the template uses highlight colors. Keep the same minimal lab-like framing and realistic studio lighting.
+Text, exactly and nothing else: "Heavy, swollen legs (73%)" / "Puffy ankles (80%)" / "Inflammation (90%)" / "Water retention (55%)" / "Heavy legs (2%)" / "Slimmer ankles (4%)" / "Inflammation (0%)" / "Drainage support (1%)"
+Do not draw: acne, spots, redness, creams, medicine, pills, capsules, jars, bottles, or any disease name.

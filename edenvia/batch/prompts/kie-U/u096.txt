@@ -1,0 +1,11 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.  
+Changes: the collagen jar → our stand-up resealable Edenvia pouch same spot and size; the red fruit background → deep red glossy water-drop texture with Edenvia blue accents; brand colors and highlights → Edenvia blue #1468DB, navy #14488F, deep navy #172A54, ice blue #EAF1F9; no other product branding.  
+Text, exactly and nothing else:  
+"PREMIUM"  
+"MOLECULAR HYDROGEN"  
+"NOW FOR"  
+"$39.00"  
+"30 TABLETS | 30 DAY SUPPLY"  
+"30-DAY MONEY BACK GUARANTEE"  
+"RATED 4.9/5 · 12,000+ CUSTOMERS"  
+Do not draw a jar, bottle, capsules, pills, powder, fruit, competitor names, disease names, or any extra text.

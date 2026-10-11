@@ -1,0 +1,14 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.  
+Changes: swap the sleeping girl → a 40–55 woman with heavy, swollen, puffy legs and ankles in bed, head down, hiding her legs; “then” scene = exhausted, swollen, sock marks, boots won’t zip; “now” scene = lighter legs by evening, slimmer ankles, relaxed smile, same cozy bedroom; replace accent color with Edenvia blue #1468DB; place the Edenvia pouch in the right-side bedside area like the product in the template, same scale as the template’s featured object.  
+Text, exactly and nothing else:  
+"The Relief Koala"  
+"Say goodbye to heavy, swollen legs"  
+"THEN"  
+"Heavy, swollen legs"  
+"Puffy by evening"  
+"Sock marks / boots won’t zip"  
+"NOW"  
+"Lighter legs by evening"  
+"Slimer ankles"  
+"No bathroom runs"  
+What not to draw: no pills, capsules, powders, bottles, jars, competitor names, disease names, medical claims, or extra text.

@@ -1,0 +1,12 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
+Changes: keep the pink brick wall, taped white note card, and paper-tab sticker layout exactly. Replace the generic benefits with Edenvia benefits for the swollen-legs avatar; use Edenvia blue (#1468DB) accents where needed; use a clean Manrope-like geometric sans; no competitor branding.
+Text, exactly and nothing else:
+"Take what you need"
+"Long-lasting energy"
+"Sharper focus"
+"Better mood balance"
+"Mental clarity"
+"Calmer thoughts"
+"Less overwhelm"
+What NOT to draw: no capsule, pill, powder, bottle, jar, no disease names, no drug names, no competitor names, no extra graphics beyond the template.

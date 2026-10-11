@@ -1,0 +1,16 @@
+Image 1 is the ad template to clone 1:1 (same split layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — stand-up resealable pouch, white fading to sky blue with water droplets, readable label: Edenvia (atom icon) / MOLECULAR / HYDROGEN / GENERATES 8PPM OF HYDROGEN PER TABLET / CONSUME DAILY ANTIOXIDANTS AND EXHIBIT HEALTHIER, IMPROVED LIVING / DIETARY SUPPLEMENT / 30 TABLETS | 30 DAY SUPPLY, lit by the scene.  
+Changes: left side “Problems” stays, swap the three problem icons for a puffy-legs woman avatar sequence: swollen ankles/legs, puffy face/jawline, hidden heavy legs; right side “Solution” swaps the jar → our pouch same spot and size; change the pink accent to Edenvia blue (#1468DB) while keeping the template’s clean product-ad style and Manrope-like geometric sans.  
+Text, exactly and nothing else:  
+“Problems”  
+“Solution.”  
+“Heavy, swollen legs”  
+“Puffy”  
+“Isn’t it fat”  
+“30-Day Money Back Guarantee”  
+“30 TABLETS | 30 DAY SUPPLY”  
+“1,000 orders”  
+“93% sold”  
+“FREE Cellular Recovery Protocol”  
+“Rated 4.9/5”  
+“12,000+ customers”  
+Do not draw capsules, pills, powder, bottle, jar, competitor branding, disease names, drugs, hot water, or extra text.

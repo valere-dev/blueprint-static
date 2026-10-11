@@ -1,0 +1,12 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
+Changes: swap the mushroom theme for Edenvia Molecular Hydrogen. Replace the hand-and-capsule visual with a studio product shot of the stand-up resealable Edenvia pouch, same dominant right-side hero position and scale if a product is shown; pouch white fading to sky blue with water droplets, label fully readable. Replace all brand color accents with Edenvia blue #1468DB, navy #14488F, deep navy #172A54, ice blue #EAF1F9. Replace the subject with a 40–55 woman with heavy, swollen, puffy legs and ankles, hidden under clothing, legs ache by 5 p.m., sock marks, boots won’t zip; natural beauty-ad-adjacent photographic realism, clean infographic style.
+Text, exactly and nothing else:
+"THE SMARTER WAY TO RECLAIM YOUR ENERGY, FOCUS, AND MENTAL EDGE"
+"Harness the Science of Molecular Hydrogen to Perform at Your Peak"
+"1" "Reduce Inflammation and Support Drainage"
+"2" "Help With Oxidative Stress at the Cellular Level"
+"3" "Support Lighter, Less Puffy Legs by Evening"
+"Upgrade Your Leg Comfort"
+"Feel the Difference! 50% Off Today!"
+What not to draw: no capsule, pill, powder, bottle, or jar; no disease names; no competitor branding; no clinical claims; no hot water; no extra objects; no altered pouch label text.

@@ -1,0 +1,19 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.  
+Changes: replace the RYZE mushroom coffee bags with one Edenvia stand-up resealable pouch in the same bottom-center spot and size; replace the mushroom icons/ingredient row with a woman 40–55 with heavy, swollen, puffy legs and ankles, hidden legs, sock marks, boots won’t zip, “it was never fat”; replace the brown/orange brand accents with Edenvia blue (#1468DB), navy, deep navy, and ice blue; keep the bold headline/template hierarchy and same cozy studio lighting.  
+Text, exactly and nothing else:  
+"BLOATING?"  
+"TRY EDENVIA"  
+"HEAVY, SWOLLEN LEGS"  
+"PUFFY"  
+"SOCK MARKS"  
+"BOOTS WON’T ZIP"  
+"SLIMMER ANKLES"  
+"LIGHTER LEGS BY EVENING"  
+"$39.00"  
+"WAS $79.99"  
+"30-DAY MONEY BACK GUARANTEE"  
+"RATED 4.9/5"  
+"12,000+ CUSTOMERS"  
+"TRUSTED BY HEALTHCARE PROFESSIONALS"  
+"THIRD-PARTY LAB TESTED"  
+Do not draw a bottle, jar, capsule, pill, powder, competitor name, disease name, drug name, clinical claims, or hot water.

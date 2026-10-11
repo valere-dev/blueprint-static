@@ -1,0 +1,12 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
+
+Changes: replace the liquid collagen concept with Edenvia’s molecular hydrogen ritual and benefits; keep the same cheerful bitmoji-style woman, same arm-up pose, same big centered headline placement, same floral garden frame, same bright spring gradient background. Swap the product concept cue (megaphone-like prop) to a clear glass of water with one white effervescent tablet fizzing. Use Edenvia blue #1468DB for any accent text or highlight where the template uses brand color.
+
+Text, exactly and nothing else:
+"Looking and feeling 20 years younger with Edenvia Molecular Hydrogen"
+"#lovingthislife"
+"heavy, swollen legs"
+"lighter legs by evening"
+"slimmer ankles"
+
+Do not draw any capsule, pill bottle, jar, powder, medical imagery, competitor branding, disease names, or extra text.

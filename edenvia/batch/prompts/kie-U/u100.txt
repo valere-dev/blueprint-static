@@ -1,0 +1,8 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.  
+Changes: the two coffee bags → two Edenvia pouches, same spots, sizes, angles and overlap; the orange/red background → Edenvia blue gradient using #1468DB, #14488F, #172A54 and #EAF1F9 accents; keep the same clean studio ad look, premium shadows, floating packshot energy.  
+Text, exactly and nothing else:  
+"THIS WEEK ONLY"  
+"UP TO 40% OFF"  
+"FREE GIFTS + SHIPPING"  
+"30-DAY RISK-FREE"  
+Do not draw coffee, mushrooms, cups, beans, bottles, jars, capsules, pills, powders, extra props, extra text, people, hands, or any competitor branding.

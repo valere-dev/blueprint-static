@@ -1,0 +1,5 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
+Changes: the skincare text → lymphatic bloating / heavy, swollen legs copy for a 40–55 woman hiding puffy legs and ankles; the product bottle → our stand-up resealable pouch same spot and size; the orange accent → Edenvia blue (#1468DB); the spoilage label → Edenvia logo with atom icon on pouch.
+Text, exactly and nothing else: "SORRY IN ADVANCE" / "We regret to inform you that your legs AND your boots might shrink." / "Edenvia Molecular Hydrogen tends to" / "lighten heaviness, support drainage, and reduce water retention." / "We take full responsibility for the compliments you are about to receive." / "TRY BEFORE YOU BUY"
+What NOT to draw: no capsules, pills, powder, bottle, jar, no competitor names, no disease names, no medical claims, no extra objects.

@@ -1,0 +1,12 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
+Changes: left-side brand MUD\WTR → Edenvia with small atom icon in Manrope-like geometric sans; replace the arm/coffee pouring scene with a studio lifestyle scene of a woman 40–55 with heavy, swollen, puffy legs and ankles, hands hiding her legs, subtle sock marks, boots nearby won’t zip, calm premium wellness ad lighting; use Edenvia blue #1468DB for accents where the template uses brand color; keep the white left panel and full-height right image split. Place the Edenvia pouch only if the template calls for product imagery; when shown, use the stand-up resealable pouch exactly, label readable, water droplets lit by the scene.
+Text, exactly and nothing else:
+"EDENVIA"
+"Our Biggest Sale Of The Year"
+"+ FREE FROTHER"
+"+ FREE OPEN MINDFULNESS APP"
+"+ FREE SHIPPING"
+"Money-Back Guarantee"
+"Over 50k 5-star reviews"
+"★★★★★"
+What not to draw: no bottle, jar, capsule, pill, powder, competitor names, disease names, medical claims, or extra copy.

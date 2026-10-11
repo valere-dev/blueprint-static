@@ -1,0 +1,13 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
+Changes: the body cream/skin treatment concept → Edenvia molecular hydrogen effervescent tablets for heavy, swollen, puffy legs and ankles; the before/after leg photos → a woman 40–55 with noticeably puffy, tender lower legs in the BEFORE, and visibly slimmer ankles/less water retention in the AFTER, same framing and size; the brand color accents → Edenvia blue (#1468DB). Use the Edenvia pouch only if a product pack is shown, placed exactly like a featured product in the template, label readable, white fading to sky blue with water droplets.
+Text, exactly and nothing else:
+"THE BODY CREAM"
+"Show Off Your Legs"
+"With Confidence"
+"BEFORE"
+"AFTER"
+"Cindy V. (52, UT)"
+"Fade Heavy, Puffy Legs"
+"Trusted by healthcare professionals"
+Do not draw: capsules, pills, powder, bottle, jar, competitor names, disease names, drug claims, hot water, bathroom runs, or extra text.

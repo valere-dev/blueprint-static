@@ -1,0 +1,17 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
+Changes: replace the left “Old Me” side with Edenvia’s lymphatic-bloating avatar: woman 40–55, heavy swollen puffy legs and ankles, tired, hiding her legs, grayscale, aching by 5 p.m., sock marks, boots won’t zip; replace the right “New Me” side with the same woman in bright healthy color, lighter legs by evening, slimmer ankles, confident smile. Swap the top pills for a clear glass of water with one white effervescent tablet fizzing on the right-side halo area, and add the Edenvia stand-up resealable pouch in the top-left area, same scale as the template’s product cluster, label readable and exactly: Edenvia (atom icon) / MOLECULAR / HYDROGEN / GENERATES 8PPM OF HYDROGEN PER TABLET / CONSUME DAILY ANTIOXIDANTS AND EXHIBIT HEALTHIER, IMPROVED LIVING / DIETARY SUPPLEMENT / 30 TABLETS | 30 DAY SUPPLY. Use Edenvia blue (#1468DB) and the same clean ad aesthetic.
+Text, exactly and nothing else:
+"Old Me"
+"New Me"
+"heavy, swollen legs"
+"puffy"
+"lighter legs by evening"
+"slimmer ankles"
+"it was never fat"
+"reaches the fluid stuck in your legs"
+"TOTAL"
+"$39.00"
+"was $79.99"
+"93% sold"
+"30-Day Money Back Guarantee"
+Do not draw capsules, pills, powder, bottles, jars, competitor branding, disease names, drugs, or any extra copy.

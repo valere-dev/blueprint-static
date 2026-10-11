@@ -1,0 +1,9 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
+Changes: the orange deodorant stick → our white-to-sky-blue stand-up resealable pouch in the same spot and size; replace the product badge text with Edenvia branding; swap the orange brand colour → Edenvia blue (#1468DB), navy (#14488F), deep navy (#172A54), ice blue (#EAF1F9). Keep the same tilted product-angle, shadow, and premium studio lighting.
+Text, exactly and nothing else:
+"OTHER BRANDS" / "ARE RAISING PRICES." / "WE’RE LOWERING OURS."
+"SAVE UP TO 50% TODAY" / "WITH 4 FREE GIFTS"
+"Rated 4.9/5" / "12,000+ customers" / "Trusted by healthcare professionals" / "Third-party lab tested"
+"$39.00" / "was $79.99" / "BUY 2 GET 1 FREE $78.00" / "BUY 3 GET 2 FREE $117.00"
+"30-Day Money Back Guarantee" / "93% SOLD" / "FREE CELLULAR RECOVERY PROTOCOL" / "FREE EXPRESS SHIPPING ON THE 5-PACK"
+Do not draw any other product, capsule, pill, powder, bottle, jar, competitor name, disease name, or medical claims.

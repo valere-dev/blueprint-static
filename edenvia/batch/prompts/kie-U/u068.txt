@@ -1,0 +1,11 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.  
+Changes: the toy → our Edenvia pouch same spot and size, held in a woman’s hand; the toy’s dark color → Edenvia navy/blue gradients (#1468DB, #14488F, #172A54); the body-energy claim → lymphatic-bloating relief framing for heavy, swollen legs and ankles; keep the soft studio beige background and minimal ad style.  
+Text, exactly and nothing else:  
+"It’s actual science."  
+"LIGHTER LEGS"  
+"Heavy, swollen legs"  
+"Reaches the fluid stuck in your legs"  
+"Slimmer ankles"  
+"Feel a shift within 15 minutes"  
+"Switches your fluid retention off — 30% off Bold"  
+What not to draw: no capsule, pill, powder, bottle, jar, no disease name, no competitor name, no medical device, no extra text.

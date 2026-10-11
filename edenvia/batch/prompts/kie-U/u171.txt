@@ -1,0 +1,15 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
+Changes: the bottle → our stand-up resealable pouch same spot and size; the Wildhorn brand/logo → Edenvia with atom icon; the buffalo/testosterone theme → heavy, swollen legs/ankles avatar with “water retention” theme; the warm brown brand colour → Edenvia blue (#1468DB) and deep navy; keep the same premium studio product-ad look.
+Text, exactly and nothing else:
+"EDENVIA"
+"Molecular Hydrogen"
+"T: 370 →"
+"800"
+"heavy, swollen legs"
+"lighter legs by evening"
+"slimmer ankles"
+"no bathroom runs"
+"30-DAY GUARANTEE"
+"Customer-reported results over 90 days. Individual results vary. This product is not intended to diagnose, treat, or prevent any disease."
+What NOT to draw: no bottle, no capsules, no pills, no powder, no jar, no competitor branding, no disease name, no drug name, no lymphedema or lipedema text.

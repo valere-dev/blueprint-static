@@ -1,0 +1,5 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
+Changes: replace the coffee bag with the Edenvia stand-up resealable pouch in the same spot and size, white fading to sky blue with water droplets, label readable and lit by the scene; replace the cup of coffee with a clear glass of water containing one white effervescent tablet fizzing/dissolving; replace the scoop with a small splash/bubbles of water; keep the orange background but swap all brand accents to Edenvia blue #1468DB and navy #14488F.
+Text, exactly and nothing else: "Lose" / "HEAVY, SWOLLEN LEGS" / "Special Deal" / "$39.00" / "$79.99" / "30-DAY MONEY BACK GUARANTEE" / "+ LIGHTER LEGS BY EVENING" / "+ SLIMMER ANKLES" / "+ DRANAIAGE SUPPORT" / "+ 8PPM HYDROGEN" / "UP TO 50% OFF + FREE CELLULAR RECOVERY PROTOCOL"
+Do not draw a capsule, pill bottle, jar, powder, competitor branding, medical claims, a disease name, or extra text.

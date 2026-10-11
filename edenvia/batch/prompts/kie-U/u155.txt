@@ -1,0 +1,9 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
+Changes: the jar → our stand-up resealable pouch same spot and size; the beer-belly pour → a clear glass of water with one white effervescent tablet fizzing and dissolving; the man/body claim → a woman 40–55 with heavy, swollen, puffy legs and ankles, hiding her legs, no bathroom runs, lighter legs by evening, slimmer ankles; red/orange brand colour → Edenvia blue (#1468DB).
+Text, exactly and nothing else:
+"SUCKS OUT"
+"STUBBORN"
+"HEAVY LEGS"
+"IN WEEKS"
+Do not draw a jar, capsules, pills, powder, bottle, competitor branding, medical claims, disease names, or any extra text.

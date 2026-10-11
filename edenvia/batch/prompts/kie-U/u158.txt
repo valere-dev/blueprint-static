@@ -1,0 +1,4 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.  
+Changes: the white bottle → our stand-up resealable Edenvia pouch in the same spot and size; the purple liquid glass → a clear glass of water with one white effervescent tablet fizzing/dissolving; the handwritten card → replace with our avatar message; use Edenvia blue (#1468DB) for brand accents; keep the same casual studio tabletop photo style.  
+Text, exactly and nothing else: "TAKE BACK YOUR" / "CONFIDENCE." / "HEAVY, SWOLLEN LEGS?" / "LIGHTER LEGS BY EVENING"  
+What not to draw: no bottle, no jar, no capsule/pill/powder, no competitor names, no disease names, no drug claims, no extra objects, no hot water.

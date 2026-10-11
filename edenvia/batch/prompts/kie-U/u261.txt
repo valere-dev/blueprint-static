@@ -1,0 +1,5 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
+Changes: rainbow gradient background → Edenvia blue-to-ice-blue gradient (#1468DB to #EAF1F9). Keep the same centered bold black headline block. Replace the acne message with the angle A8 avatar: a woman 40–55 with heavy, swollen, puffy legs and ankles, hiding her legs, sock marks, boots won’t zip, “it was never fat.” Add a subtle clear glass of water with one white effervescent tablet dissolving, and the Edenvia stand-up resealable pouch only if space allows, same prominence as a product mockup.
+Text, exactly and nothing else: "HEY! We’re looking" / "for women under 30" / "who’ve struggled" / "with acne and want" / "to clear their skin" / "— for good."
+Do not draw: competitor branding, capsules, pills, powder, jar, bottle, disease names, drug names, medical claims, extra text, extra icons, or any layout changes.

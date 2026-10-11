@@ -1,0 +1,13 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
+Changes: the hair oil bottle → our Edenvia pouch, same spot and size. The dropper → a clear glass of water with one white effervescent tablet fizzing. The grey thumbs-down → a puffy ankle/leg icon with swollen lower legs. The orange brand colour → Edenvia blue (#1468DB). Persons become our avatar: a woman 40–55 with heavy, swollen, puffy legs and ankles, hiding her legs, sock marks, boots won’t zip, tired by 5 p.m.
+Text, exactly and nothing else:
+"SOCIAL MEDIA HYPE"
+"CLINICALLY PROVEN"
+"Doesn’t address the root cause of heavy, swollen legs"
+"Little clinical proof, just social media hype"
+"Greasy, messy and time consuming"
+"Blocks inflammation: supports drainage and water retention"
+"8 PPM helps reduce oxidative stress in the tissue"
+"Easy to stay consistent, one tablet in a glass of water"
+What not to draw: no bottle, no dropper, no capsule, no pill, no powder, no jar, no competitor name, no disease name, no drug name, no hot water, no medical claims beyond the allowed wording.

@@ -1,0 +1,9 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
+Changes: the cake/eating scene → our avatar, a woman 40–55 with heavy, swollen, puffy legs and ankles, hiding her legs; same emotional shame pose. The product box → the Edenvia pouch same spot and size. The grapes/green accents → Edenvia blue (#1468DB) and ice blue (#EAF1F9). The phone/app → a simple hydration/antioxidant support visual, no brand competitor. Keep the same rounded cards and clean studio feel.
+Text, exactly and nothing else:
+"We’re sorry"
+"You felt ashamed at the office birthday morning tea for having heavy, swollen legs."
+"Edenvia treats patients with long-term care, grounded in science and compassion."
+"Get lighter legs without judgement →"
+Do not draw capsules, pills, powder, bottles, jars, medical devices, disease names, or competitor branding.

@@ -1,0 +1,9 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
+Changes: the DHT villain → a dark round “WATER RETENTION” character with angry face, standing center; the hair follicle character → a 40–55 woman with heavy, swollen, puffy legs and ankles hiding them; the broccoli/carrot/tomato side characters → subtle soft grey fluid/drainage icons; the red/orange accent → Edenvia blue (#1468DB); the whole scene keeps the same clean 2D cartoon ad style and composition.
+Text, exactly and nothing else:
+"Edenvia is literally" / "lighter legs by evening"
+"By age 50, over 40% of women experience visible leg heaviness." / "Most think it’s ‘just part of aging.’"
+"Actually, it’s caused by a drop in cellular drainage support during oxidative stress that leaves you unprotected from inflammation."
+"Luckily, there is a natural solution that helps balance antioxidants and reduce water retention once and for all."
+Do not draw: any medical device, capsule, pill, powder, bottle, jar, disease name, competitor name, hot water, extra text, or any product other than the Edenvia pouch.

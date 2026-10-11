@@ -1,0 +1,12 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.  
+Changes: the strip on the nose → one white effervescent tablet in a clear glass of water, fizzing; the woman’s face/skin → a 40–55 woman with heavy, swollen, puffy legs and ankles implied in the body framing, hiding her legs, no bathroom runs; the brand/logo → Edenvia atom icon and wordmark; the warm brown tones → Edenvia blue #1468DB, navy #14488F, deep navy #172A54, ice blue #EAF1F9.  
+Text, exactly and nothing else:  
+"THE BEST LEGS YOU EVER HAD"  
+"Improves" / "Fluid Drainage"  
+"Stops" / "Sock Marks"  
+"Redefines" / "Ankles"  
+"Lightens" / "By Evening"  
+"Improves" / "Daily Comfort"  
+"THE EDENVIA TABLET"  
+"Edenvia"  
+Do not draw: capsules, pills, powder, bottle, jar, competitor names, disease names, drug names, hot water, extra objects, extra text, or any layout changes.

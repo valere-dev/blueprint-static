@@ -1,0 +1,6 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
+Changes: the split anatomy woman → a 40–55 woman with heavy, swollen, puffy legs and ankles, one side clean skin and one side exposed internal tissue, same pose; the product bag in hands → Edenvia pouch same spot and size; the brand accent color → Edenvia blue (#1468DB); keep the clean cream background, same bold typography and right-side text block. Make the avatar look tired, self-conscious, legs hidden/pressed together, boots won’t zip, sock marks implied.
+Text, exactly and nothing else:
+"Your legs depend on 6" / "factors working together." / "Edenvia supports" / "water retention support" / "Heavy, swollen legs, ankles." / "Drainage support the medicine skips." / "GET 1 MONTH FREE" / "+ 4 FREE GIFTS"
+Do not draw: competitor names, capsules, pills, powder, bottles, jars, medical claims, disease names, hot water, extra graphics, extra text, or layout changes.

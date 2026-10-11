@@ -1,0 +1,8 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.  
+Changes: the five pouch stack → Edenvia pouch stack with the center pouch largest in the same spot and size; the red background/accent → Edenvia blue #1468DB and navy/deep navy gradient; the product pack art → white fading to sky blue stand-up resealable pouch with atom logo; keep the same bold sale-card composition and centered retail layout.  
+Text, exactly and nothing else:  
+"BUY 3"  
+"GET 2 FREE"  
+"LAST CHANCE"  
+"Shop The 50% Off Sale"  
+Do not draw garlic, softgels, bottles, jars, capsules, pills, powders, competitor branding, disease names, medical claims, extra props, or extra text.

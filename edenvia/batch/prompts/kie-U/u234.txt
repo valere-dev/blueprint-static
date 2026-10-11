@@ -1,0 +1,6 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
+Changes: keep the hand-drawn bad-drawing style and simple white background; replace the left-side “before” bad doodle face with a 40–55 woman showing heavy, swollen, puffy legs and ankles, seated or standing awkwardly, hiding her legs; replace the right-side “now” doodle with the same woman looking relieved, slimmer ankles, lighter legs by evening; replace the pore/acne icons with simple line doodles of swollen legs/ankles and a happy leg/ankle; use Edenvia blue (#1468DB) for the “now” side accent, keeping the same rough marker look.
+Text, exactly and nothing else:
+"me" / "before" / "heavy swollen legs" / "7-year water retention nightmare" / "me" / "now" / "lighter legs by evening" / "slimmer ankles" / "Get your now and save 35%!"
+Do not draw any capsule, pill, powder, bottle, jar, clinic scene, competitor branding, disease name, or medical illustration; no extra text.

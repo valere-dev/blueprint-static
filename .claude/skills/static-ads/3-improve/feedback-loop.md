@@ -19,9 +19,9 @@ review page ──► reviewer records a Loom (ad by ad, says the S number)
 
 ```bash
 cd $SAC_WORKDIR
-bash /root/claude-vault/skills/static-ads/scripts/ingest_loom.sh "<loom url>" s5     # yt-dlp + mr-transcribe (OpenAI API)
+bash $SKILL/scripts/ingest_loom.sh "<loom url>" s5     # yt-dlp + scripts/transcribe.py (OpenAI Whisper API, R15)
 ```
-- Transcription = `mr-transcribe` (OpenAI whisper-1 API, ~$0.006/min). Never local whisper on the VPS (it saturated the server for 3 days in Sept 2026).
+- Transcription = `scripts/transcribe.py` (OpenAI whisper-1 API, ~$0.006/min; replaces `mr-transcribe`, R15). Transcript lines are `MM:SS  text`. Never local whisper on the VPS (it saturated the server for 3 days in Sept 2026).
 - If the reviewer pastes the video file or a transcript, save it as `feedback/loom-<id>.txt` the same way.
 - After transcription, the mp4 is heavy media: archive it (`mr-archive push`) or delete it once the transcript is verified; the `.txt` stays.
 - Read the transcript **in full**, in the main context (never delegate the reading of a review: nuance is the whole point).

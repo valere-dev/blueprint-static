@@ -49,7 +49,8 @@ def web(src, name):
     """webp thumbnail (900px) for pages; full PNGs stay linked at full resolution."""
     d = f"{C.PAGES}/ex/web"; os.makedirs(d, exist_ok=True); o = f"{d}/{name}.webp"
     if not os.path.exists(o) or os.path.getmtime(o) < os.path.getmtime(src):
-        subprocess.run(["convert", src, "-resize", "900x900>", "-quality", "78", o], check=True)
+        from PIL import Image   # PIL instead of ImageMagick `convert` (not installed on nutraflow1, no root — 2026-10-11)
+        im = Image.open(src).convert("RGB"); im.thumbnail((900, 900)); im.save(o, "WEBP", quality=78)
     return f"ex/web/{name}.webp"
 
 

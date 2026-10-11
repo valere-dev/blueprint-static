@@ -1,0 +1,35 @@
+IMAGE 1 = product reference: the EDENVIA Molecular Hydrogen tablet pouch. Reproduce it exactly as in Image 1: a stand-up resealable pouch with a zip seal, white at the top fading to sky blue at the bottom, covered in fine water droplets; at the top the Edenvia atom icon next to the bold italic wordmark Edenvia in dark navy; below it MOLECULAR in navy capitals, then HYDROGEN in very large bold navy capitals; then GENERATES 8PPM OF HYDROGEN PER TABLET; then two lines CONSUME DAILY ANTIOXIDANTS AND / EXHIBIT HEALTHIER, IMPROVED LIVING; near the bottom DIETARY SUPPLEMENT over a thin rule, then 30 TABLETS | 30 DAY SUPPLY. Real proportions, real 3D object with contact shadow and the scene's light.
+IMAGE 2 = the template ad to clone 1:1: same layout, composition, render style, palette, typography treatment, spacing and the SAME AMOUNT OF TEXT.
+
+PIXEL INVENTORY (KEEP / SWAP — follow exactly):
+- SWAP person_left: Pixar woman ~30, long dark hair, grey T-shirt and grey sweatpants, sad → Pixar woman 45–50, same face as the right one, hair tied back, grey T-shirt and grey capri leggings so the swollen calves and thick ankles show, sad, standing heavy (avatar age + body part visible (A11, C1))
+- SWAP person_right: Pixar woman, white blouse, black pencil skirt, smiling → the same woman, white blouse, knee-length skirt, slim calves and ankles, heeled sandals, smiling (before/after stays before/after; proud proof = legs in the open)
+- SWAP header_left: 'What comes with' + 'OZ3MP!C' leet → 'What comes with' + 'ANOTHER D!ET' (the leet trick kept on our rival (A21))
+- SWAP header_right: 'What comes with' + 'BIOMA' → 'What comes with' + 'EDENVIA' (brand slot)
+- SWAP left_lines: 4 lines: needles, side effects, bill, weight comes back → 4 lines in our words (same count, same rhythm)
+- SWAP right_lines: 4 lines: '2 … a day' / Food noise: GONE / Flatter belly, less bloat / 'Lost 24 lbs!' → 4 lines: 1 tablet in a glass of water / Puffiness: GONE / Lighter legs, slimmer ankles / 'My boots zip again!' (same formula incl. 'X: GONE' and the quoted proof line)
+- SWAP background: black left, purple gradient right → black left, Edenvia blue gradient right (#1468DB → #0A1327) (brand colour slot)
+- KEEP product_spot: none (C6: template has no product)
+- KEEP logo: none (no logo slot)
+
+TEMPLATE DNA: Pixar woman ~30 in sweatpants (hides nothing: their problem is appetite) → the same Pixar woman at 45–50 in capri leggings so the swollen calves and thick ankles show; pencil skirt → knee-length skirt with slim calves on show; 'OZ3MP!C' → 'ANOTHER D!ET'; 'BIOMA' → 'EDENVIA'; purple → Edenvia blue; needles/food-noise lines → heavy-legs lines.
+SCENE LOGIC: no scene, studio gradient; ours keeps the split and the two characters, legs visible because the problem lives there
+PRODUCT PLACEMENT (copy the template): none — like the template
+
+CHANGES (visual): Pixar-style 3D render, big expressive eyes, soft studio light, NOT photoreal, exactly the template's split: LEFT half black studio fading to grey at the floor, RIGHT half an Edenvia blue gradient (#1468DB fading down to #0A1327). The same woman twice, standing full length, feet in frame: LEFT a woman of 45–50 with a soft midlife build, hair tied back, grey T-shirt and grey capri leggings so her visibly swollen, heavy calves and thick puffy ankles show, standing heavy, sad; RIGHT the same face and hair, a white blouse and a knee-length black skirt, slim calves and defined ankles, heeled sandals, smiling. Headers above each character: 'What comes with' in white rounded bold, under it the rival/brand name in a chunky cartoon display font with a dark outline; four short white lines beside the legs on each side with a soft shadow. NO product (the template has none). Do NOT draw: no needles, no drug imagery, no young slim character on the left (same 45-year-old face on both sides), no belly focus — the legs are the subject; do NOT copy the template's person. Product truth: one effervescent tablet dropped in a glass of clear water, never hot water. PILLARBOX (mandatory): the canvas is 2:3 but the finished ad is a 9:16 Story. Keep the LEFT 10% and the RIGHT 10% of the canvas as plain background of the half they belong to (black / blue, or cream) with NOTHING in them. Every text line is short, centred in its half, and ends well before the edge: all text and both characters fit entirely inside the central 80% of the canvas width.
+
+TEXT (exactly, nothing else):
+- Header_left_1: "What comes with"
+- Header_left_2: "ANOTHER D!ET"
+- Left_1: "Hungry all day"
+- Left_2: "Legs still heavy by 5 p.m."
+- Left_3: "Scale moves, swelling doesn't"
+- Left_4: "Puffiness back the week you stop"
+- Header_right_1: "What comes with"
+- Header_right_2: "EDENVIA"
+- Right_1: "1 tablet in a glass of water"
+- Right_2: "Puffiness: GONE"
+- Right_3: "Lighter legs, slimmer ankles"
+- Right_4: "“My boots zip again!”"
+
+USE CASE + CONSTRAINTS: Meta ad in the TEMPLATE'S OWN FORMAT (D15: a square stays 1:1, 4:5 stays 4:5, a 9:16 Story stays 9:16), agency-grade; keep the template's spacing between text blocks. Render ONLY the listed text, spelled exactly, once — nothing added. Nothing from the template's product world may remain (product, brand, logo, flavor, packaging). Anatomically correct, adults over 25. CRITICAL: the EDENVIA pouch, when present, is an exact replica of Image 1. Leave every brand-logo spot outside the label EMPTY (plain background, no icon, no letters) — the official logo is pasted there by script afterwards.

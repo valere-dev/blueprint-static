@@ -500,6 +500,7 @@ Known collisions and their resolution are listed at the end ("Resolved conflicts
 
 ### D15 — Output format: width 1080, the template's format — added from Oct08 Loom
 **Rule:** Every finished ad is 1080 px wide. Square template → 1080×1080. Story/TikTok template (9:16) → 1080×1920 and it stays a Story. 4:5 → 1080×1350. Any other ratio → the template's ratio at 1080 wide. A template within 3 % of a standard ratio snaps to it. Get the size by cropping/resizing the 2K master — never regenerate for size.
+**Refinement (Edenvia batch 01, 2026-10-11):** gpt-image-2 renders only 1:1, 2:3 or 3:2, and it does NOT obey letterbox/pillarbox notes in the prompt (S1, S4, S8, S10: badge, headline or side text cut by the crop, twice). When the smart crop of the 2:3 master would cut content, finish the ad by EXTENDING the background instead (edge rows/columns replicated: `edenvia/batch/pad_fit.py`) — never a stretch, never a regeneration for size. srun.py keeps every uncropped master in `out/_raw/` for that purpose.
 **Evidence:** Oct08 Loom (format note for all ads, now and future). Check run on the 10 Oct08 finals: all already at 1080×1080 / 1080×1350 / 1080×1920.
 **Enforced:** `adformat.py` (target_size / fit / check) called by the runner after every generation and by the compositor before drawing (oct08 orun.py + ocomp.py; skill `scripts/srun.py` + `scripts/composite.py`).
 
@@ -626,6 +627,7 @@ Known collisions and their resolution are listed at the end ("Resolved conflicts
 - **R12** Same amount of text as the template (= B1).
 - **R13** Speak the customer's problem, not the product (= B2, B3, B4).
 - **R14** Keep the winner's mechanism: same angle → their words; cheeky stays cheeky; known reference → one he knows (= A6, A4, B17).
+- **R15** Loom transcription = the OpenAI Whisper API through `scripts/transcribe.py` (whisper-1, timecoded `MM:SS  text` lines into `feedback/loom-<id>.txt`), called by `scripts/ingest_loom.sh`. Same output and same next step as the old `mr-transcribe`. Never local whisper on the VPS (it saturated the server for 3 days in Sept 2026). Added 2026-10-11 on nutraflow1 (Edenvia), where `mr-transcribe` and `yt-dlp` were missing; tooling = `pip install --user yt-dlp openai` (VPS-SETUP.md §5).
 
 ---
 

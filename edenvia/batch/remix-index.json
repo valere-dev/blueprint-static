@@ -1,0 +1,3616 @@
+{
+ "source": "/srv/blueprint/external-wildhorn/remix",
+ "files": 1106,
+ "run1_by_family": [
+  {
+   "num": 1,
+   "cid": "c0021",
+   "family_id": "c1",
+   "family": "US vs THEM / comparison",
+   "files": [
+    "c0021_v1_concept.jpg",
+    "c0021_v1_prompt.txt",
+    "c0021_v1_v1.png",
+    "c0021_v2_concept.jpg",
+    "c0021_v2_prompt.txt",
+    "c0021_v2_v1.png"
+   ]
+  },
+  {
+   "num": 2,
+   "cid": "c0138",
+   "family_id": "c1",
+   "family": "US vs THEM / comparison",
+   "files": [
+    "c0138_v1_concept.png",
+    "c0138_v1_prompt.txt",
+    "c0138_v1_v1.png",
+    "c0138_v1_v2.png",
+    "c0138_v2_concept.png",
+    "c0138_v2_prompt.txt",
+    "c0138_v2_v1.png"
+   ]
+  },
+  {
+   "num": 3,
+   "cid": "c0178",
+   "family_id": "c1",
+   "family": "US vs THEM / comparison",
+   "files": [
+    "c0178_v1_concept.jpg",
+    "c0178_v1_prompt.txt",
+    "c0178_v1_v1.png",
+    "c0178_v2_concept.jpg",
+    "c0178_v2_prompt.txt",
+    "c0178_v2_v1.png"
+   ]
+  },
+  {
+   "num": 4,
+   "cid": "c0183",
+   "family_id": "c1",
+   "family": "US vs THEM / comparison",
+   "files": [
+    "c0183_concept.png",
+    "c0183_prompt.txt",
+    "c0183_v1.png"
+   ]
+  },
+  {
+   "num": 5,
+   "cid": "c0192",
+   "family_id": "c1",
+   "family": "US vs THEM / comparison",
+   "files": [
+    "c0192_concept.png",
+    "c0192_prompt.txt",
+    "c0192_v1.png"
+   ]
+  },
+  {
+   "num": 6,
+   "cid": "c0196",
+   "family_id": "c1",
+   "family": "US vs THEM / comparison",
+   "files": [
+    "c0196_v1_concept.png",
+    "c0196_v1_prompt.txt",
+    "c0196_v1_v1.png",
+    "c0196_v1_v2.png",
+    "c0196_v2_concept.png",
+    "c0196_v2_prompt.txt",
+    "c0196_v2_v1.png"
+   ]
+  },
+  {
+   "num": 7,
+   "cid": "c0233",
+   "family_id": "c1",
+   "family": "US vs THEM / comparison",
+   "files": [
+    "c0233_concept.jpg",
+    "c0233_prompt.txt",
+    "c0233_v1.png"
+   ]
+  },
+  {
+   "num": 8,
+   "cid": "c0259",
+   "family_id": "c1",
+   "family": "US vs THEM / comparison",
+   "files": [
+    "c0259_concept.jpg",
+    "c0259_prompt.txt",
+    "c0259_v1.png"
+   ]
+  },
+  {
+   "num": 9,
+   "cid": "c0310",
+   "family_id": "c1",
+   "family": "US vs THEM / comparison",
+   "files": [
+    "c0310_concept.jpg",
+    "c0310_prompt.txt",
+    "c0310_v1.png"
+   ]
+  },
+  {
+   "num": 10,
+   "cid": "c0376",
+   "family_id": "c1",
+   "family": "US vs THEM / comparison",
+   "files": [
+    "c0376_v1_concept.jpg",
+    "c0376_v1_prompt.txt",
+    "c0376_v1_v1.png",
+    "c0376_v1_v2.png",
+    "c0376_v2_concept.jpg",
+    "c0376_v2_prompt.txt",
+    "c0376_v2_v1.png"
+   ]
+  },
+  {
+   "num": 11,
+   "cid": "c0126",
+   "family_id": "c2",
+   "family": "Before-after / timeline",
+   "files": [
+    "c0126_concept.jpg",
+    "c0126_prompt.txt",
+    "c0126_v1.png",
+    "c0126_v2.png",
+    "c0126_v3.png"
+   ]
+  },
+  {
+   "num": 12,
+   "cid": "c0193",
+   "family_id": "c2",
+   "family": "Before-after / timeline",
+   "files": [
+    "c0193_concept.png",
+    "c0193_prompt.txt",
+    "c0193_v1.png"
+   ]
+  },
+  {
+   "num": 13,
+   "cid": "c0228",
+   "family_id": "c2",
+   "family": "Before-after / timeline",
+   "files": [
+    "c0228_concept.jpg",
+    "c0228_prompt.txt",
+    "c0228_v1.png"
+   ]
+  },
+  {
+   "num": 14,
+   "cid": "c0325",
+   "family_id": "c2",
+   "family": "Before-after / timeline",
+   "files": [
+    "c0325_concept.jpg",
+    "c0325_prompt.txt",
+    "c0325_v1.png"
+   ]
+  },
+  {
+   "num": 15,
+   "cid": "c0330",
+   "family_id": "c2",
+   "family": "Before-after / timeline",
+   "files": [
+    "c0330_concept.jpg",
+    "c0330_prompt.txt",
+    "c0330_v1.png"
+   ]
+  },
+  {
+   "num": 16,
+   "cid": "c0331",
+   "family_id": "c2",
+   "family": "Before-after / timeline",
+   "files": [
+    "c0331_concept.jpg",
+    "c0331_prompt.txt",
+    "c0331_v1.png"
+   ]
+  },
+  {
+   "num": 17,
+   "cid": "c0379",
+   "family_id": "c2",
+   "family": "Before-after / timeline",
+   "files": [
+    "c0379_concept.jpg",
+    "c0379_prompt.txt",
+    "c0379_v1.png"
+   ]
+  },
+  {
+   "num": 18,
+   "cid": "c0381",
+   "family_id": "c2",
+   "family": "Before-after / timeline",
+   "files": [
+    "c0381_concept.jpg",
+    "c0381_prompt.txt",
+    "c0381_v1.png",
+    "c0381_v2.png"
+   ]
+  },
+  {
+   "num": 19,
+   "cid": "c0039",
+   "family_id": "c3",
+   "family": "Problem reframe (X is not the problem)",
+   "files": [
+    "c0039_concept.png",
+    "c0039_prompt.txt",
+    "c0039_v1.png",
+    "c0039_v2.png",
+    "c0039_v3.png"
+   ]
+  },
+  {
+   "num": 20,
+   "cid": "c0113",
+   "family_id": "c3",
+   "family": "Problem reframe (X is not the problem)",
+   "files": [
+    "c0113_concept.png",
+    "c0113_prompt.txt",
+    "c0113_v1.png",
+    "c0113_v2.png",
+    "c0113_v3.png"
+   ]
+  },
+  {
+   "num": 21,
+   "cid": "c0118",
+   "family_id": "c3",
+   "family": "Problem reframe (X is not the problem)",
+   "files": [
+    "c0118_concept.png",
+    "c0118_prompt.txt",
+    "c0118_v1.png",
+    "c0118_v2.png",
+    "c0118_v3.png"
+   ]
+  },
+  {
+   "num": 22,
+   "cid": "c0128",
+   "family_id": "c3",
+   "family": "Problem reframe (X is not the problem)",
+   "files": [
+    "c0128_concept.jpg",
+    "c0128_prompt.txt",
+    "c0128_v1.png",
+    "c0128_v2.png",
+    "c0128_v3.png"
+   ]
+  },
+  {
+   "num": 23,
+   "cid": "c0157",
+   "family_id": "c3",
+   "family": "Problem reframe (X is not the problem)",
+   "files": [
+    "c0157_concept.png",
+    "c0157_prompt.txt",
+    "c0157_v1.png"
+   ]
+  },
+  {
+   "num": 24,
+   "cid": "c0198",
+   "family_id": "c3",
+   "family": "Problem reframe (X is not the problem)",
+   "files": [
+    "c0198_concept.png",
+    "c0198_prompt.txt",
+    "c0198_v1.png"
+   ]
+  },
+  {
+   "num": 25,
+   "cid": "c0234",
+   "family_id": "c3",
+   "family": "Problem reframe (X is not the problem)",
+   "files": [
+    "c0234_concept.jpg",
+    "c0234_prompt.txt",
+    "c0234_v1.png"
+   ]
+  },
+  {
+   "num": 26,
+   "cid": "c0245",
+   "family_id": "c3",
+   "family": "Problem reframe (X is not the problem)",
+   "files": [
+    "c0245_concept.jpg",
+    "c0245_prompt.txt",
+    "c0245_v1.png",
+    "c0245_v2.png"
+   ]
+  },
+  {
+   "num": 27,
+   "cid": "c0182",
+   "family_id": "c4",
+   "family": "Mechanism / anatomy / ingredients",
+   "files": [
+    "c0182_concept.png",
+    "c0182_prompt.txt",
+    "c0182_v1.png"
+   ]
+  },
+  {
+   "num": 28,
+   "cid": "c0190",
+   "family_id": "c4",
+   "family": "Mechanism / anatomy / ingredients",
+   "files": [
+    "c0190_concept.png",
+    "c0190_prompt.txt",
+    "c0190_v1.png"
+   ]
+  },
+  {
+   "num": 29,
+   "cid": "c0235",
+   "family_id": "c4",
+   "family": "Mechanism / anatomy / ingredients",
+   "files": [
+    "c0235_concept.jpg",
+    "c0235_prompt.txt",
+    "c0235_v1.png"
+   ]
+  },
+  {
+   "num": 30,
+   "cid": "c0243",
+   "family_id": "c4",
+   "family": "Mechanism / anatomy / ingredients",
+   "files": [
+    "c0243_concept.jpg",
+    "c0243_prompt.txt",
+    "c0243_v1.png"
+   ]
+  },
+  {
+   "num": 31,
+   "cid": "c0249",
+   "family_id": "c4",
+   "family": "Mechanism / anatomy / ingredients",
+   "files": [
+    "c0249_concept.jpg",
+    "c0249_prompt.txt",
+    "c0249_v1.png"
+   ]
+  },
+  {
+   "num": 32,
+   "cid": "c0251",
+   "family_id": "c4",
+   "family": "Mechanism / anatomy / ingredients",
+   "files": [
+    "c0251_concept.jpg",
+    "c0251_prompt.txt",
+    "c0251_v1.png"
+   ]
+  },
+  {
+   "num": 33,
+   "cid": "c0068",
+   "family_id": "c5",
+   "family": "Origin / ranch / real food",
+   "files": [
+    "c0068_concept.png",
+    "c0068_prompt.txt",
+    "c0068_v1.png",
+    "c0068_v2.png",
+    "c0068_v3.png"
+   ]
+  },
+  {
+   "num": 34,
+   "cid": "c0152",
+   "family_id": "c5",
+   "family": "Origin / ranch / real food",
+   "files": [
+    "c0152_concept.png",
+    "c0152_prompt.txt",
+    "c0152_v1.png"
+   ]
+  },
+  {
+   "num": 35,
+   "cid": "c0153",
+   "family_id": "c5",
+   "family": "Origin / ranch / real food",
+   "files": [
+    "c0153_concept.png",
+    "c0153_prompt.txt",
+    "c0153_v1.png"
+   ]
+  },
+  {
+   "num": 36,
+   "cid": "c0154",
+   "family_id": "c5",
+   "family": "Origin / ranch / real food",
+   "files": [
+    "c0154_concept.png",
+    "c0154_prompt.txt",
+    "c0154_v1.png"
+   ]
+  },
+  {
+   "num": 37,
+   "cid": "c0188",
+   "family_id": "c5",
+   "family": "Origin / ranch / real food",
+   "files": [
+    "c0188_concept.png",
+    "c0188_prompt.txt",
+    "c0188_v1.png"
+   ]
+  },
+  {
+   "num": 38,
+   "cid": "c0189",
+   "family_id": "c5",
+   "family": "Origin / ranch / real food",
+   "files": [
+    "c0189_concept.png",
+    "c0189_prompt.txt",
+    "c0189_v1.png"
+   ]
+  },
+  {
+   "num": 39,
+   "cid": "c0221",
+   "family_id": "c5",
+   "family": "Origin / ranch / real food",
+   "files": [
+    "c0221_concept.jpg",
+    "c0221_prompt.txt",
+    "c0221_v1.png"
+   ]
+  },
+  {
+   "num": 40,
+   "cid": "c0380",
+   "family_id": "c5",
+   "family": "Origin / ranch / real food",
+   "files": [
+    "c0380_concept.jpg",
+    "c0380_prompt.txt",
+    "c0380_v1.png"
+   ]
+  },
+  {
+   "num": 41,
+   "cid": "c0124",
+   "family_id": "c6",
+   "family": "Offer / bundle / price",
+   "files": [
+    "c0124_concept.png",
+    "c0124_prompt.txt",
+    "c0124_v1.png",
+    "c0124_v2.png",
+    "c0124_v3.png"
+   ]
+  },
+  {
+   "num": 42,
+   "cid": "c0127",
+   "family_id": "c6",
+   "family": "Offer / bundle / price",
+   "files": [
+    "c0127_concept.jpg",
+    "c0127_prompt.txt",
+    "c0127_v1.png",
+    "c0127_v2.png",
+    "c0127_v3.png"
+   ]
+  },
+  {
+   "num": 43,
+   "cid": "c0158",
+   "family_id": "c6",
+   "family": "Offer / bundle / price",
+   "files": [
+    "c0158_concept.jpg",
+    "c0158_prompt.txt",
+    "c0158_v1.png"
+   ]
+  },
+  {
+   "num": 44,
+   "cid": "c0232",
+   "family_id": "c6",
+   "family": "Offer / bundle / price",
+   "files": [
+    "c0232_concept.jpg",
+    "c0232_prompt.txt",
+    "c0232_v1.png",
+    "c0232_v2.png"
+   ]
+  },
+  {
+   "num": 45,
+   "cid": "c0248",
+   "family_id": "c6",
+   "family": "Offer / bundle / price",
+   "files": [
+    "c0248_concept.jpg",
+    "c0248_prompt.txt",
+    "c0248_v1.png"
+   ]
+  },
+  {
+   "num": 46,
+   "cid": "c0317",
+   "family_id": "c6",
+   "family": "Offer / bundle / price",
+   "files": [
+    "c0317_concept.jpg",
+    "c0317_prompt.txt",
+    "c0317_v1.png"
+   ]
+  },
+  {
+   "num": 47,
+   "cid": "c0318",
+   "family_id": "c6",
+   "family": "Offer / bundle / price",
+   "files": [
+    "c0318_concept.jpg",
+    "c0318_prompt.txt",
+    "c0318_v1.png"
+   ]
+  },
+  {
+   "num": 48,
+   "cid": "c0319",
+   "family_id": "c6",
+   "family": "Offer / bundle / price",
+   "files": [
+    "c0319_concept.jpg",
+    "c0319_prompt.txt",
+    "c0319_v1.png"
+   ]
+  },
+  {
+   "num": 49,
+   "cid": "c0323",
+   "family_id": "c6",
+   "family": "Offer / bundle / price",
+   "files": [
+    "c0323_concept.jpg",
+    "c0323_prompt.txt",
+    "c0323_v1.png"
+   ]
+  },
+  {
+   "num": 50,
+   "cid": "c0327",
+   "family_id": "c6",
+   "family": "Offer / bundle / price",
+   "files": [
+    "c0327_concept.jpg",
+    "c0327_prompt.txt",
+    "c0327_v1.png"
+   ]
+  },
+  {
+   "num": 51,
+   "cid": "c0335",
+   "family_id": "c6",
+   "family": "Offer / bundle / price",
+   "files": [
+    "c0335_concept.jpg",
+    "c0335_prompt.txt",
+    "c0335_v1.png"
+   ]
+  },
+  {
+   "num": 52,
+   "cid": "c0164",
+   "family_id": "c7",
+   "family": "Bold claim + hero product",
+   "files": [
+    "c0164_concept.jpg",
+    "c0164_prompt.txt",
+    "c0164_v1.png"
+   ]
+  },
+  {
+   "num": 53,
+   "cid": "c0179",
+   "family_id": "c7",
+   "family": "Bold claim + hero product",
+   "files": [
+    "c0179_concept.png",
+    "c0179_prompt.txt",
+    "c0179_v1.png"
+   ]
+  },
+  {
+   "num": 54,
+   "cid": "c0181",
+   "family_id": "c7",
+   "family": "Bold claim + hero product",
+   "files": [
+    "c0181_concept.png",
+    "c0181_prompt.txt",
+    "c0181_v1.png"
+   ]
+  },
+  {
+   "num": 55,
+   "cid": "c0185",
+   "family_id": "c7",
+   "family": "Bold claim + hero product",
+   "files": [
+    "c0185_concept.png",
+    "c0185_prompt.txt",
+    "c0185_v1.png"
+   ]
+  },
+  {
+   "num": 56,
+   "cid": "c0191",
+   "family_id": "c7",
+   "family": "Bold claim + hero product",
+   "files": [
+    "c0191_concept.jpg",
+    "c0191_prompt.txt",
+    "c0191_v1.png"
+   ]
+  },
+  {
+   "num": 57,
+   "cid": "c0271",
+   "family_id": "c7",
+   "family": "Bold claim + hero product",
+   "files": [
+    "c0271_concept.jpg",
+    "c0271_prompt.txt",
+    "c0271_v1.png"
+   ]
+  },
+  {
+   "num": 58,
+   "cid": "c0326",
+   "family_id": "c7",
+   "family": "Bold claim + hero product",
+   "files": [
+    "c0326_concept.jpg",
+    "c0326_prompt.txt",
+    "c0326_v1.png"
+   ]
+  },
+  {
+   "num": 59,
+   "cid": "c0378",
+   "family_id": "c7",
+   "family": "Bold claim + hero product",
+   "files": [
+    "c0378_concept.jpg",
+    "c0378_prompt.txt",
+    "c0378_v1.png"
+   ]
+  },
+  {
+   "num": 60,
+   "cid": "c0384",
+   "family_id": "c7",
+   "family": "Bold claim + hero product",
+   "files": [
+    "c0384_concept.jpg",
+    "c0384_prompt.txt",
+    "c0384_v1.png"
+   ]
+  },
+  {
+   "num": 61,
+   "cid": "c0033",
+   "family_id": "c8",
+   "family": "Meme / humor / UGC",
+   "files": [
+    "c0033_concept.jpg",
+    "c0033_prompt.txt",
+    "c0033_v1.png",
+    "c0033_v2.png",
+    "c0033_v3.png"
+   ]
+  },
+  {
+   "num": 62,
+   "cid": "c0123",
+   "family_id": "c8",
+   "family": "Meme / humor / UGC",
+   "files": [
+    "c0123_prompt.txt",
+    "c0123_v1.png"
+   ]
+  },
+  {
+   "num": 63,
+   "cid": "c0135",
+   "family_id": "c8",
+   "family": "Meme / humor / UGC",
+   "files": [
+    "c0135_concept.jpg",
+    "c0135_prompt.txt",
+    "c0135_v1.png",
+    "c0135_v2.png"
+   ]
+  },
+  {
+   "num": 64,
+   "cid": "c0142",
+   "family_id": "c8",
+   "family": "Meme / humor / UGC",
+   "files": [
+    "c0142_concept.jpg",
+    "c0142_prompt.txt",
+    "c0142_v1.png",
+    "c0142_v2.png",
+    "c0142_v3.png"
+   ]
+  },
+  {
+   "num": 65,
+   "cid": "c0149",
+   "family_id": "c8",
+   "family": "Meme / humor / UGC",
+   "files": [
+    "c0149_prompt.txt",
+    "c0149_v1.png"
+   ]
+  },
+  {
+   "num": 66,
+   "cid": "c0174",
+   "family_id": "c8",
+   "family": "Meme / humor / UGC",
+   "files": [
+    "c0174_concept.png",
+    "c0174_prompt.txt",
+    "c0174_v1.png"
+   ]
+  },
+  {
+   "num": 67,
+   "cid": "c0194",
+   "family_id": "c8",
+   "family": "Meme / humor / UGC",
+   "files": [
+    "c0194_concept.png",
+    "c0194_prompt.txt",
+    "c0194_v1.png"
+   ]
+  },
+  {
+   "num": 68,
+   "cid": "c0264",
+   "family_id": "c8",
+   "family": "Meme / humor / UGC",
+   "files": [
+    "c0264_concept.jpg",
+    "c0264_prompt.txt",
+    "c0264_v1.png"
+   ]
+  },
+  {
+   "num": 69,
+   "cid": "c0305",
+   "family_id": "c8",
+   "family": "Meme / humor / UGC",
+   "files": [
+    "c0305_concept.jpg",
+    "c0305_prompt.txt",
+    "c0305_v1.png"
+   ]
+  },
+  {
+   "num": 70,
+   "cid": "c0382",
+   "family_id": "c8",
+   "family": "Meme / humor / UGC",
+   "files": [
+    "c0382_concept.jpg",
+    "c0382_prompt.txt",
+    "c0382_v1.png"
+   ]
+  },
+  {
+   "num": 71,
+   "cid": "c0143",
+   "family_id": "c9",
+   "family": "Off-avatar, re-skin last",
+   "files": [
+    "c0143_concept.jpg",
+    "c0143_prompt.txt",
+    "c0143_v1.png"
+   ]
+  },
+  {
+   "num": 72,
+   "cid": "c0165",
+   "family_id": "c9",
+   "family": "Off-avatar, re-skin last",
+   "files": [
+    "c0165_concept.png",
+    "c0165_prompt.txt",
+    "c0165_v1.png"
+   ]
+  },
+  {
+   "num": 73,
+   "cid": "c0180",
+   "family_id": "c9",
+   "family": "Off-avatar, re-skin last",
+   "files": [
+    "c0180_concept.png",
+    "c0180_prompt.txt",
+    "c0180_v1.png"
+   ]
+  },
+  {
+   "num": 74,
+   "cid": "c0227",
+   "family_id": "c9",
+   "family": "Off-avatar, re-skin last",
+   "files": [
+    "c0227_concept.jpg",
+    "c0227_prompt.txt",
+    "c0227_v1.png"
+   ]
+  },
+  {
+   "num": 75,
+   "cid": "c0252",
+   "family_id": "c9",
+   "family": "Off-avatar, re-skin last",
+   "files": [
+    "c0252_concept.jpg",
+    "c0252_prompt.txt",
+    "c0252_v1.png"
+   ]
+  },
+  {
+   "num": 76,
+   "cid": "c0253",
+   "family_id": "c9",
+   "family": "Off-avatar, re-skin last",
+   "files": [
+    "c0253_concept.jpg",
+    "c0253_prompt.txt",
+    "c0253_v1.png"
+   ]
+  },
+  {
+   "num": 77,
+   "cid": "c0262",
+   "family_id": "c9",
+   "family": "Off-avatar, re-skin last",
+   "files": [
+    "c0262_prompt.txt",
+    "c0262_v1.png"
+   ]
+  },
+  {
+   "num": 78,
+   "cid": "c0267",
+   "family_id": "c9",
+   "family": "Off-avatar, re-skin last",
+   "files": [
+    "c0267_concept.jpg",
+    "c0267_prompt.txt",
+    "c0267_v1.png"
+   ]
+  },
+  {
+   "num": 79,
+   "cid": "c0328",
+   "family_id": "c9",
+   "family": "Off-avatar, re-skin last",
+   "files": [
+    "c0328_prompt.txt",
+    "c0328_v1.png"
+   ]
+  }
+ ],
+ "batch_redos": [
+  {
+   "batch": "b2",
+   "num": 1,
+   "cid": "c0021",
+   "family_id": "c1",
+   "files": [
+    "b2_01_concept.jpg",
+    "b2_01_prompt.txt",
+    "b2_01_v1.png"
+   ]
+  },
+  {
+   "batch": "b2",
+   "num": 2,
+   "cid": "c0138",
+   "family_id": "c1",
+   "files": [
+    "b2_02_concept.png",
+    "b2_02_prompt.txt",
+    "b2_02_v1.png",
+    "b2_02_v2.png"
+   ]
+  },
+  {
+   "batch": "b2",
+   "num": 3,
+   "cid": "c0178",
+   "family_id": "c1",
+   "files": [
+    "b2_03_concept.jpg",
+    "b2_03_prompt.txt",
+    "b2_03_v1.png"
+   ]
+  },
+  {
+   "batch": "b2",
+   "num": 4,
+   "cid": "c0183",
+   "family_id": "c1",
+   "files": [
+    "b2_04_concept.png",
+    "b2_04_prompt.txt",
+    "b2_04_v1.png",
+    "b2_04_v2.png"
+   ]
+  },
+  {
+   "batch": "b2",
+   "num": 5,
+   "cid": "c0192",
+   "family_id": "c1",
+   "files": [
+    "b2_05_concept.png",
+    "b2_05_prompt.txt",
+    "b2_05_v1.png"
+   ]
+  },
+  {
+   "batch": "b2",
+   "num": 6,
+   "cid": "c0196",
+   "family_id": "c1",
+   "files": [
+    "b2_06_concept.png",
+    "b2_06_prompt.txt",
+    "b2_06_v1.png"
+   ]
+  },
+  {
+   "batch": "b2",
+   "num": 7,
+   "cid": "c0233",
+   "family_id": "c1",
+   "files": [
+    "b2_07_concept.jpg",
+    "b2_07_prompt.txt",
+    "b2_07_v1.png"
+   ]
+  },
+  {
+   "batch": "b2",
+   "num": 8,
+   "cid": "c0259",
+   "family_id": "c1",
+   "files": [
+    "b2_08_concept.jpg",
+    "b2_08_prompt.txt",
+    "b2_08_v1.png"
+   ]
+  },
+  {
+   "batch": "b2",
+   "num": 9,
+   "cid": "c0310",
+   "family_id": "c1",
+   "files": [
+    "b2_09_concept.jpg",
+    "b2_09_prompt.txt",
+    "b2_09_v1.png"
+   ]
+  },
+  {
+   "batch": "b2",
+   "num": 10,
+   "cid": "c0376",
+   "family_id": "c1",
+   "files": [
+    "b2_10_concept.jpg",
+    "b2_10_prompt.txt",
+    "b2_10_v1.png",
+    "b2_10_v2.png"
+   ]
+  },
+  {
+   "batch": "b2",
+   "num": 11,
+   "cid": "c0126",
+   "family_id": "c2",
+   "files": [
+    "b2_11_concept.jpg",
+    "b2_11_prompt.txt",
+    "b2_11_v1.png"
+   ]
+  },
+  {
+   "batch": "b2",
+   "num": 12,
+   "cid": "c0193",
+   "family_id": "c2",
+   "files": [
+    "b2_12_concept.png",
+    "b2_12_prompt.txt",
+    "b2_12_v1.png"
+   ]
+  },
+  {
+   "batch": "b2",
+   "num": 13,
+   "cid": "c0228",
+   "family_id": "c2",
+   "files": [
+    "b2_13_concept.jpg",
+    "b2_13_prompt.txt",
+    "b2_13_v1.png",
+    "b2_13_v2.png"
+   ]
+  },
+  {
+   "batch": "b2",
+   "num": 14,
+   "cid": "c0325",
+   "family_id": "c2",
+   "files": [
+    "b2_14_concept.jpg",
+    "b2_14_prompt.txt",
+    "b2_14_v1.png"
+   ]
+  },
+  {
+   "batch": "b2",
+   "num": 15,
+   "cid": "c0330",
+   "family_id": "c2",
+   "files": [
+    "b2_15_concept.jpg",
+    "b2_15_prompt.txt",
+    "b2_15_v1.png"
+   ]
+  },
+  {
+   "batch": "b2",
+   "num": 16,
+   "cid": "c0331",
+   "family_id": "c2",
+   "files": [
+    "b2_16_concept.jpg",
+    "b2_16_prompt.txt",
+    "b2_16_v1.png"
+   ]
+  },
+  {
+   "batch": "b2",
+   "num": 17,
+   "cid": "c0379",
+   "family_id": "c2",
+   "files": [
+    "b2_17_concept.jpg",
+    "b2_17_prompt.txt",
+    "b2_17_v1.png"
+   ]
+  },
+  {
+   "batch": "b2",
+   "num": 18,
+   "cid": "c0381",
+   "family_id": "c2",
+   "files": [
+    "b2_18_concept.jpg",
+    "b2_18_prompt.txt",
+    "b2_18_v1.png"
+   ]
+  },
+  {
+   "batch": "b2",
+   "num": 19,
+   "cid": "c0039",
+   "family_id": "c3",
+   "files": [
+    "b2_19_concept.png",
+    "b2_19_prompt.txt",
+    "b2_19_v1.png"
+   ]
+  },
+  {
+   "batch": "b2",
+   "num": 20,
+   "cid": "c0113",
+   "family_id": "c3",
+   "files": [
+    "b2_20_concept.png",
+    "b2_20_prompt.txt",
+    "b2_20_v1.png"
+   ]
+  },
+  {
+   "batch": "b3",
+   "num": 2,
+   "cid": "c0138",
+   "family_id": "c1",
+   "files": [
+    "b3_02_concept.png",
+    "b3_02_prompt.txt",
+    "b3_02_v1.png"
+   ]
+  },
+  {
+   "batch": "b3",
+   "num": 6,
+   "cid": "c0196",
+   "family_id": "c1",
+   "files": [
+    "b3_06_concept.png",
+    "b3_06_prompt.txt",
+    "b3_06_v1.png"
+   ]
+  },
+  {
+   "batch": "b3",
+   "num": 8,
+   "cid": "c0259",
+   "family_id": "c1",
+   "files": [
+    "b3_08_concept.jpg",
+    "b3_08_prompt.txt",
+    "b3_08_v1.png"
+   ]
+  },
+  {
+   "batch": "b3",
+   "num": 10,
+   "cid": "c0376",
+   "family_id": "c1",
+   "files": [
+    "b3_10_concept.jpg",
+    "b3_10_prompt.txt",
+    "b3_10_v1.png"
+   ]
+  },
+  {
+   "batch": "b3",
+   "num": 11,
+   "cid": "c0126",
+   "family_id": "c2",
+   "files": [
+    "b3_11_concept.jpg",
+    "b3_11_prompt.txt",
+    "b3_11_v1.png"
+   ]
+  },
+  {
+   "batch": "b3",
+   "num": 16,
+   "cid": "c0331",
+   "family_id": "c2",
+   "files": [
+    "b3_16_concept.jpg",
+    "b3_16_prompt.txt",
+    "b3_16_v1.png"
+   ]
+  },
+  {
+   "batch": "b3",
+   "num": 21,
+   "cid": "c0118",
+   "family_id": "c3",
+   "files": [
+    "b3_21_concept.png",
+    "b3_21_prompt.txt",
+    "b3_21_v1.png"
+   ]
+  },
+  {
+   "batch": "b3",
+   "num": 22,
+   "cid": "c0128",
+   "family_id": "c3",
+   "files": [
+    "b3_22_concept.jpg",
+    "b3_22_prompt.txt",
+    "b3_22_v1.png",
+    "b3_22_v2.png"
+   ]
+  },
+  {
+   "batch": "b3",
+   "num": 23,
+   "cid": "c0157",
+   "family_id": "c3",
+   "files": [
+    "b3_23_concept.png",
+    "b3_23_prompt.txt",
+    "b3_23_v1.png"
+   ]
+  },
+  {
+   "batch": "b3",
+   "num": 24,
+   "cid": "c0198",
+   "family_id": "c3",
+   "files": [
+    "b3_24_concept.png",
+    "b3_24_prompt.txt",
+    "b3_24_v1.png"
+   ]
+  },
+  {
+   "batch": "b3",
+   "num": 25,
+   "cid": "c0234",
+   "family_id": "c3",
+   "files": [
+    "b3_25_concept.jpg",
+    "b3_25_prompt.txt",
+    "b3_25_v1.png"
+   ]
+  },
+  {
+   "batch": "b3",
+   "num": 26,
+   "cid": "c0245",
+   "family_id": "c3",
+   "files": [
+    "b3_26_concept.jpg",
+    "b3_26_prompt.txt",
+    "b3_26_v1.png"
+   ]
+  },
+  {
+   "batch": "b3",
+   "num": 27,
+   "cid": "c0182",
+   "family_id": "c4",
+   "files": [
+    "b3_27_concept.png",
+    "b3_27_prompt.txt",
+    "b3_27_v1.png"
+   ]
+  },
+  {
+   "batch": "b3",
+   "num": 28,
+   "cid": "c0190",
+   "family_id": "c4",
+   "files": [
+    "b3_28_concept.png",
+    "b3_28_prompt.txt",
+    "b3_28_v1.png"
+   ]
+  },
+  {
+   "batch": "b3",
+   "num": 29,
+   "cid": "c0235",
+   "family_id": "c4",
+   "files": [
+    "b3_29_concept.jpg",
+    "b3_29_prompt.txt",
+    "b3_29_v1.png"
+   ]
+  },
+  {
+   "batch": "b3",
+   "num": 30,
+   "cid": "c0243",
+   "family_id": "c4",
+   "files": [
+    "b3_30_concept.jpg",
+    "b3_30_prompt.txt",
+    "b3_30_v1.png"
+   ]
+  },
+  {
+   "batch": "b4",
+   "num": 2,
+   "cid": "c0138",
+   "family_id": "c1",
+   "files": [
+    "b4_02_concept.png",
+    "b4_02_prompt.txt",
+    "b4_02_v1.png"
+   ]
+  },
+  {
+   "batch": "b4",
+   "num": 8,
+   "cid": "c0259",
+   "family_id": "c1",
+   "files": [
+    "b4_08_concept.jpg",
+    "b4_08_prompt.txt",
+    "b4_08_v1.png"
+   ]
+  },
+  {
+   "batch": "b4",
+   "num": 16,
+   "cid": "c0331",
+   "family_id": "c2",
+   "files": [
+    "b4_16_concept.jpg",
+    "b4_16_prompt.txt",
+    "b4_16_v1.png"
+   ]
+  },
+  {
+   "batch": "b4",
+   "num": 23,
+   "cid": "c0157",
+   "family_id": "c3",
+   "files": [
+    "b4_23_concept.png",
+    "b4_23_prompt.txt",
+    "b4_23_v1.png"
+   ]
+  },
+  {
+   "batch": "b4",
+   "num": 26,
+   "cid": "c0245",
+   "family_id": "c3",
+   "files": [
+    "b4_26_concept.jpg",
+    "b4_26_prompt.txt",
+    "b4_26_v1.png",
+    "b4_26_v2.png"
+   ]
+  },
+  {
+   "batch": "b4",
+   "num": 29,
+   "cid": "c0235",
+   "family_id": "c4",
+   "files": [
+    "b4_29_concept.jpg",
+    "b4_29_prompt.txt",
+    "b4_29_v1.png"
+   ]
+  },
+  {
+   "batch": "b4",
+   "num": 30,
+   "cid": "c0243",
+   "family_id": "c4",
+   "files": [
+    "b4_30_concept.jpg",
+    "b4_30_prompt.txt",
+    "b4_30_v1.png"
+   ]
+  },
+  {
+   "batch": "b4",
+   "num": 31,
+   "cid": "c0249",
+   "family_id": "c4",
+   "files": [
+    "b4_31_concept.jpg",
+    "b4_31_prompt.txt",
+    "b4_31_v1.png"
+   ]
+  },
+  {
+   "batch": "b4",
+   "num": 32,
+   "cid": "c0251",
+   "family_id": "c4",
+   "files": [
+    "b4_32_concept.jpg",
+    "b4_32_prompt.txt",
+    "b4_32_v1.png"
+   ]
+  },
+  {
+   "batch": "b4",
+   "num": 33,
+   "cid": "c0068",
+   "family_id": "c5",
+   "files": [
+    "b4_33_concept.png",
+    "b4_33_prompt.txt",
+    "b4_33_v1.png",
+    "b4_33_v2.png"
+   ]
+  },
+  {
+   "batch": "b4",
+   "num": 34,
+   "cid": "c0152",
+   "family_id": "c5",
+   "files": [
+    "b4_34_concept.png",
+    "b4_34_prompt.txt",
+    "b4_34_v1.png"
+   ]
+  },
+  {
+   "batch": "b4",
+   "num": 35,
+   "cid": "c0153",
+   "family_id": "c5",
+   "files": [
+    "b4_35_concept.png",
+    "b4_35_prompt.txt",
+    "b4_35_v1.png",
+    "b4_35_v2.png"
+   ]
+  },
+  {
+   "batch": "b4",
+   "num": 36,
+   "cid": "c0154",
+   "family_id": "c5",
+   "files": [
+    "b4_36_concept.png",
+    "b4_36_prompt.txt",
+    "b4_36_v1.png"
+   ]
+  },
+  {
+   "batch": "b4",
+   "num": 37,
+   "cid": "c0188",
+   "family_id": "c5",
+   "files": [
+    "b4_37_concept.png",
+    "b4_37_prompt.txt",
+    "b4_37_v1.png"
+   ]
+  },
+  {
+   "batch": "b4",
+   "num": 38,
+   "cid": "c0189",
+   "family_id": "c5",
+   "files": [
+    "b4_38_concept.png",
+    "b4_38_prompt.txt",
+    "b4_38_v1.png",
+    "b4_38_v2.png"
+   ]
+  },
+  {
+   "batch": "b4",
+   "num": 39,
+   "cid": "c0221",
+   "family_id": "c5",
+   "files": [
+    "b4_39_concept.jpg",
+    "b4_39_prompt.txt",
+    "b4_39_v1.png"
+   ]
+  },
+  {
+   "batch": "b4",
+   "num": 40,
+   "cid": "c0380",
+   "family_id": "c5",
+   "files": [
+    "b4_40_concept.jpg",
+    "b4_40_prompt.txt",
+    "b4_40_v1.png"
+   ]
+  },
+  {
+   "batch": "b5",
+   "num": 2,
+   "cid": "c0138",
+   "family_id": "c1",
+   "files": [
+    "b5_02_concept.png",
+    "b5_02_prompt.txt",
+    "b5_02_v1.png"
+   ]
+  },
+  {
+   "batch": "b5",
+   "num": 16,
+   "cid": "c0331",
+   "family_id": "c2",
+   "files": [
+    "b5_16_concept.jpg",
+    "b5_16_prompt.txt",
+    "b5_16_v1.png"
+   ]
+  },
+  {
+   "batch": "b5",
+   "num": 23,
+   "cid": "c0157",
+   "family_id": "c3",
+   "files": [
+    "b5_23_concept.png",
+    "b5_23_prompt.txt",
+    "b5_23_v1.png"
+   ]
+  },
+  {
+   "batch": "b5",
+   "num": 35,
+   "cid": "c0153",
+   "family_id": "c5",
+   "files": [
+    "b5_35_concept.png",
+    "b5_35_prompt.txt",
+    "b5_35_v1.png",
+    "b5_35_v2.png"
+   ]
+  },
+  {
+   "batch": "b5",
+   "num": 36,
+   "cid": "c0154",
+   "family_id": "c5",
+   "files": [
+    "b5_36_concept.png",
+    "b5_36_prompt.txt",
+    "b5_36_v1.png"
+   ]
+  },
+  {
+   "batch": "b5",
+   "num": 37,
+   "cid": "c0188",
+   "family_id": "c5",
+   "files": [
+    "b5_37_concept.png",
+    "b5_37_prompt.txt",
+    "b5_37_v1.png"
+   ]
+  },
+  {
+   "batch": "b5",
+   "num": 38,
+   "cid": "c0189",
+   "family_id": "c5",
+   "files": [
+    "b5_38_concept.png",
+    "b5_38_prompt.txt",
+    "b5_38_v1.png"
+   ]
+  },
+  {
+   "batch": "b5",
+   "num": 39,
+   "cid": "c0221",
+   "family_id": "c5",
+   "files": [
+    "b5_39_concept.jpg",
+    "b5_39_prompt.txt",
+    "b5_39_v1.png"
+   ]
+  },
+  {
+   "batch": "b5",
+   "num": 40,
+   "cid": "c0380",
+   "family_id": "c5",
+   "files": [
+    "b5_40_concept.jpg",
+    "b5_40_prompt.txt",
+    "b5_40_v1.png"
+   ]
+  },
+  {
+   "batch": "b5",
+   "num": 41,
+   "cid": "c0124",
+   "family_id": "c6",
+   "files": [
+    "b5_41_concept.png",
+    "b5_41_prompt.txt",
+    "b5_41_v1.png"
+   ]
+  },
+  {
+   "batch": "b5",
+   "num": 42,
+   "cid": "c0127",
+   "family_id": "c6",
+   "files": [
+    "b5_42_concept.jpg",
+    "b5_42_prompt.txt",
+    "b5_42_v1.png"
+   ]
+  },
+  {
+   "batch": "b5",
+   "num": 43,
+   "cid": "c0158",
+   "family_id": "c6",
+   "files": [
+    "b5_43_concept.jpg",
+    "b5_43_prompt.txt",
+    "b5_43_v1.png"
+   ]
+  },
+  {
+   "batch": "b5",
+   "num": 44,
+   "cid": "c0232",
+   "family_id": "c6",
+   "files": [
+    "b5_44_concept.jpg",
+    "b5_44_prompt.txt",
+    "b5_44_v1.png"
+   ]
+  },
+  {
+   "batch": "b5",
+   "num": 45,
+   "cid": "c0248",
+   "family_id": "c6",
+   "files": [
+    "b5_45_concept.jpg",
+    "b5_45_prompt.txt",
+    "b5_45_v1.png"
+   ]
+  },
+  {
+   "batch": "b5",
+   "num": 46,
+   "cid": "c0317",
+   "family_id": "c6",
+   "files": [
+    "b5_46_concept.jpg",
+    "b5_46_prompt.txt",
+    "b5_46_v1.png"
+   ]
+  },
+  {
+   "batch": "b5",
+   "num": 47,
+   "cid": "c0318",
+   "family_id": "c6",
+   "files": [
+    "b5_47_concept.jpg",
+    "b5_47_prompt.txt",
+    "b5_47_v1.png"
+   ]
+  },
+  {
+   "batch": "b5",
+   "num": 48,
+   "cid": "c0319",
+   "family_id": "c6",
+   "files": [
+    "b5_48_concept.jpg",
+    "b5_48_prompt.txt",
+    "b5_48_v1.png"
+   ]
+  },
+  {
+   "batch": "b5",
+   "num": 49,
+   "cid": "c0323",
+   "family_id": "c6",
+   "files": [
+    "b5_49_concept.jpg",
+    "b5_49_prompt.txt",
+    "b5_49_v1.png"
+   ]
+  },
+  {
+   "batch": "b5",
+   "num": 50,
+   "cid": "c0327",
+   "family_id": "c6",
+   "files": [
+    "b5_50_concept.jpg",
+    "b5_50_prompt.txt",
+    "b5_50_v1.png"
+   ]
+  },
+  {
+   "batch": "b6",
+   "num": 35,
+   "cid": "c0153",
+   "family_id": "c5",
+   "files": [
+    "b6_35_concept.png",
+    "b6_35_prompt.txt",
+    "b6_35_v1.png"
+   ]
+  },
+  {
+   "batch": "b6",
+   "num": 39,
+   "cid": "c0221",
+   "family_id": "c5",
+   "files": [
+    "b6_39_concept.jpg",
+    "b6_39_prompt.txt",
+    "b6_39_v1.png"
+   ]
+  },
+  {
+   "batch": "b6",
+   "num": 44,
+   "cid": "c0232",
+   "family_id": "c6",
+   "files": [
+    "b6_44_concept.jpg",
+    "b6_44_prompt.txt",
+    "b6_44_v1.png"
+   ]
+  },
+  {
+   "batch": "b6",
+   "num": 47,
+   "cid": "c0318",
+   "family_id": "c6",
+   "files": [
+    "b6_47_concept.jpg",
+    "b6_47_prompt.txt",
+    "b6_47_v1.png"
+   ]
+  },
+  {
+   "batch": "b6",
+   "num": 51,
+   "cid": "c0335",
+   "family_id": "c6",
+   "files": [
+    "b6_51_concept.jpg",
+    "b6_51_prompt.txt",
+    "b6_51_v1.png"
+   ]
+  },
+  {
+   "batch": "b6",
+   "num": 52,
+   "cid": "c0164",
+   "family_id": "c7",
+   "files": [
+    "b6_52_concept.jpg",
+    "b6_52_prompt.txt",
+    "b6_52_v1.png"
+   ]
+  },
+  {
+   "batch": "b6",
+   "num": 53,
+   "cid": "c0179",
+   "family_id": "c7",
+   "files": [
+    "b6_53_concept.png",
+    "b6_53_prompt.txt",
+    "b6_53_v1.png"
+   ]
+  },
+  {
+   "batch": "b6",
+   "num": 54,
+   "cid": "c0181",
+   "family_id": "c7",
+   "files": [
+    "b6_54_concept.png",
+    "b6_54_prompt.txt",
+    "b6_54_v1.png"
+   ]
+  },
+  {
+   "batch": "b6",
+   "num": 55,
+   "cid": "c0185",
+   "family_id": "c7",
+   "files": [
+    "b6_55_concept.png",
+    "b6_55_prompt.txt",
+    "b6_55_v1.png"
+   ]
+  },
+  {
+   "batch": "b6",
+   "num": 56,
+   "cid": "c0191",
+   "family_id": "c7",
+   "files": [
+    "b6_56_concept.jpg",
+    "b6_56_prompt.txt",
+    "b6_56_v1.png"
+   ]
+  },
+  {
+   "batch": "b6",
+   "num": 57,
+   "cid": "c0271",
+   "family_id": "c7",
+   "files": [
+    "b6_57_concept.jpg",
+    "b6_57_prompt.txt",
+    "b6_57_v1.png"
+   ]
+  },
+  {
+   "batch": "b6",
+   "num": 58,
+   "cid": "c0326",
+   "family_id": "c7",
+   "files": [
+    "b6_58_concept.jpg",
+    "b6_58_prompt.txt",
+    "b6_58_v1.png"
+   ]
+  },
+  {
+   "batch": "b6",
+   "num": 59,
+   "cid": "c0378",
+   "family_id": "c7",
+   "files": [
+    "b6_59_concept.jpg",
+    "b6_59_prompt.txt",
+    "b6_59_v1.png"
+   ]
+  },
+  {
+   "batch": "b6",
+   "num": 60,
+   "cid": "c0384",
+   "family_id": "c7",
+   "files": [
+    "b6_60_concept.jpg",
+    "b6_60_prompt.txt",
+    "b6_60_v1.png"
+   ]
+  },
+  {
+   "batch": "b7",
+   "num": 35,
+   "cid": "c0153",
+   "family_id": "c5",
+   "files": [
+    "b7_35_concept.png",
+    "b7_35_prompt.txt",
+    "b7_35_v1.png",
+    "b7_35_v2.png"
+   ]
+  },
+  {
+   "batch": "b7",
+   "num": 51,
+   "cid": "c0335",
+   "family_id": "c6",
+   "files": [
+    "b7_51_concept.jpg",
+    "b7_51_prompt.txt",
+    "b7_51_v1.png"
+   ]
+  },
+  {
+   "batch": "b7",
+   "num": 57,
+   "cid": "c0271",
+   "family_id": "c7",
+   "files": [
+    "b7_57_concept.jpg",
+    "b7_57_prompt.txt",
+    "b7_57_v1.png"
+   ]
+  },
+  {
+   "batch": "b7",
+   "num": 58,
+   "cid": "c0326",
+   "family_id": "c7",
+   "files": [
+    "b7_58_concept.jpg",
+    "b7_58_prompt.txt",
+    "b7_58_v1.png"
+   ]
+  },
+  {
+   "batch": "b7",
+   "num": 61,
+   "cid": "c0033",
+   "family_id": "c8",
+   "files": [
+    "b7_61_concept.jpg",
+    "b7_61_prompt.txt",
+    "b7_61_v1.png",
+    "b7_61_v2.png"
+   ]
+  },
+  {
+   "batch": "b7",
+   "num": 62,
+   "cid": "c0123",
+   "family_id": "c8",
+   "files": [
+    "b7_62_prompt.txt",
+    "b7_62_v1.png"
+   ]
+  },
+  {
+   "batch": "b7",
+   "num": 63,
+   "cid": "c0135",
+   "family_id": "c8",
+   "files": [
+    "b7_63_concept.jpg",
+    "b7_63_prompt.txt",
+    "b7_63_v1.png"
+   ]
+  },
+  {
+   "batch": "b7",
+   "num": 64,
+   "cid": "c0142",
+   "family_id": "c8",
+   "files": [
+    "b7_64_concept.jpg",
+    "b7_64_prompt.txt",
+    "b7_64_v1.png"
+   ]
+  },
+  {
+   "batch": "b7",
+   "num": 65,
+   "cid": "c0149",
+   "family_id": "c8",
+   "files": [
+    "b7_65_concept.jpg",
+    "b7_65_prompt.txt",
+    "b7_65_v1.png"
+   ]
+  },
+  {
+   "batch": "b7",
+   "num": 66,
+   "cid": "c0174",
+   "family_id": "c8",
+   "files": [
+    "b7_66_concept.png",
+    "b7_66_prompt.txt",
+    "b7_66_v1.png"
+   ]
+  },
+  {
+   "batch": "b7",
+   "num": 67,
+   "cid": "c0194",
+   "family_id": "c8",
+   "files": [
+    "b7_67_concept.png",
+    "b7_67_prompt.txt",
+    "b7_67_v1.png"
+   ]
+  },
+  {
+   "batch": "b7",
+   "num": 68,
+   "cid": "c0264",
+   "family_id": "c8",
+   "files": [
+    "b7_68_concept.jpg",
+    "b7_68_prompt.txt",
+    "b7_68_v1.png"
+   ]
+  },
+  {
+   "batch": "b7",
+   "num": 69,
+   "cid": "c0305",
+   "family_id": "c8",
+   "files": [
+    "b7_69_concept.jpg",
+    "b7_69_prompt.txt",
+    "b7_69_v1.png"
+   ]
+  },
+  {
+   "batch": "b7",
+   "num": 70,
+   "cid": "c0382",
+   "family_id": "c8",
+   "files": [
+    "b7_70_concept.jpg",
+    "b7_70_prompt.txt",
+    "b7_70_v1.png"
+   ]
+  },
+  {
+   "batch": "b8",
+   "num": 63,
+   "cid": "c0135",
+   "family_id": "c8",
+   "files": [
+    "b8_63_concept.jpg",
+    "b8_63_prompt.txt",
+    "b8_63_v1.png"
+   ]
+  },
+  {
+   "batch": "b8",
+   "num": 68,
+   "cid": "c0264",
+   "family_id": "c8",
+   "files": [
+    "b8_68_concept.jpg",
+    "b8_68_prompt.txt",
+    "b8_68_v1.png"
+   ]
+  },
+  {
+   "batch": "b8",
+   "num": 70,
+   "cid": "c0382",
+   "family_id": "c8",
+   "files": [
+    "b8_70_concept.jpg",
+    "b8_70_prompt.txt",
+    "b8_70_v1.png"
+   ]
+  },
+  {
+   "batch": "b8",
+   "num": 71,
+   "cid": "c0143",
+   "family_id": "c9",
+   "files": [
+    "b8_71_concept.jpg",
+    "b8_71_prompt.txt",
+    "b8_71_v1.png"
+   ]
+  },
+  {
+   "batch": "b8",
+   "num": 72,
+   "cid": "c0165",
+   "family_id": "c9",
+   "files": [
+    "b8_72_concept.png",
+    "b8_72_prompt.txt",
+    "b8_72_v1.png"
+   ]
+  },
+  {
+   "batch": "b8",
+   "num": 75,
+   "cid": "c0252",
+   "family_id": "c9",
+   "files": [
+    "b8_75_concept.jpg",
+    "b8_75_prompt.txt",
+    "b8_75_v1.png"
+   ]
+  },
+  {
+   "batch": "b8",
+   "num": 76,
+   "cid": "c0253",
+   "family_id": "c9",
+   "files": [
+    "b8_76_concept.jpg",
+    "b8_76_prompt.txt",
+    "b8_76_v1.png"
+   ]
+  },
+  {
+   "batch": "b8",
+   "num": 77,
+   "cid": "c0262",
+   "family_id": "c9",
+   "files": [
+    "b8_77_concept.jpg",
+    "b8_77_prompt.txt",
+    "b8_77_v1.png"
+   ]
+  },
+  {
+   "batch": "b8",
+   "num": 78,
+   "cid": "c0267",
+   "family_id": "c9",
+   "files": [
+    "b8_78_concept.jpg",
+    "b8_78_prompt.txt",
+    "b8_78_v1.png"
+   ]
+  },
+  {
+   "batch": "b9",
+   "num": 57,
+   "cid": "c0271",
+   "family_id": "c7",
+   "files": [
+    "b9_57_concept.jpg",
+    "b9_57_prompt.txt",
+    "b9_57_v1.png"
+   ]
+  },
+  {
+   "batch": "b9",
+   "num": 61,
+   "cid": "c0033",
+   "family_id": "c8",
+   "files": [
+    "b9_61_concept.jpg",
+    "b9_61_prompt.txt",
+    "b9_61_v1.png"
+   ]
+  },
+  {
+   "batch": "b9",
+   "num": 69,
+   "cid": "c0305",
+   "family_id": "c8",
+   "files": [
+    "b9_69_concept.jpg",
+    "b9_69_prompt.txt",
+    "b9_69_v1.png"
+   ]
+  },
+  {
+   "batch": "b9",
+   "num": 70,
+   "cid": "c0382",
+   "family_id": "c8",
+   "files": [
+    "b9_70_concept.jpg",
+    "b9_70_prompt.txt",
+    "b9_70_v1.png"
+   ]
+  },
+  {
+   "batch": "b9",
+   "num": 71,
+   "cid": "c0143",
+   "family_id": "c9",
+   "files": [
+    "b9_71_concept.jpg",
+    "b9_71_prompt.txt",
+    "b9_71_v1.png"
+   ]
+  },
+  {
+   "batch": "b9",
+   "num": 75,
+   "cid": "c0252",
+   "family_id": "c9",
+   "files": [
+    "b9_75_concept.jpg",
+    "b9_75_prompt.txt",
+    "b9_75_v1.png"
+   ]
+  },
+  {
+   "batch": "b9",
+   "num": 76,
+   "cid": "c0253",
+   "family_id": "c9",
+   "files": [
+    "b9_76_concept.jpg",
+    "b9_76_prompt.txt",
+    "b9_76_v1.png"
+   ]
+  },
+  {
+   "batch": "b9",
+   "num": 77,
+   "cid": "c0262",
+   "family_id": "c9",
+   "files": [
+    "b9_77_concept.jpg",
+    "b9_77_prompt.txt",
+    "b9_77_v1.png",
+    "b9_77_v2.png"
+   ]
+  }
+ ],
+ "sam_batch": [
+  {
+   "num": 1,
+   "template": "09-14_c0003_Mars-Men.png",
+   "files": [
+    "s_01_concept.png",
+    "s_01_prompt.txt",
+    "s_01_v1.png"
+   ]
+  },
+  {
+   "num": 2,
+   "template": "09-14_c0008_Mars-Men.png",
+   "files": [
+    "s_02_concept.png",
+    "s_02_prompt.txt",
+    "s_02_v1.png",
+    "s_02_v2.png"
+   ]
+  },
+  {
+   "num": 3,
+   "template": "09-14_c0010_Mars-Men.png",
+   "files": [
+    "s_03_concept.png",
+    "s_03_prompt.txt",
+    "s_03_v1.png"
+   ]
+  },
+  {
+   "num": 5,
+   "template": "09-14_c0013_Mars-Men.png",
+   "files": [
+    "s_05_concept.png",
+    "s_05_prompt.txt",
+    "s_05_v1.png"
+   ]
+  },
+  {
+   "num": 6,
+   "template": "09-14_c0015_Resilia.png",
+   "files": [
+    "s_06_concept.png",
+    "s_06_prompt.txt",
+    "s_06_v1.png"
+   ]
+  },
+  {
+   "num": 7,
+   "template": "09-14_c0016_Resilia.jpg",
+   "files": [
+    "s_07_concept.jpg",
+    "s_07_prompt.txt",
+    "s_07_v1.png",
+    "s_07_v2.png"
+   ]
+  },
+  {
+   "num": 8,
+   "template": "09-14_c0017_Resilia.jpg",
+   "files": [
+    "s_08_concept.jpg",
+    "s_08_prompt.txt",
+    "s_08_v1.png",
+    "s_08_v2.png",
+    "s_08_v3.png",
+    "s_08_v4.png"
+   ]
+  },
+  {
+   "num": 9,
+   "template": "09-14_c0019_Menerals.jpg",
+   "files": [
+    "s_09_concept.jpg",
+    "s_09_prompt.txt",
+    "s_09_v1.png",
+    "s_09_v2.png"
+   ]
+  },
+  {
+   "num": 10,
+   "template": "09-14_c0023_Primal-Viking.png",
+   "files": [
+    "s_10_concept.png",
+    "s_10_prompt.txt",
+    "s_10_v1.png"
+   ]
+  },
+  {
+   "num": 13,
+   "template": "09-15_c0024_Ryze.png",
+   "files": [
+    "s_13_concept.png",
+    "s_13_prompt.txt",
+    "s_13_v1.png"
+   ]
+  },
+  {
+   "num": 14,
+   "template": "09-15_c0027_RYZE.png",
+   "files": [
+    "s_14_concept.png",
+    "s_14_prompt.txt",
+    "s_14_v1.png",
+    "s_14_v2.png"
+   ]
+  },
+  {
+   "num": 15,
+   "template": "09-15_c0028_RYZR.jpg",
+   "files": [
+    "s_15_concept.jpg",
+    "s_15_prompt.txt",
+    "s_15_v1.png",
+    "s_15_v2.png"
+   ]
+  },
+  {
+   "num": 16,
+   "template": "09-15_c0029_Primal-Viking.png",
+   "files": [
+    "s_16_concept.png",
+    "s_16_prompt.txt",
+    "s_16_v1.png"
+   ]
+  },
+  {
+   "num": 17,
+   "template": "09-15_c0030_Primal-Viking.png",
+   "files": [
+    "s_17_concept.png",
+    "s_17_prompt.txt",
+    "s_17_v1.png",
+    "s_17_v2.png"
+   ]
+  },
+  {
+   "num": 18,
+   "template": "09-15_c0031_Cowboy-Colostrum.png",
+   "files": [
+    "s_18_concept.png",
+    "s_18_prompt.txt",
+    "s_18_v1.png",
+    "s_18_v2.png",
+    "s_18_v3.png",
+    "s_18_v4.png"
+   ]
+  },
+  {
+   "num": 19,
+   "template": "09-15_c0032_Olux.jpg",
+   "files": [
+    "s_19_concept.jpg",
+    "s_19_prompt.txt",
+    "s_19_v1.png"
+   ]
+  },
+  {
+   "num": 20,
+   "template": "09-15_c0034_O-Positive.jpg",
+   "files": [
+    "s_20_concept.jpg",
+    "s_20_prompt.txt",
+    "s_20_v1.png"
+   ]
+  },
+  {
+   "num": 21,
+   "template": "09-15_c0035_Mammoth-Headwear.png",
+   "files": [
+    "s_21_concept.png",
+    "s_21_prompt.txt",
+    "s_21_v1.png"
+   ]
+  },
+  {
+   "num": 22,
+   "template": "09-15_c0036_Thriving-in-Menopause.png",
+   "files": [
+    "s_22_concept.png",
+    "s_22_prompt.txt",
+    "s_22_v1.png"
+   ]
+  },
+  {
+   "num": 23,
+   "template": "09-15_c0037_Happy-Mammoth-US.jpg",
+   "files": [
+    "s_23_concept.jpg",
+    "s_23_prompt.txt",
+    "s_23_v1.png"
+   ]
+  },
+  {
+   "num": 24,
+   "template": "09-15_c0038_Happy-Mammoth.jpg",
+   "files": [
+    "s_24_concept.jpg",
+    "s_24_prompt.txt",
+    "s_24_v1.png",
+    "s_24_v2.png"
+   ]
+  },
+  {
+   "num": 25,
+   "template": "09-15_c0040_Spicy-Cubes.png",
+   "files": [
+    "s_25_concept.png",
+    "s_25_prompt.txt",
+    "s_25_v1.png"
+   ]
+  },
+  {
+   "num": 26,
+   "template": "09-15_c0042_Froya-Organics.jpg",
+   "files": [
+    "s_26_concept.jpg",
+    "s_26_prompt.txt",
+    "s_26_v1.png"
+   ]
+  },
+  {
+   "num": 27,
+   "template": "09-15_c0044_Primal-Queen.png",
+   "files": [
+    "s_27_concept.png",
+    "s_27_prompt.txt",
+    "s_27_v1.png"
+   ]
+  },
+  {
+   "num": 28,
+   "template": "09-15_c0045_Mars-Men.png",
+   "files": [
+    "s_28_concept.png",
+    "s_28_prompt.txt",
+    "s_28_v1.png"
+   ]
+  },
+  {
+   "num": 29,
+   "template": "09-15_c0047_Mars-Men.png",
+   "files": [
+    "s_29_concept.png",
+    "s_29_prompt.txt",
+    "s_29_v1.png",
+    "s_29_v2.png",
+    "s_29_v3.png",
+    "s_29_v4.png"
+   ]
+  },
+  {
+   "num": 30,
+   "template": "09-15_c0049_Primal-Viking.png",
+   "files": [
+    "s_30_concept.png",
+    "s_30_prompt.txt",
+    "s_30_v1.png"
+   ]
+  },
+  {
+   "num": 31,
+   "template": "09-16_c0056_Zapply.jpg",
+   "files": [
+    "s_31_concept.jpg",
+    "s_31_prompt.txt",
+    "s_31_v1.png"
+   ]
+  },
+  {
+   "num": 32,
+   "template": "09-16_c0057_Zapply.jpg",
+   "files": [
+    "s_32_concept.jpg",
+    "s_32_prompt.txt",
+    "s_32_v1.png"
+   ]
+  },
+  {
+   "num": 33,
+   "template": "09-16_c0058_Zapply.jpg",
+   "files": [
+    "s_33_concept.jpg",
+    "s_33_prompt.txt",
+    "s_33_v1.png",
+    "s_33_v2.png"
+   ]
+  },
+  {
+   "num": 34,
+   "template": "09-16_c0059_Zapply.png",
+   "files": [
+    "s_34_concept.png",
+    "s_34_prompt.txt",
+    "s_34_v1.png"
+   ]
+  },
+  {
+   "num": 35,
+   "template": "09-16_c0060_Zapply.png",
+   "files": [
+    "s_35_concept.png",
+    "s_35_prompt.txt",
+    "s_35_v1.png",
+    "s_35_v2.png",
+    "s_35_v3.png"
+   ]
+  },
+  {
+   "num": 36,
+   "template": "09-16_c0061_Everly.png",
+   "files": [
+    "s_36_concept.png",
+    "s_36_prompt.txt",
+    "s_36_v1.png"
+   ]
+  },
+  {
+   "num": 37,
+   "template": "09-16_c0062_Everly.png",
+   "files": [
+    "s_37_concept.png",
+    "s_37_prompt.txt",
+    "s_37_v1.png"
+   ]
+  },
+  {
+   "num": 38,
+   "template": "09-16_c0063_Everly.png",
+   "files": [
+    "s_38_concept.png",
+    "s_38_prompt.txt",
+    "s_38_v1.png",
+    "s_38_v2.png"
+   ]
+  },
+  {
+   "num": 39,
+   "template": "09-16_c0064_Everly.png",
+   "files": [
+    "s_39_concept.png",
+    "s_39_prompt.txt",
+    "s_39_v1.png"
+   ]
+  },
+  {
+   "num": 40,
+   "template": "09-16_c0065_Everly.png",
+   "files": [
+    "s_40_concept.png",
+    "s_40_prompt.txt",
+    "s_40_v1.png"
+   ]
+  },
+  {
+   "num": 41,
+   "template": "09-16_c0066_Primal-Viking.png",
+   "files": [
+    "s_41_concept.png",
+    "s_41_prompt.txt",
+    "s_41_v1.png"
+   ]
+  },
+  {
+   "num": 42,
+   "template": "09-16_c0067_Primal-Viking.jpg",
+   "files": [
+    "s_42_concept.jpg",
+    "s_42_prompt.txt",
+    "s_42_v1.png",
+    "s_42_v2.png"
+   ]
+  },
+  {
+   "num": 43,
+   "template": "09-17_c0075_Infiniwell.png",
+   "files": [
+    "s_43_concept.png",
+    "s_43_prompt.txt",
+    "s_43_v1.png",
+    "s_43_v2.png"
+   ]
+  },
+  {
+   "num": 44,
+   "template": "09-17_c0076_RYZE.png",
+   "files": [
+    "s_44_concept.png",
+    "s_44_prompt.txt",
+    "s_44_v1.png"
+   ]
+  },
+  {
+   "num": 45,
+   "template": "09-17_c0077_RYZE.png",
+   "files": [
+    "s_45_concept.png",
+    "s_45_prompt.txt",
+    "s_45_v1.png"
+   ]
+  },
+  {
+   "num": 46,
+   "template": "09-17_c0078_RESIA.png",
+   "files": [
+    "s_46_concept.png",
+    "s_46_prompt.txt",
+    "s_46_v1.png"
+   ]
+  },
+  {
+   "num": 47,
+   "template": "09-17_c0079_Gruns.jpg",
+   "files": [
+    "s_47_concept.jpg",
+    "s_47_prompt.txt",
+    "s_47_v1.png",
+    "s_47_v2.png"
+   ]
+  },
+  {
+   "num": 48,
+   "template": "09-17_c0080_Primal-Queen.jpg",
+   "files": [
+    "s_48_concept.jpg",
+    "s_48_prompt.txt",
+    "s_48_v1.png"
+   ]
+  },
+  {
+   "num": 49,
+   "template": "09-17_c0081_Primal-Queen.png",
+   "files": [
+    "s_49_concept.png",
+    "s_49_prompt.txt",
+    "s_49_v1.png"
+   ]
+  },
+  {
+   "num": 50,
+   "template": "09-17_c0082_Primal-Queen.png",
+   "files": [
+    "s_50_concept.png",
+    "s_50_prompt.txt",
+    "s_50_v1.png",
+    "s_50_v2.png"
+   ]
+  },
+  {
+   "num": 51,
+   "template": "09-17_c0083_Primal-Queen.jpg",
+   "files": [
+    "s_51_concept.jpg",
+    "s_51_prompt.txt",
+    "s_51_v1.png"
+   ]
+  },
+  {
+   "num": 52,
+   "template": "09-17_c0084_Primal-Queen.png",
+   "files": [
+    "s_52_concept.png",
+    "s_52_prompt.txt",
+    "s_52_v1.png",
+    "s_52_v2.png"
+   ]
+  },
+  {
+   "num": 53,
+   "template": "09-17_c0085_Mars-Men.png",
+   "files": [
+    "s_53_concept.png",
+    "s_53_prompt.txt",
+    "s_53_v1.png"
+   ]
+  },
+  {
+   "num": 54,
+   "template": "09-18_c0094_Sugar-Splash.png",
+   "files": [
+    "s_54_concept.png",
+    "s_54_prompt.txt",
+    "s_54_v1.png"
+   ]
+  },
+  {
+   "num": 56,
+   "template": "09-18_c0102_Sugar-Splash.png",
+   "files": [
+    "s_56_concept.png",
+    "s_56_prompt.txt",
+    "s_56_v1.png",
+    "s_56_v2.png"
+   ]
+  },
+  {
+   "num": 57,
+   "template": "09-18_c0104_Sugar-Splash.png",
+   "files": [
+    "s_57_concept.png",
+    "s_57_prompt.txt",
+    "s_57_v1.png",
+    "s_57_v2.png"
+   ]
+  },
+  {
+   "num": 59,
+   "template": "09-18_c0106_Spicy-Cubes.png",
+   "files": [
+    "s_59_concept.png",
+    "s_59_prompt.txt",
+    "s_59_v1.png"
+   ]
+  },
+  {
+   "num": 60,
+   "template": "09-18_c0107_Spicy-Cubes.png",
+   "files": [
+    "s_60_concept.png",
+    "s_60_prompt.txt",
+    "s_60_v1.png"
+   ]
+  },
+  {
+   "num": 61,
+   "template": "09-18_c0108_Spicy-Cubes.png",
+   "files": [
+    "s_61_concept.png",
+    "s_61_prompt.txt",
+    "s_61_v1.png"
+   ]
+  },
+  {
+   "num": 62,
+   "template": "09-18_c0109_Spicy-Cubes.png",
+   "files": [
+    "s_62_concept.png",
+    "s_62_prompt.txt",
+    "s_62_v1.png"
+   ]
+  },
+  {
+   "num": 63,
+   "template": "09-18_c0110_Spicy-Cubes.png",
+   "files": [
+    "s_63_concept.png",
+    "s_63_prompt.txt",
+    "s_63_v1.png"
+   ]
+  },
+  {
+   "num": 64,
+   "template": "09-18_c0111_Spicy-Cubes.png",
+   "files": [
+    "s_64_concept.png",
+    "s_64_prompt.txt",
+    "s_64_v1.png"
+   ]
+  },
+  {
+   "num": 65,
+   "template": "09-18_c0112_Spicy-Cubes.jpg",
+   "files": [
+    "s_65_concept.jpg",
+    "s_65_prompt.txt",
+    "s_65_v1.png"
+   ]
+  },
+  {
+   "num": 66,
+   "template": "09-18_c0114_Spicy-Cubes.png",
+   "files": [
+    "s_66_concept.png",
+    "s_66_prompt.txt",
+    "s_66_v1.png"
+   ]
+  },
+  {
+   "num": 67,
+   "template": "09-18_c0115_Wandering-Bear-Coffee.jpg",
+   "files": [
+    "s_67_concept.jpg",
+    "s_67_prompt.txt",
+    "s_67_v1.png"
+   ]
+  },
+  {
+   "num": 68,
+   "template": "09-18_c0116_Olux.png",
+   "files": [
+    "s_68_concept.png",
+    "s_68_prompt.txt",
+    "s_68_v1.png"
+   ]
+  },
+  {
+   "num": 69,
+   "template": "09-18_c0117_Primal-Queen.jpg",
+   "files": [
+    "s_69_concept.jpg",
+    "s_69_prompt.txt",
+    "s_69_v1.png"
+   ]
+  },
+  {
+   "num": 70,
+   "template": "09-18_c0118_Primal-Queen.png",
+   "files": [
+    "s_70_concept.png",
+    "s_70_prompt.txt",
+    "s_70_v1.png"
+   ]
+  },
+  {
+   "num": 71,
+   "template": "09-18_c0119_Cowboy-Colostrum.png",
+   "files": [
+    "s_71_concept.png",
+    "s_71_prompt.txt",
+    "s_71_v1.png",
+    "s_71_v2.png"
+   ]
+  },
+  {
+   "num": 72,
+   "template": "09-18_c0120_Cowboy-Colostrum.png",
+   "files": [
+    "s_72_concept.png",
+    "s_72_prompt.txt",
+    "s_72_v1.png"
+   ]
+  },
+  {
+   "num": 73,
+   "template": "09-18_c0121_Cowboy-Colostrum.png",
+   "files": [
+    "s_73_concept.png",
+    "s_73_prompt.txt",
+    "s_73_v1.png"
+   ]
+  },
+  {
+   "num": 75,
+   "template": "09-18_c0124_RYZE.png",
+   "files": [
+    "s_75_concept.png",
+    "s_75_prompt.txt",
+    "s_75_v1.png"
+   ]
+  },
+  {
+   "num": 76,
+   "template": "09-18_c0125_RYZE.jpg",
+   "files": [
+    "s_76_concept.jpg",
+    "s_76_prompt.txt",
+    "s_76_v1.png"
+   ]
+  },
+  {
+   "num": 77,
+   "template": "09-18_c0126_Mars-Men.jpg",
+   "files": [
+    "s_77_concept.jpg",
+    "s_77_prompt.txt",
+    "s_77_v1.png"
+   ]
+  },
+  {
+   "num": 78,
+   "template": "09-18_c0127_RYZE.jpg",
+   "files": [
+    "s_78_concept.jpg",
+    "s_78_prompt.txt",
+    "s_78_v1.png"
+   ]
+  },
+  {
+   "num": 80,
+   "template": "09-18_c0131_RYZE.jpg",
+   "files": [
+    "s_80_concept.jpg",
+    "s_80_prompt.txt",
+    "s_80_v1.png",
+    "s_80_v2.png"
+   ]
+  },
+  {
+   "num": 81,
+   "template": "09-18_c0132_RYZE.jpg",
+   "files": [
+    "s_81_concept.jpg",
+    "s_81_prompt.txt",
+    "s_81_v1.png"
+   ]
+  },
+  {
+   "num": 82,
+   "template": "09-18_c0133_RYZE.jpg",
+   "files": [
+    "s_82_concept.jpg",
+    "s_82_prompt.txt",
+    "s_82_v1.png"
+   ]
+  },
+  {
+   "num": 83,
+   "template": "09-18_c0134_RYZE.jpg",
+   "files": [
+    "s_83_concept.jpg",
+    "s_83_prompt.txt",
+    "s_83_v1.png"
+   ]
+  },
+  {
+   "num": 101,
+   "template": "?",
+   "files": [
+    "s_101_concept.png",
+    "s_101_prompt.txt",
+    "s_101_v2.png"
+   ]
+  },
+  {
+   "num": 102,
+   "template": "?",
+   "files": [
+    "s_102_concept.png",
+    "s_102_prompt.txt",
+    "s_102_v2.png"
+   ]
+  },
+  {
+   "num": 103,
+   "template": "?",
+   "files": [
+    "s_103_concept.png",
+    "s_103_prompt.txt",
+    "s_103_v2.png"
+   ]
+  },
+  {
+   "num": 104,
+   "template": "?",
+   "files": [
+    "s_104_concept.png",
+    "s_104_prompt.txt",
+    "s_104_v2.png"
+   ]
+  },
+  {
+   "num": 105,
+   "template": "?",
+   "files": [
+    "s_105_concept.png",
+    "s_105_prompt.txt",
+    "s_105_v2.png",
+    "s_105_v3.png"
+   ]
+  },
+  {
+   "num": 106,
+   "template": "?",
+   "files": [
+    "s_106_concept.png",
+    "s_106_prompt.txt",
+    "s_106_v2.png"
+   ]
+  },
+  {
+   "num": 107,
+   "template": "?",
+   "files": [
+    "s_107_concept.png",
+    "s_107_prompt.txt",
+    "s_107_v2.png"
+   ]
+  },
+  {
+   "num": 108,
+   "template": "?",
+   "files": [
+    "s_108_concept.png",
+    "s_108_prompt.txt",
+    "s_108_v2.png"
+   ]
+  },
+  {
+   "num": 109,
+   "template": "?",
+   "files": [
+    "s_109_concept.png",
+    "s_109_prompt.txt",
+    "s_109_v2.png"
+   ]
+  },
+  {
+   "num": 110,
+   "template": "?",
+   "files": [
+    "s_110_concept.png",
+    "s_110_prompt.txt",
+    "s_110_v2.png"
+   ]
+  },
+  {
+   "num": 201,
+   "template": "?",
+   "files": [
+    "s_201_concept.png",
+    "s_201_prompt.txt",
+    "s_201_v2.png"
+   ]
+  },
+  {
+   "num": 202,
+   "template": "?",
+   "files": [
+    "s_202_concept.png",
+    "s_202_prompt.txt",
+    "s_202_v2.png"
+   ]
+  },
+  {
+   "num": 203,
+   "template": "?",
+   "files": [
+    "s_203_concept.png",
+    "s_203_prompt.txt",
+    "s_203_v2.png"
+   ]
+  },
+  {
+   "num": 204,
+   "template": "?",
+   "files": [
+    "s_204_concept.png",
+    "s_204_prompt.txt",
+    "s_204_v2.png"
+   ]
+  },
+  {
+   "num": 205,
+   "template": "?",
+   "files": [
+    "s_205_concept.png",
+    "s_205_prompt.txt",
+    "s_205_v2.png"
+   ]
+  },
+  {
+   "num": 206,
+   "template": "?",
+   "files": [
+    "s_206_concept.png",
+    "s_206_prompt.txt",
+    "s_206_v2.png"
+   ]
+  },
+  {
+   "num": 207,
+   "template": "?",
+   "files": [
+    "s_207_concept.png",
+    "s_207_prompt.txt",
+    "s_207_v2.png",
+    "s_207_v3.png"
+   ]
+  },
+  {
+   "num": 208,
+   "template": "?",
+   "files": [
+    "s_208_concept.png",
+    "s_208_prompt.txt",
+    "s_208_v2.png"
+   ]
+  },
+  {
+   "num": 209,
+   "template": "?",
+   "files": [
+    "s_209_concept.png",
+    "s_209_prompt.txt",
+    "s_209_v2.png"
+   ]
+  },
+  {
+   "num": 210,
+   "template": "?",
+   "files": [
+    "s_210_concept.png",
+    "s_210_prompt.txt",
+    "s_210_v2.png"
+   ]
+  },
+  {
+   "num": 301,
+   "template": "?",
+   "files": [
+    "s_301_concept.png",
+    "s_301_prompt.txt",
+    "s_301_v2.png"
+   ]
+  },
+  {
+   "num": 302,
+   "template": "?",
+   "files": [
+    "s_302_concept.png",
+    "s_302_prompt.txt",
+    "s_302_v2.png"
+   ]
+  },
+  {
+   "num": 303,
+   "template": "?",
+   "files": [
+    "s_303_concept.png",
+    "s_303_prompt.txt",
+    "s_303_v2.png"
+   ]
+  },
+  {
+   "num": 304,
+   "template": "?",
+   "files": [
+    "s_304_concept.png",
+    "s_304_prompt.txt",
+    "s_304_v2.png"
+   ]
+  },
+  {
+   "num": 305,
+   "template": "?",
+   "files": [
+    "s_305_concept.png",
+    "s_305_prompt.txt",
+    "s_305_v2.png"
+   ]
+  },
+  {
+   "num": 306,
+   "template": "?",
+   "files": [
+    "s_306_concept.png",
+    "s_306_prompt.txt",
+    "s_306_v2.png"
+   ]
+  },
+  {
+   "num": 307,
+   "template": "?",
+   "files": [
+    "s_307_concept.png",
+    "s_307_prompt.txt",
+    "s_307_v2.png"
+   ]
+  },
+  {
+   "num": 308,
+   "template": "?",
+   "files": [
+    "s_308_concept.png",
+    "s_308_prompt.txt",
+    "s_308_v2.png"
+   ]
+  },
+  {
+   "num": 309,
+   "template": "?",
+   "files": [
+    "s_309_concept.png",
+    "s_309_prompt.txt",
+    "s_309_v2.png"
+   ]
+  },
+  {
+   "num": 310,
+   "template": "?",
+   "files": [
+    "s_310_concept.png",
+    "s_310_prompt.txt",
+    "s_310_v2.png"
+   ]
+  },
+  {
+   "num": 403,
+   "template": "?",
+   "files": [
+    "s_403_concept.png",
+    "s_403_prompt.txt",
+    "s_403_v2.png"
+   ]
+  },
+  {
+   "num": 404,
+   "template": "?",
+   "files": [
+    "s_404_concept.png",
+    "s_404_prompt.txt",
+    "s_404_v2.png"
+   ]
+  },
+  {
+   "num": 405,
+   "template": "?",
+   "files": [
+    "s_405_concept.png",
+    "s_405_prompt.txt",
+    "s_405_v2.png"
+   ]
+  },
+  {
+   "num": 406,
+   "template": "?",
+   "files": [
+    "s_406_concept.png",
+    "s_406_prompt.txt",
+    "s_406_v2.png"
+   ]
+  },
+  {
+   "num": 407,
+   "template": "?",
+   "files": [
+    "s_407_concept.png",
+    "s_407_prompt.txt",
+    "s_407_v2.png",
+    "s_407_v3.png"
+   ]
+  },
+  {
+   "num": 409,
+   "template": "?",
+   "files": [
+    "s_409_concept.png",
+    "s_409_prompt.txt",
+    "s_409_v2.png",
+    "s_409_v3.png"
+   ]
+  },
+  {
+   "num": 1101,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_1101_prompt.txt",
+    "s_1101_v1.png"
+   ]
+  },
+  {
+   "num": 1102,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_1102_prompt.txt",
+    "s_1102_v1.png"
+   ]
+  },
+  {
+   "num": 1103,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_1103_prompt.txt",
+    "s_1103_v1.png"
+   ]
+  },
+  {
+   "num": 1104,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_1104_prompt.txt",
+    "s_1104_v1.png"
+   ]
+  },
+  {
+   "num": 1105,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_1105_prompt.txt",
+    "s_1105_v1.png"
+   ]
+  },
+  {
+   "num": 1106,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_1106_concept.jpg",
+    "s_1106_prompt.txt",
+    "s_1106_v1.png"
+   ]
+  },
+  {
+   "num": 1107,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_1107_concept.jpg",
+    "s_1107_prompt.txt",
+    "s_1107_v1.png"
+   ]
+  },
+  {
+   "num": 1108,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_1108_concept.jpg",
+    "s_1108_prompt.txt",
+    "s_1108_v1.png"
+   ]
+  },
+  {
+   "num": 1109,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_1109_concept.jpg",
+    "s_1109_prompt.txt",
+    "s_1109_v1.png"
+   ]
+  },
+  {
+   "num": 1110,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_1110_concept.jpg",
+    "s_1110_prompt.txt",
+    "s_1110_v1.png"
+   ]
+  },
+  {
+   "num": 1111,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_1111_prompt.txt",
+    "s_1111_v1.png"
+   ]
+  },
+  {
+   "num": 1112,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_1112_prompt.txt",
+    "s_1112_v1.png"
+   ]
+  },
+  {
+   "num": 1113,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_1113_prompt.txt",
+    "s_1113_v1.png"
+   ]
+  },
+  {
+   "num": 1114,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_1114_prompt.txt",
+    "s_1114_v1.png"
+   ]
+  },
+  {
+   "num": 1115,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_1115_prompt.txt",
+    "s_1115_v1.png"
+   ]
+  },
+  {
+   "num": 1116,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_1116_prompt.txt",
+    "s_1116_v1.png"
+   ]
+  },
+  {
+   "num": 1117,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_1117_prompt.txt",
+    "s_1117_v1.png"
+   ]
+  },
+  {
+   "num": 1118,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_1118_prompt.txt",
+    "s_1118_v1.png"
+   ]
+  },
+  {
+   "num": 1119,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_1119_prompt.txt",
+    "s_1119_v1.png"
+   ]
+  },
+  {
+   "num": 1120,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_1120_prompt.txt",
+    "s_1120_v1.png"
+   ]
+  },
+  {
+   "num": 2101,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_2101_prompt.txt",
+    "s_2101_v1.png"
+   ]
+  },
+  {
+   "num": 2102,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_2102_prompt.txt",
+    "s_2102_v1.png"
+   ]
+  },
+  {
+   "num": 2104,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_2104_prompt.txt",
+    "s_2104_v1.png"
+   ]
+  },
+  {
+   "num": 2106,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_2106_concept.png",
+    "s_2106_prompt.txt",
+    "s_2106_v1.png"
+   ]
+  },
+  {
+   "num": 2109,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_2109_concept.png",
+    "s_2109_prompt.txt",
+    "s_2109_v1.png"
+   ]
+  },
+  {
+   "num": 2112,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_2112_prompt.txt",
+    "s_2112_v1.png"
+   ]
+  },
+  {
+   "num": 2114,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_2114_prompt.txt",
+    "s_2114_v1.png"
+   ]
+  },
+  {
+   "num": 2115,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_2115_prompt.txt",
+    "s_2115_v1.png"
+   ]
+  },
+  {
+   "num": 2117,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_2117_prompt.txt",
+    "s_2117_v1.png"
+   ]
+  },
+  {
+   "num": 2118,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_2118_prompt.txt",
+    "s_2118_v1.png"
+   ]
+  },
+  {
+   "num": 2119,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_2119_prompt.txt",
+    "s_2119_v1.png"
+   ]
+  },
+  {
+   "num": 3103,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_3103_prompt.txt",
+    "s_3103_v1.png"
+   ]
+  },
+  {
+   "num": 3104,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_3104_prompt.txt",
+    "s_3104_v1.png"
+   ]
+  },
+  {
+   "num": 3107,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_3107_concept.jpg",
+    "s_3107_prompt.txt",
+    "s_3107_v1.png"
+   ]
+  },
+  {
+   "num": 3108,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_3108_concept.jpg",
+    "s_3108_prompt.txt",
+    "s_3108_v1.png"
+   ]
+  },
+  {
+   "num": 3110,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_3110_concept.jpg",
+    "s_3110_prompt.txt",
+    "s_3110_v1.png"
+   ]
+  },
+  {
+   "num": 3111,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_3111_prompt.txt",
+    "s_3111_v1.png"
+   ]
+  },
+  {
+   "num": 3112,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_3112_prompt.txt",
+    "s_3112_v1.png"
+   ]
+  },
+  {
+   "num": 3115,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_3115_prompt.txt",
+    "s_3115_v1.png"
+   ]
+  },
+  {
+   "num": 3117,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_3117_prompt.txt",
+    "s_3117_v1.png"
+   ]
+  },
+  {
+   "num": 3119,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_3119_prompt.txt",
+    "s_3119_v1.png"
+   ]
+  },
+  {
+   "num": 4104,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_4104_prompt.txt",
+    "s_4104_v1.png"
+   ]
+  },
+  {
+   "num": 4112,
+   "template": "(iteration round, no template file)",
+   "files": [
+    "s_4112_prompt.txt",
+    "s_4112_v1.png"
+   ]
+  }
+ ],
+ "other": [
+  "index.html",
+  "test-smoke_prompt.txt",
+  "test-smoke_v1.png"
+ ]
+}

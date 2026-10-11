@@ -1,0 +1,21 @@
+[4] #4: openai OK
+[4] #4: D15 s_04_v1.png 1024x1536 -> 1080x1920
+[1] #1: openai OK
+[1] #1: D15 s_01_v1.png 1024x1536 -> 1080x1350
+[2] #2: openai OK
+[2] #2: D15 s_02_v1.png 1024x1024 -> 1080x1080
+[3] #3: openai OK
+[3] #3: D15 s_03_v1.png 1024x1024 -> 1080x1080
+[5] #5: openai OK
+[5] #5: D15 s_05_v1.png 1024x1024 -> 1080x1080
+[7] ok /home/adanalysis/workspace/blueprint-static/edenvia/out/s_07_v1.png
+[7] #7: seedream+comp OK
+[6] ok /home/adanalysis/workspace/blueprint-static/edenvia/out/s_06_v1.png
+[6] #6: seedream+comp OK
+[9] ok /home/adanalysis/workspace/blueprint-static/edenvia/out/s_09_v1.png
+[9] #9: seedream+comp OK
+[8] #8: openai OK
+[8] #8: D15 s_08_v1.png 1024x1536 -> 1080x1446
+[10] #10: openai OK
+[10] #10: D15 s_10_v1.png 1024x1536 -> 1080x1920
+DONE rc=0

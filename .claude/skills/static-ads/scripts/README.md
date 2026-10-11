@@ -44,7 +44,8 @@ The originals in `/root/workspace/wh-remix/` are untouched and stay the Wildhorn
 | `pages_common.py` | — (new) | CSS, page shell, spec loader, webp thumbs, tries sorted by version number (originals sorted by mtime) |
 | `stats.py` | — (new; Wildhorn `wh-remix/stats.py` was run-1-specific) | batch metrics from calls.jsonl + validated.json (+ rounds.json) |
 | `brief2spec.py` | — (new) | `1-understand/` hand-off briefs (`1-understand/new-brand-worksheet.md` §9) → draft spec file |
-| `ingest_loom.sh` | — (new) | yt-dlp + mr-transcribe into `feedback/` |
+| `ingest_loom.sh` | — (new) | yt-dlp + `transcribe.py` into `feedback/` (was mr-transcribe) |
+| `transcribe.py` | — (new, 2026-10-11, R15) | OpenAI Whisper API (`whisper-1`, key from `OPENAI_KEY_FILE`): ffmpeg audio extract, 20-min chunks under the 25 MB limit, timecoded `MM:SS  text` transcript next to the media or in `--out`; `--dry-run` tests the audio path without the API |
 | `../brand.json` | — (new; was `brand.json`) | the brand file, at the skill root: blank template in static-ads, filled Wildhorn values in wildhorn-static-ads |
 | `fonts/` | `wh-remix/fonts/` (copied) | Anton, Montserrat (variable), Oswald (variable), Fredoka. DejaVu is the system font `/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf` |
 

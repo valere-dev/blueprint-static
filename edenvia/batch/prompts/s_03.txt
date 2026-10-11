@@ -1,0 +1,36 @@
+IMAGE 1 = product reference: the EDENVIA Molecular Hydrogen tablet pouch. Reproduce it exactly as in Image 1: a stand-up resealable pouch with a zip seal, white at the top fading to sky blue at the bottom, covered in fine water droplets; at the top the Edenvia atom icon next to the bold italic wordmark Edenvia in dark navy; below it MOLECULAR in navy capitals, then HYDROGEN in very large bold navy capitals; then GENERATES 8PPM OF HYDROGEN PER TABLET; then two lines CONSUME DAILY ANTIOXIDANTS AND / EXHIBIT HEALTHIER, IMPROVED LIVING; near the bottom DIETARY SUPPLEMENT over a thin rule, then 30 TABLETS | 30 DAY SUPPLY. Real proportions, real 3D object with contact shadow and the scene's light.
+IMAGE 2 = the template ad to clone 1:1: same layout, composition, render style, palette, typography treatment, spacing and the SAME AMOUNT OF TEXT.
+
+PIXEL INVENTORY (KEEP / SWAP — follow exactly):
+- SWAP left_half_colour: green gradient → Edenvia accent blue gradient #1468DB → #14488F (brand colour slot)
+- SWAP headline_left: 'Alevia's AMLA' white, 2 lines → 'Edenvia's HYDROGEN' (copy formula [Brand]'s [INGREDIENT])
+- KEEP vs_badge: black circle 'VS' (structure)
+- SWAP headline_right: 'Coffee' black → 'Detox Tea' (the rival habit she already knows (A31))
+- SWAP product_spot: Alevia bottle left, ~40 % width, centred under the headline → the EDENVIA pouch, same spot and size (placement)
+- SWAP rival_object: white coffee cup on saucer, steam → the same white cup on a saucer, pale yellow-green tea, a teabag tag hanging over the rim reading 'DETOX' (shape equivalent: cup ↔ cup)
+- SWAP tick_list: 5 green ✅ benefit lines → 5 lines in our words (see slots) (same count, same hierarchy)
+- SWAP cross_list: 5 red ❌ lines → 5 lines in our words (same count)
+- KEEP logo: none beyond the product label (template has no logo slot)
+
+TEMPLATE DNA: green brand half → Edenvia blue gradient; Alevia AMLA bottle → the Edenvia pouch; coffee cup → the same white cup holding 'detox tea' with a DETOX teabag tag (cup ↔ cup); 'Alevia's AMLA' → 'Edenvia's HYDROGEN'; 'Coffee' → 'Detox Tea'; energy ticks/crosses → leg-swelling ticks/crosses.
+SCENE LOGIC: no scene; a split page. Ours: the Edenvia pouch vs the cup of 'detox tea' she drinks for her swollen legs — the same cup shape, same place
+PRODUCT PLACEMENT (copy the template): Edenvia pouch from Image 1, same spot and size as the Alevia bottle (left half, under the headline, ~40 % of the half) — like the template
+
+CHANGES (visual): Flat split poster exactly like the template: LEFT half an Edenvia blue vertical gradient (#1468DB at the top to #14488F at the bottom), RIGHT half light grey; a black circle with VS sitting on the centre line at headline height. Left: a two-line white rounded bold headline, under it the Edenvia Molecular Hydrogen stand-up pouch exactly as in Image 1 (white fading to sky blue, water droplets, zip seal) — a pouch of 30 effervescent tablets; never a bottle, jar, tub or blister standing upright, about 40% of the half's width, soft shadow, label to camera. Right: the black headline, under it a plain white cup on a white saucer at the same size and spot as the template's coffee cup, filled with pale yellow-green tea, a small paper teabag tag hanging over the rim that reads DETOX. Below each: five lines, green ✅ ticks on the left, red ❌ crosses on the right, regular sans, same size and spacing as the template. No person. Do NOT draw: no coffee, no brand on the cup, no second product, no glass. Product truth: one effervescent tablet dropped in a glass of clear water, never hot water.
+
+TEXT (exactly, nothing else):
+- Headline_left: "Edenvia's HYDROGEN"
+- Vs_badge: "VS"
+- Headline_right: "Detox Tea"
+- Tick_1: "Reaches the fluid stuck in your legs"
+- Tick_2: "No bathroom runs every hour"
+- Tick_3: "Legs feel lighter by evening"
+- Tick_4: "No swelling bounce-back tomorrow"
+- Tick_5: "One tablet, one glass of water"
+- Cross_1: "Only flushes water for a few hours"
+- Cross_2: "Keeps you up for the bathroom"
+- Cross_3: "Legs heavy again by noon"
+- Cross_4: "Washes out minerals, not the puffiness"
+- Cross_5: "Only a temporary flush"
+
+USE CASE + CONSTRAINTS: Meta ad in the TEMPLATE'S OWN FORMAT (D15: a square stays 1:1, 4:5 stays 4:5, a 9:16 Story stays 9:16), agency-grade; keep the template's spacing between text blocks. Render ONLY the listed text, spelled exactly, once — nothing added. Nothing from the template's product world may remain (product, brand, logo, flavor, packaging). Anatomically correct, adults over 25. CRITICAL: the EDENVIA pouch, when present, is an exact replica of Image 1. Leave every brand-logo spot outside the label EMPTY (plain background, no icon, no letters) — the official logo is pasted there by script afterwards.

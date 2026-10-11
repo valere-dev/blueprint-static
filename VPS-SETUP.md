@@ -32,6 +32,10 @@ Then tell me what is missing from the pre-flight checklist in $SKILL/2-make/firs
 | `/etc/secrets/kie_api_key` | `scripts/kie6.py` (Seedream fallback) |
 
 `chmod 600`, owned or readable by `adanalysis`. The scripts read the path, not an env var (`OPENAI_KEY_FILE`, `KIE_KEY_FILE` in `scripts/sac_config.py`). Creating `/etc/secrets` needs root.
+On nutraflow1 (2026-10-11) the session has no root, so the files live in `/home/adanalysis/.secrets/` (dir 700, files 600) and
+`sac_config.py` falls back to `~/.secrets/<name>` when `/etc/secrets/<name>` is absent; `~/.bashrc` and `~/.profile` also export
+`OPENAI_KEY_FILE` / `KIE_KEY_FILE`. Both keys verified 2026-10-11 (OpenAI: gpt-image-2 + whisper-1 listed, Whisper end to end; kie: credit balance read).
+The keys were pasted in the chat to be installed: rotate them after the first batch and drop the new values into the same files.
 
 ## 3. Templates (step 2 input)
 

@@ -1,0 +1,19 @@
+{
+ "ads": 10,
+ "reviewed": 0,
+ "validated": 0,
+ "generations": 16,
+ "refused_or_failed": 0,
+ "engines": {
+  "openai:ok": 11,
+  "seedream:ok": 3,
+  "script:ok": 2
+ },
+ "hit_rate_pct": 0.0,
+ "gens_per_validated": 16.0,
+ "first_try_pct": 0.0,
+ "after_one_fix_pct": 0.0,
+ "final_pct": 0.0,
+ "avg_rounds": 0.0,
+ "rounds_distribution": {}
+}

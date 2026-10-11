@@ -1,0 +1,10 @@
+S2: s_02_v4.png [1254, 1254] — 18.0 credits (41.0 left), 64 s
+S4: s_04_v3.png [940, 1672] — 24.0 credits (35.0 left), 84 s
+S1: s_01_v6.png [1122, 1402] — 30.0 credits (29.0 left), 90 s
+S5: s_05_v5.png [1254, 1254] — 18.0 credits (23.0 left), 92 s
+S7: s_07_v3.png [941, 1672] — 12.0 credits (17.0 left), 84 s
+S6: s_06_v3.png [1254, 1254] — 18.0 credits (17.0 left), 91 s
+S9: s_09_v3.png [1254, 1254] — 12.0 credits (5.0 left), 97 s
+S10: s_10_v6.png [941, 1672] — 12.0 credits (5.0 left), 128 s
+S8: s_08_v5.png [1122, 1402] — -9982.0 credits (10005.0 left), 234 s
+DONE

@@ -1,6 +1,6 @@
 {
   "_comment": "Edenvia brand file — v1.0 LOCKED 2026-10-11 after the founder's verdicts. Values marked [TO CONFIRM] are secondary and do not block generation. Every value carries a source in BRAND-KIT.md. Scripts find this file via SAC_WORKDIR=<repo>/edenvia.",
-  "_status": "v1.1 — founder reaffirmed invented proof allowed (2026-10-11); step-1 competitor Metabolae (primary), Lirae (reserve)",
+  "_status": "v1.2 — 2026-10-11: first test angle A8 Lymphatic bloating (founder's final pick, after A5 then A9 the same day); step-1 competitor Lymphoria (lymphoria.co). Founder override on invented proof stands.",
   "name": "EDENVIA",
   "file_prefix": "Edenvia",
   "wordmark": "Edenvia",
@@ -65,44 +65,44 @@
     "_founder_override_2026-10-11 (reaffirmed): invented proof is ALLOWED in ads — testimonial copy, survey-style percentages, counts — the founder's call, recorded here with the date. System rule B16 (every stat with a real source) is overridden for Edenvia. Lint still blocks any $ amount outside prices_allowed and any disease/drug name."
   ],
   "avatar": {
-    "_note": "Edenvia sells one product to MANY avatars, one per angle. Each angle has a full sheet in edenvia/avatars/*.md (identity, pain, failed solutions, trigger, verbatim language, root-cause bridge, big idea, hooks). The block below is the DEFAULT angle A1 only; the spec of every ad names its angle and takes the avatar from that angle's sheet.",
-    "who": "Default angle is A5 blood sugar (first test, founder 2026-10-11): a man in his 40s or older who has progressively surrendered foods he loves because carb-heavy meals leave him drained, crashing and afraid of losing the rest of his day; middle-aged, soft build, family man; food is a visual character (pizza, pancakes, syrup, diner breakfast). Full sheet: edenvia/avatars/blood-sugar-avatar.md. Never a young fitness model.",
-    "core_problem": "the post-meal crash — a normal meal steals the rest of the day; foods surrendered one by one",
+    "_note": "Edenvia sells one product to MANY avatars, one per angle. Each angle has a full sheet in edenvia/avatars/*.md. This block is the DEFAULT angle A8 only; every spec names its angle and takes the avatar from that angle's sheet (edenvia/avatars/lymphatic-bloating.md).",
+    "who": "a woman 35–55 (40s on screen) with persistently swollen, heavy, tender legs, sometimes arms, who has dieted and exercised for years because she believed it was ordinary fat; soft build, legs she hides, tired after standing. Never a young fitness model.",
+    "core_problem": "swollen, heavy, puffy legs that never responded to dieting — 'it's not a fat problem'",
     "secondary_problems": [
-      "foods he gave up: pizza, pancakes, family breakfasts, dinners out",
-      "afternoon energy gone after carbs",
-      "organizing life around what he can no longer tolerate",
-      "stiff joints / morning soreness (A1)",
-      "2 p.m. crash, brain fog (A2)",
-      "winded on the stairs (A3)"
+      "bloated, puffy belly and face in the morning",
+      "heaviness and aching after standing all day",
+      "puffy arms, 'bat wings'",
+      "dismissed by doctors and told to just lose weight",
+      "the wardrobe organised around hiding her legs"
     ],
     "hides_it_by": [
-      "ordering the 'safe' thing while the family eats what they want",
-      "skipping the pancakes with his daughter",
-      "blaming age, the weather, a bad night",
-      "a nap he never used to need after lunch"
+      "long skirts, wide trousers, never shorts",
+      "sitting with her legs tucked away, out of photos",
+      "blaming her discipline, dieting even harder",
+      "saying it's 'water weight' or 'my build'"
     ],
     "already_tried": [
-      "cutting carbs, skipping the foods he loves",
-      "cinnamon, berberine, chromium, generic 'blood sugar' supplements",
-      "walking after meals, water, smaller portions",
-      "metformin or the fear of it (never named as replaced)"
+      "dieting harder, for years",
+      "exercising more, 'never having results'",
+      "'just lose weight' advice",
+      "compression, dry brushing, diuretic teas, generic 'water pills'",
+      "generic antioxidant supplements"
     ],
-    "pleasure_he_keeps": "the pancakes with his daughter, the pizza night, the diner breakfast — nothing to give up: one tablet in a glass of water",
+    "pleasure_he_keeps": "her meals, her coffee, her evenings — nothing to give up and nothing more to restrict: one tablet in a glass of water",
     "proud_proof": [
-      "eats the pancakes, keeps the afternoon",
-      "no crash after pizza night",
-      "the whole family at the same table eating the same thing",
-      "energy that lasts to dinner"
+      "ankles and calves visibly slimmer by evening",
+      "the boots zip up, the rings slide on",
+      "standing for hours without the heavy, aching legs",
+      "shorts in summer, legs in the photo",
+      "'it was never a willpower problem'"
     ]
   },
-  "mechanism": "plain words: a workout (or just a day) creates oxidative stress; when the body can't clear it, the inflammatory response stays switched on and recovery never finishes — that is the morning stiffness. The tablet turns a glass of water into hydrogen-rich water; hydrogen is the smallest molecule there is, so it reaches the cells where the oxidative stress sits and helps the body switch the response back off. Structure/function wording only ('helps support', 'helps maintain'). Jargon never printed: selective antioxidant, hydroxyl radical, reactive oxygen species, endothelial, redox, NSAID, bioavailability. Allowed because the brand itself prints them: 'inflammation', 'inflammatory response', 'oxidative stress', 'cellular', '8PPM'.",
+  "mechanism": "plain words: when the body can't clear everyday oxidative stress, the tissue in the legs stays inflamed and stops draining normally, so fluid sits there — heavy, tender, puffy — and no diet reaches it, because it was never fat. The tablet turns a glass of water into hydrogen-rich water; hydrogen is the smallest molecule there is, reaches the tissue, and helps the body switch that process off so normal drainage can resume. Structure/function wording only ('helps support', 'helps your body'). Jargon never printed: microvascular, lymphatic dysfunction (as a diagnosis), lipedema/lip edema, lymphedema, redox, selective antioxidant, hydroxyl radical, ROS, NSAID, bioavailability. Allowed because the brand prints them: inflammation, inflammatory response, oxidative stress, cellular, 8PPM, lymphatic (as 'lymphatic drainage support').",
   "angles": [
     {
       "id": "A1",
       "name": "Inflammation & joints — stiff, sore, 'woke up wrecked'; recovery never finishes",
-      "sheet": "edenvia/avatars/inflammation-joints.md",
-      "_note": "second candidate; two avatars on file (sheet: active men 35-60 / report: Carol 56)"
+      "sheet": "edenvia/avatars/inflammation-joints.md"
     },
     {
       "id": "A2",
@@ -123,8 +123,7 @@
       "id": "A5",
       "name": "Blood sugar — the post-meal crash, foods surrendered",
       "sheet": "edenvia/avatars/blood-sugar-avatar.md",
-      "default": true,
-      "_note": "FIRST TEST ANGLE (founder, 2026-10-11)"
+      "_note": "considered for the first test on 2026-10-11, then replaced by A8"
     },
     {
       "id": "A6",
@@ -139,12 +138,15 @@
     {
       "id": "A8",
       "name": "Lymphatic bloating — heavy swollen legs that diets never fixed",
-      "sheet": "edenvia/avatars/lymphatic-bloating.md"
+      "sheet": "edenvia/avatars/lymphatic-bloating.md",
+      "default": true,
+      "_note": "FIRST TEST ANGLE (founder, 2026-10-11, final)"
     },
     {
       "id": "A9",
       "name": "Weight & metabolism — stubborn belly after 40 despite effort",
-      "sheet": "edenvia/avatars/weight-metabolism.md"
+      "sheet": "edenvia/avatars/weight-metabolism.md",
+      "_note": "considered for the first test on 2026-10-11, then replaced by A8"
     },
     {
       "id": "A10",
@@ -159,8 +161,11 @@
       "name": "[TO CONFIRM] Longevity / healthy aging — Shopify landing handle exists, no sheet"
     }
   ],
-  "_angles_note": "A1–A9 from the founder's avatar sheets. A10–A12 from existing landing pages. Default = A5 blood sugar (first test). Step 1 research is run on the blood-sugar competitors.",
+  "_angles_note": "A1–A9 from the founder's avatar sheets. A10–A12 from existing landing pages. Default = A8 lymphatic bloating (first test). Step 1 runs on Lymphoria, whose ads sell the same desire (lighter, less puffy legs and belly).",
   "competitors": [
+    "Lymphoria",
+    "Nature's Sunrise",
+    "Natures Sunrise",
     "Metabolae",
     "Lirae",
     "Liraé",
@@ -177,7 +182,7 @@
     "Gundry",
     "Gundry MD"
   ],
-  "_competitors_source": "Step-1 competitors (founder, 2026-10-11): Metabolae (metabolae.com — Ceylon cinnamon softgels, blood sugar / insulin / kidney landings; ~3,500 active Meta ads across persona pages such as 'Sandra Keller, RN', 'Dr. Cornelius Carter', 'Caroline Moore'; 2,818 image ads in Trendtrack) and Lirae (getlirae.com — Ceylon cinnamon 7,200mg; 299 active ads, 608 image ads in Trendtrack). Same buyer (blood sugar), different product. Others: Rovina (avatar sheets), hydrogen-tablet field (09_competitor_teardown.md).",
+  "_competitors_source": "Step-1 competitor (founder, 2026-10-11, second choice): Lymphoria (lymphoria.co — lymphatic drainage supplement 'Nature's Sunrise'; 5.4M monthly visits per Brandsearch; runs through persona pages 'Herbal Remedies' (~3,800 active ads), 'Ancient Roots', 'Lymphatic Wellness Explained', 'The Lymph Journal'; advertorial LP 'Harvard states 165 million Americans are living with a lymphatic dysfunction'). Same buyer (woman 40+, puffiness/weight), different product. Earlier candidates Metabolae and Lirae (blood sugar) kept in reserve. Rovina: the brand whose ads the avatar sheets decode.",
   "banned": {
     "\\b(treat|treats|treating|cure|cures|curing|prevent|prevents|reverse|reverses|heal|heals|remedy|therapy for)\\b": "compliance (DSHEA): no disease treatment / cure / prevention claim",
     "\\b(manage|manages|managing) (your |the )?(arthritis|reflux|GERD|blood sugar|blood pressure|cholesterol|pain|condition)": "compliance (DSHEA): 'manage [condition]' is a drug claim",
@@ -187,9 +192,10 @@
     "\\b(autoship|subscription|subscribe|subscribe & save|50% off)\\b": "site-only offers never in ads",
     "\\b(selective antioxidant|hydroxyl radical|reactive oxygen species|ROS\\b|endothelial|redox|NSAID|NSAIDs|bioavailab\\w+|pharmacokinetic)\\b": "B4: mechanism jargon never printed",
     "\\b(capsule|capsules|gel ?cap|pill|pills|powder|scoop)\\b": "C2: the product is an effervescent tablet, never a capsule / pill / powder",
-    "\\b(Metabolae|Lirae|Liraé|Rovina|Mercola|HRW|Quicksilver|H2TAB|Gundry|Vital Reaction)\\b": "competitor names never printed",
     "\\bDr\\. [A-Z][a-z]+|\\bPhD\\b|\\bcelebrity\\b": "compliance: never an invented NAMED doctor, title or celebrity. 'Trusted by healthcare professionals' and unnamed 'doctors' are allowed (founder, hardcore marketing).",
-    "\\b(A1C|HbA1c|insulin resistance|diabetes|diabetic|metformin|dialysis)\\b": "compliance (DSHEA): the swipe file (Metabolae/Lirae) prints these; Edenvia does not — disease, drug and lab-marker names never in an Edenvia ad. Say 'blood sugar', 'post-meal crash', 'your numbers'."
+    "\\b(A1C|HbA1c|insulin resistance|diabetes|diabetic|metformin|dialysis)\\b": "compliance (DSHEA): the swipe file (Metabolae/Lirae) prints these; Edenvia does not — disease, drug and lab-marker names never in an Edenvia ad. Say 'blood sugar', 'post-meal crash', 'your numbers'.",
+    "\\b(Lymphoria|Nature'?s Sunrise|Metabolae|Lirae|Liraé|Rovina|Mercola|HRW|Quicksilver|H2TAB|Gundry|Vital Reaction)\\b": "competitor names never printed",
+    "\\b(lymphedema|lipedema|lymphatic dysfunction|obesity|obese|thyroid disease|PCOS)\\b": "compliance: never name a disease or condition (weight-angle additions)"
   },
   "compliance": [
     "Structure/function claims only: 'supports', 'helps maintain', 'may support', 'helps your body…'. Never diagnose, treat, cure, prevent, reverse, heal, manage a condition (DSHEA rollout doc, 2026-09-21).",
@@ -205,10 +211,10 @@
     "The swipe-file brands (Metabolae, Lirae) print A1C, insulin, diabetes, metformin, dialysis. Edenvia clones the template, not the disease claim: every such line is rewritten to structure/function before the spec passes lint."
   ],
   "angle_keyword": {
-    "loose": "\\b(sugar|crash|tired)\\b",
-    "required_any": "blood sugar|post-meal crash|after-meal crash|carb crash|sugar crash|foods you gave up|the rest of your day",
-    "angle_prefix": "A5",
-    "msg": "B2: on A5 name the core problem in plain words — 'blood sugar', 'post-meal crash', 'the foods you gave up', never just 'sugar' or 'tired'"
+    "loose": "\\b(legs?|swelling|swollen|puffy|bloated|water)\\b",
+    "required_any": "heavy legs|swollen legs|puffy legs|not a fat problem|never just fat|water retention|puffiness|feel lighter|drain",
+    "angle_prefix": "A8",
+    "msg": "B2: on A8 name the core problem in plain words — 'heavy, swollen legs', 'it's not a fat problem', 'puffiness', never a vague 'legs' or 'water'"
   },
   "visual_checks": [
     {

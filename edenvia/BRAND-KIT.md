@@ -1,4 +1,4 @@
-# Edenvia — Brand Kit (v1.0 LOCKED, 2026-10-11)
+# Edenvia — Brand Kit (v1.2 LOCKED, 2026-10-11)
 
 **Status: locked.** The founder answered the open items on 2026-10-11: DTC pricing ($39, was $79.99), first test angle
 **A5 blood sugar**, hardcore marketing (healthcare-professionals line allowed), extras follow the swipe file, Manrope
@@ -119,12 +119,13 @@ The site also shows "Rated 4.9/5 by 5,000+ reviews", "Trustscore 4.8/5 · 12,000
 Edenvia sells one product to **many avatars, one per angle**. The founder's nine sheets are in `edenvia/avatars/`
 (index in `edenvia/avatars/README.md`). Every spec names its angle and takes the avatar from that sheet.
 
-**Default angle A5 — Blood sugar (first test, founder 2026-10-11).** From `edenvia/avatars/blood-sugar-avatar.md`:
-a man in his 40s or older who has progressively surrendered foods he loves because carb-heavy meals leave him drained,
-crashing and afraid of losing the rest of his day. Family man; his daughter is the emotional witness. Food is a visual
-character: hot pizza, pancakes, butter, syrup, diner breakfast. Enemy belief: "this is the new version of my body;
-more foods will disappear." Trigger: a normal meal steals the rest of the day. Big Idea: "You didn't lose the ability to
-eat pancakes, your cells lost the ability to handle them cleanly." Never a young fitness model.
+**Default angle A8 — Lymphatic bloating (first test, founder 2026-10-11, final).** From `edenvia/avatars/lymphatic-bloating.md`:
+a woman 35–55 with persistently swollen, heavy, tender legs (sometimes arms) who dieted and exercised for years because
+she believed it was ordinary fat. Enemy belief: "if the legs are large, the answer must be more dieting." Trigger: the
+realisation that years of effort failed because it was never fat. Big Idea: "You kept trying to shrink the fat while the
+oxidative stress keeping the tissue swollen was still switched on." Her words: "I had hated my legs my whole life", "dieting
+harder, exercising more, never having results", "it's not a fat problem, it's definitely not a willpower problem",
+"dismissed by doctors and told to just lose weight". Never a young fitness model.
 
 **A1 — Inflammation & joints (second candidate).** Two avatars on file:
 
@@ -163,7 +164,7 @@ Chronic-pain register (S5, Reddit): "Chained to my couch." · "A shadow of my fo
 | Mechanism (plain words) | a workout, or just a day, creates oxidative stress; when the body can't clear it the inflammatory response stays switched on and recovery never finishes. The tablet turns water into hydrogen-rich water; hydrogen is the smallest molecule there is, reaches the cells where the stress sits, and helps the body switch the response back off. Structure/function wording only. |
 | Mechanism words never printed | selective antioxidant, hydroxyl radical, reactive oxygen species, endothelial, redox, NSAID, bioavailability, pharmacokinetic |
 | Mechanism words the brand itself prints (allowed) | inflammation, inflammatory response, oxidative stress, cellular, 8PPM, antioxidants |
-| Angles | **A5 blood sugar (default, first test)** · A1 inflammation & joints · A2 energy · A3 heart · A4 cholesterol · A5 blood sugar · A6 liver · A7 kidneys · A8 lymphatic bloating · A9 weight · `[TO CONFIRM]` A10 reflux · A11 stress · A12 longevity (landing pages exist, no sheet) |
+| Angles | **A8 lymphatic bloating (default, first test)** · A1 inflammation & joints · A2 energy · A5 blood sugar · A3 heart · A4 cholesterol · A5 blood sugar · A6 liver · A7 kidneys · A8 lymphatic bloating · A9 weight · `[TO CONFIRM]` A10 reflux · A11 stress · A12 longevity (landing pages exist, no sheet) |
 | Big Idea per angle | in each sheet, Step 6 (e.g. A1: "You're not waking up wrecked because you trained yesterday, you're waking up wrecked because yesterday's oxidative stress is still keeping your recovery response switched on.") |
 | Headlines that already won | `[MISSING]` — in the founder's static-ads Drive folder, not readable yet |
 | Angles the product can NOT reach | settled in step 2 |
@@ -222,7 +223,13 @@ Font: **Manrope** (founder-confirmed). Static weights 200/400/600/700/800 from G
 
 Names never printed.
 
-**Step-1 competitors (founder, 2026-10-11) — same buyer (blood sugar), different product (Ceylon cinnamon):**
+**Step-1 competitor (founder, 2026-10-11, final): Lymphoria — same buyer and same desire (feel lighter, less puffy), different product (herbal lymphatic drainage supplement 'Nature's Sunrise').**
+
+| Brand | Site | What the tools show (2026-10-11) |
+|---|---|---|
+| **Lymphoria** | lymphoria.co | Brandsearch: 5.4M monthly visits, 1,864 statics indexed with EU spend (top static 3,015 €), persona pages 'Ancient Roots' (4,542 ads, 227k € EU spend), 'Herbalist Amara Linden, PhD', 'Herbalist Michael Langston', 'Lymphologist Allison James, PhD'. Trendtrack: 10,382 statics, pages 'Herbal Remedies' (~3,800 active), 'Lymphatic Wellness Explained', 'The Lymph Journal', 'Dr. Micheal Jones'. Advertorial LP: 'Harvard states 165 million Americans are living with a lymphatic dysfunction'. Top statics: 'Don't blame your lifestyle, fix the lymphatic system', 'What belly fat actually is (it's not food)', 'this is what would happen to a woman's bat wings…', foamy urine, beer belly, man boobs, menopause, PCOS. |
+
+**Earlier step-1 candidates, kept in reserve (same buyer: blood sugar):**
 
 | Brand | Site | What Trendtrack shows (2026-10-11) |
 |---|---|---|
@@ -238,16 +245,17 @@ Others never printed: Rovina (the avatar sheets decode its ads), Dr. Mercola H2,
 | Date | Decision | By |
 |---|---|---|
 | 2026-10-11 | Ads carry the DTC pricing: $39 (was $79.99); bundles when the template has a deal slot. Homepage $79.90 is showroom pricing, never in ads. | founder |
-| 2026-10-11 | First test angle: **A5 blood sugar**. | founder |
+| 2026-10-11 | First test angle: A5 blood sugar, then A9 weight, then **A8 lymphatic bloating** (final, same day). | founder |
 | 2026-10-11 | "Trusted by healthcare professionals" allowed; hardcore marketing. Named invented doctors stay out. | founder / system rule |
 | 2026-10-11 | Extras, footnotes, age callouts: follow the swipe file's slots. | founder |
 | 2026-10-11 | Invented proof allowed (testimonials, percentages, counts); flagged once, reaffirmed by the founder. B16 overridden for Edenvia. | founder override |
 | 2026-10-11 | Step 1 runs on ONE competitor per the Blueprint: Metabolae (35 statics ranked by Brandsearch EU spend). Lirae kept in reserve. | SOP + founder |
 | 2026-10-11 | Logo: use the files on hand. Font: Manrope. | founder |
-| 2026-10-11 | Step-1 competitors: Metabolae and Lirae. | founder |
+| 2026-10-11 | Step-1 competitors: Metabolae and Lirae, then replaced by **Lymphoria (lymphoria.co)** with the A8 switch. Metabolae/Lirae research kept in reserve. | founder |
+| 2026-10-11 | API keys were pasted in the chat twice (OpenAI, kie). Not used, not stored. Founder asked to revoke both and re-create them in the environment secrets as OPENAI_API_KEY and KIE_API_KEY. | system |
 
 ## Still open (secondary, non-blocking)
 
-- The founder's static-ads Drive folder ("JC", owner team@nutraflow.io) is not readable by this connector, which is logged in as valere@nutraflow.io. Fix: open the folder, Share → add valere@nutraflow.io, or move it into My Drive. It holds the winning headlines ("ads doc").
+- The founder's static-ads Drive folder ("JC") is now shared and readable: Version 1 (Batch 1–2 Molecular, Batch 3–7 Pumpkin Seed Oil), Version 2 (Batch 1–25: GLP1, Menopausal, Kidney, Bladder, Prostate), Molecular Hydrogen › Batch 1 Kidney Avatar (Concepts 1–15). PNG statics only so far; no "ads doc" with winning headlines found yet — founder to point to it if it exists.
 - A1 avatar choice (sheet vs Carol) — only needed when A1 is tested.
 - Sheets for A10 reflux, A11 stress, A12 longevity — only if those angles get tested.

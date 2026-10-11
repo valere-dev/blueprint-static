@@ -1,6 +1,6 @@
 {
-  "_comment": "Edenvia brand file — DRAFT v0.2 (2026-10-11). Filled from sourced material only; every value carries a source in BRAND-KIT.md. [MISSING] = nothing on file, do not invent. [TO CONFIRM] = sourced, awaiting the founder's verdict. Lint blocks generation while a used value holds [MISSING]. Scripts find this file via SAC_WORKDIR=<repo>/edenvia. Keys starting with _ are notes.",
-  "_status": "DRAFT v0.2 — label, offer, guarantee, proof, tone and avatars received from the founder; price in ads, default avatar and competitor still open",
+  "_comment": "Edenvia brand file — v1.0 LOCKED 2026-10-11 after the founder's verdicts. Values marked [TO CONFIRM] are secondary and do not block generation. Every value carries a source in BRAND-KIT.md. Scripts find this file via SAC_WORKDIR=<repo>/edenvia.",
+  "_status": "v1.0 — locked by founder verdicts (2026-10-11): DTC pricing, first angle A5 blood sugar, hardcore marketing, swipe-file-led extras, Manrope, competitors Metabolae + Lirae",
   "name": "EDENVIA",
   "file_prefix": "Edenvia",
   "wordmark": "Edenvia",
@@ -13,8 +13,13 @@
   "_product_cutout_note": "1140x1506, transparent PNG made from the packshot (u2net mask, hard edge + 1px feather), checked on white and on black. Replace with the studio cutout if one exists.",
   "product_lock": "the EDENVIA Molecular Hydrogen tablet pouch. Reproduce it exactly as in Image 1: a stand-up resealable pouch with a zip seal, white at the top fading to sky blue at the bottom, covered in fine water droplets; at the top the Edenvia atom icon next to the bold italic wordmark Edenvia in dark navy; below it MOLECULAR in navy capitals, then HYDROGEN in very large bold navy capitals; then GENERATES 8PPM OF HYDROGEN PER TABLET; then two lines CONSUME DAILY ANTIOXIDANTS AND / EXHIBIT HEALTHIER, IMPROVED LIVING; near the bottom DIETARY SUPPLEMENT over a thin rule, then 30 TABLETS | 30 DAY SUPPLY.",
   "lock_extra": "Leave every brand-logo spot outside the label EMPTY (plain background, no icon, no letters) — the official logo is pasted there by script afterwards.",
-  "_fonts_note": "fonts_dir defaults to scripts/fonts (Anton, Montserrat, Oswald, Fredoka). Site font per Konvert scrape and screenshots: Manrope [TO CONFIRM]. Add the file as {\"Manrope\": \"edenvia/assets/fonts/Manrope.ttf\"} once provided.",
-  "fonts": {},
+  "_fonts_note": "Brand font Manrope (founder-confirmed), static weights from Google Fonts in edenvia/assets/fonts/. Anton, Montserrat, Oswald, Fredoka ship with the skill for template-matching headlines.",
+  "fonts": {
+    "Manrope": "edenvia/assets/fonts/Manrope-700.ttf",
+    "Manrope-Regular": "edenvia/assets/fonts/Manrope-400.ttf",
+    "Manrope-SemiBold": "edenvia/assets/fonts/Manrope-600.ttf",
+    "Manrope-ExtraBold": "edenvia/assets/fonts/Manrope-800.ttf"
+  },
   "colors": {
     "accent": "#1468DB",
     "accent_hover": "#176DE1",
@@ -35,11 +40,11 @@
     "not": "never a capsule, gel cap, pill, powder, liquid bottle, or a hydrogen-water bottle/generator"
   },
   "offer": {
-    "price": "[TO CONFIRM which price the ads carry] Landing page (2026-10-11): Buy One $39.00, was $79.99.",
-    "compare_at": "$79.99 (landing page strike-through on the single pouch). NOTE: the homepage product card shows $79.90 — inconsistency on the site, founder to align.",
-    "deal": "[TO CONFIRM for ads] Buy 2 Get 1 Free — 3 pack $78.00 (was $239.97) + FREE Cellular Recovery Protocol, 'Most Popular' · Buy 3 Get 2 Free — 5 pack $117.00 (was $399.95) + FREE Cellular Recovery Protocol + FREE Express Shipping, 'Best Value' · 'Available for the First 1,000 Orders Only' · 'FREE exclusive guide with every order today'.",
+    "price": "$39.00 — Buy One (1 pack), DTC landing price (founder-confirmed 2026-10-11). The $79.90 on the homepage is the showroom price for non-DTC visitors and never appears in ads.",
+    "compare_at": "$79.99",
+    "deal": "Buy 2 Get 1 Free — 3 pack $78.00 (was $239.97) + FREE Cellular Recovery Protocol, 'Most Popular' · Buy 3 Get 2 Free — 5 pack $117.00 (was $399.95) + FREE Cellular Recovery Protocol + FREE Shipping (Express), 'Best Value' · 'Available for the First 1,000 Orders Only' · '93% Sold' · 'FREE exclusive guide with every order today'. Which extras appear in an ad: whatever the template (swipe file) carries in its slots — founder's rule.",
     "guarantee": "30-Day Money Back Guarantee — \"We're confident you'll love how this fits into your daily routine. If you're not satisfied for any reason, simply contact us within 30 days for a full refund—no questions asked.\"",
-    "_note": "site-only offers (autoship, subscription, 50% off with subscription) are NEVER mentioned in ads. The Shopify post-purchase one-time offers (2 bags $54.00, 3 bags $81.00) are checkout upsells, never in ads."
+    "_note": "site-only offers (autoship, subscription, 50% off with subscription) are NEVER mentioned in ads. Shopify post-purchase one-time offers (2 bags $54.00, 3 bags $81.00) are checkout upsells, never in ads."
   },
   "prices_allowed": [
     "$39.00",
@@ -49,67 +54,116 @@
     "$117.00",
     "$399.95"
   ],
-  "_prices_note": "Every $ amount in an ad must be in this list (B20). Founder to confirm which tier the ads sell (default proposal: Buy One $39.00, was $79.99).",
+  "_prices_note": "Every $ amount in an ad must be in this list (B20). Default single-pouch line: $39 (was $79.99). Bundle lines when the template has a deal slot.",
   "proof": [
-    "\"Rated 4.9/5\" — landing page star row (2026-10-11); founder-approved",
-    "\"93% sold\" / \"93% sold out\" — landing page scarcity bar; founder-approved",
+    "\"Rated 4.9/5\" — landing page star row; founder-approved",
+    "\"93% sold\" / \"93% sold out\" — landing scarcity bar; founder-approved",
     "\"12,000+ customers\" / \"More Than 12,000 Happy Edenvia Customers\" — homepage; founder-approved",
     "\"30-Day Money Back Guarantee\" — site FAQ + founder",
-    "[TO CONFIRM] \"Third-party lab tested\" — product page claim (2026-03); certificate on file?",
-    "[TO CONFIRM] \"Trusted by healthcare professionals\" — landing page section; who, with permission?",
-    "[MISSING] a customer survey stat (e.g. \"X% felt less morning stiffness*\") — none on file; a stat template cannot be cloned until one exists",
-    "_note: the site also shows 'Rated 4.9/5 by 5,000+ reviews' (hero), 'Trustscore 4.8/5 · 12,000+ reviews' and '879 Reviews' (product card). Only the three founder-approved lines above go in ads."
+    "\"Trusted by healthcare professionals\" — landing section; founder-approved 2026-10-11 ('hardcore marketing')",
+    "\"Third-party lab tested\" — product page claim (2026-03); founder said no certificate needed",
+    "_founder_override_2026-10-11: on 'invent the proof' — testimonial-style copy may be WRITTEN for review-slot templates (first name + initial, composite, like the swipe file does). What stays out: invented numbers (a survey %, a review count, a lab result) and invented documents. Those remain [MISSING] until real. See BRAND-KIT.md §5."
   ],
   "avatar": {
     "_note": "Edenvia sells one product to MANY avatars, one per angle. Each angle has a full sheet in edenvia/avatars/*.md (identity, pain, failed solutions, trigger, verbatim language, root-cause bridge, big idea, hooks). The block below is the DEFAULT angle A1 only; the spec of every ad names its angle and takes the avatar from that angle's sheet.",
-    "who": "[TO CONFIRM — two candidate A1 avatars] (a) per the Inflammation-joints sheet: active adults, mostly men 35–60, who still train but wake up sore, stiff and 'wrecked' the next morning; (b) per the March strategy report: 'Carol', 56, formerly active, grandmother, chronic stiff joints, years of ibuprofen. The founder picks one; never a young fitness model.",
-    "core_problem": "stiff, creaky joints and soreness the morning after — the body no longer finishes recovering",
+    "who": "Default angle is A5 blood sugar (first test, founder 2026-10-11): a man in his 40s or older who has progressively surrendered foods he loves because carb-heavy meals leave him drained, crashing and afraid of losing the rest of his day; middle-aged, soft build, family man; food is a visual character (pizza, pancakes, syrup, diner breakfast). Full sheet: edenvia/avatars/blood-sugar-avatar.md. Never a young fitness model.",
+    "core_problem": "the post-meal crash — a normal meal steals the rest of the day; foods surrendered one by one",
     "secondary_problems": [
-      "afternoon crash, brain fog (A2)",
-      "winded on the stairs, stubborn numbers (A3)",
-      "post-meal crash after carbs (A5)",
-      "hard belly, puffiness (A6)",
-      "foamy urine, swollen ankles, night-time trips (A7)",
-      "heavy swollen legs (A8)",
-      "stubborn belly fat after 40 despite effort (A9)"
+      "foods he gave up: pizza, pancakes, family breakfasts, dinners out",
+      "afternoon energy gone after carbs",
+      "organizing life around what he can no longer tolerate",
+      "stiff joints / morning soreness (A1)",
+      "2 p.m. crash, brain fog (A2)",
+      "winded on the stairs (A3)"
     ],
     "hides_it_by": [
-      "swinging the legs out of bed slowly, holding the rail on the stairs",
-      "blaming age, lactic acid, a bad night",
-      "longer and longer recovery days between workouts",
-      "the ibuprofen bottle in the bag, the car, the kitchen"
+      "ordering the 'safe' thing while the family eats what they want",
+      "skipping the pancakes with his daughter",
+      "blaming age, the weather, a bad night",
+      "a nap he never used to need after lunch"
     ],
     "already_tried": [
-      "rest, hydration, sleep, stretching",
-      "ibuprofen / Advil, Aleve, Tylenol",
-      "turmeric / curcumin, glucosamine, fish oil, CBD, collagen",
-      "generic antioxidant supplements"
+      "cutting carbs, skipping the foods he loves",
+      "cinnamon, berberine, chromium, generic 'blood sugar' supplements",
+      "walking after meals, water, smaller portions",
+      "metformin or the fear of it (never named as replaced)"
     ],
-    "pleasure_he_keeps": "the workout, the walk, the garden, the grandkids on the floor — nothing to give up: one tablet in a glass of water",
+    "pleasure_he_keeps": "the pancakes with his daughter, the pizza night, the diner breakfast — nothing to give up: one tablet in a glass of water",
     "proud_proof": [
-      "feet hit the floor in the morning and nothing hurts",
-      "stairs without the rail, chair without the push",
-      "same workout, woke up recovered instead of wrecked",
-      "the ibuprofen bottle left untouched"
+      "eats the pancakes, keeps the afternoon",
+      "no crash after pizza night",
+      "the whole family at the same table eating the same thing",
+      "energy that lasts to dinner"
     ]
   },
   "mechanism": "plain words: a workout (or just a day) creates oxidative stress; when the body can't clear it, the inflammatory response stays switched on and recovery never finishes — that is the morning stiffness. The tablet turns a glass of water into hydrogen-rich water; hydrogen is the smallest molecule there is, so it reaches the cells where the oxidative stress sits and helps the body switch the response back off. Structure/function wording only ('helps support', 'helps maintain'). Jargon never printed: selective antioxidant, hydroxyl radical, reactive oxygen species, endothelial, redox, NSAID, bioavailability. Allowed because the brand itself prints them: 'inflammation', 'inflammatory response', 'oxidative stress', 'cellular', '8PPM'.",
   "angles": [
-    { "id": "A1", "name": "Inflammation & joints — stiff, sore, 'woke up wrecked'; recovery never finishes", "sheet": "edenvia/avatars/inflammation-joints.md", "default": true, "_note": "first test angle per the founder" },
-    { "id": "A2", "name": "Energy & fatigue — the 2 p.m. crash, brain fog", "sheet": "edenvia/avatars/energy-fatigue.md" },
-    { "id": "A3", "name": "Heart & arteries — winded on the stairs, stubborn numbers", "sheet": "edenvia/avatars/heart-avatar.md" },
-    { "id": "A4", "name": "Cholesterol — what last night's dinner does to the arteries", "sheet": "edenvia/avatars/cholesterol-avatar.md" },
-    { "id": "A5", "name": "Blood sugar — the post-meal crash, foods surrendered", "sheet": "edenvia/avatars/blood-sugar-avatar.md" },
-    { "id": "A6", "name": "Liver — the hard belly and the borderline markers", "sheet": "edenvia/avatars/liver-avatar.md" },
-    { "id": "A7", "name": "Kidneys / detox — foamy urine, swollen ankles, wasted cleanses", "sheet": "edenvia/avatars/detox-avatar.md" },
-    { "id": "A8", "name": "Lymphatic bloating — heavy swollen legs that diets never fixed", "sheet": "edenvia/avatars/lymphatic-bloating.md" },
-    { "id": "A9", "name": "Weight & metabolism — stubborn belly after 40 despite effort", "sheet": "edenvia/avatars/weight-metabolism.md" },
-    { "id": "A10", "name": "[TO CONFIRM] Acid reflux — landing page exists, no avatar sheet yet" },
-    { "id": "A11", "name": "[TO CONFIRM] Stress — Shopify landing handle exists, no sheet" },
-    { "id": "A12", "name": "[TO CONFIRM] Longevity / healthy aging — Shopify landing handle exists, no sheet" }
+    {
+      "id": "A1",
+      "name": "Inflammation & joints — stiff, sore, 'woke up wrecked'; recovery never finishes",
+      "sheet": "edenvia/avatars/inflammation-joints.md",
+      "_note": "second candidate; two avatars on file (sheet: active men 35-60 / report: Carol 56)"
+    },
+    {
+      "id": "A2",
+      "name": "Energy & fatigue — the 2 p.m. crash, brain fog",
+      "sheet": "edenvia/avatars/energy-fatigue.md"
+    },
+    {
+      "id": "A3",
+      "name": "Heart & arteries — winded on the stairs, stubborn numbers",
+      "sheet": "edenvia/avatars/heart-avatar.md"
+    },
+    {
+      "id": "A4",
+      "name": "Cholesterol — what last night's dinner does to the arteries",
+      "sheet": "edenvia/avatars/cholesterol-avatar.md"
+    },
+    {
+      "id": "A5",
+      "name": "Blood sugar — the post-meal crash, foods surrendered",
+      "sheet": "edenvia/avatars/blood-sugar-avatar.md",
+      "default": true,
+      "_note": "FIRST TEST ANGLE (founder, 2026-10-11)"
+    },
+    {
+      "id": "A6",
+      "name": "Liver — the hard belly and the borderline markers",
+      "sheet": "edenvia/avatars/liver-avatar.md"
+    },
+    {
+      "id": "A7",
+      "name": "Kidneys / detox — foamy urine, swollen ankles, wasted cleanses",
+      "sheet": "edenvia/avatars/detox-avatar.md"
+    },
+    {
+      "id": "A8",
+      "name": "Lymphatic bloating — heavy swollen legs that diets never fixed",
+      "sheet": "edenvia/avatars/lymphatic-bloating.md"
+    },
+    {
+      "id": "A9",
+      "name": "Weight & metabolism — stubborn belly after 40 despite effort",
+      "sheet": "edenvia/avatars/weight-metabolism.md"
+    },
+    {
+      "id": "A10",
+      "name": "[TO CONFIRM] Acid reflux — landing page exists, no avatar sheet yet"
+    },
+    {
+      "id": "A11",
+      "name": "[TO CONFIRM] Stress — Shopify landing handle exists, no sheet"
+    },
+    {
+      "id": "A12",
+      "name": "[TO CONFIRM] Longevity / healthy aging — Shopify landing handle exists, no sheet"
+    }
   ],
-  "_angles_note": "A1–A9 from the founder's avatar sheets (2026-10-11). A10–A12 from existing landing pages. The founder confirms the first test angle (A1 proposed) and may drop any.",
+  "_angles_note": "A1–A9 from the founder's avatar sheets. A10–A12 from existing landing pages. Default = A5 blood sugar (first test). Step 1 research is run on the blood-sugar competitors.",
   "competitors": [
+    "Metabolae",
+    "Lirae",
+    "Liraé",
     "Rovina",
     "Dr. Mercola",
     "Mercola",
@@ -123,42 +177,60 @@
     "Gundry",
     "Gundry MD"
   ],
-  "_competitors_source": "Rovina: the brand whose ads the avatar sheets decode ([ads] Rovina) and whose top 100 video ads are in the founder's Drive. Others: Drive › Molecular Hydrogen › 09_competitor_teardown.md (2026-03-07). The competitor whose 35 ads we clone in step 1 is [MISSING] — founder's choice, announced later.",
+  "_competitors_source": "Step-1 competitors (founder, 2026-10-11): Metabolae (metabolae.com — Ceylon cinnamon softgels, blood sugar / insulin / kidney landings; ~3,500 active Meta ads across persona pages such as 'Sandra Keller, RN', 'Dr. Cornelius Carter', 'Caroline Moore'; 2,818 image ads in Trendtrack) and Lirae (getlirae.com — Ceylon cinnamon 7,200mg; 299 active ads, 608 image ads in Trendtrack). Same buyer (blood sugar), different product. Others: Rovina (avatar sheets), hydrogen-tablet field (09_competitor_teardown.md).",
   "banned": {
     "\\b(treat|treats|treating|cure|cures|curing|prevent|prevents|reverse|reverses|heal|heals|remedy|therapy for)\\b": "compliance (DSHEA): no disease treatment / cure / prevention claim",
     "\\b(manage|manages|managing) (your |the )?(arthritis|reflux|GERD|blood sugar|blood pressure|cholesterol|pain|condition)": "compliance (DSHEA): 'manage [condition]' is a drug claim",
     "\\b(arthritis|GERD|fibromyalgia|neuropathy|heart disease|kidney disease|fatty liver|NAFLD|diabetes|diabetic|hypertension|autoimmune|cognitive decline|anxiety|depression|lymphedema|lipedema)\\b": "compliance: never name a disease or medical condition",
     "\\b(FDA[- ]approved|clinically proven|clinical proof|guaranteed results)\\b": "compliance: no clinical-proof or FDA claim (site says 'clinically inspired', never 'proven')",
-    "\\bDr\\.|\\bPhD\\b|\\bcelebrity\\b": "compliance: never an invented doctor, title or celebrity (the generic 'healthcare professionals' line is [TO CONFIRM])",
     "\\b(replaces? (your )?(PPIs?|antacids?|painkillers?|ibuprofen|Advil|Aleve|Tylenol|NSAIDs?|statins?|metformin|insulin))": "compliance: never say it replaces a medication (phone KB §5)",
     "\\b(autoship|subscription|subscribe|subscribe & save|50% off)\\b": "site-only offers never in ads",
     "\\b(selective antioxidant|hydroxyl radical|reactive oxygen species|ROS\\b|endothelial|redox|NSAID|NSAIDs|bioavailab\\w+|pharmacokinetic)\\b": "B4: mechanism jargon never printed",
-    "\\b(Rovina|Mercola|HRW|Quicksilver|H2TAB|Gundry|Vital Reaction)\\b": "competitor names never printed",
-    "\\b(men|women) over 40\\b": "A11: never an age-callout line that misreads the avatar (reuse of Wildhorn rule) [TO CONFIRM — the brand's own sheets say 'after 40' in body copy]",
-    "\\b(capsule|capsules|gel ?cap|pill|pills|powder|scoop)\\b": "C2: the product is an effervescent tablet, never a capsule / pill / powder"
+    "\\b(capsule|capsules|gel ?cap|pill|pills|powder|scoop)\\b": "C2: the product is an effervescent tablet, never a capsule / pill / powder",
+    "\\b(Metabolae|Lirae|Liraé|Rovina|Mercola|HRW|Quicksilver|H2TAB|Gundry|Vital Reaction)\\b": "competitor names never printed",
+    "\\bDr\\. [A-Z][a-z]+|\\bPhD\\b|\\bcelebrity\\b": "compliance: never an invented NAMED doctor, title or celebrity. 'Trusted by healthcare professionals' and unnamed 'doctors' are allowed (founder, hardcore marketing).",
+    "\\b(A1C|HbA1c|insulin resistance|diabetes|diabetic|metformin|dialysis)\\b": "compliance (DSHEA): the swipe file (Metabolae/Lirae) prints these; Edenvia does not — disease, drug and lab-marker names never in an Edenvia ad. Say 'blood sugar', 'post-meal crash', 'your numbers'."
   },
   "compliance": [
     "Structure/function claims only: 'supports', 'helps maintain', 'may support', 'helps your body…'. Never diagnose, treat, cure, prevent, reverse, heal, manage a condition (DSHEA rollout doc, 2026-09-21).",
     "Never name a disease or medical condition in headline or body. 'Inflammation', 'oxidative stress', 'stiff joints', 'afternoon crash', 'stubborn numbers' are allowed; 'arthritis', 'hypertension', 'diabetes', 'fatty liver' are not.",
-    "No invented doctors, titles, experts or institutions. [TO CONFIRM] the site's own 'Trusted by healthcare professionals' line and photo.",
+    "No invented NAMED doctors or celebrities. 'Trusted by healthcare professionals' is allowed (founder, 2026-10-11).",
     "No fake testimonials as real; no stat without a real source and its footnote (B16).",
     "No body before/after presented as a real customer.",
     "Never say it replaces a medication or that someone should stop one.",
     "Disclaimer (short DSHEA version), only where the template has the slot: 'These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.'",
-    "[TO CONFIRM] '*Results may vary' allowed as a footnote where the template carries one.",
-    "Tone: the founder wants VERY AGGRESSIVE ads (2026-10-11). Aggressive on the pain, the enemy belief and the offer; never aggressive on a disease claim."
+    "Tone: the founder wants VERY AGGRESSIVE ads (2026-10-11). Aggressive on the pain, the enemy belief and the offer; never aggressive on a disease claim.",
+    "'*Results may vary' footnote allowed wherever the template carries one (follow the swipe file).",
+    "Age callouts ('after 40', 'over 50') allowed when the template carries one (follow the swipe file).",
+    "The swipe-file brands (Metabolae, Lirae) print A1C, insulin, diabetes, metformin, dialysis. Edenvia clones the template, not the disease claim: every such line is rewritten to structure/function before the spec passes lint."
   ],
   "angle_keyword": {
-    "loose": "\\b(pain|stiff|sore|soreness)\\b",
-    "required_any": "stiff joints|joint stiffness|morning stiffness|achy joints|joint pain|creaky joints|stiff knees|stiff back|woke up wrecked|wake up wrecked",
-    "angle_prefix": "A1",
-    "msg": "B2: on A1 name the core problem in plain words — 'stiff joints' / 'morning stiffness' / 'creaky joints' / 'woke up wrecked', never just 'pain' or 'sore' [TO CONFIRM wording]"
+    "loose": "\\b(sugar|crash|tired)\\b",
+    "required_any": "blood sugar|post-meal crash|after-meal crash|carb crash|sugar crash|foods you gave up|the rest of your day",
+    "angle_prefix": "A5",
+    "msg": "B2: on A5 name the core problem in plain words — 'blood sugar', 'post-meal crash', 'the foods you gave up', never just 'sugar' or 'tired'"
   },
   "visual_checks": [
-    { "if": "\\b(capsule|capsules|pill|pills|gel ?cap|powder|scoop)\\b", "unless": "effervescent tablet", "msg": "C2: Edenvia is an effervescent tablet dropped in a glass of water — never a capsule, pill or powder" },
-    { "if": "\\b(cloudy|murky|foam|foamy|coloured water|colored water|green|pink)\\b", "unless": "clear water", "msg": "C2: the glass stays clear and clean with fine rising bubbles — never cloudy, foamy or coloured" },
-    { "if": "\\b(bottle|jar|tub|blister)\\b", "unless": "pouch", "msg": "D6: the container is a stand-up pouch — never a bottle, jar, tub or blister" },
-    { "if": "\\b(hot water|boiling|tea|coffee)\\b", "unless": "never", "msg": "product fact: the tablet goes in room-temperature or chilled water, never hot water" }
+    {
+      "if": "\\b(capsule|capsules|pill|pills|gel ?cap|powder|scoop)\\b",
+      "unless": "effervescent tablet",
+      "msg": "C2: Edenvia is an effervescent tablet dropped in a glass of water — never a capsule, pill or powder"
+    },
+    {
+      "if": "\\b(cloudy|murky|foam|foamy|coloured water|colored water|green|pink)\\b",
+      "unless": "clear water",
+      "msg": "C2: the glass stays clear and clean with fine rising bubbles — never cloudy, foamy or coloured"
+    },
+    {
+      "if": "\\b(bottle|jar|tub|blister)\\b",
+      "unless": "pouch",
+      "msg": "D6: the container is a stand-up pouch — never a bottle, jar, tub or blister"
+    },
+    {
+      "if": "\\b(hot water|boiling|tea|coffee)\\b",
+      "unless": "never",
+      "msg": "product fact: the tablet goes in room-temperature or chilled water, never hot water"
+    }
   ],
   "logo_files": {
     "dark_bg": "edenvia/assets/logo/edenvia-logo-white-nobg.png",
@@ -169,7 +241,7 @@
   },
   "site": {
     "domain": "edenvia.com",
-    "signoff": "edenvia.com [TO CONFIRM]",
+    "signoff": "edenvia.com",
     "support_email": "support@edenvia.com",
     "_source": "founder (2026-10-11) + Shopify shop info (Shopify Plus, USD, United States). Older docs say tryedenvia.com — superseded."
   }

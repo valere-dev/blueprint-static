@@ -1,0 +1,135 @@
+{
+ "brand": "EDENVIA",
+ "ad_id": "EDENVIA_B01_C0379_V1",
+ "template": {
+  "id": "c0379",
+  "path": "/home/adanalysis/workspace/blueprint-static/edenvia/batch/templates/10-11_c0379_GrassfedBeefLiver.webp",
+  "source": "GrassfedBeefLiver · Adrien batch 01 · 1:1 Pixar cartoon before/after split (Wildhorn c0379 validated, run-1 #17)",
+  "family": "2 BEFORE-AFTER / timeline",
+  "aspect": "1:1",
+  "production_method": "Pixar/3D cartoon regeneration — one generation: red/blue diagonal split, the same cartoon man twice, headline + red box + footnote by script, pouch pasted centre-bottom",
+  "refusal_risk": "none"
+ },
+ "decode": {
+  "scroll_stop_trick": "A cartoon man, belly out and frowning on a red half, faces his own slim grinning self on a blue half, under a headline that says the product DRAINS the belly in a number of days. Loud, simple, kid-show colours.",
+  "angle_carried": "'DRAINS BEER BELLY IN 14 DAYS' — Adrien: 'the aggressive winner, word for word'",
+  "hidden_reading": "the verb 'drains' tells him it's not fat he must burn but something that can be let out — our mechanism in one word",
+  "scene_logic": "same man, before on red (left, sad, belly over the belt), after on blue (right, smiling, flat), product between them; ours identical with our avatar and our pouch",
+  "visual_trick": "the diagonal red/blue split and the cartoon exaggeration; copy literally",
+  "shape_or_function_equivalent": "beer belly ↔ the same belly (A8-M); amber bottle ↔ pouch; 14 days ↔ 30 days",
+  "verb_of_the_scene": "drain",
+  "structure_type": "split (before/after) + headline",
+  "shock_level": "mild (cartoon)",
+  "render_style": "Pixar-style 3D cartoon, saturated red and blue halves, soft shadows, white headline area on top",
+  "text_treatment": "condensed caps headline, the verb in red, the rest black; deadline in a red box with white text; small footnote bottom centre"
+ },
+ "strategy": {
+  "angle_id": "A8",
+  "angle": "A8-M the man's belly that isn't fat — it drains, it doesn't burn",
+  "mechanism_id": "M1",
+  "mechanism": "M1: when the body can't clear everyday oxidative stress, the tissue in the legs stays inflamed and stops draining normally, so fluid sits there — heavy, tender, puffy — and no diet reaches it, because it was never fat; the tablet turns a glass of water into hydrogen-rich water, hydrogen is the smallest molecule there is, reaches the tissue and helps the body switch that process off so normal drainage can resume",
+  "sub_avatar": "trigger: 'where did your gut go' is what he wants to hear · cause: inflamed tissue holding fluid · tried: cutting beer, sit-ups",
+  "awareness": "problem-aware",
+  "belief_installed": "A belly that no diet moves isn't food I stored — it's what my body stopped clearing."
+ },
+ "inventory": [
+  {
+   "zone": "headline",
+   "template": "red 'DRAINS' + black 'BEER BELLY'",
+   "action": "SWAP",
+   "ours": "red 'DRAINS' + black 'THE BELLY THAT ISN'T FAT'",
+   "reason": "their verb is our mechanism; A8-M bank 'belly that isn't fat' (B2)"
+  },
+  {
+   "zone": "deadline_box",
+   "template": "red box 'IN 14 DAYS'",
+   "action": "SWAP",
+   "ours": "red box 'IN 30 DAYS'",
+   "reason": "template carries a deadline (B6); our supply"
+  },
+  {
+   "zone": "left_figure",
+   "template": "sad cartoon man, big belly, red half",
+   "action": "SWAP",
+   "ours": "same style, man 45–60, greying, soft midlife build, belly over the belt, ordinary T-shirt or button shirt — never a fitness model as a Pixar character, belly over the belt, frowning",
+   "reason": "our avatar"
+  },
+  {
+   "zone": "right_figure",
+   "template": "happy slim cartoon man, blue half",
+   "action": "SWAP",
+   "ours": "the same character, flat soft belly (not athletic), smiling",
+   "reason": "realistic after"
+  },
+  {
+   "zone": "product_spot",
+   "template": "amber bottle centre-bottom between the two",
+   "action": "SWAP",
+   "ours": "Edenvia pouch centre-bottom, same size; a small clear glass with a fizzing tablet at its foot",
+   "reason": "placement"
+  },
+  {
+   "zone": "footnote",
+   "template": "'Individual results may vary'",
+   "action": "KEEP",
+   "ours": "same",
+   "reason": "kept"
+  },
+  {
+   "zone": "colors",
+   "template": "red left half, blue right half, white top",
+   "action": "KEEP",
+   "ours": "red left, Edenvia accent blue #1468DB right, white top",
+   "reason": "their split, our blue"
+  },
+  {
+   "zone": "logo",
+   "template": "none",
+   "action": "KEEP",
+   "ours": "none",
+   "reason": ""
+  }
+ ],
+ "text_slots": [
+  {
+   "slot": "headline",
+   "template_text": "DRAINS BEER BELLY",
+   "ours": "DRAINS THE BELLY THAT ISN'T FAT",
+   "source": "Adrien's aggressive winner, our problem (B2 bank)",
+   "same_length": true
+  },
+  {
+   "slot": "deadline",
+   "template_text": "IN 14 DAYS",
+   "ours": "IN 30 DAYS",
+   "source": "our supply",
+   "same_length": true
+  },
+  {
+   "slot": "footnote",
+   "template_text": "Individual results may vary",
+   "ours": "Individual results may vary",
+   "source": "kept",
+   "same_length": true
+  }
+ ],
+ "text_slot_count": 3,
+ "proof_allowed": [],
+ "people": {
+  "customer_look": "man 45–60, greying, soft midlife build, belly over the belt, ordinary T-shirt or button shirt — never a fitness model as a Pixar character, same character both sides",
+  "other_people": "none"
+ },
+ "visual_bans": [
+  "the after figure is soft and ordinary, never a six-pack",
+  "shirtless cartoon torso as in the template — no realistic skin",
+  "the product is only ever a white effervescent tablet in a clear glass of water — no other dosage form, no blister pack, no sachet",
+  "no bottle, jar or tub for Edenvia — the container is the stand-up pouch of Image 1, label untouched",
+  "any glass holds clear water with fine rising bubbles; never hot water, tea or coffee in that glass",
+  "no competitor brand name, logo or bottle shape anywhere (brand.json banned list)",
+  "no disease or drug name on the image"
+ ],
+ "compliance_flags": [
+  "'IN 30 DAYS' deadline — footnote kept"
+ ],
+ "missing": []
+}

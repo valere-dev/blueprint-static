@@ -1,0 +1,115 @@
+{
+ "brand": "EDENVIA",
+ "ad_id": "EDENVIA_B01_C0325_V1",
+ "template": {
+  "id": "c0325",
+  "path": "/home/adanalysis/workspace/blueprint-static/edenvia/batch/templates/10-11_c0325_PrimalViking.webp",
+  "source": "PrimalViking · Adrien batch 01 · 4:5 pencil-sketch 3-stage timeline (Wildhorn c0325 validated, run-1 #14)",
+  "family": "2 BEFORE-AFTER / timeline",
+  "aspect": "4:5",
+  "production_method": "illustration + pasted product — pencil/ink sketch of three torsos on white in one generation, chalk-style black labels and banner by script, pouch pasted below the banner",
+  "refusal_risk": "none"
+ },
+ "decode": {
+  "scroll_stop_trick": "Three hand-drawn torsos in a row — soft, softer, flat — with WEEK 0 / WEEK 2 / WEEK 4 chalk labels and a chalkboard banner saying goodbye to the belly. Looks like a doctor's sketch, not an ad.",
+  "angle_carried": "dad bod belly, 4-week timeline — Adrien kept their words ('GOODBYE DAD BOD BELLY')",
+  "hidden_reading": "a drawing promises less than a photo and is believed more — anatomy-book authority",
+  "scene_logic": "three stages of the same body left to right; ours = the same man's torso, belly over the waistband at week 0, less round at week 2, flat (not muscular) at week 4",
+  "visual_trick": "the cross-hatched pencil style and the chalkboard labels; copy literally",
+  "shape_or_function_equivalent": "six-pack at week 4 ↔ a flat, normal 50-year-old torso at week 4 (our avatar never gets abs); amber bottle ↔ pouch",
+  "verb_of_the_scene": "shrink over time",
+  "structure_type": "3-panel timeline + banner",
+  "shock_level": "calm",
+  "render_style": "black pencil and ink sketch on white paper, cross-hatching, no colour",
+  "text_treatment": "white chalk capitals on black rounded labels; long black banner with white chalk text"
+ },
+ "strategy": {
+  "angle_id": "A8",
+  "angle": "A8-M the man's belly that isn't fat — the keg that no diet moved",
+  "mechanism_id": "M1",
+  "mechanism": "M1: when the body can't clear everyday oxidative stress, the tissue in the legs stays inflamed and stops draining normally, so fluid sits there — heavy, tender, puffy — and no diet reaches it, because it was never fat; the tablet turns a glass of water into hydrogen-rich water, hydrogen is the smallest molecule there is, reaches the tissue and helps the body switch that process off so normal drainage can resume",
+  "sub_avatar": "trigger: belt notch, the 'dad bod' joke · cause: inflamed tissue holding fluid · tried: sit-ups, skipping beer, intermittent fasting",
+  "awareness": "problem-aware",
+  "belief_installed": "A belly that no diet moves isn't food I stored — it's what my body stopped clearing."
+ },
+ "inventory": [
+  {
+   "zone": "sketch_row",
+   "template": "three pencil torsos: belly / softer / six-pack",
+   "action": "SWAP",
+   "ours": "three pencil torsos of the same man (man 45–60, greying, soft midlife build, belly over the belt, ordinary T-shirt or button shirt — never a fitness model): belly over the waistband / less round / flat and normal — no abs",
+   "reason": "our avatar's realistic result"
+  },
+  {
+   "zone": "labels",
+   "template": "'WEEK 0' 'WEEK 2' 'WEEK 4' chalk labels",
+   "action": "KEEP",
+   "ours": "same",
+   "reason": "timeline device kept word for word"
+  },
+  {
+   "zone": "banner",
+   "template": "'GOODBYE DAD BOD BELLY' chalk banner",
+   "action": "SWAP",
+   "ours": "'GOODBYE KEG BELLY'",
+   "reason": "copy formula 'GOODBYE [problem]'; 'keg' = the A8-M bank word (B2)"
+  },
+  {
+   "zone": "product_spot",
+   "template": "amber Primal Viking bottle centred under the banner",
+   "action": "SWAP",
+   "ours": "the Edenvia pouch centred under the banner, same height",
+   "reason": "placement (A8)"
+  },
+  {
+   "zone": "background",
+   "template": "white paper",
+   "action": "KEEP",
+   "ours": "white",
+   "reason": "render style"
+  },
+  {
+   "zone": "logo",
+   "template": "none (bottle carries it)",
+   "action": "KEEP",
+   "ours": "none — the pouch carries it",
+   "reason": ""
+  }
+ ],
+ "text_slots": [
+  {
+   "slot": "labels",
+   "template_text": "WEEK 0 · WEEK 2 · WEEK 4",
+   "ours": "WEEK 0 · WEEK 2 · WEEK 4",
+   "source": "kept",
+   "same_length": true
+  },
+  {
+   "slot": "banner",
+   "template_text": "GOODBYE DAD BOD BELLY",
+   "ours": "GOODBYE KEG BELLY",
+   "source": "copy formula; A8-M bank: 'keg'",
+   "same_length": true
+  }
+ ],
+ "text_slot_count": 2,
+ "proof_allowed": [],
+ "people": {
+  "customer_look": "headless pencil torso of man 45–60, greying, soft midlife build, belly over the belt, ordinary T-shirt or button shirt — never a fitness model",
+  "other_people": "none"
+ },
+ "visual_bans": [
+  "no six-pack, no muscle definition at week 4 — flat and ordinary",
+  "sketch stays black on white: no colour except the pouch",
+  "the product is only ever a white effervescent tablet in a clear glass of water — no other dosage form, no blister pack, no sachet",
+  "no bottle, jar or tub for Edenvia — the container is the stand-up pouch of Image 1, label untouched",
+  "any glass holds clear water with fine rising bubbles; never hot water, tea or coffee in that glass",
+  "no competitor brand name, logo or bottle shape anywhere (brand.json banned list)",
+  "no disease or drug name on the image"
+ ],
+ "compliance_flags": [
+  "timeline results claim — primary text carries '*Results may vary'"
+ ],
+ "missing": [],
+ "_note": "Same file as c0330 in Adrien's library (identical bytes) — he ran it twice with two angles; we do the same: c0325 = A8-M belly, c0330 = A8-L legs."
+}

@@ -158,6 +158,20 @@ Miss: S11 for the 3rd time — kept regenerating a scene; "review the ad by scre
 
 ---
 
+### Edenvia Loom 1 (E-L1, 2026-10-11, written feedback in chat, family 1 = S1–S10): 10/10 generated first pass, 6 fixed at QC before showing, founder: product wrong on all, copy OK
+
+| # | Loom | Ad | Founder said | W/M/P | Rule |
+|---|---|---|---|---|---|
+| E1 | E-L1 | all | "les images produits ne sont pas bonnes" + reference folder of 27 real product photos | M | **C23** (new), C22 |
+| E2 | E-L1 | S2 | template shows a % off, we put a price: "il faut mettre -50" | M | **B23** (new), E11 |
+| E3 | E-L1 | all | "trop de variations et pas assez d'analyse concrète du mécanisme derrière" | P | A13, E11, B23 |
+| E4 | E-L1 | all | copywriting "ça va, c'est pas dégueu" | W | B-series as is |
+| E5 | E-L1 | all | "sinon c'est bien" — layouts validated | W | frozen (A26) |
+
+System observations NOT raised by the founder, logged for the next review, not rules (the founder's verdict wins, A26): S6 lost the two-sided opposition of the arm-wrestling template (one man, one beer); S4 and S10 show a heavier and a slimmer woman, which reads as weight loss instead of fluid; S2 draws the calf filling as fat lumps. Ask at Loom 2 whether the "fluid, not fat" line must be visible in every A8 body.
+
+Redo list for round 2 (D11): all 10 get the product re-placed from the library (C23) — pixels otherwise kept (D21); S2 offer button → "-50%" (B23). Nothing else moves.
+
 ## Loom coverage matrix
 
 Every distinct piece of feedback in every transcript (`feedback/loom-b2…b9.txt`, `loom-s1…s4.txt`) plus the two reviews without a transcript

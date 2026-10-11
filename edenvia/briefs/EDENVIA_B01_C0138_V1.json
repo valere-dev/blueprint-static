@@ -86,8 +86,8 @@
    "zone": "button",
    "template": "black rounded button 'FLAT 20% OFF'",
    "action": "SWAP",
-   "ours": "black rounded button 'NOW $39.00'",
-   "reason": "our offer framing; $39.00 is in prices_allowed; '20% off' is not ours"
+   "ours": "black rounded button '-50%'",
+   "reason": "B23 offer-slot parity: the template's mechanic is a percentage, so ours is a percentage. $39 vs $79.99 = 51% off, shown as -50% (Loom 1, founder)"
   },
   {
    "zone": "logo",
@@ -143,8 +143,8 @@
   {
    "slot": "button",
    "template_text": "FLAT 20% OFF",
-   "ours": "NOW $39.00",
-   "source": "prices_allowed",
+   "ours": "-50%",
+   "source": "prices_allowed ($39 vs $79.99); B23 parity, Loom 1",
    "same_length": true
   },
   {

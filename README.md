@@ -18,7 +18,7 @@ as reference; they are not copied into this repo.
 
 - Brand kit: **v1.5 locked** (`edenvia/BRAND-KIT.md`, `edenvia/brand.json`). Angle A8 lymphatic bloating; three sub-angles signed at gate 1 (legs/belly, puffy face, man's belly).
 - Step 1: **done and signed off** — Lymphoria (lymphoria.co), 35 statics decoded (`edenvia/research/lymphoria/`).
-- Step 2: concept family 1 (us vs them, 10 templates) **briefed** — `edenvia/briefs/`, lint OK. Gate 2 pending: the VPS session generates family 1, the founder validates, then families 2–9.
+- Step 2: families 1 (us vs them, 10) and 2 (before-after / timeline, 8) **briefed** — `edenvia/briefs/`, 18 briefs, lint OK. Gate 2 pending: the VPS session generates family 1, the founder validates (Loom 1 → rules), family 2 is retouched against those rules before it is generated, then families 3–9.
 - Steps 3–5 run on the founder's VPS (`VPS-SETUP.md`).
 
 ## How the scripts find the brand

@@ -1,0 +1,123 @@
+{
+ "brand": "EDENVIA",
+ "ad_id": "EDENVIA_B01B_UVT1140_V1",
+ "template": {
+  "id": "UVT1140",
+  "path": "/home/adanalysis/workspace/blueprint-static/edenvia/batch/templates/10-11_UVT1140_ColonBroom.webp",
+  "source": "ColonBroom · founder's coded swipe file (UVT = us vs them) · sorted F1 by sort-ad",
+  "family": "1 US vs THEM / comparison",
+  "aspect": "9:16",
+  "production_method": "photo — the same woman twice, split vertically: left black-and-white, right colour holding the pouch (A25 method: generated portrait pair, real pouch + hand from the library pasted, text by script)",
+  "refusal_risk": "body"
+ },
+ "decode": {
+  "scroll_stop_trick": "The same woman twice, one side drained of colour and the other alive, with a VS badge on the seam: the before/after is read before the words.",
+  "angle_carried": "menopause symptoms → symptom-free with the product",
+  "hidden_reading": "none; the colour split does the work",
+  "scene_logic": "two selfie portraits, same framing, same woman. Ours: her puffy morning face in grey, her defined face in colour holding the pouch — the A8-F sub-angle fits a portrait template",
+  "visual_trick": "left half desaturated, right half colour; VS circle on the dividing line; two short captions under each half on a dark band — copy literally",
+  "shape_or_function_equivalent": "menopause realisation ↔ 'my face wasn't just tired'; product in hand ↔ pouch in hand (library hand photo)",
+  "verb_of_the_scene": "realise, then live",
+  "structure_type": "split / same person twice",
+  "shock_level": "calm",
+  "render_style": "phone selfie realism, left B&W, right warm colour; dark grey caption band",
+  "text_treatment": "two 4-line captions in bold rounded sans, white, centred; black VS badge with white rim"
+ },
+ "strategy": {
+  "angle_id": "A8",
+  "angle": "A8-F puffy face and soft jawline — 'it wasn't tired, it was puffiness'",
+  "mechanism_id": "M1",
+  "mechanism": "M1: when the body can't clear everyday oxidative stress, the tissue in the legs stays inflamed and stops draining normally, so fluid sits there — heavy, tender, puffy — and no diet reaches it, because it was never fat; the tablet turns a glass of water into hydrogen-rich water, hydrogen is the smallest molecule there is, reaches the tissue and helps the body switch that process off so normal drainage can resume",
+  "sub_avatar": "trigger: the morning mirror, a face that looks swollen and older than she is · cause: fluid the body stopped clearing overnight · tried: cold spoons, less salt, 'drinking more water'",
+  "awareness": "problem-aware",
+  "belief_installed": "It was never fat. It's fluid my body stopped clearing — and no diet reaches it."
+ },
+ "inventory": [
+  {
+   "zone": "left_portrait",
+   "template": "woman 40s, B&W, serious, selfie at home",
+   "action": "SWAP",
+   "ours": "our avatar, 45, B&W, puffy morning face, hair down, bathroom mirror selfie; same framing",
+   "reason": "our avatar's face carries the problem (A8-F)"
+  },
+  {
+   "zone": "right_portrait",
+   "template": "same woman colour, smiling, holding ColonBroom tub",
+   "action": "SWAP",
+   "ours": "same woman colour, defined jawline, holding the Edenvia pouch at chest (hand + pouch from the library)",
+   "reason": "C23 — the hand and pouch come from a real photo"
+  },
+  {
+   "zone": "vs_badge",
+   "template": "black circle 'VS.' on the seam",
+   "action": "KEEP",
+   "ours": "same",
+   "reason": "structure"
+  },
+  {
+   "zone": "caption_band",
+   "template": "dark band, two captions",
+   "action": "KEEP",
+   "ours": "same band, our words",
+   "reason": "structure"
+  },
+  {
+   "zone": "fine_print",
+   "template": "actor disclaimer line",
+   "action": "SWAP",
+   "ours": "none",
+   "reason": "nothing to disclaim"
+  },
+  {
+   "zone": "logo",
+   "template": "ColonBroom wordmark top left",
+   "action": "SWAP",
+   "ours": "Edenvia wordmark (real logo pasted by script, D19) same spot",
+   "reason": "brand slot"
+  }
+ ],
+ "text_slots": [
+  {
+   "slot": "caption_left",
+   "template_text": "Realizing I had already started menopause",
+   "ours": "Realizing my puffy face wasn't tiredness.",
+   "source": "copy formula 'Realizing I…'; B2 puffy face",
+   "same_length": true
+  },
+  {
+   "slot": "caption_right",
+   "template_text": "Living symptom-free with ColonBroom Premium",
+   "ours": "Living puff-free with Edenvia",
+   "source": "copy formula 'Living X-free with [brand]'",
+   "same_length": true
+  },
+  {
+   "slot": "vs_badge",
+   "template_text": "VS.",
+   "ours": "VS.",
+   "source": "template words kept",
+   "same_length": true
+  }
+ ],
+ "text_slot_count": 3,
+ "proof_allowed": [
+  "none needed"
+ ],
+ "people": {
+  "customer_look": "woman 45, soft build, natural hair, no make-up left side; same woman both sides (A3)",
+  "other_people": "none"
+ },
+ "product_source": "/home/adanalysis/workspace/blueprint-static/edenvia/assets/product/library/hand_pouch-kitchen.jpg (hand + pouch, cropped) · pouch cutout from studio_pouch-ice-bowl-glass-straw-v2.png if the hand must be regenerated",
+ "visual_bans": [
+  "same woman on both sides — never two different women",
+  "no weight change between the halves: only the face puffiness differs",
+  "the product is only ever a white effervescent tablet in a clear glass of water — no other dosage form, no blister pack, no sachet",
+  "no bottle, jar or tub for Edenvia — the container is the stand-up pouch cut from the product library (C23), label untouched, water droplets kept",
+  "any glass holds clear water with fine rising bubbles; never hot water, tea or coffee in that glass",
+  "no competitor brand name, logo or bottle shape anywhere (brand.json banned list)",
+  "no disease or drug name on the image",
+  "two bodies of different weight never appear on A8: the body is the same, only the swelling changes (Loom 1 system note, pending founder)"
+ ],
+ "compliance_flags": [],
+ "missing": []
+}

@@ -1,0 +1,130 @@
+{
+ "brand": "EDENVIA",
+ "ad_id": "EDENVIA_B01_C0331_V1",
+ "template": {
+  "id": "c0331",
+  "path": "/home/adanalysis/workspace/blueprint-static/edenvia/batch/templates/10-11_c0331_PrimalViking.webp",
+  "source": "PrimalViking · Adrien batch 01 · 9:16 flat-illustration 4-panel timeline with glow (Wildhorn c0331 validated after 5 rounds, run-1 #16)",
+  "family": "2 BEFORE-AFTER / timeline",
+  "aspect": "9:16",
+  "production_method": "illustration + pasted product — flat vector-style illustration generated in one piece (3 small panels + 1 large result panel), headline, day labels and footnote by script, pouch pasted bottom-right of the result panel",
+  "refusal_risk": "none"
+ },
+ "decode": {
+  "scroll_stop_trick": "A four-panel medical-poster timeline: three small back-view figures with an orange glow on the problem area shrinking DAY 6 → 12 → 27, then one big clean result panel next to the product. The glow tells the story without a word.",
+  "angle_carried": "love handles & cortisol belly dissolved by day 28 — Adrien's 5-round template (Loom 4: keep the small glow on the result panel too)",
+  "hidden_reading": "heat-map authority: the glow is 'where it's working', so the result panel with a faint glow reads as still working",
+  "scene_logic": "three small cards left to right, same figure from behind, glow shrinking; one large card below with the result and the product; ours = the back of a woman's lower legs (calves, ankles, heels) in the same cards, glow on the calves and ankles",
+  "visual_trick": "the template's visual code: an orange glow marks where the body is working; ours = soft orange glow on the swollen tissue, shrinking panel by panel and still present, small, on the result panel (Adrien Loom 4 on this template) — copy exactly, including the result panel",
+  "shape_or_function_equivalent": "love handles (back view, waist) ↔ calves and ankles (back view, knee down); amber bottle bottom-right ↔ pouch bottom-right, never squashed (Adrien Loom 2: jar squashed → redo)",
+  "verb_of_the_scene": "dissolve / drain over days",
+  "structure_type": "3 + 1 panel timeline",
+  "shock_level": "calm",
+  "render_style": "flat vector illustration, soft navy card borders on white, muted skin, orange radial glow, light grey background",
+  "text_treatment": "bold condensed caps headline, black with the deadline in blue; day labels in white on navy chips; footnote tiny italic bottom centre"
+ },
+ "strategy": {
+  "angle_id": "A8",
+  "angle": "A8-L heavy, swollen legs drained by day 30",
+  "mechanism_id": "M1",
+  "mechanism": "M1: when the body can't clear everyday oxidative stress, the tissue in the legs stays inflamed and stops draining normally, so fluid sits there — heavy, tender, puffy — and no diet reaches it, because it was never fat; the tablet turns a glass of water into hydrogen-rich water, hydrogen is the smallest molecule there is, reaches the tissue and helps the body switch that process off so normal drainage can resume",
+  "sub_avatar": "trigger: calves tight and hot by evening · cause: inflamed tissue holding fluid · tried: elevating, compression, water tablets",
+  "awareness": "problem-aware",
+  "belief_installed": "It was never fat. It's fluid my body stopped clearing — and no diet reaches it."
+ },
+ "inventory": [
+  {
+   "zone": "headline",
+   "template": "'DISSOLVES LOVE HANDLES & / CORTISOL BELLY BY DAY 28' (deadline in blue)",
+   "action": "SWAP",
+   "ours": "'DRAINS HEAVY, SWOLLEN LEGS / BY DAY 30' ('BY DAY 30' in Edenvia accent blue)",
+   "reason": "copy formula '[verb] [problem] BY DAY [n]'; our verb drain, bank 'swollen legs' (B2); 30 days = one pouch"
+  },
+  {
+   "zone": "small_panels",
+   "template": "three back-view male torsos, orange glow on the love handles shrinking, DAY 6 / DAY 12 / DAY 27",
+   "action": "SWAP",
+   "ours": "three back views of a woman's lower legs (knee to heel), orange glow on calves and ankles shrinking, DAY 6 / DAY 12 / DAY 27",
+   "reason": "our body part; template numbers kept"
+  },
+  {
+   "zone": "result_panel",
+   "template": "large back view, clean, with a small faint glow still on the love handles",
+   "action": "SWAP",
+   "ours": "large back view of the same legs, slim, with a small faint glow still on the ankles",
+   "reason": "Adrien Loom 4: the result keeps a small glow — their visual code"
+  },
+  {
+   "zone": "product_spot",
+   "template": "amber bottle bottom-right over the result panel, large",
+   "action": "SWAP",
+   "ours": "Edenvia pouch bottom-right, same size, true proportions, never squashed",
+   "reason": "placement; Loom 2 lesson on this template"
+  },
+  {
+   "zone": "footnote",
+   "template": "'*Individual results may vary'",
+   "action": "KEEP",
+   "ours": "same",
+   "reason": "kept"
+  },
+  {
+   "zone": "background",
+   "template": "light grey, navy card outlines",
+   "action": "KEEP",
+   "ours": "same (navy = Edenvia navy #14488F)",
+   "reason": "render style"
+  },
+  {
+   "zone": "logo",
+   "template": "none (bottle)",
+   "action": "KEEP",
+   "ours": "none — pouch carries it",
+   "reason": ""
+  }
+ ],
+ "text_slots": [
+  {
+   "slot": "headline",
+   "template_text": "DISSOLVES LOVE HANDLES & CORTISOL BELLY BY DAY 28",
+   "ours": "DRAINS HEAVY, SWOLLEN LEGS BY DAY 30",
+   "source": "copy formula; bank 'swollen legs', 'drain'",
+   "same_length": true
+  },
+  {
+   "slot": "labels",
+   "template_text": "DAY 6 · DAY 12 · DAY 27",
+   "ours": "DAY 6 · DAY 12 · DAY 27",
+   "source": "kept",
+   "same_length": true
+  },
+  {
+   "slot": "footnote",
+   "template_text": "*Individual results may vary",
+   "ours": "*Individual results may vary",
+   "source": "kept",
+   "same_length": true
+  }
+ ],
+ "text_slot_count": 3,
+ "proof_allowed": [],
+ "people": {
+  "customer_look": "back view of the lower legs of woman 40–55, soft midlife build, ordinary clothes, visibly swollen heavy calves and ankles (sock marks, puffy ankles) — never a young fitness model, dark shorts or a skirt hem at the top of the frame",
+  "other_people": "none"
+ },
+ "visual_bans": [
+  "glow is orange and only on calves/ankles; never red, never a rash look",
+  "the pouch keeps its real proportions — not stretched to fill the corner",
+  "figures are illustrated, never photoreal",
+  "the product is only ever a white effervescent tablet in a clear glass of water — no other dosage form, no blister pack, no sachet",
+  "no bottle, jar or tub for Edenvia — the container is the stand-up pouch of Image 1, label untouched",
+  "any glass holds clear water with fine rising bubbles; never hot water, tea or coffee in that glass",
+  "no competitor brand name, logo or bottle shape anywhere (brand.json banned list)",
+  "no disease or drug name on the image"
+ ],
+ "compliance_flags": [
+  "'BY DAY 30' deadline claim — footnote kept"
+ ],
+ "missing": [],
+ "_note": "Adrien's 5-round template: jar squashed (L2) → more colour on the result (L3) → keep the small glow on the result (L4) → 'great' (L5). Our first try applies all three lessons."
+}

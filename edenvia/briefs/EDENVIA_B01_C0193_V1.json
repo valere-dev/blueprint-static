@@ -1,0 +1,101 @@
+{
+ "brand": "EDENVIA",
+ "ad_id": "EDENVIA_B01_C0193_V1",
+ "template": {
+  "id": "c0193",
+  "path": "/home/adanalysis/workspace/blueprint-static/edenvia/batch/templates/10-11_c0193_PregnantVsBelly.webp",
+  "source": "PregnantVsBelly · Adrien batch 01 · 1:1 photo visual joke (Wildhorn c0193 validated, run-1 #12)",
+  "family": "2 BEFORE-AFTER / timeline",
+  "aspect": "1:1",
+  "production_method": "real photo + pasted product — one photoreal stock-style photo (A25 photo method), one white headline with dark shadow by script, pouch pasted small bottom-right",
+  "refusal_risk": "low-medium (bare bellies, no faces; a pregnant woman and a man — keep it clothed except the bellies, no nudity)"
+ },
+ "decode": {
+  "scroll_stop_trick": "Two round bellies in profile almost touching — a pregnant woman's and a man's — and the only line on the image is 'Only one of them is pregnant.' The joke lands before the brand does.",
+  "angle_carried": "beer belly (A1) — pure visual joke, almost no text (Adrien Loom 2: 'pure visual joke, good')",
+  "hidden_reading": "his belly is as round as hers and has no excuse — shame disguised as a joke, then relief: it isn't what he thinks",
+  "scene_logic": "a profile shot of two bellies side by side, same height, same roundness; ours identical: the pregnant woman in a white cardigan and bra top, the man in an open white shirt and jeans, hands in pockets",
+  "visual_trick": "symmetry of two bellies that mean opposite things; copy literally",
+  "shape_or_function_equivalent": "none needed — the man's belly is our A8-M subject as is; the product only appears as a small pouch",
+  "verb_of_the_scene": "compare (two bellies, one joke)",
+  "structure_type": "single photo + one line",
+  "shock_level": "mild-cheeky",
+  "render_style": "photoreal, neutral grey studio backdrop, soft flat light, slightly warm skin",
+  "text_treatment": "one line, bold white sans with a dark drop shadow, top of the image; nothing else"
+ },
+ "strategy": {
+  "angle_id": "A8",
+  "angle": "A8-M the man's belly that isn't fat — he blames the beer, it's fluid",
+  "mechanism_id": "M1",
+  "mechanism": "M1: when the body can't clear everyday oxidative stress, the tissue in the legs stays inflamed and stops draining normally, so fluid sits there — heavy, tender, puffy — and no diet reaches it, because it was never fat; the tablet turns a glass of water into hydrogen-rich water, hydrogen is the smallest molecule there is, reaches the tissue and helps the body switch that process off so normal drainage can resume",
+  "sub_avatar": "trigger: his wife's joke, the belt notch · cause: inflamed tissue holding fluid, not beer · tried: skipping beer, sit-ups, 'eating clean'",
+  "awareness": "problem-aware (laughs about it)",
+  "belief_installed": "A belly that no diet moves isn't food I stored — it's what my body stopped clearing."
+ },
+ "inventory": [
+  {
+   "zone": "photo",
+   "template": "pregnant woman (white cardigan, white bra top) and a man (white open shirt, dark jeans) in profile, bellies nearly touching, grey backdrop, no faces",
+   "action": "KEEP",
+   "ours": "same scene, same framing, no faces; the man is man 45–60, greying, soft midlife build, belly over the belt, ordinary T-shirt or button shirt — never a fitness model — belly over the belt, soft, round, not muscular",
+   "reason": "the whole concept is the photo"
+  },
+  {
+   "zone": "headline",
+   "template": "(no text on the template; Adrien's overlay 'Only one of them is pregnant.')",
+   "action": "KEEP",
+   "ours": "'Only one of them is pregnant.' top, white bold with dark shadow",
+   "reason": "Adrien's validated final: pure visual joke, one line"
+  },
+  {
+   "zone": "product_spot",
+   "template": "none on the template; Adrien pasted the jar small bottom-right",
+   "action": "KEEP",
+   "ours": "Edenvia pouch pasted small bottom-right, ~18 % of width, label readable",
+   "reason": "placement (A8) — the only brand mark"
+  },
+  {
+   "zone": "subline",
+   "template": "none (Adrien's B1 'His is estrogen.' was dropped at Loom 2)",
+   "action": "KEEP",
+   "ours": "none",
+   "reason": "last verdict wins"
+  },
+  {
+   "zone": "logo",
+   "template": "none",
+   "action": "KEEP",
+   "ours": "none — the pouch carries the brand",
+   "reason": ""
+  }
+ ],
+ "text_slots": [
+  {
+   "slot": "headline",
+   "template_text": "(Adrien) Only one of them is pregnant.",
+   "ours": "Only one of them is pregnant.",
+   "source": "Adrien's validated line, word for word (R: same angle family → keep their words)",
+   "same_length": true
+  }
+ ],
+ "text_slot_count": 1,
+ "proof_allowed": [],
+ "people": {
+  "customer_look": "man 45–60, greying, soft midlife build, belly over the belt, ordinary T-shirt or button shirt — never a fitness model — only the torso, no face; the pregnant woman: 30s, no face, white cardigan, hands under the belly",
+  "other_people": "the pregnant woman (foil)"
+ },
+ "visual_bans": [
+  "no faces for either person",
+  "no nudity beyond the two bellies: cardigan, bra top, open shirt, jeans as in the template",
+  "the man's belly is round and soft, never a muscular torso",
+  "the product is only ever a white effervescent tablet in a clear glass of water — no other dosage form, no blister pack, no sachet",
+  "no bottle, jar or tub for Edenvia — the container is the stand-up pouch of Image 1, label untouched",
+  "any glass holds clear water with fine rising bubbles; never hot water, tea or coffee in that glass",
+  "no competitor brand name, logo or bottle shape anywhere (brand.json banned list)",
+  "no disease or drug name on the image"
+ ],
+ "compliance_flags": [
+  "pregnancy in an ad: no claim about pregnancy; the woman is the joke's foil only"
+ ],
+ "missing": []
+}

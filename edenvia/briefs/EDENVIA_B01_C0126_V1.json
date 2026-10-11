@@ -1,0 +1,143 @@
+{
+ "brand": "EDENVIA",
+ "ad_id": "EDENVIA_B01_C0126_V1",
+ "template": {
+  "id": "c0126",
+  "path": "/home/adanalysis/workspace/blueprint-static/edenvia/batch/templates/10-11_c0126_MarsMen.webp",
+  "source": "MarsMen · Adrien batch 01 · 1:1 two-photo day tags (Wildhorn c0126 validated, run-1 #11)",
+  "family": "2 BEFORE-AFTER / timeline",
+  "aspect": "1:1",
+  "production_method": "real photo + pasted product — two side-by-side photos of the same woman's ankles (A25 photo method, one generation, two panels), dark headline band, day tags, pouch + glass pasted bottom centre, tiny disclaimer by script",
+  "refusal_risk": "low (template is a phallic joke with pitcher plants; ours is ankles in sandals — nothing suggestive)"
+ },
+ "decode": {
+  "scroll_stop_trick": "A black band shouting a 'X doesn't matter, Y does!' twist over two photos that look identical at first glance until the day tags make you compare them — the eye hunts for the difference.",
+  "angle_carried": "'Size doesn't matter, thickness does' (sexual innuendo, day 0 / day 90) — Adrien's run-1 keep: 'Size doesn't matter… unless it's your belly!'",
+  "hidden_reading": "what you obsess over is the wrong number — the ad changes the metric the buyer judges herself by",
+  "scene_logic": "two near-identical nature photos with a before/after reading; ours = the same sandals, the same feet, the same floor, two days apart: strap biting into a puffy ankle vs strap loose on a slim ankle",
+  "visual_trick": "the twin-photo repetition — same framing, same light, only the subject's volume changes; copy literally",
+  "shape_or_function_equivalent": "pitcher plant (swollen → thick) ↔ ankle and calf (swollen → slim); two rival bottles pasted at the bottom ↔ our pouch + a clear glass with the tablet fizzing, same spot, same scale",
+  "verb_of_the_scene": "compare (day 0 vs day 30)",
+  "structure_type": "split (two photos) + headline band",
+  "shock_level": "mild (visual twist)",
+  "render_style": "photoreal, daylight, green/outdoor in the template → ours a bright bathroom-tile or wooden floor, consistent across both panels",
+  "text_treatment": "ALL CAPS white condensed bold on a black top band, day tags in white caps on black rounded chips, tiny '*RESULT MAY VARY' bottom-left"
+ },
+ "strategy": {
+  "angle_id": "A8",
+  "angle": "A8-L heavy, swollen legs — 'the scale doesn't matter, swollen legs do'",
+  "mechanism_id": "M1",
+  "mechanism": "M1: when the body can't clear everyday oxidative stress, the tissue in the legs stays inflamed and stops draining normally, so fluid sits there — heavy, tender, puffy — and no diet reaches it, because it was never fat; the tablet turns a glass of water into hydrogen-rich water, hydrogen is the smallest molecule there is, reaches the tissue and helps the body switch that process off so normal drainage can resume",
+  "sub_avatar": "trigger: sandal straps and sock marks dig in by evening · cause: inflamed tissue holding fluid · tried: dieting harder, weighing herself, water tablets",
+  "awareness": "problem-aware",
+  "belief_installed": "It was never fat. It's fluid my body stopped clearing — and no diet reaches it."
+ },
+ "inventory": [
+  {
+   "zone": "headline_band",
+   "template": "black band, 'SIZE DOESN'T MATTER, / THICKNESS DOES!'",
+   "action": "SWAP",
+   "ours": "black band, 'THE SCALE DOESN'T MATTER, / SWOLLEN LEGS DO!'",
+   "reason": "copy formula '[X] doesn't matter, [Y] does!' — our wrong metric vs our real problem (B2 plain words)"
+  },
+  {
+   "zone": "left_photo",
+   "template": "pitcher plant, thin, 'DAY 0' chip",
+   "action": "SWAP",
+   "ours": "side view of a woman's feet in flat strappy sandals on a tiled floor, DAY 0: puffy ankle, strap pressing a groove into the skin, sock line visible",
+   "reason": "before panel = the problem, same framing as the right"
+  },
+  {
+   "zone": "right_photo",
+   "template": "pitcher plant, thick, 'DAY 90' chip",
+   "action": "SWAP",
+   "ours": "same feet, same sandals, same floor, DAY 30: slim ankle, strap loose, ankle bone visible",
+   "reason": "after panel; 30 days = one pouch"
+  },
+  {
+   "zone": "day_chips",
+   "template": "'DAY 0' / 'DAY 90' white caps on black chips",
+   "action": "KEEP",
+   "ours": "'DAY 0' / 'DAY 30'",
+   "reason": "timeline device kept; our supply length"
+  },
+  {
+   "zone": "product_spot",
+   "template": "two Mars bottles pasted centre-bottom across both panels",
+   "action": "SWAP",
+   "ours": "the Edenvia pouch (Image 1) pasted centre-bottom, slightly left, with a clear glass of water and a white effervescent tablet fizzing beside it, same height as the bottles",
+   "reason": "one product; the glass fills the second bottle's spot"
+  },
+  {
+   "zone": "disclaimer",
+   "template": "'*RESULT MAY VARY' tiny bottom-left",
+   "action": "KEEP",
+   "ours": "'*RESULTS MAY VARY'",
+   "reason": "template device"
+  },
+  {
+   "zone": "logo",
+   "template": "small 'mars' wordmark bottom-right",
+   "action": "SWAP",
+   "ours": "small Edenvia wordmark bottom-right (logo file)",
+   "reason": "same spot"
+  },
+  {
+   "zone": "background",
+   "template": "black band top, photos full-bleed below",
+   "action": "KEEP",
+   "ours": "same",
+   "reason": "render style"
+  }
+ ],
+ "text_slots": [
+  {
+   "slot": "headline",
+   "template_text": "SIZE DOESN'T MATTER, THICKNESS DOES!",
+   "ours": "THE SCALE DOESN'T MATTER, SWOLLEN LEGS DO!",
+   "source": "copy formula; bank: 'it was never fat'",
+   "same_length": true
+  },
+  {
+   "slot": "tag_left",
+   "template_text": "DAY 0",
+   "ours": "DAY 0",
+   "source": "kept",
+   "same_length": true
+  },
+  {
+   "slot": "tag_right",
+   "template_text": "DAY 90",
+   "ours": "DAY 30",
+   "source": "our 30-day pouch",
+   "same_length": true
+  },
+  {
+   "slot": "disclaimer",
+   "template_text": "*RESULT MAY VARY",
+   "ours": "*RESULTS MAY VARY",
+   "source": "kept",
+   "same_length": true
+  }
+ ],
+ "text_slot_count": 4,
+ "proof_allowed": [],
+ "people": {
+  "customer_look": "only feet and ankles of woman 40–55, soft midlife build, ordinary clothes, visibly swollen heavy calves and ankles (sock marks, puffy ankles) — never a young fitness model — no face",
+  "other_people": "none"
+ },
+ "visual_bans": [
+  "no bare torso, no pitcher plant, nothing phallic — ankles and sandals only",
+  "both panels are the same person, sandals and floor; only the ankle volume changes",
+  "the product is only ever a white effervescent tablet in a clear glass of water — no other dosage form, no blister pack, no sachet",
+  "no bottle, jar or tub for Edenvia — the container is the stand-up pouch of Image 1, label untouched",
+  "any glass holds clear water with fine rising bubbles; never hot water, tea or coffee in that glass",
+  "no competitor brand name, logo or bottle shape anywhere (brand.json banned list)",
+  "no disease or drug name on the image"
+ ],
+ "compliance_flags": [
+  "before/after photo of a body part: results claim — keep '*RESULTS MAY VARY'"
+ ],
+ "missing": [],
+ "_note": "Adrien's run-1 kept this template with 'Size doesn't matter… unless it's your belly!' after Loom 2 said the first twist was not logical; ours keeps the formula and names the real problem."
+}

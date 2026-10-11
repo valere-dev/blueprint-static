@@ -1,0 +1,151 @@
+{
+ "brand": "EDENVIA",
+ "ad_id": "EDENVIA_B01B_UVT460_V1",
+ "template": {
+  "id": "UVT460",
+  "path": "/home/adanalysis/workspace/blueprint-static/edenvia/batch/templates/10-11_UVT460_TushyBidet.webp",
+  "source": "TushyBidet · founder's coded swipe file (UVT = us vs them) · sorted F1 by sort-ad",
+  "family": "1 US vs THEM / comparison",
+  "aspect": "1:1",
+  "production_method": "collage — 2×2 photo grid (top row black-and-white 'with X', bottom row colour 'with Edenvia'), two rounded labels, a tweet card centred over the seam; photos by Seedream/gpt-image-2 (legs: body risk → seedream_comp), glass + tablet from the library, tweet card and labels by script",
+  "refusal_risk": "body"
+ },
+ "decode": {
+  "scroll_stop_trick": "A tweet floats over a grid where the top row is grey and gross and the bottom row is clean and colour: the proof is social and visual at once.",
+  "angle_carried": "toilet paper vs bidet (hygiene)",
+  "hidden_reading": "the peach is a bum; ours stays literal (ankle)",
+  "scene_logic": "four stills from her day. Ours top (B&W): a pile of 'detox' tea boxes; her swollen ankle at 5 pm. Bottom (colour): the tablet fizzing in a glass; the same ankle, slim, in a sandal",
+  "visual_trick": "the two rows show the SAME subject twice (peach dirty / peach clean) — ours: the same ankle twice, swollen in grey, slim in colour (same body, only the swelling changes)",
+  "shape_or_function_equivalent": "toilet rolls ↔ tea boxes and teabags; dirty peach ↔ swollen ankle (B&W); toilet ↔ glass with the fizzing tablet; clean peach ↔ slim ankle in colour",
+  "verb_of_the_scene": "compare her day",
+  "structure_type": "grid / 2 rows, tweet overlay",
+  "shock_level": "medium",
+  "render_style": "top row desaturated photo, bottom row bright photo, white rounded labels top-right and bottom-right, white rounded tweet card with avatar, name, handle, counts",
+  "text_treatment": "labels bold sans black on white rounded tags; tweet in system sans"
+ },
+ "strategy": {
+  "angle_id": "A8",
+  "angle": "A8-L heavy, swollen legs — the tea vs the tablet",
+  "mechanism_id": "M1",
+  "mechanism": "M1: when the body can't clear everyday oxidative stress, the tissue in the legs stays inflamed and stops draining normally, so fluid sits there — heavy, tender, puffy — and no diet reaches it, because it was never fat; the tablet turns a glass of water into hydrogen-rich water, hydrogen is the smallest molecule there is, reaches the tissue and helps the body switch that process off so normal drainage can resume",
+  "sub_avatar": "trigger: the evening 'detox' tea ritual and the 5 pm ankle · cause: fluid held by inflamed tissue · tried: diuretic teas",
+  "awareness": "problem-aware",
+  "belief_installed": "It was never fat. It's fluid my body stopped clearing — and no diet reaches it."
+ },
+ "inventory": [
+  {
+   "zone": "tile_tl",
+   "template": "toilet paper rolls B&W",
+   "action": "SWAP",
+   "ours": "a pile of 'detox tea' boxes and loose teabags, B&W (no brand)",
+   "reason": "rival habit"
+  },
+  {
+   "zone": "tile_tr",
+   "template": "dirty peach B&W",
+   "action": "SWAP",
+   "ours": "her ankle at 5 pm, swollen over the shoe strap, B&W",
+   "reason": "the problem (B2)"
+  },
+  {
+   "zone": "tile_bl",
+   "template": "toilet with water jet",
+   "action": "SWAP",
+   "ours": "clear glass of water, white tablet fizzing (library tablet reference), kitchen light",
+   "reason": "the product in use"
+  },
+  {
+   "zone": "tile_br",
+   "template": "clean peach, colour",
+   "action": "SWAP",
+   "ours": "the same ankle, slim, in a sandal, colour",
+   "reason": "same body, only the swelling changes"
+  },
+  {
+   "zone": "label_top",
+   "template": "'With Toilet Paper'",
+   "action": "SWAP",
+   "ours": "'With Detox Tea'",
+   "reason": "copy formula 'With X'"
+  },
+  {
+   "zone": "label_bottom",
+   "template": "'With Tushy Bidet'",
+   "action": "SWAP",
+   "ours": "'With Edenvia'",
+   "reason": "copy formula"
+  },
+  {
+   "zone": "tweet",
+   "template": "Zach H. tweet, 23 / 4 / 45",
+   "action": "SWAP",
+   "ours": "Carla M. @carla_m · 3d, same counts",
+   "reason": "founder override: invented testimonial allowed"
+  },
+  {
+   "zone": "product",
+   "template": "none beyond the toilet",
+   "action": "KEEP",
+   "ours": "the tablet in the glass (tile_bl); no pouch",
+   "reason": "F7 — the template shows the product in use, not the pack"
+  }
+ ],
+ "text_slots": [
+  {
+   "slot": "label_top",
+   "template_text": "With Toilet Paper",
+   "ours": "With Detox Tea",
+   "source": "copy formula",
+   "same_length": true
+  },
+  {
+   "slot": "label_bottom",
+   "template_text": "With Tushy Bidet",
+   "ours": "With Edenvia",
+   "source": "copy formula",
+   "same_length": true
+  },
+  {
+   "slot": "tweet_name",
+   "template_text": "Zach H. @zachhh · 3d",
+   "ours": "Carla M. @carla_m · 3d",
+   "source": "invented, founder override",
+   "same_length": true
+  },
+  {
+   "slot": "tweet_body",
+   "template_text": "Nothing has had such an impact on my daily life as Tushy. I've got 1 in every bathroom of my home.",
+   "ours": "Nothing has had such an impact on my heavy legs as Edenvia. I keep a pouch in the kitchen and one in my bag.",
+   "source": "copy formula, one object swapped (E9)",
+   "same_length": true
+  },
+  {
+   "slot": "tweet_counts",
+   "template_text": "23 · 4 · 45",
+   "ours": "23 · 4 · 45",
+   "source": "template words kept",
+   "same_length": true
+  }
+ ],
+ "text_slot_count": 5,
+ "proof_allowed": [
+  "none needed"
+ ],
+ "people": {
+  "customer_look": "a woman's ankle and foot, 45, soft build, same ankle both tiles; tweet avatar: woman 45, natural",
+  "other_people": "none"
+ },
+ "product_source": "/home/adanalysis/workspace/blueprint-static/edenvia/assets/product/library/flatlay_pouch-tablets-drops.png (tablet reference for tile_bl) · glass: studio_pouch-ice-bowl-glass-straw.jpg",
+ "visual_bans": [
+  "no peach, no toilet, no toilet paper",
+  "both ankles are the same person's: same skin, same shoe strap",
+  "the product is only ever a white effervescent tablet in a clear glass of water — no other dosage form, no blister pack, no sachet",
+  "no bottle, jar or tub for Edenvia — the container is the stand-up pouch cut from the product library (C23), label untouched, water droplets kept",
+  "any glass holds clear water with fine rising bubbles; never hot water, tea or coffee in that glass",
+  "no competitor brand name, logo or bottle shape anywhere (brand.json banned list)",
+  "no disease or drug name on the image",
+  "two bodies of different weight never appear on A8: the body is the same, only the swelling changes (Loom 1 system note, pending founder)"
+ ],
+ "compliance_flags": [],
+ "missing": []
+}

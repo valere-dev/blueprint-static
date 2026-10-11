@@ -1,9 +1,9 @@
-# Edenvia — Brand Kit (DRAFT v0.1, 2026-10-11)
+# Edenvia — Brand Kit (DRAFT v0.2, 2026-10-11)
 
-**Status: first pass, NOT validated.** Filled only from sourced material; every value names its source.
-`[MISSING]` = nothing on file, do not invent. `[TO CONFIRM]` = sourced, waiting for the founder's verdict.
-The machine-readable twin is `edenvia/brand.json` (same facts, read by the scripts). The blank template and the
-field-by-field guide are in `.claude/skills/static-ads/BRAND-KIT.md`.
+**Status: second pass.** Label, packshot, offer, guarantee, proof, tone and the nine avatar sheets came from the
+founder on 2026-10-11. Still open: the price the ads carry, the default A1 avatar, the step-1 competitor, the brand
+font file, a few compliance choices. `[MISSING]` = nothing on file, do not invent. `[TO CONFIRM]` = sourced, waiting
+for the founder's verdict. Machine-readable twin: `edenvia/brand.json`. Field guide: `.claude/skills/static-ads/BRAND-KIT.md`.
 
 **Golden rule: never invent a fact.** An ad is never generated with an unresolved `[MISSING]` fact (rule B20).
 
@@ -11,19 +11,21 @@ field-by-field guide are in `.claude/skills/static-ads/BRAND-KIT.md`.
 
 | Tag | Source | Date |
 |---|---|---|
-| S1 | Founder brief (chat, this repo) | 2026-10-11 |
+| S1 | Founder, in chat (price screenshot, guarantee wording, packshots, site screenshots, proof lines, tone, avatars folder) | 2026-10-11 |
 | S2 | Shopify Admin: shop info + product *Molecular Hydrogen* (SKU 51358823) and its landing-page variants | 2026-10-11 |
 | S3 | Drive › Edenvia › Branding \| Logo › *Colors* (Google Doc) + logo PNGs | 2026-04-16 |
-| S4 | Drive › Edenvia › Molecular Hydrogen › *product_analysis.md* (product page teardown) | 2026-03-07 |
-| S5 | Drive › Edenvia › Molecular Hydrogen › *Creative Strategy Report: Molecular Hydrogen* (avatar "Carol") | 2026-03-07 |
-| S6 | Drive › Edenvia › Molecular Hydrogen › *09_competitor_teardown.md* | 2026-03-07 |
+| S4 | Drive › Molecular Hydrogen › *product_analysis.md* (product page teardown) | 2026-03-07 |
+| S5 | Drive › Molecular Hydrogen › *Creative Strategy Report* (avatar "Carol") | 2026-03-07 |
+| S6 | Drive › Molecular Hydrogen › *09_competitor_teardown.md* | 2026-03-07 |
 | S7 | Drive › *edenvia-disclaimer-rollout.md* (DSHEA compliance rules) | 2026-09-21 |
 | S8 | Drive › *EDENVIA — AI PHONE AGENT KNOWLEDGE BASE* v1.3 (medical guardrails, usage) | 2026-07 |
 | S9 | Konvert brand record "Edenvia" (scrape of edenvia.com: description, colours, font) | 2026-10-10 |
-| S10 | Drive › Branding \| Logo › Website › *Edenvia - Hero Image - 11.png* (AI render of the pouch, label partly legible) | 2026-03-08 |
+| S10 | Founder's avatar sheets, 9 ODT files → `edenvia/avatars/*.md` | 2026-10-11 |
+| S11 | Site screenshots saved in `edenvia/assets/reference/` (homepage, inflammation landing, offer block) | 2026-10-11 |
 
-Not reachable from this environment: edenvia.com itself and cdn.shopify.com (network policy). The live product
-page copy, the real packshot and the label text therefore come from S4/S10 and must be re-confirmed by the founder.
+Not reachable from this environment: edenvia.com and cdn.shopify.com (network policy). The founder's static-ads
+Drive folder ("JC", owned by team@nutraflow.io) returns empty to this connector — a share to valere@nutraflow.io or a
+re-upload under the founder's own Drive is needed before I can read the "ads doc".
 
 ---
 
@@ -31,139 +33,154 @@ page copy, the real packshot and the label text therefore come from S4/S10 and m
 
 | Field | Fill in | Source |
 |---|---|---|
-| Tone in 3 words | `[TO CONFIRM]` warm, plain, reassuring (site copy per S9: "clean, effective formulas… simplify health routines") | S9 |
-| How aggressive the founder wants the ads | `[MISSING]` soft / direct / shock | — |
-| Words we always use | `[TO CONFIRM]` "stiff joints", "morning stiffness", "one tablet in a glass of water", "supports" | S4, S5 |
-| Words we never use | treat / cure / prevent / reverse / heal / manage [condition]; any disease name; doctor / PhD / celebrity; FDA-approved / clinically proven; autoship / subscription; competitor names; capsule / pill / powder; PPM / selective antioxidant / hydroxyl radical / NSAID | S7, S8 |
-| 3–5 example lines that sound like the brand | `[TO CONFIRM]` from the product page (S4, March 2026): "Less Inflammation. Less Daily Pain. Move Freely Again." · "Fast-Dissolving. Sugar-Free. No Daily Painkillers." · "See Results in 30 Days or Get Your Money Back" — NOTE: "Less Inflammation / Pain Relief" lines are borderline under S7; the founder decides which survive | S4, S7 |
-| Sign-off lines allowed | `[TO CONFIRM]` edenvia.com | S1, S2 |
+| Tone in 3 words | `[TO CONFIRM]` direct, confident, root-cause | S11 copy, S1 |
+| How aggressive | **very aggressive** — on the pain, the enemy belief and the offer; never on a disease claim | S1 |
+| Words we always use | stiff joints / morning stiffness / creaky joints / "woke up wrecked"; "oxidative stress"; "inflammatory response"; "from the inside out"; "at the cellular level"; "root cause"; "one tablet in a glass of water" | S10, S11 |
+| Words we never use | treat / cure / prevent / reverse / heal / manage [condition]; any disease name; Dr. / PhD / celebrity; FDA-approved / clinically proven; autoship / subscription; competitor names; capsule / pill / powder; selective antioxidant / hydroxyl radical / ROS / endothelial / redox / NSAID | S7, S8, rules |
+| Example lines that sound like the brand | "Help Your Body Fight Daily Inflammation From The Inside Out" · "What if daily support started at the cellular level?" · "Why inflammation drives so many age-related health issues" · "The tiny molecule that helps your body calm the stress behind inflammation" · "What changes when you finally address the root cause" · "You're not waking up wrecked because you trained yesterday…" (A1 sheet) | S11, S10 |
+| Sign-off lines allowed | `[TO CONFIRM]` edenvia.com | S1 |
 
 ## 2. Product facts (exact, never paraphrased)
 
 | Field | Fill in | Source |
 |---|---|---|
-| Brand name, exactly as printed | EDENVIA | S3, S10 |
-| Product name on the label | `[TO CONFIRM]` MOLECULAR HYDROGEN (Shopify title: "Molecular Hydrogen"; landing variants: "Molecular Hydrogen Tablets") | S2, S10 |
-| What it is | `[TO CONFIRM]` 30 effervescent tablets per pouch; 1 tablet a day | S1, S4 |
-| Ingredients | `[TO CONFIRM]` molecular hydrogen (H2), magnesium blend, citric acid, mineral support complex — `[MISSING]` amounts per tablet, PPM | S4 |
-| What it DOES, in one line | `[TO CONFIRM]` turns a glass of water into hydrogen-rich water that supports the body's natural response to everyday oxidative stress | S8 (allowed language) |
+| Brand name, exactly as printed | Edenvia (label, mixed case bold italic) · EDENVIA (site header) | packshot, S11 |
+| Product name on the label | MOLECULAR HYDROGEN | packshot |
+| What it is | 30 effervescent tablets, 30-day supply, 1 tablet a day in a glass of water | packshot, S1 |
+| Label claim | GENERATES 8PPM OF HYDROGEN PER TABLET | packshot |
+| Ingredients | molecular hydrogen (H2), magnesium blend, citric acid, mineral support complex — `[MISSING]` amounts | S4 |
+| What it DOES, in one line | turns a glass of water into hydrogen-rich water that helps support a healthy inflammatory response and the body's defence against oxidative stress | S11 |
 | The ritual | drop 1 tablet in room-temperature or chilled water, let it dissolve ~3 minutes, drink within 30 minutes, once daily, never hot water | S4, S8 |
-| What the ingredient must LOOK like in an ad | `[TO CONFIRM]` a clear glass of water, white tablet fizzing at the bottom, fine bubbles rising; water stays clear | — (proposal) |
-| What the tablet looks like | `[TO CONFIRM]` round, flat, white, matte effervescent tablet, no imprint | — (proposal, needs a photo) |
-| What the product is NOT | never a capsule, gel cap, pill, powder, scoop, liquid bottle, hydrogen water bottle/generator | S4 |
-| Product word the specs use | pouch | S10 |
+| What the ingredient must LOOK like in an ad | `[TO CONFIRM]` a clear glass, white tablet fizzing at the bottom, fine bubbles rising, water stays clear | proposal |
+| What the tablet looks like | round, flat, white, matte, no imprint | packshot 2 |
+| What the product is NOT | never a capsule, gel cap, pill, powder, scoop, liquid, hydrogen-water bottle or generator | — |
+| Product word the specs use | pouch | — |
 
 ## 3. Label text (the packaging must show exactly this)
 
-`[MISSING]` — to transcribe from the physical pouch, line by line in reading order. What S10 (AI render) shows, partly legible:
+Transcribed from the founder's packshot (`edenvia/assets/product/edenvia-molecular-hydrogen-pouch-front.png`):
 
 ```
-Container:  stand-up resealable pouch, white at the top fading to light blue at the bottom, matte
-Line 1:     [atom icon] EDENVIA                      (dark navy)
-Line 2:     MOLECULAR HYDROGEN                       (bold dark navy capitals)
-Line 3:     [small descriptor — illegible in render: "…PPM of hydrogen per tablet"?]
-Line 4:     [short benefit line — illegible]
-Band:       DIETARY SUPPLEMENT [TO CONFIRM]
-Count:      [MISSING] "30 TABLETS"?
+Container:  stand-up resealable pouch with zip seal, white at the top fading to sky blue at the bottom,
+            fine water droplets all over, matte finish
+Line 1:     [atom icon] Edenvia                       (bold italic, dark navy)
+Line 2:     MOLECULAR                                 (navy capitals)
+Line 3:     HYDROGEN                                  (very large bold navy capitals)
+Line 4:     GENERATES 8PPM OF HYDROGEN
+Line 5:     PER TABLET
+Line 6:     CONSUME DAILY ANTIOXIDANTS AND
+Line 7:     EXHIBIT HEALTHIER, IMPROVED LIVING
+Band:       DIETARY SUPPLEMENT  (over a thin rule)
+Count:      30 TABLETS | 30 DAY SUPPLY
 ```
 
-The founder sends a sharp photo of the front of the pouch, or the artwork file; I transcribe. This becomes `product_lock`.
+→ `product_lock` in brand.json. The AI never draws the label: the real cutout is pasted by script (golden rule 4).
 
 ## 4. Offer, price, guarantee (the ONLY numbers allowed in an ad)
 
-| Field | Fill in | Source |
-|---|---|---|
-| Price in ads | `[TO CONFIRM]` **$79.99** (Shopify live price). The founder's brief said **$79.90**. One of the two is wrong; lint blocks any price until this is settled. | S1 vs S2 |
-| Crossed-out price | `[MISSING]` none on the Shopify variant; the landing page may display one | S2 |
-| Deal wording allowed | `[MISSING]` — Shopify carries one-time post-purchase offers "2 Bags $54.00" and "3 Bags $81.00" (checkout upsells). Not for ads unless the founder says so. Product page in March 2026 showed BOGO-style tiers (S4) — unknown if still live. | S2, S4 |
-| Guarantee | `[TO CONFIRM]` 30-day money-back guarantee (S1); March 2026 wording: "See Results in 30 Days or Get Your Money Back" (S4). Exact wording and conditions (first order only? opened pouch?) `[MISSING]` | S1, S4 |
-| Site offers that must NEVER appear in ads | autoship, subscription, "50% off with subscription" | S4, rule |
-| Bundles, gifts, free shipping | `[MISSING]` "FREE Cellular Recovery Protocol" and "free express shipping" appeared in March 2026 (S4) — only if still real | S4 |
+Landing page offer block (S1, 2026-10-11), "Available for the First 1,000 Orders Only", scarcity bar "93% Sold":
+
+| Tier | Price | Was | Extras |
+|---|---|---|---|
+| Buy One (1 pack) | **$39.00** | $79.99 | — |
+| Buy 2 Get 1 Free (3 pack) — Most Popular | **$78.00** | $239.97 | + FREE Cellular Recovery Protocol |
+| Buy 3 Get 2 Free (5 pack) — Best Value | **$117.00** | $399.95 | + FREE Cellular Recovery Protocol + FREE Shipping (Express) |
+
+- **Price the ads carry: `[TO CONFIRM]`.** Proposal: "$39" with "$79.99" crossed, or the BOGO tier when the template has a deal slot.
+- **Site inconsistency to fix:** the homepage product card shows **$79.90**; the landing strike-through shows **$79.99**; Shopify's variant price is $79.99. Ads will use $79.99 unless told otherwise.
+- Guarantee (S1, exact): **30-Day Money Back Guarantee** — "We're confident you'll love how this fits into your daily routine. If you're not satisfied for any reason, simply contact us within 30 days for a full refund—no questions asked."
+- Also on site: "FREE exclusive guide with every order today", a "Fall Reset Sale" countdown. `[TO CONFIRM]` whether either goes in ads.
+- Never in ads: autoship / subscription / "50% off with subscription"; the Shopify post-purchase one-time offers (2 bags $54, 3 bags $81).
 
 ## 5. Proof (each with its source)
 
-| Claim, exact wording | Footnote / source | Status |
+| Claim, exact wording | Source | Status |
 |---|---|---|
-| "12,674 reviews" | product page, 2026-03-07 | `[TO CONFIRM]` recheck live count |
-| "50,000+ sold" | product page, 2026-03-07 | `[TO CONFIRM]` |
-| "Rated 4.9/5" | product page, 2026-03-07 | `[TO CONFIRM]` |
-| "Third-party lab tested" | product page claim | `[TO CONFIRM]` certificate on file? |
-| Customer survey stat | — | `[MISSING]` none on file; a stat template cannot be cloned until one exists |
-| Real reviews we may quote | — | `[MISSING]` path to the reviews export (first name + initial only, rule B12) |
-| Real authorities | — | none; never invent a doctor (S8) |
+| "Rated 4.9/5" | landing star row | **approved by founder** |
+| "93% sold" / "93% sold out" | landing scarcity bar | **approved by founder** |
+| "12,000+ customers" / "More than 12,000 happy Edenvia customers" | homepage | **approved by founder** |
+| "30-Day Money Back Guarantee" | site FAQ | approved |
+| "Third-party lab tested" | product page (March) | `[TO CONFIRM]` certificate on file? |
+| "Trusted by healthcare professionals" | landing section with a doctor photo | `[TO CONFIRM]` who, with permission? Otherwise never |
+| Customer survey stat | — | `[MISSING]`; a stat template cannot be cloned until one exists |
+| Real reviews we may quote | site carousel shows first name + initial (Jane D., Ethan L., Jade D.) | `[MISSING]` the reviews export, to quote verbatim (rule B12) |
+
+The site also shows "Rated 4.9/5 by 5,000+ reviews", "Trustscore 4.8/5 · 12,000+ reviews" and "879 Reviews". Only the three approved lines go in ads.
 
 ## 6. Avatar (who buys)
 
-Primary persona from S5: **"Carol", 56**, formerly active, grandmother, researcher by necessity, professional skeptic.
+Edenvia sells one product to **many avatars, one per angle**. The founder's nine sheets are in `edenvia/avatars/`
+(index in `edenvia/avatars/README.md`). Every spec names its angle and takes the avatar from that sheet.
 
-| Field | Fill in | Status |
+**Default angle A1 — Inflammation & joints.** Two candidate avatars are on file; `[TO CONFIRM]` which one:
+
+| | (a) A1 sheet (S10) | (b) "Carol" (S5) |
 |---|---|---|
-| Age range and look | 50–65, women and men, greying/silver hair, soft midlife build, US | `[TO CONFIRM]` (S4 says 40–65+) |
-| Situation | married, kids grown, wants time with the grandkids and the garden | `[TO CONFIRM]` |
-| The visible problem (core problem) | stiff, achy joints; morning stiffness; the knee/back that "negotiates" every first step | `[TO CONFIRM]` |
-| Secondary problems | acid reflux; heart & arteries; kidneys (years of painkillers); low energy; stress; healthy aging | `[TO CONFIRM]` (S1 landing angles + S2 handles) |
-| How she hides it | rail on the stairs, pause before standing, skips the walk/garden/floor time, ibuprofen in the bag | `[TO CONFIRM]` (derived from S5) |
-| What they already tried | ibuprofen/Advil, Aleve, Tylenol; turmeric, glucosamine, fish oil, CBD, collagen; gabapentin, diclofenac, steroid shots; diets, stretching, yoga | S5 |
-| The pleasure they won't give up | coffee, garden, walks, grandkids — nothing to give up, one tablet in water | `[TO CONFIRM]` |
-| The proof they want to SEE | first step out of bed without the negotiation; stairs without the rail; the ibuprofen bottle untouched; a full morning in the garden | `[TO CONFIRM]` (S5 desire stack) |
-| Deepest pains | "chained to my couch", "a burden on my husband", "I don't know who I am anymore" | S5 |
-| Desires | to feel like herself again; independence; a future | S5 |
+| Who | active adults, mostly **men 35–60**, still train, wake up sore, stiff, "wrecked" | **woman 56**, formerly active, grandmother, chronic stiff joints |
+| Core problem | recovery never finishes: stiff, creaky joints the morning after | morning stiffness, knee/back pain, years of ibuprofen |
+| Enemy belief | "being wrecked the next morning is the price of training or age" | "it's just getting older; nothing works for me" |
+| Already tried | rest, hydration, sleep, lactic-acid thinking, generic antioxidants | ibuprofen, turmeric, glucosamine, CBD, collagen, prescriptions |
+| Trigger | feet hit the floor the morning after a normal workout | first step out of bed is a negotiation |
+| Proud proof | same workout, woke up recovered | garden, grandkids, stairs without the rail, ibuprofen untouched |
+
+Other angles, one line each (full sheets in `edenvia/avatars/`): A2 energy/fatigue (50–65, 2 p.m. crash) · A3 heart (men 55–70, winded on stairs) · A4 cholesterol (men 40s–50s, last night's dinner) · A5 blood sugar (men 40+, post-meal crash) · A6 liver (hard belly, borderline markers) · A7 kidneys/detox (foamy urine, swollen ankles) · A8 lymphatic bloating (woman 30s–50s, heavy legs) · A9 weight/metabolism (woman 40+, stubborn belly despite effort).
 
 ## 7. The core problem in the customer's own words
 
-All from S5 (Reddit r/ChronicPain, r/Aging, r/Supplements, r/rheumatoid). `[TO CONFIRM]` which the founder wants as headline material.
+A1, from the sheet (`[ads]` = competitor Rovina's ad lines, `[inferred]` = strategist):
 
 ```
-"My body is taking the day off at an alarming rate."            — r/Aging
-"I just don't know who I am anymore outside of this pain."       — r/ChronicPain
-"Chained to my couch."                                           — r/ChronicPain
-"A shadow of my former self."                                    — r/ChronicPain
-"It did nothing for me." (turmeric)                              — r/Supplements
-"You're gonna destroy your stomach." (daily ibuprofen)           — r/ChronicPain
-"Kidney disease. Ask me how I know." (daily ibuprofen)           — r/ChronicPain
-"It has stripped my independence, my self worth, my zest for life." — r/rheumatoid
-"Just existing because that's all I can manage."                 — r/ChronicPain
-"I'm really in disbelief. There's no way this is placebo."       — r/Supplements (H2 discovery)
+"Same workout. Two guys. One variable."                                   — [ads]
+"One woke up recovered. One woke up wrecked."                              — [ads]
+"Everyone blames soreness on lactic acid. That's only half the story."     — [ads]
+"Joints feel stiff and creaky every morning."                              — [ads]
+"Most people just accept this as normal."                                  — [ads]
+"You stay sore and run down."                                              — [ads]
+"My body is starting to break down, and this is only going to get worse."  — [inferred]
+"Why am I still paying for it today?"                                      — [inferred]
 ```
+
+Chronic-pain register (S5, Reddit): "Chained to my couch." · "A shadow of my former self." · "It did nothing for me." · "You're gonna destroy your stomach." (daily ibuprofen) · "I'm really in disbelief. There's no way this is placebo."
 
 ## 8. Angles and mechanisms
 
-| Field | Fill in | Status |
-|---|---|---|
-| Mechanism (plain words) | the tablet turns water into hydrogen-rich water; hydrogen is the smallest molecule there is, reaches every cell, and helps the body handle everyday oxidative stress — structure/function wording only | `[TO CONFIRM]` |
-| Mechanism words never printed | selective antioxidant, hydroxyl radical, PPM, oxidative stress (headline), NSAID, bioavailability | `[TO CONFIRM]` |
-| Top angles | A1 inflammation & stiffness (default) · A2 acid reflux · A3 heart & arteries · A4 kidneys · A5 energy · A6 stress · A7 longevity | `[TO CONFIRM]` default + which to keep |
-| Headlines that already won | `[MISSING]` — founder to share the validated ads / winning headlines | — |
-| Angles the product can NOT reach | `[MISSING]` — settled in step 2 | — |
+| Field | Fill in |
+|---|---|
+| Mechanism (plain words) | a workout, or just a day, creates oxidative stress; when the body can't clear it the inflammatory response stays switched on and recovery never finishes. The tablet turns water into hydrogen-rich water; hydrogen is the smallest molecule there is, reaches the cells where the stress sits, and helps the body switch the response back off. Structure/function wording only. |
+| Mechanism words never printed | selective antioxidant, hydroxyl radical, reactive oxygen species, endothelial, redox, NSAID, bioavailability, pharmacokinetic |
+| Mechanism words the brand itself prints (allowed) | inflammation, inflammatory response, oxidative stress, cellular, 8PPM, antioxidants |
+| Angles | A1 inflammation & joints (**default, first test angle**) · A2 energy · A3 heart · A4 cholesterol · A5 blood sugar · A6 liver · A7 kidneys · A8 lymphatic bloating · A9 weight · `[TO CONFIRM]` A10 reflux · A11 stress · A12 longevity (landing pages exist, no sheet) |
+| Big Idea per angle | in each sheet, Step 6 (e.g. A1: "You're not waking up wrecked because you trained yesterday, you're waking up wrecked because yesterday's oxidative stress is still keeping your recovery response switched on.") |
+| Headlines that already won | `[MISSING]` — in the founder's static-ads Drive folder, not readable yet |
+| Angles the product can NOT reach | settled in step 2 |
 
-Step 2 (`1-understand/new-brand-worksheet.md`) builds the mechanism map and the angle cards with two founder sign-offs, then this section is completed.
+Note: every sheet's Steps 2–6 are written under a *counterfactual* evidence assumption. They give the story, not the claims. Printed claims stay structure/function.
 
 ## 9. Banned words and compliance
 
-Machine-checked list: `brand.json › banned` (regex + reason). Human-readable (S7, S8):
+Machine-checked list: `brand.json › banned`. Human-readable (S7, S8, rules):
 
-- Structure/function only: "supports", "helps maintain", "may support". Never diagnose / treat / cure / prevent / reverse / heal / manage a condition.
-- Never name a disease or condition (arthritis, GERD, heart disease, kidney disease, fatty liver, autoimmune, anxiety…).
-- No doctors, celebrities, invented experts or institutions. No "FDA-approved", "clinically proven".
-- Never say it replaces a medication or that someone should stop one.
-- No fake testimonials as real; no stat without a real source and footnote; no body before/after presented as a real customer.
-- Disclaimer (short DSHEA version), only where the template has the slot: *"These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease."*
-- `[TO CONFIRM]` "*Results may vary" allowed as footnote.
-- Angle keyword (B2, default angle): "pain" / "stiff" alone → must say "stiff joints", "morning stiffness", "achy joints" `[TO CONFIRM wording]`.
-- Visual checks (C2): never a capsule/pill/powder; the glass stays clear; the container is a pouch; never hot water.
+- Structure/function only. Never diagnose / treat / cure / prevent / reverse / heal / manage a condition.
+- Never name a disease (arthritis, GERD, hypertension, diabetes, fatty liver, kidney disease, lipedema…). "Stiff joints", "stubborn numbers", "post-meal crash" are fine.
+- No invented doctors, titles or celebrities. `[TO CONFIRM]` the site's own "Trusted by healthcare professionals".
+- Never say it replaces a medication (painkillers, PPIs, statins, metformin, insulin…).
+- No fake testimonials as real; no stat without source + footnote; no body before/after as a real customer.
+- Disclaimer (short DSHEA), only where the template has the slot. `[TO CONFIRM]` "*Results may vary" footnote.
+- `[TO CONFIRM]` the "men/women over 40" callout ban: the brand's own sheets say "after 40" in body copy.
+- Visual checks (C2/D6): tablet never a capsule/pill/powder; glass stays clear; container is a pouch; never hot water.
 
 ## 10. Logo rule
 
 | Field | Fill in |
 |---|---|
-| The icon to use outside the label | the Edenvia atom icon only (two crossed elliptical orbit rings with two round dots), NO letters |
-| Where the full wordmark is allowed | only on the real label, or pasted by script from the official file (D19) |
+| Icon outside the label | the Edenvia atom icon only (two crossed elliptical orbit rings with two round dots), NO letters |
+| Full wordmark | only on the real label, or pasted by script from the official file (D19) |
 
-Files on hand (`edenvia/assets/logo/`): white wordmark no-bg (5818×1080, jagged edges at full size — needs a clean export), blue wordmark no-bg (`[TO CONFIRM]` quality), 500×500 icon on blue disc, icon on blue square. `[MISSING]` a transparent icon without the disc, and a vector/lossless master.
+Files (`edenvia/assets/logo/`): white wordmark no-bg 5818×1080 (jagged edges at full size), blue wordmark no-bg 5818×1080, icon on blue disc 500×500, icon on blue square 1210×1080. `[MISSING]` transparent icon without the disc, and a vector/lossless master — none in the Branding | Logo folder.
 
 ## 11. Fonts and colours
 
-Colours (S3, Google Doc *Colors*; Konvert's scrape disagrees slightly, the doc wins):
+Colours (S3, the *Colors* doc wins over Konvert's scrape):
 
 | Name | Hex | Usage |
 |---|---|---|
@@ -178,39 +195,31 @@ Colours (S3, Google Doc *Colors*; Konvert's scrape disagrees slightly, the doc w
 | Pure White | #FFFFFF | backgrounds, text on dark |
 | Near Black | #121212 | body text on light |
 
-Fonts: `[TO CONFIRM]` Manrope (S9, scraped from the site). Font file `[MISSING]`. Anton, Montserrat, Oswald, Fredoka ship with the skill.
+Font: Manrope `[TO CONFIRM]` (Konvert scrape; the site screenshots match a Manrope-like geometric sans). Font file `[MISSING]`; Anton, Montserrat, Oswald, Fredoka ship with the skill.
 
-## 12. Product photo and cutout (the two most important files)
+## 12. Product photo and cutout
 
-- **Product photo** → `product_photo`: `[MISSING]`. Shopify's first product image (`1P.png`) is the candidate but could not be fetched from here. Founder sends the source packshot (front label readable, neutral background, high resolution).
-- **Product cutout** → `product_cutout`: `[MISSING]`. Made from the packshot: transparent PNG, tight crop, upright, ≥800 px tall, edges checked on white and on black.
-- S10 (the hero render) is an AI image with a garbled label: usable as a reference for the pouch shape and gradient, never as Image 1.
+- **Product photo** → `edenvia/assets/product/edenvia-molecular-hydrogen-pouch-front.png` (1206×1658, founder's site packshot, label fully readable). Image 1 of every generation. A higher-resolution master is welcome.
+- **Product cutout** → `edenvia/assets/product/edenvia-molecular-hydrogen-pouch-cutout.png` (1140×1506, transparent, made here with a u2net mask, hard edge, checked on white and black). Replace with the studio cutout if one exists.
+- Second packshot with three tablets: `…-pouch-with-tablets.png` (686×886), reference for the tablet look.
+- The AI render in Drive (hero image) is reference for nothing: garbled label.
 
 ## 13. Competitors
 
-From S6 (US molecular-hydrogen tablets). Names never printed in an ad.
+Names never printed. **Rovina** (S10: the ads the avatar sheets decode; its top-100 video ads are in the founder's Drive) plus the hydrogen-tablet field from S6: Dr. Mercola H2, Drink HRW, Quicksilver H2 Elite, H2TAB, Vital Reaction / Active H2, Gundry MD Ultimate H2.
 
-| Name | What they sell | Why they matter | Their angles |
-|---|---|---|---|
-| Dr. Mercola H2 | 90 tablets, ~$24–30, 8 PPM | biggest name, best value | authority, value |
-| Drink HRW Rejuvenation | 30 tablets, ~$40–50, 12.4 PPM | science-first, used in studies | PPM, research |
-| Quicksilver Scientific H2 Elite | 10 PPM, premium | formulator authority | absorption, clean |
-| H2TAB | 30 tablets, ~$30, 12 PPM, flavoured | Amazon's Choice | flavour, accessibility |
-| Vital Reaction / Active H2 Ultra | 10+ PPM, clinical-grade | practitioner channel | clinical |
-| Gundry MD Ultimate H2 | celebrity-doctor brand | big audience | authority |
-
-**The competitor whose 35 ads we clone in step 1: `[MISSING]` — founder's choice.** Candidates by ad volume to check in the ad libraries: Gundry MD, Dr. Mercola, Drink HRW, H2TAB.
+**The competitor whose 35 ads we clone in step 1: `[MISSING]`** — the founder announces it after the first angle test.
 
 ---
 
 ## Open items for the founder (one verdict each)
 
-1. Price: $79.99 (Shopify) or $79.90 (brief)? Compare-at price? Any deal wording for ads?
-2. Guarantee: exact wording and conditions.
-3. Packshot source file + a sharp photo of the pouch front for the label transcription. A photo of one tablet and of a glass mid-fizz if available.
-4. Logo masters: vector or lossless PNG of the wordmark (white and blue) and the icon alone on transparent.
-5. Avatar: 50–65 women and men as proposed, or narrower? Default angle A1 inflammation & stiffness, or another? Which of A2–A7 stay?
-6. Proof: current review count, rating, units sold; third-party test certificate; reviews export.
-7. Tone in 3 words, aggressiveness level, winning headlines already validated.
-8. The competitor for step 1.
-9. Brand font file (Manrope?).
+1. **Price in ads:** "$39, was $79.99"? Or the Buy 2 Get 1 tier? And align the site ($79.90 on the homepage card vs $79.99 everywhere else).
+2. **A1 avatar:** (a) active men 35–60 "woke up wrecked", or (b) Carol 56 chronic stiffness? Or both as A1a / A1b?
+3. **Compliance choices:** keep "Trusted by healthcare professionals"? Allow "*Results may vary"? Allow "after 40" callouts?
+4. **Extras in ads:** FREE Cellular Recovery Protocol, free express shipping, "First 1,000 orders", free guide — which may appear?
+5. **Proof extras:** third-party lab certificate; reviews export for verbatim quotes.
+6. **Access:** share the static-ads Drive folder ("JC") with valere@nutraflow.io, or re-upload it, so I can read the ads doc and the winning headlines.
+7. **Logo master:** vector or lossless PNG, and the icon alone on transparent.
+8. **Font file:** Manrope, if that is the brand font.
+9. **Step 1 competitor**, when you are ready.

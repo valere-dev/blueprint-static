@@ -1,16 +1,19 @@
 {
-  "_comment": "Edenvia brand file — FIRST PASS, not yet validated by the founder. Copied from the blank template in .claude/skills/static-ads/brand.json and filled from sourced material only. Every value carries a source in BRAND-KIT.md. [MISSING] = unknown, [TO CONFIRM] = sourced but awaiting founder sign-off. Lint blocks generation while a used value holds [MISSING]. Scripts find this file via SAC_WORKDIR=<repo>/edenvia. Keys starting with _ are notes.",
-  "_status": "DRAFT v0.1 — 2026-10-11 — awaiting founder validation",
+  "_comment": "Edenvia brand file — DRAFT v0.2 (2026-10-11). Filled from sourced material only; every value carries a source in BRAND-KIT.md. [MISSING] = nothing on file, do not invent. [TO CONFIRM] = sourced, awaiting the founder's verdict. Lint blocks generation while a used value holds [MISSING]. Scripts find this file via SAC_WORKDIR=<repo>/edenvia. Keys starting with _ are notes.",
+  "_status": "DRAFT v0.2 — label, offer, guarantee, proof, tone and avatars received from the founder; price in ads, default avatar and competitor still open",
   "name": "EDENVIA",
   "file_prefix": "Edenvia",
-  "wordmark": "EDENVIA",
-  "icon_description": "the Edenvia atom icon only (two crossed elliptical orbit rings with two small round dots, the H2 molecule), NO letters — pasted by script from the official file (D19), never drawn by the model",
+  "wordmark": "Edenvia",
+  "_wordmark_note": "On the label the wordmark is mixed case 'Edenvia' in a bold italic sans; the website header uses 'EDENVIA' in caps. Lint treats both as the bare wordmark (D8).",
+  "icon_description": "the Edenvia atom icon only (two crossed elliptical orbit rings with two small round dots), NO letters — pasted by script from the official file (D19), never drawn by the model",
   "product_noun": "pouch",
-  "product_photo": "[MISSING] edenvia/assets/product/edenvia-molecular-hydrogen-pouch.png — real packshot, front label readable, neutral background, high resolution (Image 1 of every generation). Shopify product image 1P.png is a candidate but could not be fetched from this environment; founder to provide the source file.",
-  "product_cutout": "[MISSING] edenvia/assets/product/edenvia-molecular-hydrogen-pouch-cutout.png — transparent PNG, tight crop, upright, front label, 800 px tall minimum (pasted by composite.py)",
-  "product_lock": "[TO CONFIRM] the EDENVIA Molecular Hydrogen tablet pouch. Reproduce it exactly as in Image 1: a stand-up resealable pouch, white at the top fading to light blue at the bottom, the Edenvia atom icon and the EDENVIA wordmark in dark navy at the top, MOLECULAR HYDROGEN in bold dark navy capitals below it, a small descriptor line under the name, a short benefit line, the words DIETARY SUPPLEMENT and the tablet count near the bottom. [MISSING] exact label lines in reading order — founder to transcribe from the physical pouch.",
+  "product_photo": "edenvia/assets/product/edenvia-molecular-hydrogen-pouch-front.png",
+  "_product_photo_note": "1206x1658, from the founder (site packshot, webp source). Front label fully readable. A higher-resolution master is welcome but not required. Second photo with three tablets in front: edenvia/assets/product/edenvia-molecular-hydrogen-pouch-with-tablets.png (686x886, reference only).",
+  "product_cutout": "edenvia/assets/product/edenvia-molecular-hydrogen-pouch-cutout.png",
+  "_product_cutout_note": "1140x1506, transparent PNG made from the packshot (u2net mask, hard edge + 1px feather), checked on white and on black. Replace with the studio cutout if one exists.",
+  "product_lock": "the EDENVIA Molecular Hydrogen tablet pouch. Reproduce it exactly as in Image 1: a stand-up resealable pouch with a zip seal, white at the top fading to sky blue at the bottom, covered in fine water droplets; at the top the Edenvia atom icon next to the bold italic wordmark Edenvia in dark navy; below it MOLECULAR in navy capitals, then HYDROGEN in very large bold navy capitals; then GENERATES 8PPM OF HYDROGEN PER TABLET; then two lines CONSUME DAILY ANTIOXIDANTS AND / EXHIBIT HEALTHIER, IMPROVED LIVING; near the bottom DIETARY SUPPLEMENT over a thin rule, then 30 TABLETS | 30 DAY SUPPLY.",
   "lock_extra": "Leave every brand-logo spot outside the label EMPTY (plain background, no icon, no letters) — the official logo is pasted there by script afterwards.",
-  "_fonts_note": "fonts_dir defaults to scripts/fonts (Anton, Montserrat, Oswald, Fredoka). Brand font per Konvert scrape of edenvia.com: Manrope [TO CONFIRM]. Add the file as {\"Manrope\": \"edenvia/assets/fonts/Manrope.ttf\"} once provided.",
+  "_fonts_note": "fonts_dir defaults to scripts/fonts (Anton, Montserrat, Oswald, Fredoka). Site font per Konvert scrape and screenshots: Manrope [TO CONFIRM]. Add the file as {\"Manrope\": \"edenvia/assets/fonts/Manrope.ttf\"} once provided.",
   "fonts": {},
   "colors": {
     "accent": "#1468DB",
@@ -26,93 +29,88 @@
     "_source": "Drive › Edenvia › Branding | Logo › Colors (Google Doc, 2026-04-16). Konvert's scrape of edenvia.com reports primary #0E4DD3 — the Colors doc wins."
   },
   "product": {
-    "what": "[TO CONFIRM] 30 effervescent tablets per pouch, 1 tablet a day dissolved in a glass of room-temperature or chilled water (dissolves in ~3 minutes, drink within 30 minutes, never hot water). Ingredients per product page analysis (2026-03): molecular hydrogen (H2), magnesium blend, citric acid, mineral support complex. [MISSING] amounts per tablet, PPM of hydrogen per tablet.",
-    "ingredient_visual": "[TO CONFIRM] a clear glass of water with a white tablet fizzing at the bottom and fine hydrogen bubbles rising; the water stays clear and clean. Never a cloudy, coloured or foamy drink.",
-    "capsule_visual": "[TO CONFIRM] a round, flat, white effervescent tablet, matte, no coating, no imprint — never a capsule, never a pill in a blister, never a powder scoop.",
-    "not": "[TO CONFIRM] never a capsule, never a gel cap, never a powder, never a bottle of liquid, never a water bottle with a built-in generator"
+    "what": "30 effervescent tablets per pouch, 30-day supply, 1 tablet a day dropped in a glass of room-temperature or chilled water; dissolves in about 3 minutes; drink within 30 minutes; never hot water. Label claim: generates 8 PPM of hydrogen per tablet. Ingredients (product page, 2026-03): molecular hydrogen (H2), magnesium blend, citric acid, mineral support complex. [MISSING] amounts per tablet.",
+    "ingredient_visual": "a clear glass of water with a white tablet fizzing at the bottom and fine hydrogen bubbles rising; the water stays clear and clean. Never cloudy, coloured or foamy. [TO CONFIRM]",
+    "capsule_visual": "a round, flat, white, matte effervescent tablet, no coating, no imprint (as in the second packshot) — never a capsule, never a pill in a blister, never a powder scoop.",
+    "not": "never a capsule, gel cap, pill, powder, liquid bottle, or a hydrogen-water bottle/generator"
   },
   "offer": {
-    "price": "[TO CONFIRM] $79.99 — Shopify live variant price (SKU 51358823). The founder's brief said $79.90: reconcile before the first batch.",
-    "compare_at": "[MISSING] no compare-at price on the Shopify variant; the landing page may show one — founder to confirm",
-    "deal": "[MISSING] site shows one-time post-purchase offers (2 bags $54.00, 3 bags $81.00) — these are checkout upsells, NOT for ads unless the founder says so",
-    "guarantee": "[TO CONFIRM] 30-day money-back guarantee — founder brief; product page (2026-03) wording was \"See Results in 30 Days or Get Your Money Back\"",
-    "_note": "site-only offers (autoship, subscription, 50% off with subscription) are NEVER mentioned in ads"
+    "price": "[TO CONFIRM which price the ads carry] Landing page (2026-10-11): Buy One $39.00, was $79.99.",
+    "compare_at": "$79.99 (landing page strike-through on the single pouch). NOTE: the homepage product card shows $79.90 — inconsistency on the site, founder to align.",
+    "deal": "[TO CONFIRM for ads] Buy 2 Get 1 Free — 3 pack $78.00 (was $239.97) + FREE Cellular Recovery Protocol, 'Most Popular' · Buy 3 Get 2 Free — 5 pack $117.00 (was $399.95) + FREE Cellular Recovery Protocol + FREE Express Shipping, 'Best Value' · 'Available for the First 1,000 Orders Only' · 'FREE exclusive guide with every order today'.",
+    "guarantee": "30-Day Money Back Guarantee — \"We're confident you'll love how this fits into your daily routine. If you're not satisfied for any reason, simply contact us within 30 days for a full refund—no questions asked.\"",
+    "_note": "site-only offers (autoship, subscription, 50% off with subscription) are NEVER mentioned in ads. The Shopify post-purchase one-time offers (2 bags $54.00, 3 bags $81.00) are checkout upsells, never in ads."
   },
   "prices_allowed": [
-    "[TO CONFIRM] $79.99"
+    "$39.00",
+    "$79.99",
+    "$78.00",
+    "$239.97",
+    "$117.00",
+    "$399.95"
   ],
-  "_prices_note": "Every $ amount in an ad must be in this list (B20). While it holds [MISSING]/[TO CONFIRM], lint blocks any price.",
+  "_prices_note": "Every $ amount in an ad must be in this list (B20). Founder to confirm which tier the ads sell (default proposal: Buy One $39.00, was $79.99).",
   "proof": [
-    "[TO CONFIRM] \"12,674 reviews\" — product page analysis 2026-03-07; recheck the live count before use",
-    "[TO CONFIRM] \"50,000+ sold\" — product page analysis 2026-03-07; recheck",
-    "[TO CONFIRM] \"Rated 4.9/5\" — product page analysis 2026-03-07; recheck",
-    "[TO CONFIRM] \"Third-party lab tested\" — product page claim; needs the certificate on file",
-    "[MISSING] any customer survey stat (e.g. \"X% felt less morning stiffness*\") — none on file; do not invent one"
+    "\"Rated 4.9/5\" — landing page star row (2026-10-11); founder-approved",
+    "\"93% sold\" / \"93% sold out\" — landing page scarcity bar; founder-approved",
+    "\"12,000+ customers\" / \"More Than 12,000 Happy Edenvia Customers\" — homepage; founder-approved",
+    "\"30-Day Money Back Guarantee\" — site FAQ + founder",
+    "[TO CONFIRM] \"Third-party lab tested\" — product page claim (2026-03); certificate on file?",
+    "[TO CONFIRM] \"Trusted by healthcare professionals\" — landing page section; who, with permission?",
+    "[MISSING] a customer survey stat (e.g. \"X% felt less morning stiffness*\") — none on file; a stat template cannot be cloned until one exists",
+    "_note: the site also shows 'Rated 4.9/5 by 5,000+ reviews' (hero), 'Trustscore 4.8/5 · 12,000+ reviews' and '879 Reviews' (product card). Only the three founder-approved lines above go in ads."
   ],
   "avatar": {
-    "who": "[TO CONFIRM] women and men 50–65, US, greying or silver hair, soft midlife build, formerly active; primary persona \"Carol\", 56, grandmother (Creative Strategy Report, 2026-03-07). Never a young fitness model.",
-    "core_problem": "[TO CONFIRM] stiff, achy joints — the morning stiffness and knee/back pain that make her feel her body is betraying her (default angle A1)",
+    "_note": "Edenvia sells one product to MANY avatars, one per angle. Each angle has a full sheet in edenvia/avatars/*.md (identity, pain, failed solutions, trigger, verbatim language, root-cause bridge, big idea, hooks). The block below is the DEFAULT angle A1 only; the spec of every ad names its angle and takes the avatar from that angle's sheet.",
+    "who": "[TO CONFIRM — two candidate A1 avatars] (a) per the Inflammation-joints sheet: active adults, mostly men 35–60, who still train but wake up sore, stiff and 'wrecked' the next morning; (b) per the March strategy report: 'Carol', 56, formerly active, grandmother, chronic stiff joints, years of ibuprofen. The founder picks one; never a young fitness model.",
+    "core_problem": "stiff, creaky joints and soreness the morning after — the body no longer finishes recovering",
     "secondary_problems": [
-      "[TO CONFIRM] acid reflux / heartburn after meals (landing angle)",
-      "[TO CONFIRM] heart and arteries worry (landing angle)",
-      "[TO CONFIRM] kidney worry, often tied to years of painkillers (landing angle)",
-      "[TO CONFIRM] low energy, afternoon crash (landing angle)",
-      "[TO CONFIRM] stress (Shopify landing handle molecular-hydrogen-stress)",
-      "[TO CONFIRM] longevity / healthy aging (Shopify landing handle edenvia-molecular-hydrogen-longevity-avatar)"
+      "afternoon crash, brain fog (A2)",
+      "winded on the stairs, stubborn numbers (A3)",
+      "post-meal crash after carbs (A5)",
+      "hard belly, puffiness (A6)",
+      "foamy urine, swollen ankles, night-time trips (A7)",
+      "heavy swollen legs (A8)",
+      "stubborn belly fat after 40 despite effort (A9)"
     ],
     "hides_it_by": [
-      "[TO CONFIRM] holding the rail on stairs, pausing before getting up from a chair",
-      "[TO CONFIRM] skipping the walk, the garden, the grandkids on the floor",
-      "[TO CONFIRM] a bottle of ibuprofen in the bag, the car, the kitchen"
+      "swinging the legs out of bed slowly, holding the rail on the stairs",
+      "blaming age, lactic acid, a bad night",
+      "longer and longer recovery days between workouts",
+      "the ibuprofen bottle in the bag, the car, the kitchen"
     ],
     "already_tried": [
-      "[TO CONFIRM] ibuprofen / Advil, naproxen / Aleve, Tylenol",
-      "[TO CONFIRM] turmeric / curcumin, glucosamine, fish oil, CBD, collagen",
-      "[TO CONFIRM] prescriptions (gabapentin, diclofenac, steroid shots)",
-      "[TO CONFIRM] diets, stretching, yoga"
+      "rest, hydration, sleep, stretching",
+      "ibuprofen / Advil, Aleve, Tylenol",
+      "turmeric / curcumin, glucosamine, fish oil, CBD, collagen",
+      "generic antioxidant supplements"
     ],
-    "pleasure_he_keeps": "[TO CONFIRM] her coffee, her garden, long walks, time on the floor with the grandkids — nothing to give up: one tablet in a glass of water",
+    "pleasure_he_keeps": "the workout, the walk, the garden, the grandkids on the floor — nothing to give up: one tablet in a glass of water",
     "proud_proof": [
-      "[TO CONFIRM] first step out of bed without the negotiation",
-      "[TO CONFIRM] stairs without the rail, chair without the push",
-      "[TO CONFIRM] the ibuprofen bottle left untouched in the cabinet",
-      "[TO CONFIRM] a full morning in the garden, an afternoon on the floor with the grandkids"
+      "feet hit the floor in the morning and nothing hurts",
+      "stairs without the rail, chair without the push",
+      "same workout, woke up recovered instead of wrecked",
+      "the ibuprofen bottle left untouched"
     ]
   },
-  "mechanism": "[TO CONFIRM] plain words: the tablet turns a glass of water into hydrogen-rich water; hydrogen is the smallest molecule there is, so it reaches every cell and helps the body handle the everyday oxidative stress that drives stiffness and low energy. Structure/function wording only. Jargon never printed: selective antioxidant, hydroxyl radical, PPM, oxidative stress (as a headline), inflammation (as a disease claim), NSAID.",
+  "mechanism": "plain words: a workout (or just a day) creates oxidative stress; when the body can't clear it, the inflammatory response stays switched on and recovery never finishes — that is the morning stiffness. The tablet turns a glass of water into hydrogen-rich water; hydrogen is the smallest molecule there is, so it reaches the cells where the oxidative stress sits and helps the body switch the response back off. Structure/function wording only ('helps support', 'helps maintain'). Jargon never printed: selective antioxidant, hydroxyl radical, reactive oxygen species, endothelial, redox, NSAID, bioavailability. Allowed because the brand itself prints them: 'inflammation', 'inflammatory response', 'oxidative stress', 'cellular', '8PPM'.",
   "angles": [
-    {
-      "id": "A1",
-      "name": "[TO CONFIRM] Inflammation & stiffness — stiff joints, morning stiffness, the painkiller trap",
-      "default": true
-    },
-    {
-      "id": "A2",
-      "name": "[TO CONFIRM] Acid reflux — heartburn after meals, off the antacids"
-    },
-    {
-      "id": "A3",
-      "name": "[TO CONFIRM] Heart & arteries"
-    },
-    {
-      "id": "A4",
-      "name": "[TO CONFIRM] Kidneys — years of painkillers"
-    },
-    {
-      "id": "A5",
-      "name": "[TO CONFIRM] Energy — the afternoon crash"
-    },
-    {
-      "id": "A6",
-      "name": "[TO CONFIRM] Stress"
-    },
-    {
-      "id": "A7",
-      "name": "[TO CONFIRM] Longevity / healthy aging"
-    }
+    { "id": "A1", "name": "Inflammation & joints — stiff, sore, 'woke up wrecked'; recovery never finishes", "sheet": "edenvia/avatars/inflammation-joints.md", "default": true, "_note": "first test angle per the founder" },
+    { "id": "A2", "name": "Energy & fatigue — the 2 p.m. crash, brain fog", "sheet": "edenvia/avatars/energy-fatigue.md" },
+    { "id": "A3", "name": "Heart & arteries — winded on the stairs, stubborn numbers", "sheet": "edenvia/avatars/heart-avatar.md" },
+    { "id": "A4", "name": "Cholesterol — what last night's dinner does to the arteries", "sheet": "edenvia/avatars/cholesterol-avatar.md" },
+    { "id": "A5", "name": "Blood sugar — the post-meal crash, foods surrendered", "sheet": "edenvia/avatars/blood-sugar-avatar.md" },
+    { "id": "A6", "name": "Liver — the hard belly and the borderline markers", "sheet": "edenvia/avatars/liver-avatar.md" },
+    { "id": "A7", "name": "Kidneys / detox — foamy urine, swollen ankles, wasted cleanses", "sheet": "edenvia/avatars/detox-avatar.md" },
+    { "id": "A8", "name": "Lymphatic bloating — heavy swollen legs that diets never fixed", "sheet": "edenvia/avatars/lymphatic-bloating.md" },
+    { "id": "A9", "name": "Weight & metabolism — stubborn belly after 40 despite effort", "sheet": "edenvia/avatars/weight-metabolism.md" },
+    { "id": "A10", "name": "[TO CONFIRM] Acid reflux — landing page exists, no avatar sheet yet" },
+    { "id": "A11", "name": "[TO CONFIRM] Stress — Shopify landing handle exists, no sheet" },
+    { "id": "A12", "name": "[TO CONFIRM] Longevity / healthy aging — Shopify landing handle exists, no sheet" }
   ],
-  "_angles_note": "Five angles come from the founder's brief (existing landing pages); A6 and A7 come from Shopify landing-page handles. The founder picks the default and may drop any. The mechanism map and angle cards are built in step 2 (1-understand/new-brand-worksheet.md).",
+  "_angles_note": "A1–A9 from the founder's avatar sheets (2026-10-11). A10–A12 from existing landing pages. The founder confirms the first test angle (A1 proposed) and may drop any.",
   "competitors": [
+    "Rovina",
     "Dr. Mercola",
     "Mercola",
     "Drink HRW",
@@ -125,69 +123,54 @@
     "Gundry",
     "Gundry MD"
   ],
-  "_competitors_source": "Drive › Molecular Hydrogen › 09_competitor_teardown.md (2026-03-07). The competitor whose 35 ads we clone in step 1 is [MISSING] — founder's choice.",
+  "_competitors_source": "Rovina: the brand whose ads the avatar sheets decode ([ads] Rovina) and whose top 100 video ads are in the founder's Drive. Others: Drive › Molecular Hydrogen › 09_competitor_teardown.md (2026-03-07). The competitor whose 35 ads we clone in step 1 is [MISSING] — founder's choice, announced later.",
   "banned": {
     "\\b(treat|treats|treating|cure|cures|curing|prevent|prevents|reverse|reverses|heal|heals|remedy|therapy for)\\b": "compliance (DSHEA): no disease treatment / cure / prevention claim",
-    "\\b(manage|manages|managing) (your |the )?(arthritis|reflux|GERD|blood sugar|pain|condition)": "compliance (DSHEA): 'manage [condition]' is a drug claim",
-    "\\b(arthritis|GERD|fibromyalgia|neuropathy|heart disease|kidney disease|fatty liver|autoimmune|cognitive decline|anxiety|depression)\\b": "compliance: never name a disease or medical condition",
-    "\\b(FDA[- ]approved|clinically proven|clinical proof|guaranteed results)\\b": "compliance: no clinical-proof or FDA claim (product page says 'clinically inspired', never 'proven')",
-    "\\b(doctor|doctors|physician|MD\\b|PhD|celebrity|Dr\\.)": "compliance: no doctors, no celebrities, no invented authority (phone KB §5, rules file)",
-    "\\b(replaces? (your )?(PPIs?|antacids?|painkillers?|ibuprofen|Advil|Aleve|Tylenol|NSAIDs?))": "compliance: never say it replaces a medication (phone KB §5)",
+    "\\b(manage|manages|managing) (your |the )?(arthritis|reflux|GERD|blood sugar|blood pressure|cholesterol|pain|condition)": "compliance (DSHEA): 'manage [condition]' is a drug claim",
+    "\\b(arthritis|GERD|fibromyalgia|neuropathy|heart disease|kidney disease|fatty liver|NAFLD|diabetes|diabetic|hypertension|autoimmune|cognitive decline|anxiety|depression|lymphedema|lipedema)\\b": "compliance: never name a disease or medical condition",
+    "\\b(FDA[- ]approved|clinically proven|clinical proof|guaranteed results)\\b": "compliance: no clinical-proof or FDA claim (site says 'clinically inspired', never 'proven')",
+    "\\bDr\\.|\\bPhD\\b|\\bcelebrity\\b": "compliance: never an invented doctor, title or celebrity (the generic 'healthcare professionals' line is [TO CONFIRM])",
+    "\\b(replaces? (your )?(PPIs?|antacids?|painkillers?|ibuprofen|Advil|Aleve|Tylenol|NSAIDs?|statins?|metformin|insulin))": "compliance: never say it replaces a medication (phone KB §5)",
     "\\b(autoship|subscription|subscribe|subscribe & save|50% off)\\b": "site-only offers never in ads",
-    "\\b(selective antioxidant|hydroxyl radical|PPM|oxidative stress|NSAID|NSAIDs|bioavailab\\w+)\\b": "B4: mechanism jargon never printed",
-    "\\b(Mercola|HRW|Quicksilver|H2TAB|Gundry|Vital Reaction)\\b": "competitor names never printed",
-    "\\bmen over 40\\b|\\bwomen over 40\\b": "A11: never an age-callout line that misreads the avatar (reuse of Wildhorn rule)",
+    "\\b(selective antioxidant|hydroxyl radical|reactive oxygen species|ROS\\b|endothelial|redox|NSAID|NSAIDs|bioavailab\\w+|pharmacokinetic)\\b": "B4: mechanism jargon never printed",
+    "\\b(Rovina|Mercola|HRW|Quicksilver|H2TAB|Gundry|Vital Reaction)\\b": "competitor names never printed",
+    "\\b(men|women) over 40\\b": "A11: never an age-callout line that misreads the avatar (reuse of Wildhorn rule) [TO CONFIRM — the brand's own sheets say 'after 40' in body copy]",
     "\\b(capsule|capsules|gel ?cap|pill|pills|powder|scoop)\\b": "C2: the product is an effervescent tablet, never a capsule / pill / powder"
   },
   "compliance": [
-    "Structure/function claims only: 'supports', 'helps maintain', 'may support'. Never diagnose, treat, cure, prevent, reverse, heal, manage a condition (DSHEA rollout doc, 2026-09-21).",
-    "Never name a disease or medical condition in headline or body.",
-    "No doctors, no celebrities, no invented experts or institutions.",
-    "No fake testimonials presented as real; no stat without a real source and its footnote.",
+    "Structure/function claims only: 'supports', 'helps maintain', 'may support', 'helps your body…'. Never diagnose, treat, cure, prevent, reverse, heal, manage a condition (DSHEA rollout doc, 2026-09-21).",
+    "Never name a disease or medical condition in headline or body. 'Inflammation', 'oxidative stress', 'stiff joints', 'afternoon crash', 'stubborn numbers' are allowed; 'arthritis', 'hypertension', 'diabetes', 'fatty liver' are not.",
+    "No invented doctors, titles, experts or institutions. [TO CONFIRM] the site's own 'Trusted by healthcare professionals' line and photo.",
+    "No fake testimonials as real; no stat without a real source and its footnote (B16).",
     "No body before/after presented as a real customer.",
-    "Never say it replaces a medication or that someone should stop a medication.",
-    "Disclaimer slot (only where the template has the slot, short DSHEA version): 'These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.'",
-    "[TO CONFIRM] 'Results may vary' allowed as a footnote where the template carries one."
+    "Never say it replaces a medication or that someone should stop one.",
+    "Disclaimer (short DSHEA version), only where the template has the slot: 'These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.'",
+    "[TO CONFIRM] '*Results may vary' allowed as a footnote where the template carries one.",
+    "Tone: the founder wants VERY AGGRESSIVE ads (2026-10-11). Aggressive on the pain, the enemy belief and the offer; never aggressive on a disease claim."
   ],
   "angle_keyword": {
-    "loose": "\\b(pain|stiff|stiffness)\\b",
-    "required_any": "stiff joints|joint stiffness|morning stiffness|achy joints|joint pain|stiff knees|stiff back",
+    "loose": "\\b(pain|stiff|sore|soreness)\\b",
+    "required_any": "stiff joints|joint stiffness|morning stiffness|achy joints|joint pain|creaky joints|stiff knees|stiff back|woke up wrecked|wake up wrecked",
     "angle_prefix": "A1",
-    "msg": "B2: on the default angle name the core problem in plain words — 'stiff joints' / 'morning stiffness' / 'achy joints', never just 'pain' or 'stiff' [TO CONFIRM wording with the founder]"
+    "msg": "B2: on A1 name the core problem in plain words — 'stiff joints' / 'morning stiffness' / 'creaky joints' / 'woke up wrecked', never just 'pain' or 'sore' [TO CONFIRM wording]"
   },
   "visual_checks": [
-    {
-      "if": "\\b(capsule|capsules|pill|pills|gel ?cap|powder|scoop)\\b",
-      "unless": "effervescent tablet",
-      "msg": "C2: Edenvia is an effervescent tablet dropped in a glass of water — never a capsule, pill or powder"
-    },
-    {
-      "if": "\\b(cloudy|murky|foam|foamy|coloured water|colored water|green|pink)\\b",
-      "unless": "clear water",
-      "msg": "C2: the glass stays clear and clean with fine rising bubbles — never cloudy, foamy or coloured"
-    },
-    {
-      "if": "\\b(bottle|jar|tub|blister)\\b",
-      "unless": "pouch",
-      "msg": "D6: the container is a stand-up pouch — never a bottle, jar, tub or blister"
-    },
-    {
-      "if": "\\b(hot water|boiling|tea|coffee)\\b",
-      "unless": "never",
-      "msg": "product fact: the tablet goes in room-temperature or chilled water, never hot water"
-    }
+    { "if": "\\b(capsule|capsules|pill|pills|gel ?cap|powder|scoop)\\b", "unless": "effervescent tablet", "msg": "C2: Edenvia is an effervescent tablet dropped in a glass of water — never a capsule, pill or powder" },
+    { "if": "\\b(cloudy|murky|foam|foamy|coloured water|colored water|green|pink)\\b", "unless": "clear water", "msg": "C2: the glass stays clear and clean with fine rising bubbles — never cloudy, foamy or coloured" },
+    { "if": "\\b(bottle|jar|tub|blister)\\b", "unless": "pouch", "msg": "D6: the container is a stand-up pouch — never a bottle, jar, tub or blister" },
+    { "if": "\\b(hot water|boiling|tea|coffee)\\b", "unless": "never", "msg": "product fact: the tablet goes in room-temperature or chilled water, never hot water" }
   ],
   "logo_files": {
     "dark_bg": "edenvia/assets/logo/edenvia-logo-white-nobg.png",
-    "light_bg": "[TO CONFIRM] edenvia/assets/logo/edenvia-logo-blue-nobg.png",
+    "light_bg": "edenvia/assets/logo/edenvia-logo-blue-nobg.png",
     "icon_only": "edenvia/assets/logo/edenvia-logo-500-nobg.png",
     "_rule": "D19: pasted by script in the template's logo slot; never upscaled",
-    "_note": "The white wordmark file (5818x1080) has jagged edges at full size — a clean export (SVG or lossless PNG) from the source file is needed before it is pasted at large sizes. The 500x500 icon file carries the icon on a blue gradient disc; a transparent icon without the disc is [MISSING]."
+    "_note": "white wordmark 5818x1080 (jagged edges at full size), blue wordmark 5818x1080, 500x500 icon on a blue gradient disc, icon on blue square 1210x1080. Still [MISSING]: a transparent icon without the disc and a vector/lossless master (founder's Branding | Logo folder has no SVG)."
   },
   "site": {
     "domain": "edenvia.com",
-    "signoff": "[TO CONFIRM] edenvia.com",
+    "signoff": "edenvia.com [TO CONFIRM]",
     "support_email": "support@edenvia.com",
-    "_source": "Shopify shop info (Shopify Plus, USD, United States). Older docs (phone KB, strategy report) say tryedenvia.com — superseded, founder confirmed edenvia.com on 2026-10-11."
+    "_source": "founder (2026-10-11) + Shopify shop info (Shopify Plus, USD, United States). Older docs say tryedenvia.com — superseded."
   }
 }

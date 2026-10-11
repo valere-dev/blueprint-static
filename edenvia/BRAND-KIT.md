@@ -1,6 +1,6 @@
 # Edenvia — Brand Kit (v1.5 LOCKED, 2026-10-11)
 
-**Status: locked; gate 1 signed; step 2 family 1 briefed (gate 2 pending).** The founder answered the open items on 2026-10-11: DTC pricing ($39, was $79.99), first test angle
+**Status: locked; gate 1 signed; step 2 families 1–2 briefed (gate 2 pending on family 1).** The founder answered the open items on 2026-10-11: DTC pricing ($39, was $79.99), first test angle
 **A8 lymphatic bloating** (after A5 and A9 were considered), hardcore marketing (healthcare-professionals line allowed), extras follow the swipe file, Manrope
 confirmed, step-1 competitors **Metabolae** and **Lirae**. Remaining `[TO CONFIRM]` items are secondary and do not block
 generation; `[MISSING]` items stay out of ads until real. `[MISSING]` = nothing on file, do not invent. `[TO CONFIRM]` = sourced, waiting
@@ -258,6 +258,7 @@ Others never printed: Rovina (the avatar sheets decode its ads), Dr. Mercola H2,
 | 2026-10-11 | Compliance set aside: 'do like them' for now, founder re-checks with another AI later. DSHEA bans moved to `_banned_disabled` in brand.json. | founder |
 | 2026-10-11 | Raw-photo image ads with no text (#1, #6 in the Lymphoria decode) are **natives**, not statics: excluded from the template families. Templates for step 2 = Adrien's swipe file + Lymphoria's static structures. | founder |
 | 2026-10-11 | **Step 2, concept family 1 (us vs them, 10 templates from Adrien's 79)** decoded and briefed: `edenvia/briefs/EDENVIA_B01_C*.json`, templates in `edenvia/batch/templates/`, plan in `edenvia/batch/B01-clone-plan.md`. Angle spread inside the family: 7 legs (A8-L), 1 face (A8-F, c0376), 2 man's belly (A8-M, c0196, c0310). `brand.json` v1.5: angle_keyword extended to the three signed sub-angles. Gate 2 = the founder validates the generated family 1 before families 2–9. | system |
+| 2026-10-11 | **Step 2, concept family 2 (before-after / timeline, 8 templates)** decoded and briefed ahead of Loom 1 while the VPS generates family 1: `edenvia/briefs/EDENVIA_B01_C0{126,193,228,325,330,331,379,381}_V1.json`, plan §8.3. Not frozen: the first rules retouch them before generation. Angle spread L 4 / F 1 / M 3. c0325 = c0330 (same file, two angles, as Adrien ran it). | system (founder: 'ok avançons') |
 | 2026-10-11 | Budget: $30 per round. mr-transcribe replaced by a direct Whisper-API script on the VPS. | founder |
 
 ## Still open (secondary, non-blocking)

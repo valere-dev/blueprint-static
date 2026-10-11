@@ -1,0 +1,117 @@
+{
+ "brand": "EDENVIA",
+ "ad_id": "EDENVIA_B01_C0228_V1",
+ "template": {
+  "id": "c0228",
+  "path": "/home/adanalysis/workspace/blueprint-static/edenvia/batch/templates/10-11_c0228_FaceDayTags.webp",
+  "source": "FaceDayTags · Adrien batch 01 · 1:1 native stacked close-ups (Wildhorn c0228 validated, run-1 #13)",
+  "family": "2 BEFORE-AFTER / timeline",
+  "aspect": "1:1",
+  "production_method": "real photo — one generation with two stacked panels of the same woman (A25 photo method), two small day tags by script; no product on the image (template has none)",
+  "refusal_risk": "low"
+ },
+ "decode": {
+  "scroll_stop_trick": "Two stacked phone close-ups of the same face, no headline, just 'Day 1' and 'Day 30' chips — it reads as a friend's photo, not an ad, and the eye compares the two frames on its own.",
+  "angle_carried": "forehead lines day 1 / day 30 (skincare) — Adrien: 'no headline, the proof speaks'",
+  "hidden_reading": "native proof: the absence of ad language is the claim",
+  "scene_logic": "top panel = the problem close-up, bottom panel = the same framing 30 days later; ours = the lower face: cheek, jawline, chin and neck of the same woman, same light, same blonde hair falling the same way",
+  "visual_trick": "same crop twice, only the skin changes; copy literally (tight crop, slightly over-exposed phone look)",
+  "shape_or_function_equivalent": "forehead ↔ jawline and chin (our A8-F body part): top puffy, soft, no jaw edge; bottom defined jawline, visible chin line",
+  "verb_of_the_scene": "compare (day 1 / day 30)",
+  "structure_type": "stacked split (two panels)",
+  "shock_level": "calm (native)",
+  "render_style": "phone photo, bright flat daylight, slight over-exposure, no retouching look",
+  "text_treatment": "two small 'Day 1' / 'Day 30' labels in dark text on a soft yellow chip, top-right of each panel; nothing else"
+ },
+ "strategy": {
+  "angle_id": "A8",
+  "angle": "A8-F puffy face and jawline — fluid the body stopped moving, not weight",
+  "mechanism_id": "M1",
+  "mechanism": "M1: when the body can't clear everyday oxidative stress, the tissue in the legs stays inflamed and stops draining normally, so fluid sits there — heavy, tender, puffy — and no diet reaches it, because it was never fat; the tablet turns a glass of water into hydrogen-rich water, hydrogen is the smallest molecule there is, reaches the tissue and helps the body switch that process off so normal drainage can resume",
+  "sub_avatar": "trigger: the morning puffy face, the lost jawline on photos · cause: inflamed tissue holding fluid · tried: gua sha, ice rollers, less salt",
+  "awareness": "problem-aware",
+  "belief_installed": "A puffy face and soft jawline are fluid the body stopped moving, not weight."
+ },
+ "inventory": [
+  {
+   "zone": "top_panel",
+   "template": "close-up of a blonde woman's forehead with lines, 'Day 1' chip",
+   "action": "SWAP",
+   "ours": "close-up of the lower face of woman 40–55, soft midlife build, ordinary clothes, a puffy face: soft cheeks, no jaw edge, slight double chin — never a young fitness model, Day 1",
+   "reason": "before = our body part"
+  },
+  {
+   "zone": "bottom_panel",
+   "template": "same forehead, smooth, 'Day 30' chip",
+   "action": "SWAP",
+   "ours": "same woman, same crop, Day 30: defined jawline, chin line visible, cheeks lifted",
+   "reason": "after; 30 days = one pouch"
+  },
+  {
+   "zone": "day_chips",
+   "template": "'Day 1' / 'Day 30' dark text on yellow chips top-right",
+   "action": "KEEP",
+   "ours": "'Day 1' / 'Day 30' same style",
+   "reason": "template device, our supply length"
+  },
+  {
+   "zone": "product_spot",
+   "template": "none",
+   "action": "KEEP",
+   "ours": "none — native look; the pouch is in the primary text / landing only",
+   "reason": "template has no product (Adrien's #13 also kept none)"
+  },
+  {
+   "zone": "headline",
+   "template": "none",
+   "action": "KEEP",
+   "ours": "none",
+   "reason": "Adrien: 'no headline: the proof speaks'"
+  },
+  {
+   "zone": "logo",
+   "template": "none",
+   "action": "KEEP",
+   "ours": "none",
+   "reason": "native"
+  }
+ ],
+ "text_slots": [
+  {
+   "slot": "tag_top",
+   "template_text": "Day 1",
+   "ours": "Day 1",
+   "source": "kept",
+   "same_length": true
+  },
+  {
+   "slot": "tag_bottom",
+   "template_text": "Day 30",
+   "ours": "Day 30",
+   "source": "our 30-day pouch",
+   "same_length": true
+  }
+ ],
+ "text_slot_count": 2,
+ "proof_allowed": [],
+ "people": {
+  "customer_look": "lower face, chin and neck of woman 40–55, blonde hair in both panels, same light — eyes cropped out",
+  "other_people": "none"
+ },
+ "visual_bans": [
+  "no product, no logo, no headline on the image — native",
+  "same woman in both panels: identical hair, light, crop; only the puffiness changes",
+  "no filter look, no skin smoothing beyond the change itself",
+  "the product is only ever a white effervescent tablet in a clear glass of water — no other dosage form, no blister pack, no sachet",
+  "no bottle, jar or tub for Edenvia — the container is the stand-up pouch of Image 1, label untouched",
+  "any glass holds clear water with fine rising bubbles; never hot water, tea or coffee in that glass",
+  "no competitor brand name, logo or bottle shape anywhere (brand.json banned list)",
+  "no disease or drug name on the image"
+ ],
+ "compliance_flags": [
+  "before/after of a face: results claim — primary text carries '*Results may vary'"
+ ],
+ "missing": [
+  "[MISSING] whether the founder wants a small pouch on native-look ads (ask at Loom 1)"
+ ]
+}

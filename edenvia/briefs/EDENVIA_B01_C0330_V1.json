@@ -1,0 +1,115 @@
+{
+ "brand": "EDENVIA",
+ "ad_id": "EDENVIA_B01_C0330_V1",
+ "template": {
+  "id": "c0330",
+  "path": "/home/adanalysis/workspace/blueprint-static/edenvia/batch/templates/10-11_c0330_PrimalViking.webp",
+  "source": "PrimalViking · Adrien batch 01 · 4:5 pencil-sketch 3-stage timeline, second use (Wildhorn c0330 validated, run-1 #15)",
+  "family": "2 BEFORE-AFTER / timeline",
+  "aspect": "4:5",
+  "production_method": "illustration + pasted product — pencil/ink sketch of three pairs of lower legs on white in one generation, chalk labels and banner by script, pouch pasted below the banner",
+  "refusal_risk": "none"
+ },
+ "decode": {
+  "scroll_stop_trick": "Same anatomy-sketch timeline as c0325, but on the legs: three pairs of calves and ankles, swollen to slim, WEEK 0 / 2 / 4, and a chalk banner that tells her to stop hiding them.",
+  "angle_carried": "man boobs, 4-week timeline — Adrien's second use of the sketch ('MAN BOOBS? DON'T HIDE — MELT THEM.')",
+  "hidden_reading": "the drawing shows what she hides under trousers; the banner names the hiding",
+  "scene_logic": "three stages of the same legs left to right, seen from the front, mid-shin down to the feet: week 0 thick ankles with a sock groove, week 2 softer, week 4 slim with the ankle bone drawn",
+  "visual_trick": "the cross-hatched pencil style and the chalkboard labels; copy literally",
+  "shape_or_function_equivalent": "chest ↔ calves and ankles; amber bottle ↔ pouch",
+  "verb_of_the_scene": "shrink over time",
+  "structure_type": "3-panel timeline + banner",
+  "shock_level": "calm",
+  "render_style": "black pencil and ink sketch on white paper, cross-hatching, no colour",
+  "text_treatment": "white chalk capitals on black rounded labels; long black banner with white chalk text, two lines allowed"
+ },
+ "strategy": {
+  "angle_id": "A8",
+  "angle": "A8-L heavy, swollen legs she hides under long trousers",
+  "mechanism_id": "M1",
+  "mechanism": "M1: when the body can't clear everyday oxidative stress, the tissue in the legs stays inflamed and stops draining normally, so fluid sits there — heavy, tender, puffy — and no diet reaches it, because it was never fat; the tablet turns a glass of water into hydrogen-rich water, hydrogen is the smallest molecule there is, reaches the tissue and helps the body switch that process off so normal drainage can resume",
+  "sub_avatar": "trigger: summer, skirts, sandals she avoids · cause: inflamed tissue holding fluid · tried: compression socks, elevating, water tablets",
+  "awareness": "problem-aware",
+  "belief_installed": "It was never fat. It's fluid my body stopped clearing — and no diet reaches it."
+ },
+ "inventory": [
+  {
+   "zone": "sketch_row",
+   "template": "three pencil torsos (chest version in Adrien's run)",
+   "action": "SWAP",
+   "ours": "three pencil pairs of lower legs of the same woman, front view, mid-shin to feet: swollen with a sock groove / softer / slim with the ankle bone",
+   "reason": "our body part"
+  },
+  {
+   "zone": "labels",
+   "template": "'WEEK 0' 'WEEK 2' 'WEEK 4'",
+   "action": "KEEP",
+   "ours": "same",
+   "reason": "kept"
+  },
+  {
+   "zone": "banner",
+   "template": "'MAN BOOBS? DON'T HIDE — MELT THEM.' (Adrien's validated banner)",
+   "action": "SWAP",
+   "ours": "'HEAVY LEGS? DON'T HIDE THEM — DRAIN THEM.'",
+   "reason": "same structure '[problem]? DON'T HIDE — [verb] THEM.'; our verb is drain (M1), bank: 'heavy legs' (B2)"
+  },
+  {
+   "zone": "product_spot",
+   "template": "amber bottle centred under the banner",
+   "action": "SWAP",
+   "ours": "Edenvia pouch centred under the banner",
+   "reason": "placement"
+  },
+  {
+   "zone": "background",
+   "template": "white paper",
+   "action": "KEEP",
+   "ours": "white",
+   "reason": ""
+  },
+  {
+   "zone": "logo",
+   "template": "none",
+   "action": "KEEP",
+   "ours": "none",
+   "reason": ""
+  }
+ ],
+ "text_slots": [
+  {
+   "slot": "labels",
+   "template_text": "WEEK 0 · WEEK 2 · WEEK 4",
+   "ours": "WEEK 0 · WEEK 2 · WEEK 4",
+   "source": "kept",
+   "same_length": true
+  },
+  {
+   "slot": "banner",
+   "template_text": "MAN BOOBS? DON'T HIDE — MELT THEM.",
+   "ours": "HEAVY LEGS? DON'T HIDE THEM — DRAIN THEM.",
+   "source": "Adrien's structure; our problem and our verb",
+   "same_length": true
+  }
+ ],
+ "text_slot_count": 2,
+ "proof_allowed": [],
+ "people": {
+  "customer_look": "lower legs only of woman 40–55, soft midlife build, ordinary clothes, visibly swollen heavy calves and ankles (sock marks, puffy ankles) — never a young fitness model",
+  "other_people": "none"
+ },
+ "visual_bans": [
+  "legs only, no torso, no face",
+  "sketch stays black on white: no colour except the pouch",
+  "the product is only ever a white effervescent tablet in a clear glass of water — no other dosage form, no blister pack, no sachet",
+  "no bottle, jar or tub for Edenvia — the container is the stand-up pouch of Image 1, label untouched",
+  "any glass holds clear water with fine rising bubbles; never hot water, tea or coffee in that glass",
+  "no competitor brand name, logo or bottle shape anywhere (brand.json banned list)",
+  "no disease or drug name on the image"
+ ],
+ "compliance_flags": [
+  "timeline results claim — primary text carries '*Results may vary'"
+ ],
+ "missing": [],
+ "_note": "Identical source file to c0325 (same bytes); second use with the legs angle, as Adrien ran it twice."
+}

@@ -1,0 +1,152 @@
+{
+ "brand": "EDENVIA",
+ "ad_id": "EDENVIA_B01_C0381_V1",
+ "template": {
+  "id": "c0381",
+  "path": "/home/adanalysis/workspace/blueprint-static/edenvia/batch/templates/10-11_c0381_YOLOCreatine.webp",
+  "source": "YOLOCreatine · Adrien batch 01 · 4:5 product + 3 month circles + deal (Wildhorn c0381 validated, run-1 #18)",
+  "family": "2 BEFORE-AFTER / timeline",
+  "aspect": "4:5",
+  "production_method": "collage — navy background, three circular photo crops (same woman's calves, side view, A25 photo method in one generation then cropped), pouch + glass pasted left, headline, month labels, deal tag, price and button by script",
+  "refusal_risk": "none"
+ },
+ "decode": {
+  "scroll_stop_trick": "A big 'Problem? Try us.' headline next to the product, and three circles stacked on the right — red ring, yellow ring, green ring — showing the same body part across three months, with a crossed-out price and a green SHOP NOW. The traffic-light rings do the convincing.",
+  "angle_carried": "'Flat but flabby? Try YOLO.' — Adrien's final 'Beer Belly? Try WILDHORN.' (Loom 2: 'perfect')",
+  "hidden_reading": "the three rings are a scorecard; red → green reads as 'solved' before any claim is read; the deal closes it",
+  "scene_logic": "left: headline over the product; right: three circles JULY / AUGUST / SEPTEMBER; bottom: SPECIAL DEAL, price, button; ours identical with calves and ankles in the circles",
+  "visual_trick": "the ring colours red → yellow → green and the crossed-out price; copy literally",
+  "shape_or_function_equivalent": "two tubs + scattered gummies ↔ one pouch + a clear glass with the tablet fizzing and two white effervescent tablets on the surface; waist crops ↔ calf/ankle crops in profile",
+  "verb_of_the_scene": "try / improve month by month",
+  "structure_type": "product hero + 3-stage timeline + offer",
+  "shock_level": "calm",
+  "render_style": "deep navy background, bright white type, product with a soft spotlight, photo crops in coloured rings",
+  "text_treatment": "huge white bold headline 3 lines, month labels white caps, red 'SPECIAL DEAL' tag, big price with crossed old price, green rounded button with arrow"
+ },
+ "strategy": {
+  "angle_id": "A8",
+  "angle": "A8-L swollen legs on an otherwise slim body — 'Swollen legs? Try Edenvia.'",
+  "mechanism_id": "M1",
+  "mechanism": "M1: when the body can't clear everyday oxidative stress, the tissue in the legs stays inflamed and stops draining normally, so fluid sits there — heavy, tender, puffy — and no diet reaches it, because it was never fat; the tablet turns a glass of water into hydrogen-rich water, hydrogen is the smallest molecule there is, reaches the tissue and helps the body switch that process off so normal drainage can resume",
+  "sub_avatar": "trigger: slim everywhere except the calves and ankles · cause: inflamed tissue holding fluid · tried: diets that made her thinner but not less swollen",
+  "awareness": "solution-aware (ready for an offer)",
+  "belief_installed": "It was never fat. It's fluid my body stopped clearing — and no diet reaches it."
+ },
+ "inventory": [
+  {
+   "zone": "headline",
+   "template": "'Flat But / Flabby? / Try YOLO.'",
+   "action": "SWAP",
+   "ours": "'Slim Body, / Swollen Legs? / Try EDENVIA.'",
+   "reason": "Adrien's final structure '[Problem]? Try [brand].'; bank 'swollen legs' (B2)"
+  },
+  {
+   "zone": "product_spot",
+   "template": "two green tubs with gummies scattered, left-centre",
+   "action": "SWAP",
+   "ours": "one Edenvia pouch with a clear glass of water beside it, a white effervescent tablet fizzing, two tablets on the surface",
+   "reason": "one product + its ritual fills the two-tub footprint"
+  },
+  {
+   "zone": "circles",
+   "template": "three ring crops of a woman's waist in profile: red / yellow / green rings, JULY / AUGUST / SEPTEMBER",
+   "action": "SWAP",
+   "ours": "three ring crops of the same woman's calves and ankles in profile: swollen (red ring) / less (yellow) / slim (green), same month labels",
+   "reason": "our body part; Adrien kept the month labels"
+  },
+  {
+   "zone": "deal_tag",
+   "template": "red 'SPECIAL DEAL' tag",
+   "action": "KEEP",
+   "ours": "same",
+   "reason": "kept"
+  },
+  {
+   "zone": "price",
+   "template": "'$44' with crossed '$88'",
+   "action": "SWAP",
+   "ours": "'$39.00' with crossed '$79.99'",
+   "reason": "our DTC price and compare-at (brand.json prices_allowed)"
+  },
+  {
+   "zone": "button",
+   "template": "green 'SHOP NOW →'",
+   "action": "KEEP",
+   "ours": "same text; Edenvia accent blue #1468DB button is allowed, green also fine",
+   "reason": "kept"
+  },
+  {
+   "zone": "background",
+   "template": "deep navy",
+   "action": "KEEP",
+   "ours": "Edenvia deep navy #172A54",
+   "reason": "render style"
+  },
+  {
+   "zone": "logo",
+   "template": "none (tubs)",
+   "action": "KEEP",
+   "ours": "none — pouch carries it",
+   "reason": ""
+  }
+ ],
+ "text_slots": [
+  {
+   "slot": "headline",
+   "template_text": "Flat But Flabby? Try YOLO.",
+   "ours": "Slim Body, Swollen Legs? Try EDENVIA.",
+   "source": "Adrien's structure; bank 'swollen legs'",
+   "same_length": true
+  },
+  {
+   "slot": "months",
+   "template_text": "JULY · AUGUST · SEPTEMBER",
+   "ours": "JULY · AUGUST · SEPTEMBER",
+   "source": "kept (Adrien kept them)",
+   "same_length": true
+  },
+  {
+   "slot": "deal_tag",
+   "template_text": "SPECIAL DEAL",
+   "ours": "SPECIAL DEAL",
+   "source": "kept",
+   "same_length": true
+  },
+  {
+   "slot": "price",
+   "template_text": "$44 $88",
+   "ours": "$39.00 $79.99",
+   "source": "prices_allowed",
+   "same_length": true
+  },
+  {
+   "slot": "button",
+   "template_text": "SHOP NOW →",
+   "ours": "SHOP NOW →",
+   "source": "kept",
+   "same_length": true
+  }
+ ],
+ "text_slot_count": 5,
+ "proof_allowed": [
+  "$39.00",
+  "$79.99"
+ ],
+ "people": {
+  "customer_look": "calves and ankles in profile of woman 40–55, soft midlife build, ordinary clothes, visibly swollen heavy calves and ankles (sock marks, puffy ankles) — never a young fitness model, bare legs, dark shorts hem",
+  "other_people": "none"
+ },
+ "visual_bans": [
+  "no gummies, no other dosage form, no tub — tablets are white effervescent tablets in or beside a clear glass of water",
+  "rings stay red / yellow / green in that order",
+  "the product is only ever a white effervescent tablet in a clear glass of water — no other dosage form, no blister pack, no sachet",
+  "no bottle, jar or tub for Edenvia — the container is the stand-up pouch of Image 1, label untouched",
+  "any glass holds clear water with fine rising bubbles; never hot water, tea or coffee in that glass",
+  "no competitor brand name, logo or bottle shape anywhere (brand.json banned list)",
+  "no disease or drug name on the image"
+ ],
+ "compliance_flags": [
+  "price + compare-at: both in prices_allowed; '93% sold' not added (template has no such slot)"
+ ],
+ "missing": []
+}

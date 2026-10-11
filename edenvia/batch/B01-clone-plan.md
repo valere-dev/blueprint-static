@@ -10,7 +10,7 @@ as they are (R1, R2). Raw-photo natives are not templates (founder, 2026-10-11).
 | Family | Templates (c-id) | Count | Status |
 |---|---|---|---|
 | 1 US vs THEM / comparison | c0021 c0138 c0178 c0183 c0192 c0196 c0233 c0259 c0310 c0376 | 10 | **briefed — gate 2** |
-| 2 Before-after / timeline | c0126 c0193 c0228 c0325 c0330 c0331 c0379 c0381 | 8 | queued |
+| 2 Before-after / timeline | c0126 c0193 c0228 c0325 c0330 c0331 c0379 c0381 | 8 | briefed (2026-10-11) |
 | 3 Problem reframe (X is not the problem) | c0039 c0113 c0118 c0128 c0157 c0198 c0234 c0245 | 8 | queued |
 | 4 Mechanism / anatomy / ingredients | c0182 c0190 c0235 c0243 c0249 c0251 | 6 | queued |
 | 5 Origin / source / real food | c0068 c0152 c0153 c0154 c0188 c0189 c0221 c0380 | 8 | queued |
@@ -46,3 +46,25 @@ Coverage: A8-L 7 · A8-F 1 · A8-M 2. Already-made check: `creatives.jsonl` is e
 Briefs: `edenvia/briefs/EDENVIA_B01_C####_V1.json` (worksheet §9). Draft specs from them lint clean
 (`brief2spec.py` → `lint.py`, 10/10, 2026-10-11, cloud session). Gate 2: the VPS session generates these 10, the founder
 reviews the comparison page, every comment becomes a rule, then families 2–9 follow in order.
+
+## §8.3 Clone plan — family 2 (8 ads, before-after / timeline)
+
+Briefed 2026-10-11 (cloud session) while the VPS generates family 1. These briefs are written before Loom 1, so the
+first rules may retouch them before generation — they are not frozen. c0325 and c0330 are the same file in Adrien's
+library (identical bytes); he ran it twice with two angles, we do the same.
+
+| Template | Aspect | Angle carried (their ad / Adrien's final) | Assigned | Change distance (witness / clock / setting / body / belief) | Headline (ours) | Production |
+|---|---|---|---|---|---|---|
+| c0126 Mars Men | 1:1 | "Size doesn't matter, thickness does" → Adrien "…unless it's your belly" | A8-L | none / day 0 → 30 / sandals on a tiled floor / ankles / the scale is the wrong number | THE SCALE DOESN'T MATTER, SWOLLEN LEGS DO! | photo (A25), pouch + glass pasted |
+| c0193 pregnant vs belly | 1:1 | "Only one of them is pregnant." (visual joke) | **A8-M** | wife / none / grey studio / belly / his is fluid | Only one of them is pregnant. | photo (A25), pouch pasted small |
+| c0228 face day tags | 1:1 | Day 1 / Day 30 stacked, no headline | **A8-F** | self / day 1 → 30 / phone close-up / jawline & chin / the proof speaks | (no headline) Day 1 · Day 30 | photo (A25), native, no product |
+| c0325 Primal Viking sketch | 4:5 | WEEK 0/2/4 "GOODBYE DAD BOD BELLY" | **A8-M** | none / 4 weeks / anatomy sketch / belly / flat, not abs | GOODBYE KEG BELLY | pencil illustration, pouch pasted |
+| c0330 same sketch, 2nd use | 4:5 | Adrien "MAN BOOBS? DON'T HIDE — MELT THEM." | A8-L | none / 4 weeks / anatomy sketch / calves & ankles / stop hiding them | HEAVY LEGS? DON'T HIDE THEM — DRAIN THEM. | pencil illustration, pouch pasted |
+| c0331 Primal Viking glow | 9:16 | "DISSOLVES LOVE HANDLES & CORTISOL BELLY BY DAY 28" (5 rounds) | A8-L | none / day 6-12-27-30 / medical poster / back of the calves / glow = where it drains | DRAINS HEAVY, SWOLLEN LEGS BY DAY 30 | flat illustration, pouch pasted (never squashed) |
+| c0379 Beef Liver cartoon | 1:1 | "DRAINS BEER BELLY IN 14 DAYS" | **A8-M** | none / 30 days / red-blue split / belly / drains, doesn't burn | DRAINS THE BELLY THAT ISN'T FAT · IN 30 DAYS | Pixar 3D, pouch pasted |
+| c0381 YOLO deal | 4:5 | "Flat But Flabby? Try YOLO." → "Beer Belly? Try WILDHORN." | A8-L | none / Jul-Aug-Sep / navy product hero / calves in rings / slim body, swollen legs | Slim Body, Swollen Legs? Try EDENVIA. · $39.00 ~~$79.99~~ | collage, pouch + glass pasted |
+
+Coverage: A8-L 4 · A8-F 1 · A8-M 3 (running total after 18 ads: L 11 · F 2 · M 5). Draft specs lint clean
+(`brief2spec.py` → `lint.py`, 8/8, 2026-10-11). Lessons carried from Adrien's run on these templates: c0331 keeps a small
+glow on the result panel and a pouch in true proportions; c0228 keeps no headline; c0381 keeps the month labels;
+c0379 keeps the verb DRAINS word for word; c0193 keeps the single line (the B1 subline was dropped at Loom 2).

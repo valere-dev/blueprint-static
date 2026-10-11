@@ -1,24 +1,24 @@
 {
   "_comment": "Edenvia brand file — v1.0 LOCKED 2026-10-11 after the founder's verdicts. Values marked [TO CONFIRM] are secondary and do not block generation. Every value carries a source in BRAND-KIT.md. Scripts find this file via SAC_WORKDIR=<repo>/edenvia.",
-  "_status": "v1.2 — 2026-10-11: first test angle A8 Lymphatic bloating (founder's final pick, after A5 then A9 the same day); step-1 competitor Lymphoria (lymphoria.co). Founder override on invented proof stands.",
+  "_status": "v1.3 — 2026-10-11: asset paths made absolute for the VPS (user adanalysis, host nutraflow1). Angle A8, competitor Lymphoria, step-1 research committed under edenvia/research/lymphoria/.",
   "name": "EDENVIA",
   "file_prefix": "Edenvia",
   "wordmark": "Edenvia",
   "_wordmark_note": "On the label the wordmark is mixed case 'Edenvia' in a bold italic sans; the website header uses 'EDENVIA' in caps. Lint treats both as the bare wordmark (D8).",
   "icon_description": "the Edenvia atom icon only (two crossed elliptical orbit rings with two small round dots), NO letters — pasted by script from the official file (D19), never drawn by the model",
   "product_noun": "pouch",
-  "product_photo": "edenvia/assets/product/edenvia-molecular-hydrogen-pouch-front.png",
+  "product_photo": "/home/adanalysis/workspace/blueprint-static/edenvia/assets/product/edenvia-molecular-hydrogen-pouch-front.png",
   "_product_photo_note": "1206x1658, from the founder (site packshot, webp source). Front label fully readable. A higher-resolution master is welcome but not required. Second photo with three tablets in front: edenvia/assets/product/edenvia-molecular-hydrogen-pouch-with-tablets.png (686x886, reference only).",
-  "product_cutout": "edenvia/assets/product/edenvia-molecular-hydrogen-pouch-cutout.png",
+  "product_cutout": "/home/adanalysis/workspace/blueprint-static/edenvia/assets/product/edenvia-molecular-hydrogen-pouch-cutout.png",
   "_product_cutout_note": "1140x1506, transparent PNG made from the packshot (u2net mask, hard edge + 1px feather), checked on white and on black. Replace with the studio cutout if one exists.",
   "product_lock": "the EDENVIA Molecular Hydrogen tablet pouch. Reproduce it exactly as in Image 1: a stand-up resealable pouch with a zip seal, white at the top fading to sky blue at the bottom, covered in fine water droplets; at the top the Edenvia atom icon next to the bold italic wordmark Edenvia in dark navy; below it MOLECULAR in navy capitals, then HYDROGEN in very large bold navy capitals; then GENERATES 8PPM OF HYDROGEN PER TABLET; then two lines CONSUME DAILY ANTIOXIDANTS AND / EXHIBIT HEALTHIER, IMPROVED LIVING; near the bottom DIETARY SUPPLEMENT over a thin rule, then 30 TABLETS | 30 DAY SUPPLY.",
   "lock_extra": "Leave every brand-logo spot outside the label EMPTY (plain background, no icon, no letters) — the official logo is pasted there by script afterwards.",
   "_fonts_note": "Brand font Manrope (founder-confirmed), static weights from Google Fonts in edenvia/assets/fonts/. Anton, Montserrat, Oswald, Fredoka ship with the skill for template-matching headlines.",
   "fonts": {
-    "Manrope": "edenvia/assets/fonts/Manrope-700.ttf",
-    "Manrope-Regular": "edenvia/assets/fonts/Manrope-400.ttf",
-    "Manrope-SemiBold": "edenvia/assets/fonts/Manrope-600.ttf",
-    "Manrope-ExtraBold": "edenvia/assets/fonts/Manrope-800.ttf"
+    "Manrope": "/home/adanalysis/workspace/blueprint-static/edenvia/assets/fonts/Manrope-700.ttf",
+    "Manrope-Regular": "/home/adanalysis/workspace/blueprint-static/edenvia/assets/fonts/Manrope-400.ttf",
+    "Manrope-SemiBold": "/home/adanalysis/workspace/blueprint-static/edenvia/assets/fonts/Manrope-600.ttf",
+    "Manrope-ExtraBold": "/home/adanalysis/workspace/blueprint-static/edenvia/assets/fonts/Manrope-800.ttf"
   },
   "colors": {
     "accent": "#1468DB",
@@ -239,9 +239,9 @@
     }
   ],
   "logo_files": {
-    "dark_bg": "edenvia/assets/logo/edenvia-logo-white-nobg.png",
-    "light_bg": "edenvia/assets/logo/edenvia-logo-blue-nobg.png",
-    "icon_only": "edenvia/assets/logo/edenvia-logo-500-nobg.png",
+    "dark_bg": "/home/adanalysis/workspace/blueprint-static/edenvia/assets/logo/edenvia-logo-white-nobg.png",
+    "light_bg": "/home/adanalysis/workspace/blueprint-static/edenvia/assets/logo/edenvia-logo-blue-nobg.png",
+    "icon_only": "/home/adanalysis/workspace/blueprint-static/edenvia/assets/logo/edenvia-logo-500-nobg.png",
     "_rule": "D19: pasted by script in the template's logo slot; never upscaled",
     "_note": "white wordmark 5818x1080 (jagged edges at full size), blue wordmark 5818x1080, 500x500 icon on a blue gradient disc, icon on blue square 1210x1080. Still [MISSING]: a transparent icon without the disc and a vector/lossless master (founder's Branding | Logo folder has no SVG)."
   },
@@ -250,5 +250,7 @@
     "signoff": "edenvia.com",
     "support_email": "support@edenvia.com",
     "_source": "founder (2026-10-11) + Shopify shop info (Shopify Plus, USD, United States). Older docs say tryedenvia.com — superseded."
-  }
+  },
+  "fonts_dir": "/home/adanalysis/workspace/blueprint-static/edenvia/assets/fonts",
+  "_paths_note": "Absolute paths point at the VPS checkout (/home/adanalysis/workspace/blueprint-static). The cloud research session never runs the generation scripts, so it does not need them to resolve. If the VPS checkout moves, change ROOT here once."
 }

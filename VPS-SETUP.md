@@ -4,6 +4,15 @@ The cloud session that built this repo cannot reach the VPS (no SSH client, outb
 allow-list). Everything below runs **on the VPS itself**, in a Claude Code session opened there, exactly as
 Adrien runs Wildhorn ("ssh vps-claude", everything on the VPS, never in the Mac's browser).
 
+## 0. Reality check (2026-10-11, from the VPS session)
+
+- Host `nutraflow1`, user `adanalysis` (not root). Checkout: `/home/adanalysis/workspace/blueprint-static`.
+- `export SAC_WORKDIR=/home/adanalysis/workspace/blueprint-static/edenvia SKILL=/home/adanalysis/workspace/blueprint-static/.claude/skills/static-ads`
+- The Blueprint mirror is already on the host at `/srv/blueprint` (world-readable): 79 source templates in `ex/web/`, 1,106 concept files in `external-wildhorn/remix/`. No Drive download needed.
+- Pages are served by nginx on `blueprint.nutraflow.app` (noindex header + review API already there), not Caddy. Section 4 below is superseded: add a location/server block for `edenvia/pages`.
+- `brand.json` asset paths are absolute to this checkout since v1.3.
+- Research outputs live in `edenvia/research/<competitor>/` (step 1) and `edenvia/briefs/` (step 2); `git pull` before every batch.
+
 ## 1. One-time bootstrap (paste into Claude Code on the VPS)
 
 ```
@@ -22,7 +31,7 @@ Then tell me what is missing from the pre-flight checklist in $SKILL/2-make/firs
 | `/etc/secrets/openai_api_key` | `scripts/remix.py`, `scripts/jarswap.py` (gpt-image-2), Loom transcription (Whisper API) |
 | `/etc/secrets/kie_api_key` | `scripts/kie6.py` (Seedream fallback) |
 
-`chmod 600` both. The scripts read the path, not an env var (`OPENAI_KEY_FILE`, `KIE_KEY_FILE` in `scripts/sac_config.py`).
+`chmod 600`, owned or readable by `adanalysis`. The scripts read the path, not an env var (`OPENAI_KEY_FILE`, `KIE_KEY_FILE` in `scripts/sac_config.py`). Creating `/etc/secrets` needs root.
 
 ## 3. Templates (step 2 input)
 
@@ -48,6 +57,9 @@ handle, noindex, clean URLs, mobile OK. The founder gets two links per batch: co
 
 `scripts/ingest_loom.sh` = yt-dlp on the Loom URL + transcription through the OpenAI API into `edenvia/feedback/`.
 On the VPS nothing is blocked. If a Loom is private, the founder downloads the mp4 and drops it in Drive.
+Tooling on nutraflow1 (2026-10-11): missing `yt-dlp`, `mr-transcribe`, python `openai`. Approved replacement: `pip install --user yt-dlp openai`
+and a 20-line `scripts/transcribe.py` that calls the Whisper API (`audio.transcriptions`, model `whisper-1`) with the key file —
+same output (a `.txt` transcript in `feedback/`), same step in `3-improve/feedback-loop.md`. Record it as a system rule when added.
 
 ## 6. What stays in the cloud session
 

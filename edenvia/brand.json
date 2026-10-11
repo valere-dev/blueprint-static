@@ -1,6 +1,6 @@
 {
   "_comment": "Edenvia brand file — v1.0 LOCKED 2026-10-11 after the founder's verdicts. Values marked [TO CONFIRM] are secondary and do not block generation. Every value carries a source in BRAND-KIT.md. Scripts find this file via SAC_WORKDIR=<repo>/edenvia.",
-  "_status": "v1.0 — locked by founder verdicts (2026-10-11): DTC pricing, first angle A5 blood sugar, hardcore marketing, swipe-file-led extras, Manrope, competitors Metabolae + Lirae",
+  "_status": "v1.1 — founder reaffirmed invented proof allowed (2026-10-11); step-1 competitor Metabolae (primary), Lirae (reserve)",
   "name": "EDENVIA",
   "file_prefix": "Edenvia",
   "wordmark": "Edenvia",
@@ -62,7 +62,7 @@
     "\"30-Day Money Back Guarantee\" — site FAQ + founder",
     "\"Trusted by healthcare professionals\" — landing section; founder-approved 2026-10-11 ('hardcore marketing')",
     "\"Third-party lab tested\" — product page claim (2026-03); founder said no certificate needed",
-    "_founder_override_2026-10-11: on 'invent the proof' — testimonial-style copy may be WRITTEN for review-slot templates (first name + initial, composite, like the swipe file does). What stays out: invented numbers (a survey %, a review count, a lab result) and invented documents. Those remain [MISSING] until real. See BRAND-KIT.md §5."
+    "_founder_override_2026-10-11 (reaffirmed): invented proof is ALLOWED in ads — testimonial copy, survey-style percentages, counts — the founder's call, recorded here with the date. System rule B16 (every stat with a real source) is overridden for Edenvia. Lint still blocks any $ amount outside prices_allowed and any disease/drug name."
   ],
   "avatar": {
     "_note": "Edenvia sells one product to MANY avatars, one per angle. Each angle has a full sheet in edenvia/avatars/*.md (identity, pain, failed solutions, trigger, verbatim language, root-cause bridge, big idea, hooks). The block below is the DEFAULT angle A1 only; the spec of every ad names its angle and takes the avatar from that angle's sheet.",

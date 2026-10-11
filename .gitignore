@@ -1,0 +1,5 @@
+*.zip
+__pycache__/
+edenvia/out/_kie/
+edenvia/out/_raw/
+edenvia/pages/ex/

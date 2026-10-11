@@ -61,6 +61,27 @@ the composite (D6), set the engine per `production_method` (c0196 is a photo →
 generate the 10 ads of family 1 only (gate 2), QC at full resolution, build the comparison page (template | ad) and the
 demo page under `edenvia/pages/`, and send the two links. Budget per round: $30 (founder).
 
+## 3c. Round 2 of family 1 (after Edenvia Loom 1, 2026-10-11)
+
+```
+git pull    # brings rules C23 + B23, brief c0138 (-50%), edenvia/assets/product/library/ (14 photos + INDEX.md), brand.json product_library
+```
+1. **Product library.** 13 photos did not fit through the cloud session's Drive channel. Fetch them from the founder's folder
+   `https://drive.google.com/drive/folders/1yRiSc4xCw66dJdPtz_FzLD0cEJ1RbeWd` (founder: set the folder to "anyone with the link" for
+   the time of the download, or export it to the VPS yourself), file names: IMG (10), (12), (13), (14), (15), (16), (17), (146), IMG A,
+   IMG W (1), IMG W (5), IMGW (3). Downscale lifestyle shots to 1536 px JPEG q92, keep product-only shots full size PNG, add each to
+   `library/INDEX.md` with one line saying what it shows. Then build the cutouts: pouch standing (from `studio_pouch-ice-bowl-glass-straw-v2.png`),
+   pouch in hand with the hand (from `hand_pouch-kitchen.jpg` and `people_*`), tablets (from `flatlay_pouch-tablets-drops.png`). Save them as
+   `edenvia/assets/product/cutouts/<name>.png` and point `brand.json` `product_cutout` at the standing one.
+2. **Redo S1–S10 per C23**: keep every validated pixel (D21), replace only the pouch placement: right library cutout for the slot, scaled to the
+   template's product size or bigger, droplets kept, colour grade and contact shadow matched, hand from the library when the template's product is
+   held. S2 also gets the button `-50%` (B23). Masters in `out/_raw/`, outputs 1080 wide (D15).
+3. QC side by side with the template AND with the library photo (C22/C23), then rebuild the comparison page and the demo page (D20) and republish
+   the two artifacts in place. Report cost against the $30 round budget.
+4. Push on the deploy key once the founder has added it (Settings → Deploy keys → write access).
+
+Family 2 is briefed (plan §8.3); regenerate it only after the founder validates round 2 of family 1.
+
 ## 4. Review pages
 
 The mirror's `deploy/` folder has Adrien's deploy: `bash deploy/deploy.sh root@IP domain` installs Caddy + the

@@ -51,6 +51,14 @@ def convert(b, num):
         spec["aspect"] = ASPECT.get(t["aspect"], t["aspect"])
     if any(re.search(r"\b\d+\s*days?\b|day \d+|week \d+", s.get("template_text", ""), re.I) for s in b.get("text_slots", [])):
         spec["template_has_deadline"] = True
+    for sl in b.get("text_slots", []):
+        tt, ours = sl.get("template_text", ""), sl.get("ours", "")
+        if "%" in tt and "%" not in ours and ours.strip():
+            spec["why"] += f" B23 FAIL: offer slot '{tt}' is a percentage, ours '{ours}' is not — keep the mechanic (-50%)."
+        if "$" in tt and "$" not in ours and ours.strip():
+            spec["why"] += f" B23 FAIL: offer slot '{tt}' is a price, ours '{ours}' is not."
+    if spec.get("composite") and not b.get("product_source"):
+        spec["why"] += " C23 WARN: name product_source (which library photo the pouch is cut from)."
     if b.get("text_slot_count") is not None and b["text_slot_count"] != len(texts):
         spec["why"] += f" WARNING: text_slot_count {b['text_slot_count']} != {len(texts)} slots (B1)."
     return spec, b.get("missing", []), b.get("compliance_flags", [])

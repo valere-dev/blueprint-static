@@ -320,6 +320,11 @@ Known collisions and their resolution are listed at the end ("Resolved conflicts
 
 ## C. Visual
 
+### B23 — Offer-slot parity: a percentage stays a percentage, a price stays a price — added from Edenvia Loom 1 (2026-10-11)
+**Rule:** The offer slot keeps the template's *mechanic*, filled with our real numbers (B20). "FLAT 20% OFF" → "-50%" (our $39 vs $79.99 = 51 % off, rounded down to a number we can defend), never "NOW $39.00". A price slot gets our price, a "was/now" pair gets both our prices, a "% off" gets our percentage, a "buy 2 get 1" gets our real bundle or the slot is dropped. Same for proof slots: a star count stays a star count, a customer count stays a count. The brief's `reason` must say which mechanic is kept.
+**Evidence:** Edenvia Loom 1 (E-L1 #2) on S2 c0138: "il y a le pourcentage de réduction sur la template et il y a juste le prix. Il faut mettre -50. On ne va pas mettre le prix dans le numéro 2." General remark in the same Loom: "trop de variations et pas assez d'analyse concrète du mécanisme derrière" (→ A13 inventory, E11 mechanism kept 1:1).
+**Enforced:** lint (brief2spec: a `template_text` with `%` whose `ours` has no `%` fails; a `template_text` with `$` whose `ours` has no `$` fails).
+
 ### C1 — The image shows the avatar's problem or result
 **Rule:** Keep the format; rewrite the scene until {CORE_PROBLEM} (or the result) is visible.
 **Evidence:** L2 #6 "Beef vs Spaghetti" didn't show the belly → L3 #6 great; L3 #23 "show better that it's a beer belly"; L4 #23 "you didn't put the man boob, so less understandable".
@@ -433,6 +438,11 @@ Known collisions and their resolution are listed at the end ("Resolved conflicts
 ---
 
 ## D. Production
+
+### C23 — The product comes from the brand's photo library, lit by the scene — added from Edenvia Loom 1 (2026-10-11)
+**Rule:** Extends C22. A flat web packshot cutout dropped into a scene reads as a sticker. Every product placement starts from the brand's **product library** (`brand.json` → `product_library`, an INDEX.md describes each photo): choose the photo whose light, angle and hold match the template slot (standing on a surface → studio shot; held at chest → the hand/people shot cropped to the pouch and hand; "what's inside" → the tablets flat lay), cut it from THAT photo, and keep the props that sell the format (water droplets on the pouch, a glass of water, the tablets, ice). Match colour grade, add contact shadow. Never scale the pouch below the size of the template's product. When the template's product is held by a person, the hand comes from the library photo too, not from the generator.
+**Evidence:** Edenvia Loom 1 (feedback-loop.md E-L1 #1): "les images produits ne sont pas bonnes" — all 10 of batch 01 used the same packshot cutout, small, unlit, no droplets; the founder's reference folder shows the pouch beaded with water, next to a glass and the tablets, held naturally.
+**Enforced:** QC (side-by-side product check against the library photo) + lint warning when `composite` has a product and the spec names no `product_source`.
 
 ### D1 — Never water down an ad to pass a filter: switch engine and composite
 **Rule:** When OpenAI refuses (sexual), switch engine and COMPOSITE the real product photo + exact text by script. Never sanitize the idea. (Run 1 used Flux 2 Pro via kie.ai; the current chain is D5/D7.)
@@ -652,10 +662,10 @@ Known collisions and their resolution are listed at the end ("Resolved conflicts
 | Angle choice | A5 A6 A14 A19 A31 A33 A35 · R3 R8 R9 |
 | Pixel inventory | A13 A8 A9 A12 A16 A17 A23 A30 · C5 C7 C17 C19 · F11 |
 | Copy (texts) | B1–B22 · A24 A27 A28 A34 · R12–R14 |
-| Visual (CHANGES block) | C1–C22 · A10 A11 A15 A32 · F1–F9 |
+| Visual (CHANGES block) | C1–C23 · A10 A11 A15 A32 · F1–F9 |
 | Engine choice + fallback | D1 D5 D6 D7 · A25 · F5 |
 | Prompt assembly | F10 F12 F13 · D8 (lock_extra) · C6 C10 (LOCK) |
-| Composite | D6 D9 D15 D17 D19 D21 · C6 C9 C10 C17 C22 · B20 (prices) |
+| Composite | D6 D9 D15 D17 D19 D21 · C6 C9 C10 C17 C22 C23 · B20 B23 (offer slots) |
 | QC | D2 + every rule above (2-make/qc-checklist.md) |
 | Review page | D3 D20 (D16 superseded) |
 | After the Loom | A20 A22 A26 · C8 C13 · D4 D11 D12 |

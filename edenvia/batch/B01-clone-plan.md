@@ -44,8 +44,9 @@ spread, but each template keeps the angle it naturally carries (R3).
 
 Coverage: A8-L 7 · A8-F 1 · A8-M 2. Already-made check: `creatives.jsonl` is empty (first batch).
 Briefs: `edenvia/briefs/EDENVIA_B01_C####_V1.json` (worksheet §9). Draft specs from them lint clean
-(`brief2spec.py` → `lint.py`, 10/10, 2026-10-11, cloud session). Gate 2: the VPS session generates these 10, the founder
-reviews the comparison page, every comment becomes a rule, then families 2–9 follow in order.
+(`brief2spec.py` → `lint.py`, 10/10, 2026-10-11, cloud session). Generated on the VPS 2026-10-11 (10/10 first pass, 6 QC fixes, ~$5).
+Loom 1 (written): product images rejected on all 10 (→ C23, product library), S2 offer slot → "-50%" (→ B23), rest validated.
+Round 2 = product re-placement only, see VPS-SETUP §3c. Families 2–9 follow after the founder validates round 2.
 
 ## §8.3 Clone plan — family 2 (8 ads, before-after / timeline)
 

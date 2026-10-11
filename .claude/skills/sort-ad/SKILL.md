@@ -62,7 +62,10 @@ If nothing matches by question 8, it is F9 (re-skin last) or the image needs a s
 - **UGC vs signed review.** TikTok-style, phone UI, selfie → F8. A clean typeset quote with a name + initial on a product background → F7 (signed review is a hero-product format). Unsure → F8, confidence "uncertain".
 - **A stat is a claim.** "91% reported less snoring", "+13.2% collagen", "86% experienced less bloating" with the product → F7 (hand-holding-product-with-one-stat format). A stat shown as before → after ("56% before / 92% after") → F2.
 - **Negative hook is a tone, not a family.** "DON'T try this", "Why you'll regret buying", "We're sorry", "Zero stars", "WARNING", a list of vices crossed out: classify by the picture. Crossed-out words → F3; review quote or warning + product hero → F7; phone-style caption photo → F8; week 1/3/5 → F2. Say "negative hook" in the cue.
-- **Native / advertorial teaser** ("Why men over 40 can't…", "Read the solution →"): no own family. Classify by what the picture does (usually F2 or F7), confidence "uncertain", and say "native look".
+- **Native / advertorial teaser** ("Why men over 40 can't…", "Read the solution →", long copy + "tap to learn more", news-style card): no own family. Classify by what the copy does: a sentence that re-labels the symptom onto a cause ("your skin isn't the problem, your gut is") → F3; otherwise by what the picture does (usually F2 or F7). Confidence "probable" at best, say "native look".
+- **Off-avatar wins over mechanic.** An ad goes to F9 when the *promise itself* belongs to another avatar or niche (acne / skincare, menopause, cellulite, dress size, female hair loss, women's intimate health, kids), whatever its mechanic. A woman as the model is not enough: a woman holding "SALE 30%" stays F6. Every F9 verdict carries **re-skin as F<n>** = the family the ad becomes once re-skinned (so F9 can be mined by mechanic later).
+- **Price vs badge.** An explicit strike-through price ($36 → $27), a price card, or a "buy 2 get 1" bar directly under the headline → F6. A small "up to 40% off" roundel in a corner or a closing "47% off today" line is a footer: the ad keeps its own family (F7, F2…), name the footer in the cue.
+- **Folder and file names are hints only.** "Bundle Offer Ad.jpg" with no price on the image → F7; "MOF - US VS Them.jpg" that is a cellulite problem/solution split → F9. The image wins; say so in the cue when they disagree.
 
 ## Step 3 — confidence
 
@@ -91,7 +94,7 @@ When the ad comes with one of these codes, use it as a prior, not as the verdict
 Report one line per ad, in English (chat stays in the founder's language):
 
 ```
-<file> → F<n> <family name> — <confidence> — cue: <what decided it> — runner-up: F<m> (<why>) — format: <one of the 28, or "—">
+<file> → F<n> <family name> — <confidence> — cue: <what decided it> — runner-up: F<m> (<why>) — format: <one of the 28, or "—"> — re-skin as F<k> (F9 only)
 ```
 
 For a batch, add a one-line tally per family at the end.

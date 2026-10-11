@@ -172,6 +172,8 @@ System observations NOT raised by the founder, logged for the next review, not r
 
 Redo list for round 2 (D11): all 10 get the product re-placed from the library (C23) — pixels otherwise kept (D21); S2 offer button → "-50%" (B23). Nothing else moves.
 
+**Round 2 done on the VPS (2026-10-11):** library fetched (26 photos), three cutouts (standing / held with hand / tablets), product re-placed by script on S1 S3 S5 S6 S7 S8 S9, S2 button → -50%, S10 by a masked edit in the template's ink style (a photo hand on a drawing read as a sticker), S4 untouched. Two masked gpt-image-2 edits in total (≈ $0.60). QC log: `edenvia/batch/qc-log-r2.md`. Question for Loom 2: on illustrated templates, photo cutout or drawn-from-the-photo?
+
 ## Loom coverage matrix
 
 Every distinct piece of feedback in every transcript (`feedback/loom-b2…b9.txt`, `loom-s1…s4.txt`) plus the two reviews without a transcript

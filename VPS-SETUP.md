@@ -73,7 +73,7 @@ git pull    # brings rules C23 + B23, brief c0138 (-50%), edenvia/assets/product
 1. **Product library.** The founder's folder is now public ("anyone with the link"). On the VPS:
    ```
    pip install -q gdown
-   mkdir -p /tmp/edenvia-prodref && gdown --folder --remaining-ok -O /tmp/edenvia-prodref "https://drive.google.com/drive/folders/1yRiSc4xCw66dJdPtz_FzLD0cEJ1RbeWd"
+   mkdir -p /tmp/edenvia-prodref && gdown --folder -O /tmp/edenvia-prodref "https://drive.google.com/drive/folders/1yRiSc4xCw66dJdPtz_FzLD0cEJ1RbeWd"
    ```
    Then run `python3 $SKILL/../sort-ad/../../edenvia/assets/product/library/import_library.py /tmp/edenvia-prodref` — it imports only the files not yet in
    `edenvia/assets/product/library/` (lifestyle shots → 1536 px JPEG q92, product-only shots → full-size PNG), appends one line per file to

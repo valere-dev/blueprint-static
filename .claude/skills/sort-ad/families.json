@@ -1,0 +1,253 @@
+{
+ "F1": {
+  "folder": "F1_us-vs-them--comparison",
+  "name": "US vs THEM / comparison",
+  "definition": "Two sides opposed: rival product or habit vs us; table, check/cross list, 'guess who's on', same person twice as rival-vs-us.",
+  "cues": [
+   "vs",
+   "comparison table",
+   "check/cross list",
+   "two columns",
+   "I use X / I use Y",
+   "gym alone vs gym with"
+  ],
+  "templates": [
+   "c0021",
+   "c0138",
+   "c0178",
+   "c0183",
+   "c0192",
+   "c0196",
+   "c0233",
+   "c0259",
+   "c0310",
+   "c0376"
+  ],
+  "codes": [
+   "UVT"
+  ]
+ },
+ "F2": {
+  "folder": "F2_before-after--timeline",
+  "name": "Before-after / timeline",
+  "definition": "The same body or object at two or more moments: day 0 / week 2 / week 4; silhouettes, photos, clay figures; 'bye-bye X'.",
+  "cues": [
+   "week 0/2/4",
+   "day 0 -> day 21",
+   "before/after",
+   "shrinking row",
+   "same person twice over time"
+  ],
+  "templates": [
+   "c0126",
+   "c0193",
+   "c0228",
+   "c0325",
+   "c0330",
+   "c0331",
+   "c0379",
+   "c0381"
+  ],
+  "codes": [
+   "BA"
+  ]
+ },
+ "F3": {
+  "folder": "F3_problem-reframe-x-is-not-the-problem",
+  "name": "Problem reframe (X is not the problem)",
+  "definition": "'X is not the problem, Y is': the symptom re-labelled onto the mechanism; the sentence carries the idea.",
+  "cues": [
+   "it's not X, it's Y",
+   "isn't a discipline problem",
+   "crossed-out word",
+   "scam? exposé",
+   "big text on plain background"
+  ],
+  "templates": [
+   "c0039",
+   "c0113",
+   "c0118",
+   "c0128",
+   "c0157",
+   "c0198",
+   "c0234",
+   "c0245"
+  ],
+  "codes": [
+   "PS"
+  ]
+ },
+ "F4": {
+  "folder": "F4_mechanism--anatomy--ingredients",
+  "name": "Mechanism / anatomy / ingredients",
+  "definition": "The mechanism made visible: anatomical cut, thermal/x-ray, ingredients inside the capsule, product puzzle, symptom checklist on a body.",
+  "cues": [
+   "anatomy cut",
+   "thermal / x-ray",
+   "ingredients laid out",
+   "inside the capsule",
+   "it's all in here",
+   "8 signs of"
+  ],
+  "templates": [
+   "c0182",
+   "c0190",
+   "c0235",
+   "c0243",
+   "c0249",
+   "c0251"
+  ],
+  "codes": [
+   "FB"
+  ]
+ },
+ "F5": {
+  "folder": "F5_origin--ranch--real-food",
+  "name": "Origin / ranch / real food",
+  "definition": "Where it comes from: wild vs farmed as origin story, the ranch, real food on a table, 'what's inside' as sourcing, 'the full system'.",
+  "cues": [
+   "ranch",
+   "animal in the wild",
+   "real food",
+   "which animal would you trust",
+   "sourcing"
+  ],
+  "templates": [
+   "c0068",
+   "c0152",
+   "c0153",
+   "c0154",
+   "c0188",
+   "c0189",
+   "c0221",
+   "c0380"
+  ],
+  "codes": []
+ },
+ "F6": {
+  "folder": "F6_offer--bundle--price",
+  "name": "Offer / bundle / price",
+  "definition": "The offer itself: special deal, last call, bundle chooser, challenge with guarantee, 'how many should you buy', 'selling out'.",
+  "cues": [
+   "price",
+   "strike-through",
+   "bundle",
+   "last call",
+   "guarantee",
+   "challenge",
+   "selling out"
+  ],
+  "templates": [
+   "c0124",
+   "c0127",
+   "c0158",
+   "c0232",
+   "c0248",
+   "c0317",
+   "c0318",
+   "c0319",
+   "c0323",
+   "c0327",
+   "c0335"
+  ],
+  "codes": [
+   "OS"
+  ]
+ },
+ "F7": {
+  "folder": "F7_bold-claim--hero-product",
+  "name": "Bold claim + hero product",
+  "definition": "One frontal promise + the product as hero: 'over 40?', 'zero waste', 'do not take this without warning your wife', hand holding the product + one stat, signed review on product background.",
+  "cues": [
+   "product centred",
+   "one big claim",
+   "hand holding product",
+   "one stat + footnote",
+   "celebrity holding product",
+   "men 40+ 50+ 60+",
+   "signed review"
+  ],
+  "templates": [
+   "c0164",
+   "c0179",
+   "c0181",
+   "c0185",
+   "c0191",
+   "c0271",
+   "c0326",
+   "c0378",
+   "c0384"
+  ],
+  "codes": [
+   "BC",
+   "ST"
+  ]
+ },
+ "F8": {
+  "folder": "F8_meme--humor--ugc",
+  "name": "Meme / humor / UGC",
+  "definition": "Meme (wojak/chad, Barbie/Ken, starter pack, 'said no wife ever'), humour, UGC (TikTok captions, selfie day 0/day 90, unboxing, phone screenshot).",
+  "cues": [
+   "meme format",
+   "wink / joke",
+   "TikTok caption",
+   "phone UI",
+   "selfie",
+   "unboxing"
+  ],
+  "templates": [
+   "c0033",
+   "c0123",
+   "c0135",
+   "c0142",
+   "c0149",
+   "c0174",
+   "c0194",
+   "c0264",
+   "c0305",
+   "c0382"
+  ],
+  "codes": [
+   "MEME"
+  ]
+ },
+ "F9": {
+  "folder": "F9_off-avatar-re-skin-last",
+  "name": "Off-avatar, re-skin last",
+  "definition": "Templates from another niche or another avatar; usable only after a full re-skin, adapted last.",
+  "cues": [
+   "wrong gender/age",
+   "other product category",
+   "layout needs full re-skin"
+  ],
+  "templates": [
+   "c0143",
+   "c0165",
+   "c0180",
+   "c0227",
+   "c0252",
+   "c0253",
+   "c0262",
+   "c0267",
+   "c0328"
+  ],
+  "codes": []
+ },
+ "NH": {
+  "folder": "NH_negative-hook--unmapped",
+  "name": "Negative hook (tone, not a family)",
+  "definition": "'DON'T try this', 'We're sorry', 'Zero stars', 'WARNING', crossed-out list. Not one of the 9: sort by the picture (F7 / F3 / F8 / F2). Folder kept only for an ad the tree cannot place.",
+  "cues": [
+   "DON'T",
+   "regret",
+   "we're sorry",
+   "zero stars",
+   "WARNING",
+   "strike-through"
+  ],
+  "templates": [],
+  "codes": [
+   "NH"
+  ]
+ }
+}

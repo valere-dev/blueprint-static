@@ -9,8 +9,8 @@ Resolution order for each value: environment variable > brand.json > default.
                 (../brand.json next to BRAND-KIT.md: blank template in static-ads, Wildhorn values in wildhorn-static-ads)
   SAC_PAGES     where review pages are written. Default: $SAC_WORKDIR/pages
   SAC_PUB       optional public folder that remix.py copies every output into (e.g. a Caddy-served gallery). Default: none
-  OPENAI_KEY_FILE  default /etc/secrets/openai_api_key   (path only, never the value)
-  KIE_KEY_FILE     default /etc/secrets/kie_api_key      (path only, never the value)
+  OPENAI_KEY_FILE  default /etc/secrets/openai_api_key, else ~/.secrets/openai_api_key   (path only, never the value)
+  KIE_KEY_FILE     default /etc/secrets/kie_api_key, else ~/.secrets/kie_api_key           (path only, never the value)
 """
 import json, os
 
@@ -28,8 +28,16 @@ else:
 PAGES = os.environ.get("SAC_PAGES", os.path.join(WORKDIR, "pages"))
 PUB = os.environ.get("SAC_PUB", "")
 OUT = os.path.join(WORKDIR, "out")
-OPENAI_KEY_FILE = os.environ.get("OPENAI_KEY_FILE", "/etc/secrets/openai_api_key")
-KIE_KEY_FILE = os.environ.get("KIE_KEY_FILE", "/etc/secrets/kie_api_key")
+def _key_file(env, name):
+    """Secrets path: $ENV > /etc/secrets/<name> > ~/.secrets/<name> (hosts without root, e.g. nutraflow1 2026-10-11). Path only, never the value."""
+    if os.environ.get(env): return os.environ[env]
+    for d in ("/etc/secrets", os.path.expanduser("~/.secrets")):
+        if os.path.exists(os.path.join(d, name)): return os.path.join(d, name)
+    return os.path.join("/etc/secrets", name)
+
+
+OPENAI_KEY_FILE = _key_file("OPENAI_KEY_FILE", "openai_api_key")
+KIE_KEY_FILE = _key_file("KIE_KEY_FILE", "kie_api_key")
 
 
 def _load_brand():

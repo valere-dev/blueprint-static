@@ -1,0 +1,41 @@
+IMAGE 1 = product reference: the EDENVIA Molecular Hydrogen tablet pouch. Reproduce it exactly as in Image 1: a stand-up resealable pouch with a zip seal, white at the top fading to sky blue at the bottom, covered in fine water droplets; at the top the Edenvia atom icon next to the bold italic wordmark Edenvia in dark navy; below it MOLECULAR in navy capitals, then HYDROGEN in very large bold navy capitals; then GENERATES 8PPM OF HYDROGEN PER TABLET; then two lines CONSUME DAILY ANTIOXIDANTS AND / EXHIBIT HEALTHIER, IMPROVED LIVING; near the bottom DIETARY SUPPLEMENT over a thin rule, then 30 TABLETS | 30 DAY SUPPLY. Real proportions, real 3D object with contact shadow and the scene's light.
+IMAGE 2 = the template ad to clone 1:1: same layout, composition, render style, palette, typography treatment, spacing and the SAME AMOUNT OF TEXT.
+
+PIXEL INVENTORY (KEEP / SWAP — follow exactly):
+- KEEP badge: '2026 INDEPENDENT TEST' red/white badge top (template device; invented proof allowed (founder override 2026-10-11))
+- SWAP headline: '3 Organ Supplements. 1 Beer Belly. Here's The Truth.' white serif, 2 lines → '3 Leg-Swelling Fixes. 1 Pair Of Heavy Legs. Here's The Truth.' (copy formula: [3 rivals]. [1 problem]. Here's The Truth — problem named in full (B2))
+- SWAP column_1: Ancestral Supplements black bottle → a white plastic diuretic bottle labelled 'WATER TABLETS' (generic, no brand) (rival #1 = what she tried; no competitor name)
+- SWAP column_2: Primal Viking amber bottle → a brown dropper bottle labelled 'LYMPH DROPS' (generic) (rival #2 = the competitor's herbal drainage drops, unnamed)
+- SWAP column_3: Primal Edge Bison bottle in gold frame → the EDENVIA pouch of Image 1 in the gold frame (product_spot: the winner column)
+- KEEP product_spot: three products at the top of each column, ~60 % column width (placement (A8))
+- SWAP rows: Source / Origin / Organs / Filler / Testicle → Form / Works on / Per day / Reaches the tissue / Hydrogen (same 5-row grid, our facts; the last row is the ✓/✗ row like 'Testicle')
+- SWAP result_row: 'Result After 90 Days:' + GUT UNCHANGED / MINOR ENERGY ONLY / GUT FLATTENING → 'Result After 30 Days:' + STILL SWOLLEN / SLIGHTLY LESS PUFFY / LEGS FEEL LIGHT (same colours red / orange / green; 30 days = our supply)
+- KEEP rating_row: ★★ Would Not Recommend / ★★★ Overhyped / ★★★★★ Editor's Choice ✓ (already works for our buyer)
+- SWAP bottom_banner: 'BEER BELLY GONE IN 21 DAYS. 60-DAY GUARANTEE 🦬👇' → 'HEAVY LEGS GONE IN 30 DAYS. 30-DAY MONEY-BACK 💧👇' (template carries a deadline so ours may (B6); our real guarantee; bison emoji → water drop)
+- KEEP background: dark navy #0b1b2b, thin column dividers (render style)
+- KEEP logo: none (template has no logo slot)
+
+TEMPLATE DNA: Their three bottles (two rival organ supplements + Primal Edge Bison) → two generic things she already tried (a white 'WATER TABLETS' pill bottle, a brown 'LYMPH DROPS' dropper bottle) + the Edenvia pouch; their rows (Source/Origin/Organs/Filler/Testicle) → our rows (Form/Works on/Per day/Reaches the tissue/Hydrogen); 'beer belly' → 'heavy legs'; bison emoji → water drop.
+SCENE LOGIC: no scene — a product grid; ours is the same grid with the three things she already tried against her swollen legs: water-tablet diuretics, herbal drainage drops, Edenvia
+PRODUCT PLACEMENT (copy the template): same spots; pouch in column 3 at the same height as the two rival bottles — like the template
+
+CHANGES (visual): Dark navy (#0b1b2b) flat comparison layout, exactly the template's grid: a small red-and-white badge top centre, a two-line white serif headline, then three columns separated by thin dividers, each with a product photo at the top (about 60% of the column width, soft drop shadow), five bold-label rows, a 'Result After 30 Days:' line with one big verdict word, and a star-rating line; the third column framed in a glowing gold rounded border; a gold banner strip across the bottom. Column 1 product: a plain white plastic bottle whose label reads only WATER TABLETS (generic, no brand). Column 2 product: a plain brown glass dropper bottle whose label reads only LYMPH DROPS (generic). Column 3 product: the Edenvia Molecular Hydrogen stand-up pouch exactly as in Image 1 (white fading to sky blue, water droplets, zip seal) — a pouch of 30 effervescent tablets; never a bottle, jar, tub or blister, the same height as the two bottles, label to camera. Verdict words: column 1 red, column 2 orange, column 3 green, like the template. No person. Do NOT draw: no bison, no organs, no other dosage form in any column; no real brand on the rival bottles; no bottle, jar or tub for Edenvia; no glass. Product truth: one effervescent tablet dropped in a glass of clear water, never hot water. LETTERBOX (mandatory): the canvas is 2:3 but the finished ad is 4:5. Paint a solid band of the same dark navy across the TOP 9% and the BOTTOM 9% of the canvas and put NOTHING in those two bands — no text, no badge, no banner, no element. The whole ad, from the small red badge at the top down to the gold banner at the bottom, fits entirely inside the middle 82% of the canvas height, with visible empty navy above the badge and below the banner.
+
+TEXT (exactly, nothing else):
+- Badge: "2026 INDEPENDENT TEST"
+- Headline: "3 Leg-Swelling Fixes. 1 Pair Of Heavy Legs. Here's The Truth."
+- Col1_label: "WATER TABLETS"
+- Col1_rows: "Form: 2 tablets, swallowed / Works on: water only / Per day: 2 + bathroom runs / Reaches the tissue: No ❌ / Hydrogen: None ❌"
+- Col1_result: "Result After 30 Days: STILL SWOLLEN"
+- Col1_rating: "★★ — Would Not Recommend"
+- Col2_label: "LYMPH DROPS"
+- Col2_rows: "Form: 20 drops in water / Works on: herbs, 'drainage' / Per day: 2 doses, bitter / Reaches the tissue: Barely ❌ / Hydrogen: None ❌"
+- Col2_result: "Result After 30 Days: SLIGHTLY LESS PUFFY"
+- Col2_rating: "★★★ — Overhyped"
+- Col3_label: "EDENVIA"
+- Col3_rows: "Form: 1 tablet in a glass of water / Works on: the inflamed tissue holding the fluid / Per day: 1 glass, 3 minutes / Reaches the tissue: Yes — smallest molecule ✅ / Hydrogen: 8 PPM ✅"
+- Col3_result: "Result After 30 Days: LEGS FEEL LIGHT"
+- Col3_rating: "★★★★★ — Editor's Choice ✅"
+- Bottom_banner: "HEAVY LEGS GONE IN 30 DAYS. 30-DAY MONEY-BACK 💧👇"
+
+USE CASE + CONSTRAINTS: Meta ad in the TEMPLATE'S OWN FORMAT (D15: a square stays 1:1, 4:5 stays 4:5, a 9:16 Story stays 9:16), agency-grade; keep the template's spacing between text blocks. Render ONLY the listed text, spelled exactly, once — nothing added. Nothing from the template's product world may remain (product, brand, logo, flavor, packaging). Anatomically correct, adults over 25. CRITICAL: the EDENVIA pouch, when present, is an exact replica of Image 1. Leave every brand-logo spot outside the label EMPTY (plain background, no icon, no letters) — the official logo is pasted there by script afterwards.

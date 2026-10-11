@@ -1,0 +1,32 @@
+IMAGE 1 = product reference: the EDENVIA Molecular Hydrogen tablet pouch. Reproduce it exactly as in Image 1: a stand-up resealable pouch with a zip seal, white at the top fading to sky blue at the bottom, covered in fine water droplets; at the top the Edenvia atom icon next to the bold italic wordmark Edenvia in dark navy; below it MOLECULAR in navy capitals, then HYDROGEN in very large bold navy capitals; then GENERATES 8PPM OF HYDROGEN PER TABLET; then two lines CONSUME DAILY ANTIOXIDANTS AND / EXHIBIT HEALTHIER, IMPROVED LIVING; near the bottom DIETARY SUPPLEMENT over a thin rule, then 30 TABLETS | 30 DAY SUPPLY. Real proportions, real 3D object with contact shadow and the scene's light.
+IMAGE 2 = the template ad to clone 1:1: same layout, composition, render style, palette, typography treatment, spacing and the SAME AMOUNT OF TEXT.
+
+PIXEL INVENTORY (KEEP / SWAP — follow exactly):
+- SWAP headline: 'PREDIABETIC MEN: CAN'T STAY HARD? LOOK AT YOUR BLOOD FLOW.' 3 lines → 'DIETED FOR YEARS: LEGS STILL SWOLLEN? LOOK AT YOUR DRAINAGE.' 3 lines (copy formula [who]: [problem?] LOOK AT YOUR [mechanism]; problem named in full (B2))
+- SWAP panel_label_left: 'WEAK BLOOD-FLOW' → 'BLOCKED DRAINAGE' (mechanism noun swap)
+- SWAP panel_label_right: 'STRONGER BLOOD-FLOW' → 'CLEAR DRAINAGE' (mechanism noun swap)
+- SWAP left_diagram: narrowed artery, yellow plaque, red cells squeezed, small arrow → drainage vessel squeezed by swollen pale tissue, stagnant yellowish fluid, small arrow (shape equivalent: tube ↔ tube)
+- SWAP right_diagram: wide artery, free red cells, big arrow → open vessel, calm pink tissue, clear fluid moving, big arrow (before/after stays before/after)
+- SWAP callouts_left: 'Narrowed Arteries' / 'Reduced Blood-flow' → 'Inflamed, swollen tissue' / 'Fluid sitting still' (mechanism in plain words (B4))
+- SWAP callouts_right: 'Wider Arteries' / 'Improved Blood-flow' → 'Calm tissue' / 'Fluid draining' (plain words)
+- SWAP product_spot: Primal Storm tub centred bottom, ~25 % width, between the two diagrams, thin line above it → the EDENVIA pouch, same spot, real proportions (placement (A8))
+- SWAP footer: 'SUPPORT THE BLOOD FLOW BEHIND YOUR ER3CT!ONS.' 2 lines → 'SUPPORT THE DRAINAGE BEHIND LIGHT, SLIM LEGS.' 2 lines (copy formula SUPPORT THE [mechanism] BEHIND [result])
+- KEEP background: cream paper (render style)
+
+TEMPLATE DNA: artery with yellow plaque and red blood cells → the drainage vessel of a lower leg squeezed by swollen, water-logged tissue; 'blood flow' → 'drainage'; 'prediabetic men / can't stay hard' → 'dieted for years / legs still swollen'; 'ER3CT!ONS' → 'light, slim legs'; Primal Storm tub → the Edenvia pouch.
+SCENE LOGIC: no scene; a diagram on cream paper. Ours: the same diagram, the vessel that drains the leg instead of an artery, because her problem is fluid that stopped moving
+PRODUCT PLACEMENT (copy the template): Edenvia pouch from Image 1, same spot and size as the tub: centred at the bottom between the two diagrams, the thin line above it — like the template
+
+CHANGES (visual): Coloured-pencil medical sketch on cream (#f5e9d8) paper, hand-drawn hatching, NOT a photo, exactly the template: a three-line heavy condensed black headline at the top, two bold caps panel labels, two mirrored diagonal cut-open tubes left and right with thin black callout lines and small labels, the Edenvia Molecular Hydrogen stand-up pouch exactly as in Image 1 (white fading to sky blue, water droplets, zip seal) — a pouch of 30 effervescent tablets; never a bottle, jar, tub or blister standing centred at the bottom between the two diagrams with a long thin vertical line down to it, and a two-line heavy condensed footer. The tubes are the drainage vessels inside a lower leg: LEFT the vessel squeezed narrow by swollen, pale, water-logged tissue around it, stagnant yellowish fluid inside, a small arrow; RIGHT the vessel wide open in calm pink tissue, clear fluid moving, a big arrow. Do NOT draw: no artery, no red blood cells, no plaque, no heart; no jar or tub — the product is the pouch of Image 1 at real proportions, label untouched; no glass; no person. Product truth: one effervescent tablet dropped in a glass of clear water, never hot water.
+
+TEXT (exactly, nothing else):
+- Headline: "DIETED FOR YEARS: LEGS STILL SWOLLEN? LOOK AT YOUR DRAINAGE."
+- Panel_left: "BLOCKED DRAINAGE"
+- Panel_right: "CLEAR DRAINAGE"
+- Callout_left_1: "Inflamed, swollen tissue"
+- Callout_left_2: "Fluid sitting still"
+- Callout_right_1: "Calm tissue"
+- Callout_right_2: "Fluid draining"
+- Footer: "SUPPORT THE DRAINAGE BEHIND LIGHT, SLIM LEGS."
+
+USE CASE + CONSTRAINTS: Meta ad in the TEMPLATE'S OWN FORMAT (D15: a square stays 1:1, 4:5 stays 4:5, a 9:16 Story stays 9:16), agency-grade; keep the template's spacing between text blocks. Render ONLY the listed text, spelled exactly, once — nothing added. Nothing from the template's product world may remain (product, brand, logo, flavor, packaging). Anatomically correct, adults over 25. CRITICAL: the EDENVIA pouch, when present, is an exact replica of Image 1. Leave every brand-logo spot outside the label EMPTY (plain background, no icon, no letters) — the official logo is pasted there by script afterwards.

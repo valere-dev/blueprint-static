@@ -19,9 +19,9 @@ review page ──► reviewer records a Loom (ad by ad, says the S number)
 
 ```bash
 cd $SAC_WORKDIR
-bash /root/claude-vault/skills/static-ads/scripts/ingest_loom.sh "<loom url>" s5     # yt-dlp + mr-transcribe (OpenAI API)
+bash $SKILL/scripts/ingest_loom.sh "<loom url>" s5     # yt-dlp + scripts/transcribe.py (OpenAI Whisper API, R15)
 ```
-- Transcription = `mr-transcribe` (OpenAI whisper-1 API, ~$0.006/min). Never local whisper on the VPS (it saturated the server for 3 days in Sept 2026).
+- Transcription = `scripts/transcribe.py` (OpenAI whisper-1 API, ~$0.006/min; replaces `mr-transcribe`, R15). Transcript lines are `MM:SS  text`. Never local whisper on the VPS (it saturated the server for 3 days in Sept 2026).
 - If the reviewer pastes the video file or a transcript, save it as `feedback/loom-<id>.txt` the same way.
 - After transcription, the mp4 is heavy media: archive it (`mr-archive push`) or delete it once the transcript is verified; the `.txt` stays.
 - Read the transcript **in full**, in the main context (never delegate the reading of a review: nuance is the whole point).
@@ -171,6 +171,8 @@ Miss: S11 for the 3rd time — kept regenerating a scene; "review the ad by scre
 System observations NOT raised by the founder, logged for the next review, not rules (the founder's verdict wins, A26): S6 lost the two-sided opposition of the arm-wrestling template (one man, one beer); S4 and S10 show a heavier and a slimmer woman, which reads as weight loss instead of fluid; S2 draws the calf filling as fat lumps. Ask at Loom 2 whether the "fluid, not fat" line must be visible in every A8 body.
 
 Redo list for round 2 (D11): all 10 get the product re-placed from the library (C23) — pixels otherwise kept (D21); S2 offer button → "-50%" (B23). Nothing else moves.
+
+**Round 2 done on the VPS (2026-10-11):** library fetched (26 photos), three cutouts (standing / held with hand / tablets), product re-placed by script on S1 S3 S5 S6 S7 S8 S9, S2 button → -50%, S10 by a masked edit in the template's ink style (a photo hand on a drawing read as a sticker), S4 untouched. Two masked gpt-image-2 edits in total (≈ $0.60). QC log: `edenvia/batch/qc-log-r2.md`. Question for Loom 2: on illustrated templates, photo cutout or drawn-from-the-photo?
 
 ## Loom coverage matrix
 

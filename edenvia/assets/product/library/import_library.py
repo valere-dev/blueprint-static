@@ -8,7 +8,7 @@ HERE = os.path.dirname(os.path.abspath(__file__)); INDEX = os.path.join(HERE, 'I
 src = sys.argv[1]; idx = open(INDEX).read(); added = []
 for f in sorted(os.listdir(src)):
     if not f.lower().endswith('.png') or 'logo' in f.lower(): continue
-    if f'Drive: {f}' in idx: print('skip (already in library):', f); continue
+    if f'Drive: {f}' in idx or f"Drive: {f.replace(' ', '_')}" in idx: print('skip (already in library):', f); continue   # INDEX writes Drive names with _ for spaces
     im = Image.open(os.path.join(src, f)).convert('RGB')
     base = re.sub(r'[^A-Za-z0-9]+', '_', f.rsplit('.', 1)[0]).strip('_')
     # product-only heuristic: mostly flat background -> keep PNG; the operator can rename later

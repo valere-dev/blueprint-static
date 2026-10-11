@@ -91,6 +91,12 @@ for j in ([spec["jar"]] if spec.get("jar") else []) + spec.get("jars", []):
     if j:
         jar = Image.open(j.get("src", JAR)).convert("RGBA"); jh = int(j["h"]*H); jw = int(jar.width*jh/jar.height)   # C6: real proportions
         jar = jar.resize((jw, jh), Image.LANCZOS)
+        if j.get("brightness") or j.get("contrast"):   # C23: colour grade matched to the scene (multipliers, 1.0 = unchanged)
+            from PIL import ImageEnhance
+            rgb = jar.convert("RGB")
+            if j.get("brightness"): rgb = ImageEnhance.Brightness(rgb).enhance(j["brightness"])
+            if j.get("contrast"): rgb = ImageEnhance.Contrast(rgb).enhance(j["contrast"])
+            rgb.putalpha(jar.getchannel("A")); jar = rgb
         x = int(j["x"]*W - jw/2); y = int(j["y"]*H - jh)
         shadow = Image.new("RGBA", im.size, (0, 0, 0, 0)); sd = ImageDraw.Draw(shadow)
         sd.ellipse([x+jw*0.1, y+jh-jh*0.03, x+jw*0.9, y+jh+jh*0.04], fill=(0, 0, 0, 70))   # contact shadow (C10)

@@ -53,6 +53,7 @@ FMT = adformat.target_size(*_Im.open(tf).size)          # D15: 1080x1080 / 1080x
 GEN_SIZE = "1024x1024" if FMT[0] == FMT[1] else ("1536x1024" if FMT[0] > FMT[1] else "1024x1536")
 def _d15():   # every file this run created is cropped/resized to the template's format (never stretched)
     for f in sorted(glob.glob(f"{OUT}/{key}_v*.png"), key=os.path.getmtime)[N0:]:
+        import shutil; os.makedirs(f"{OUT}/_raw", exist_ok=True); shutil.copy(f, f"{OUT}/_raw/{os.path.basename(f)}")   # uncropped master kept (manual re-crop)
         old, new = adformat.normalize(f, tf)
         if old != new: print(f"#{n}: D15 {os.path.basename(f)} {old[0]}x{old[1]} -> {new[0]}x{new[1]}")
 atexit.register(_d15)

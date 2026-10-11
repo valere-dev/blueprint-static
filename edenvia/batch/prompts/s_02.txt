@@ -1,0 +1,31 @@
+IMAGE 1 = product reference: the EDENVIA Molecular Hydrogen tablet pouch. Reproduce it exactly as in Image 1: a stand-up resealable pouch with a zip seal, white at the top fading to sky blue at the bottom, covered in fine water droplets; at the top the Edenvia atom icon next to the bold italic wordmark Edenvia in dark navy; below it MOLECULAR in navy capitals, then HYDROGEN in very large bold navy capitals; then GENERATES 8PPM OF HYDROGEN PER TABLET; then two lines CONSUME DAILY ANTIOXIDANTS AND / EXHIBIT HEALTHIER, IMPROVED LIVING; near the bottom DIETARY SUPPLEMENT over a thin rule, then 30 TABLETS | 30 DAY SUPPLY. Real proportions, real 3D object with contact shadow and the scene's light.
+IMAGE 2 = the template ad to clone 1:1: same layout, composition, render style, palette, typography treatment, spacing and the SAME AMOUNT OF TEXT.
+
+PIXEL INVENTORY (KEEP / SWAP — follow exactly):
+- SWAP header_left: 'Men on Other brands' → 'Women on other brands' (template words kept, gender swapped (A19))
+- SWAP header_right: 'Men on Mars Vitasteron' → 'Women on Edenvia' (brand slot)
+- SWAP body_part: upper arm, bent at the elbow, cut lengthwise → lower leg from knee to foot, cut lengthwise, foot at the bottom (their body part = their problem; ours = the calf and ankle (C1))
+- SWAP left_tissue: yellow fat globules crowding a small red muscle → pale water-logged tissue with yellowish fluid pockets swelling the calf outward, skin stretched, ankle thick (the invisible made visible (C2): fluid, not fat)
+- KEEP right_tissue: full red muscle, thin fat layer (before/after stays before/after)
+- KEEP divider: thin vertical black line (structure)
+- SWAP tagline: 'Lose Fat, Not Definition.' → 'Lose The Fluid, Not More Weight.' (copy formula 'Lose X, Not Y'; her failed solution = losing weight)
+- SWAP button: black rounded button 'FLAT 20% OFF' → black rounded button 'NOW $39.00' (our offer framing; $39.00 is in prices_allowed)
+- SWAP logo: 'mars' wordmark small bottom centre → Edenvia wordmark (blue, light_bg file), same size, pasted by script (brand slot (D19))
+- KEEP footnote: '*Results may vary' grey bottom right (template words kept)
+- KEEP product_spot: none (C6: no product added)
+- KEEP background: warm beige (render style)
+
+TEMPLATE DNA: upper arm bent at the elbow → a woman's lower leg from knee to foot, cut lengthwise (her problem lives in the calf and ankle); yellow fat globules → pale water-logged tissue with yellowish fluid pockets (fluid, not fat); 'Men on …' → 'Women on …'; 'Lose Fat, Not Definition' → 'Lose The Fluid, Not More Weight'; 'FLAT 20% OFF' → 'NOW $39.00'; 'mars' wordmark → Edenvia wordmark pasted by script.
+SCENE LOGIC: no scene; a medical plate on a beige page — ours is the same plate, lower leg instead of upper arm, because her problem is inside the calf and ankle
+PRODUCT PLACEMENT (copy the template): none — the template has no product — like the template
+
+CHANGES (visual): Flat medical illustration on a warm beige (#f3efe9) page, NOT photoreal, exactly the template's layout: two bold black headers top left and top right, a thin vertical black divider down the middle, two cut-open limbs facing each other, an italic-accented tagline centred under them, a black rounded button, a tiny grey footnote bottom right. The limb is a woman's LOWER LEG from the knee to the foot, seen from the side, cut lengthwise: LEFT the leg swollen and thick at the calf and ankle, skin stretched, the tissue under the skin pale and water-logged with yellowish fluid pockets crowding a small muscle; RIGHT the same leg slim, skin close to a full red-pink muscle, a thin clean fat layer, the ankle defined. Same pose, same cut line, same soft pastel rendering with no outlines. The bottom-centre logo spot stays EMPTY plain beige. Do NOT draw: no arm, no elbow, no muscle-building reading, no veins drawn as a disease, no red inflamed skin; NO product, no pouch, no glass (the template has none). Product truth: one effervescent tablet dropped in a glass of clear water, never hot water.
+
+TEXT (exactly, nothing else):
+- Header_left: "Women on other brands"
+- Header_right: "Women on Edenvia"
+- Tagline: "Lose The Fluid, Not More Weight."
+- Button: "NOW $39.00"
+- Footnote: "*Results may vary"
+
+USE CASE + CONSTRAINTS: Meta ad in the TEMPLATE'S OWN FORMAT (D15: a square stays 1:1, 4:5 stays 4:5, a 9:16 Story stays 9:16), agency-grade; keep the template's spacing between text blocks. Render ONLY the listed text, spelled exactly, once — nothing added. Nothing from the template's product world may remain (product, brand, logo, flavor, packaging). Anatomically correct, adults over 25. CRITICAL: the EDENVIA pouch, when present, is an exact replica of Image 1. Leave every brand-logo spot outside the label EMPTY (plain background, no icon, no letters) — the official logo is pasted there by script afterwards.

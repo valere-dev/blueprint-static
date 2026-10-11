@@ -21,7 +21,8 @@ shutil.rmtree(P, ignore_errors=True); os.makedirs(P)
 for i, n in enumerate(ok, 1):
     src = f"{B}/sell/{C.FILE_PREFIX}_S{n:02d}.png"
     shutil.copy(src, f"{B}/validated/{C.FILE_PREFIX}_{i:02d}.png")
-    subprocess.run(["convert", src, "-resize", "1080x1920>", "-quality", "82", f"{P}/{i:02d}.webp"], check=True)
+    from PIL import Image   # PIL instead of ImageMagick `convert` (nutraflow1, 2026-10-11)
+    im = Image.open(src).convert("RGB"); im.thumbnail((1080, 1920)); im.save(f"{P}/{i:02d}.webp", "WEBP", quality=82)
 imgs = "".join(f'<a href="validated/{i:02d}.webp" target="_blank"><img src="validated/{i:02d}.webp" loading="lazy" alt=""></a>' for i in range(1, len(ok) + 1))
 html = HEAD.format(title=f"{C.NAME} ads", css=CSS) + f'<body><div class="wrap"><h1>{C.NAME} ads <span style="color:var(--acc);font-size:18px">{len(ok)}</span></h1><div class="g">{imgs}</div></div></body></html>'
 open(f"{C.PAGES}/validated.html", "w").write(html); print(len(ok), "validated")

@@ -1,6 +1,6 @@
 {
   "_comment": "Edenvia brand file — v1.0 LOCKED 2026-10-11 after the founder's verdicts. Values marked [TO CONFIRM] are secondary and do not block generation. Every value carries a source in BRAND-KIT.md. Scripts find this file via SAC_WORKDIR=<repo>/edenvia.",
-  "_status": "v1.5 — 2026-10-11: gate 1 signed (angles + avatar). Compliance deferred by the founder. Natives (raw-photo advertorial images) excluded from the template families. Step 2 templates = Adrien's swipe file (79 source templates + concept remix) with Lymphoria's structures.",
+  "_status": "v1.6 — 2026-10-11: gate 1 signed (angles + avatar). Compliance deferred by the founder. Natives (raw-photo advertorial images) excluded from the template families. Step 2 templates = Adrien's swipe file (79 source templates + concept remix) with Lymphoria's structures. Round 2 (2026-10-11): product_cutout → library studio cutout (C23); library = 26 photos.",
   "name": "EDENVIA",
   "file_prefix": "Edenvia",
   "wordmark": "Edenvia",
@@ -9,8 +9,8 @@
   "product_noun": "pouch",
   "product_photo": "/home/adanalysis/workspace/blueprint-static/edenvia/assets/product/edenvia-molecular-hydrogen-pouch-front.png",
   "_product_photo_note": "1206x1658, from the founder (site packshot, webp source). Front label fully readable. A higher-resolution master is welcome but not required. Second photo with three tablets in front: edenvia/assets/product/edenvia-molecular-hydrogen-pouch-with-tablets.png (686x886, reference only).",
-  "product_cutout": "/home/adanalysis/workspace/blueprint-static/edenvia/assets/product/edenvia-molecular-hydrogen-pouch-cutout.png",
-  "_product_cutout_note": "1140x1506, transparent PNG made from the packshot (u2net mask, hard edge + 1px feather), checked on white and on black. Replace with the studio cutout if one exists.",
+  "product_cutout": "/home/adanalysis/workspace/blueprint-static/edenvia/assets/product/cutouts/pouch-standing-studio.png",
+  "_product_cutout_note": "v1.6 (2026-10-11, round 2): the STANDING cutout from the founder's studio photo (library/studio_pouch-ice-bowl-glass-straw-v2.png, BiRefNet, droplets kept, 590x853). Other cutouts in assets/product/cutouts/: pouch-held-hand-kitchen.png (pouch + real hand, for held slots on photo templates), tablets-flatlay.png. The old web-packshot cutout (edenvia-molecular-hydrogen-pouch-cutout.png) is kept for reference only (C23).",
   "product_lock": "the EDENVIA Molecular Hydrogen tablet pouch. Reproduce it exactly as in Image 1: a stand-up resealable pouch with a zip seal, white at the top fading to sky blue at the bottom, covered in fine water droplets; at the top the Edenvia atom icon next to the bold italic wordmark Edenvia in dark navy; below it MOLECULAR in navy capitals, then HYDROGEN in very large bold navy capitals; then GENERATES 8PPM OF HYDROGEN PER TABLET; then two lines CONSUME DAILY ANTIOXIDANTS AND / EXHIBIT HEALTHIER, IMPROVED LIVING; near the bottom DIETARY SUPPLEMENT over a thin rule, then 30 TABLETS | 30 DAY SUPPLY.",
   "lock_extra": "Leave every brand-logo spot outside the label EMPTY (plain background, no icon, no letters) — the official logo is pasted there by script afterwards.",
   "_fonts_note": "Brand font Manrope (founder-confirmed), static weights from Google Fonts in edenvia/assets/fonts/. Anton, Montserrat, Oswald, Fredoka ship with the skill for template-matching headlines.",

@@ -1,0 +1,31 @@
+{"num": 4, "engine": "openai", "ok": true, "ts": "2026-10-11 09:29:33"}
+{"num": 1, "engine": "openai", "ok": true, "ts": "2026-10-11 09:29:39"}
+{"num": 2, "engine": "openai", "ok": true, "ts": "2026-10-11 09:29:53"}
+{"num": 3, "engine": "openai", "ok": true, "ts": "2026-10-11 09:29:55"}
+{"num": 5, "engine": "openai", "ok": true, "ts": "2026-10-11 09:30:05"}
+{"num": 7, "engine": "seedream", "ok": true, "ts": "2026-10-11 09:30:25"}
+{"num": 6, "engine": "seedream", "ok": true, "ts": "2026-10-11 09:30:27"}
+{"num": 9, "engine": "seedream", "ok": true, "ts": "2026-10-11 09:30:35"}
+{"num": 8, "engine": "openai", "ok": true, "ts": "2026-10-11 09:31:15"}
+{"num": 10, "engine": "openai", "ok": true, "ts": "2026-10-11 09:31:17"}
+{"num": 2, "engine": "script", "ok": true, "ts": "2026-10-11 09:33:03", "note": "QC: wordmark pasted (D19)"}
+{"num": 5, "engine": "script", "ok": true, "ts": "2026-10-11 09:33:03", "note": "QC: real pouch cutout over the AI label (C6)"}
+{"num": 10, "engine": "openai", "ok": true, "ts": "2026-10-11 09:34:40"}
+{"num": 1, "engine": "openai", "ok": true, "ts": "2026-10-11 09:34:42"}
+{"num": 4, "engine": "openai", "ok": true, "ts": "2026-10-11 09:34:44"}
+{"num": 8, "engine": "openai", "ok": true, "ts": "2026-10-11 09:34:45"}
+{"num": 1, "engine": "script", "ok": true, "ts": "2026-10-11 11:49:24", "note": "R2: pouch in the gold column, studio cutout"}
+{"num": 3, "engine": "script", "ok": true, "ts": "2026-10-11 11:49:25", "note": "R2: pouch under the headline, studio cutout, bigger"}
+{"num": 5, "engine": "script", "ok": true, "ts": "2026-10-11 11:49:25", "note": "R2: pouch between the diagrams, studio cutout"}
+{"num": 6, "engine": "script", "ok": true, "ts": "2026-10-11 11:49:26", "note": "R2: floating pouch top-left, studio cutout graded to the dark scene"}
+{"num": 7, "engine": "script", "ok": true, "ts": "2026-10-11 11:49:26", "note": "R2: pouch on the right half, studio cutout"}
+{"num": 9, "engine": "script", "ok": true, "ts": "2026-10-11 11:49:27", "note": "R2: pouch bottom right, studio cutout"}
+{"num": 8, "engine": "script", "ok": true, "ts": "2026-10-11 11:49:28", "note": "R2: pouch on the counter, studio cutout (old AI pouch hidden behind a counter strip)"}
+{"num": 10, "engine": "script", "ok": true, "ts": "2026-10-11 11:49:29", "note": "R2: held pouch + hand from the library over the illustrated pouch"}
+{"num": 2, "engine": "script", "ok": true, "ts": "2026-10-11 11:49:29", "note": "R2: button -50% (B23)"}
+{"num": 1, "engine": "script", "ok": true, "ts": "2026-10-11 11:52:46", "note": "R2 fix: studio pouch sized to the column"}
+{"num": 8, "engine": "openai", "ok": true, "ts": "2026-10-11 11:54:38", "note": "R2 fix: masked edit: old pouch removed from the counter"}
+{"num": 8, "engine": "script", "ok": true, "ts": "2026-10-11 11:54:39", "note": "R2 fix: studio pouch on the cleaned counter"}
+{"num": 10, "engine": "script", "ok": true, "ts": "2026-10-11 11:54:41", "note": "R2 fix: studio pouch in her hands, illustrated fingers re-overlaid (D21/A8)"}
+{"num": 10, "engine": "openai", "ok": true, "ts": "2026-10-11 11:57:34", "note": "R2 fix 2: masked edit of the pouch box, library pouch as reference, illustrated hands kept"}
+{"num": 1, "engine": "script", "ok": true, "ts": "2026-10-11 11:58:20", "note": "R2 fix 2: old pouch bbox filled row-wise from the frame glow, studio pouch at the old footprint"}

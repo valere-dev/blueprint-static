@@ -1,0 +1,26 @@
+T07: t_07_v1.png [941, 1672] — 60.0 credits (9945.0 left), 72 s
+T01: t_01_v1.png [940, 1672] — 66.0 credits (9939.0 left), 77 s
+T02: t_02_v1.png [940, 1672] — 72.0 credits (9933.0 left), 84 s
+T03: t_03_v1.png [1122, 1402] — 72.0 credits (9933.0 left), 85 s
+T09: t_09_v1.png [1122, 1402] — 72.0 credits (9933.0 left), 86 s
+T08: t_08_v1.png [1254, 1254] — 90.0 credits (9915.0 left), 91 s
+T06: t_06_v1.png [1254, 1254] — 96.0 credits (9909.0 left), 97 s
+T10: t_10_v1.png [1254, 1254] — 96.0 credits (9909.0 left), 97 s
+T05: t_05_v1.png [940, 1672] — 108.0 credits (9897.0 left), 135 s
+T04: t_04_v1.png [1254, 1254] — 114.0 credits (9891.0 left), 141 s
+T11: t_11_v1.png [1254, 1254] — 60.0 credits (9885.0 left), 72 s
+T12: t_12_v1.png [1254, 1254] — 60.0 credits (9879.0 left), 79 s
+T14: t_14_v1.png [941, 1672] — 60.0 credits (9873.0 left), 79 s
+T16: t_16_v1.png [1254, 1254] — 48.0 credits (9867.0 left), 79 s
+T13: t_13_v1.png [1122, 1402] — 66.0 credits (9867.0 left), 86 s
+T18: t_18_v1.png [1254, 1254] — 54.0 credits (9855.0 left), 78 s
+T15: t_15_v1.png [1122, 1402] — 78.0 credits (9855.0 left), 91 s
+T17: t_17_v1.png [1254, 1254] — 54.0 credits (9855.0 left), 90 s
+T19: t_19_v1.png [941, 1672] — 42.0 credits (9855.0 left), 78 s
+T20: t_20_v1.png [1122, 1402] — 36.0 credits (9855.0 left), 84 s
+T21: t_21_v1.png [1254, 1254] — 30.0 credits (9855.0 left), 91 s
+T23: t_23_v1.png [941, 1672] — 18.0 credits (9855.0 left), 84 s
+T24: t_24_v1.png [1254, 1254] — 12.0 credits (9855.0 left), 83 s
+T22: t_22_v1.png [941, 1672] — 24.0 credits (9855.0 left), 103 s
+T25: t_25_v1.png [941, 1672] — 12.0 credits (9855.0 left), 97 s
+DONE

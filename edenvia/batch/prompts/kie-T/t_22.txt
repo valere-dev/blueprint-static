@@ -1,0 +1,3 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
+Changes: orange → Edenvia blue (#1468DB) background. The peanut butter cups → white effervescent tablets scattered top-left with water droplets, a few fizzing. Their bar → our pouch, same tilted spot and size, bottom right. "ALOHA" → "Edenvia" with the small atom icon in white.
+Text, exactly and nothing else: "Edenvia" · callout "8 PPM" / "HYDROGEN" / "PER TABLET" · "5 p.m.'s" / "Favorite" / "Glass of Water"

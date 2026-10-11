@@ -254,6 +254,11 @@ Others never printed: Rovina (the avatar sheets decode its ads), Dr. Mercola H2,
 | 2026-10-11 | Step-1 competitors: Metabolae and Lirae, then replaced by **Lymphoria (lymphoria.co)** with the A8 switch. Metabolae/Lirae research kept in reserve. | founder |
 | 2026-10-11 | API keys were pasted in the chat twice (OpenAI, kie). Not used, not stored. Founder asked to revoke both and re-create them in the environment secrets as OPENAI_API_KEY and KIE_API_KEY. | system |
 
+| 2026-10-11 | **Gate 1 signed**: angles (A8 legs/belly king, face/jawline, man's belly), avatar, headline bank. Research locked (R5). | founder |
+| 2026-10-11 | Compliance set aside: 'do like them' for now, founder re-checks with another AI later. DSHEA bans moved to `_banned_disabled` in brand.json. | founder |
+| 2026-10-11 | Raw-photo image ads with no text (#1, #6 in the Lymphoria decode) are **natives**, not statics: excluded from the template families. Templates for step 2 = Adrien's swipe file + Lymphoria's static structures. | founder |
+| 2026-10-11 | Budget: $30 per round. mr-transcribe replaced by a direct Whisper-API script on the VPS. | founder |
+
 ## Still open (secondary, non-blocking)
 
 - The founder's static-ads Drive folder ("JC") is now shared and readable: Version 1 (Batch 1–2 Molecular, Batch 3–7 Pumpkin Seed Oil), Version 2 (Batch 1–25: GLP1, Menopausal, Kidney, Bladder, Prostate), Molecular Hydrogen › Batch 1 Kidney Avatar (Concepts 1–15). PNG statics only so far; no "ads doc" with winning headlines found yet — founder to point to it if it exists.

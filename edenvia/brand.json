@@ -1,6 +1,6 @@
 {
   "_comment": "Edenvia brand file — v1.0 LOCKED 2026-10-11 after the founder's verdicts. Values marked [TO CONFIRM] are secondary and do not block generation. Every value carries a source in BRAND-KIT.md. Scripts find this file via SAC_WORKDIR=<repo>/edenvia.",
-  "_status": "v1.3 — 2026-10-11: asset paths made absolute for the VPS (user adanalysis, host nutraflow1). Angle A8, competitor Lymphoria, step-1 research committed under edenvia/research/lymphoria/.",
+  "_status": "v1.4 — 2026-10-11: gate 1 signed (angles + avatar). Compliance deferred by the founder. Natives (raw-photo advertorial images) excluded from the template families. Step 2 templates = Adrien's swipe file (79 source templates + concept remix) with Lymphoria's structures.",
   "name": "EDENVIA",
   "file_prefix": "Edenvia",
   "wordmark": "Edenvia",
@@ -184,31 +184,13 @@
   ],
   "_competitors_source": "Step-1 competitor (founder, 2026-10-11, second choice): Lymphoria (lymphoria.co — lymphatic drainage supplement 'Nature's Sunrise'; 5.4M monthly visits per Brandsearch; runs through persona pages 'Herbal Remedies' (~3,800 active ads), 'Ancient Roots', 'Lymphatic Wellness Explained', 'The Lymph Journal'; advertorial LP 'Harvard states 165 million Americans are living with a lymphatic dysfunction'). Same buyer (woman 40+, puffiness/weight), different product. Earlier candidates Metabolae and Lirae (blood sugar) kept in reserve. Rovina: the brand whose ads the avatar sheets decode.",
   "banned": {
-    "\\b(treat|treats|treating|cure|cures|curing|prevent|prevents|reverse|reverses|heal|heals|remedy|therapy for)\\b": "compliance (DSHEA): no disease treatment / cure / prevention claim",
-    "\\b(manage|manages|managing) (your |the )?(arthritis|reflux|GERD|blood sugar|blood pressure|cholesterol|pain|condition)": "compliance (DSHEA): 'manage [condition]' is a drug claim",
-    "\\b(arthritis|GERD|fibromyalgia|neuropathy|heart disease|kidney disease|fatty liver|NAFLD|diabetes|diabetic|hypertension|autoimmune|cognitive decline|anxiety|depression|lymphedema|lipedema)\\b": "compliance: never name a disease or medical condition",
-    "\\b(FDA[- ]approved|clinically proven|clinical proof|guaranteed results)\\b": "compliance: no clinical-proof or FDA claim (site says 'clinically inspired', never 'proven')",
-    "\\b(replaces? (your )?(PPIs?|antacids?|painkillers?|ibuprofen|Advil|Aleve|Tylenol|NSAIDs?|statins?|metformin|insulin))": "compliance: never say it replaces a medication (phone KB §5)",
     "\\b(autoship|subscription|subscribe|subscribe & save|50% off)\\b": "site-only offers never in ads",
     "\\b(selective antioxidant|hydroxyl radical|reactive oxygen species|ROS\\b|endothelial|redox|NSAID|NSAIDs|bioavailab\\w+|pharmacokinetic)\\b": "B4: mechanism jargon never printed",
     "\\b(capsule|capsules|gel ?cap|pill|pills|powder|scoop)\\b": "C2: the product is an effervescent tablet, never a capsule / pill / powder",
-    "\\bDr\\. [A-Z][a-z]+|\\bPhD\\b|\\bcelebrity\\b": "compliance: never an invented NAMED doctor, title or celebrity. 'Trusted by healthcare professionals' and unnamed 'doctors' are allowed (founder, hardcore marketing).",
-    "\\b(A1C|HbA1c|insulin resistance|diabetes|diabetic|metformin|dialysis)\\b": "compliance (DSHEA): the swipe file (Metabolae/Lirae) prints these; Edenvia does not — disease, drug and lab-marker names never in an Edenvia ad. Say 'blood sugar', 'post-meal crash', 'your numbers'.",
-    "\\b(Lymphoria|Nature'?s Sunrise|Metabolae|Lirae|Liraé|Rovina|Mercola|HRW|Quicksilver|H2TAB|Gundry|Vital Reaction)\\b": "competitor names never printed",
-    "\\b(lymphedema|lipedema|lymphatic dysfunction|obesity|obese|thyroid disease|PCOS)\\b": "compliance: never name a disease or condition (weight-angle additions)"
+    "\\b(Lymphoria|Nature'?s Sunrise|Metabolae|Lirae|Liraé|Rovina|Mercola|HRW|Quicksilver|H2TAB|Gundry|Vital Reaction)\\b": "competitor names never printed"
   },
   "compliance": [
-    "Structure/function claims only: 'supports', 'helps maintain', 'may support', 'helps your body…'. Never diagnose, treat, cure, prevent, reverse, heal, manage a condition (DSHEA rollout doc, 2026-09-21).",
-    "Never name a disease or medical condition in headline or body. 'Inflammation', 'oxidative stress', 'stiff joints', 'afternoon crash', 'stubborn numbers' are allowed; 'arthritis', 'hypertension', 'diabetes', 'fatty liver' are not.",
-    "No invented NAMED doctors or celebrities. 'Trusted by healthcare professionals' is allowed (founder, 2026-10-11).",
-    "No fake testimonials as real; no stat without a real source and its footnote (B16).",
-    "No body before/after presented as a real customer.",
-    "Never say it replaces a medication or that someone should stop one.",
-    "Disclaimer (short DSHEA version), only where the template has the slot: 'These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.'",
-    "Tone: the founder wants VERY AGGRESSIVE ads (2026-10-11). Aggressive on the pain, the enemy belief and the offer; never aggressive on a disease claim.",
-    "'*Results may vary' footnote allowed wherever the template carries one (follow the swipe file).",
-    "Age callouts ('after 40', 'over 50') allowed when the template carries one (follow the swipe file).",
-    "The swipe-file brands (Metabolae, Lirae) print A1C, insulin, diabetes, metformin, dialysis. Edenvia clones the template, not the disease claim: every such line is rewritten to structure/function before the spec passes lint."
+    "DEFERRED (founder, 2026-10-11): the founder will re-check compliance with another AI later. Until then copy the swipe file's level of claim. Still never: a competitor name, a $ amount outside prices_allowed, a capsule/pill/powder, an invented named doctor on the Edenvia side unless the template carries one."
   ],
   "angle_keyword": {
     "loose": "\\b(legs?|swelling|swollen|puffy|bloated|water)\\b",
@@ -252,5 +234,16 @@
     "_source": "founder (2026-10-11) + Shopify shop info (Shopify Plus, USD, United States). Older docs say tryedenvia.com — superseded."
   },
   "fonts_dir": "/home/adanalysis/workspace/blueprint-static/edenvia/assets/fonts",
-  "_paths_note": "Absolute paths point at the VPS checkout (/home/adanalysis/workspace/blueprint-static). The cloud research session never runs the generation scripts, so it does not need them to resolve. If the VPS checkout moves, change ROOT here once."
+  "_paths_note": "Absolute paths point at the VPS checkout (/home/adanalysis/workspace/blueprint-static). The cloud research session never runs the generation scripts, so it does not need them to resolve. If the VPS checkout moves, change ROOT here once.",
+  "_banned_disabled_2026-10-11": {
+    "\\b(treat|treats|treating|cure|cures|curing|prevent|prevents|reverse|reverses|heal|heals|remedy|therapy for)\\b": "compliance (DSHEA): no disease treatment / cure / prevention claim",
+    "\\b(manage|manages|managing) (your |the )?(arthritis|reflux|GERD|blood sugar|blood pressure|cholesterol|pain|condition)": "compliance (DSHEA): 'manage [condition]' is a drug claim",
+    "\\b(arthritis|GERD|fibromyalgia|neuropathy|heart disease|kidney disease|fatty liver|NAFLD|diabetes|diabetic|hypertension|autoimmune|cognitive decline|anxiety|depression|lymphedema|lipedema)\\b": "compliance: never name a disease or medical condition",
+    "\\b(FDA[- ]approved|clinically proven|clinical proof|guaranteed results)\\b": "compliance: no clinical-proof or FDA claim (site says 'clinically inspired', never 'proven')",
+    "\\b(replaces? (your )?(PPIs?|antacids?|painkillers?|ibuprofen|Advil|Aleve|Tylenol|NSAIDs?|statins?|metformin|insulin))": "compliance: never say it replaces a medication (phone KB §5)",
+    "\\bDr\\. [A-Z][a-z]+|\\bPhD\\b|\\bcelebrity\\b": "compliance: never an invented NAMED doctor, title or celebrity. 'Trusted by healthcare professionals' and unnamed 'doctors' are allowed (founder, hardcore marketing).",
+    "\\b(A1C|HbA1c|insulin resistance|diabetes|diabetic|metformin|dialysis)\\b": "compliance (DSHEA): the swipe file (Metabolae/Lirae) prints these; Edenvia does not — disease, drug and lab-marker names never in an Edenvia ad. Say 'blood sugar', 'post-meal crash', 'your numbers'.",
+    "\\b(lymphedema|lipedema|lymphatic dysfunction|obesity|obese|thyroid disease|PCOS)\\b": "compliance: never name a disease or condition (weight-angle additions)"
+  },
+  "_banned_note": "Founder decision 2026-10-11 (gate 1): compliance is set aside for now — 'do like them'. The DSHEA/FTC bans were moved to _banned_disabled so lint stops blocking disease words, 'treat/cure', doctor titles and drug names; they are re-enabled by moving them back into `banned`. Still enforced: competitor names, mechanism jargon (B4), $ amounts outside prices_allowed (B20), capsule/pill/powder (C2)."
 }

@@ -1,6 +1,6 @@
 # Step 1C — Market research report: Lymphoria → Edenvia (angle A8, lymphatic bloating)
 
-Status: **draft for the founder's sign-off (gate 1: angles + avatar)**. Date 2026-10-11. Sources: the 35 statics decoded in
+Status: **SIGNED OFF by the founder, 2026-10-11 (gate 1). Research locked (R5).** Founder notes at sign-off: (1) #1 and #6, raw photos with no text, are *natives* (advertorial image ads), not statics: they stay in the research as evidence but are not template families; (2) compliance is set aside for now, Edenvia copies the swipe file's level of claim and the founder re-checks later; (3) step-2 templates come from Adrien's swipe file, with Lymphoria's static structures. Sources: the 35 statics decoded in
 `1A-ads.md` (Brandsearch, EU-spend ranked), Trendtrack and Brandsearch brand data (1B below), the founder's A8 avatar sheet
 (`edenvia/avatars/lymphatic-bloating.md`). Every line points to a source ad (#n) or a tool. Nothing invented.
 

@@ -1,0 +1,156 @@
+{
+ "brand": "EDENVIA",
+ "ad_id": "EDENVIA_B01_C0233_V1",
+ "template": {
+  "id": "c0233",
+  "path": "/home/adanalysis/workspace/blueprint-static/edenvia/batch/templates/10-11_c0233_ArcticGlowBalm.webp",
+  "source": "ArcticGlowBalm · Adrien batch 01 · 9:16 old me / new me flat lay (Wildhorn c0233 validated)",
+  "family": "1 US vs THEM / comparison",
+  "aspect": "9:16",
+  "production_method": "real photo + pasted product — flat-lay product photography on beige, left a pile of many products, right the one product; text and button by script",
+  "refusal_risk": "none"
+ },
+ "decode": {
+  "scroll_stop_trick": "A pile of fifteen skincare products on the left against a single jar on the right under 'OLD ME / NEW ME' — the clutter is the confession.",
+  "angle_carried": "anti-waste: the graveyard of things she bought vs the one that works",
+  "hidden_reading": "none; social mechanism: she recognises her own bathroom shelf",
+  "scene_logic": "a product still life on a warm tabletop; ours is the same still life with HER graveyard: compression socks, a box of 'detox tea', a dry brush, a white diuretic bottle, a measuring tape, a bathroom scale corner",
+  "visual_trick": "many vs one, same lighting, same table — copy literally; the one product gets all the space on the right",
+  "shape_or_function_equivalent": "skincare pile ↔ leg-swelling pile (compression socks rolled, tea box, dry brush, white bottle, measuring tape)",
+  "verb_of_the_scene": "pile up vs stand alone",
+  "structure_type": "split (clutter vs one)",
+  "shock_level": "calm",
+  "render_style": "photoreal flat lay, warm beige → Edenvia ice blue #EAF1F9 tabletop, soft daylight",
+  "text_treatment": "wide-tracked uppercase serif headers in dark plum → Edenvia deep navy, two small serif captions, rounded dark plum button → deep navy with white uppercase text"
+ },
+ "strategy": {
+  "angle_id": "A8",
+  "angle": "A8-L heavy, swollen legs — everything she bought vs one tablet in a glass of water",
+  "mechanism_id": "M1",
+  "mechanism": "M1: when the body can't clear everyday oxidative stress, the tissue in the legs stays inflamed and stops draining normally, so fluid sits there — heavy, tender, puffy — and no diet reaches it, because it was never fat; the tablet turns a glass of water into hydrogen-rich water, hydrogen is the smallest molecule there is, reaches the tissue and helps the body switch that process off so normal drainage can resume",
+  "sub_avatar": "trigger: the drawer of compression socks and tea boxes · cause: none of it reached the inflamed tissue holding the fluid · tried: compression, dry brushing, diuretic teas, water tablets",
+  "awareness": "solution-aware",
+  "belief_installed": "It was never fat. It's fluid my body stopped clearing — and no diet reaches it."
+ },
+ "inventory": [
+  {
+   "zone": "header_left",
+   "template": "'OLD ME' plum serif caps",
+   "action": "SWAP",
+   "ours": "'OLD ME' deep navy",
+   "reason": "template words kept; brand colour"
+  },
+  {
+   "zone": "header_right",
+   "template": "'NEW ME'",
+   "action": "SWAP",
+   "ours": "'NEW ME' deep navy",
+   "reason": "template words kept"
+  },
+  {
+   "zone": "left_pile",
+   "template": "~15 white skincare bottles, tubes, jars, a small fan, a jade roller",
+   "action": "SWAP",
+   "ours": "a pile of her leg-swelling fixes: two rolled beige compression socks, a box labelled 'DETOX TEA', a wooden dry brush, a plain white bottle labelled 'WATER TABLETS', a tape measure, a corner of a bathroom scale",
+   "reason": "props of OUR problem (A12)"
+  },
+  {
+   "zone": "product_spot",
+   "template": "one amber jar with white lid, right half, ~45 % width, centred",
+   "action": "KEEP",
+   "ours": "Edenvia pouch from Image 1 standing upright, same spot, same visual weight",
+   "reason": "placement; product alone = the point"
+  },
+  {
+   "zone": "caption_left",
+   "template": "'Dryness, thinning, uneven tone and unexpected breakouts.'",
+   "action": "SWAP",
+   "ours": "'Compression, teas, dry brushing — and legs still heavy by 5 p.m.'",
+   "reason": "list formula, problem named (B2)"
+  },
+  {
+   "zone": "caption_right",
+   "template": "'Cold-pressed, undiluted, arctic formula.'",
+   "action": "SWAP",
+   "ours": "'One tablet, one glass of water, 8 PPM of hydrogen.'",
+   "reason": "three-beat product formula; label claim"
+  },
+  {
+   "zone": "button",
+   "template": "'FOR PERIMENOPAUSE' plum rounded",
+   "action": "SWAP",
+   "ours": "'FOR HEAVY, SWOLLEN LEGS' deep navy rounded",
+   "reason": "name the problem, not the condition (B2; no condition naming)"
+  },
+  {
+   "zone": "background",
+   "template": "warm beige tabletop",
+   "action": "SWAP",
+   "ours": "Edenvia ice blue tabletop, same soft daylight",
+   "reason": "brand palette; render style kept"
+  },
+  {
+   "zone": "logo",
+   "template": "none",
+   "action": "KEEP",
+   "ours": "none",
+   "reason": "no logo slot"
+  }
+ ],
+ "text_slots": [
+  {
+   "slot": "header_left",
+   "template_text": "OLD ME",
+   "ours": "OLD ME",
+   "source": "template words kept",
+   "same_length": true
+  },
+  {
+   "slot": "header_right",
+   "template_text": "NEW ME",
+   "ours": "NEW ME",
+   "source": "template words kept",
+   "same_length": true
+  },
+  {
+   "slot": "caption_left",
+   "template_text": "Dryness, thinning, uneven tone and unexpected breakouts.",
+   "ours": "Compression, teas, dry brushing — and legs still heavy by 5 p.m.",
+   "source": "list formula; avatar 'already tried'",
+   "same_length": true
+  },
+  {
+   "slot": "caption_right",
+   "template_text": "Cold-pressed, undiluted, arctic formula.",
+   "ours": "One tablet, one glass of water, 8 PPM of hydrogen.",
+   "source": "bank #10; label claim",
+   "same_length": true
+  },
+  {
+   "slot": "button",
+   "template_text": "FOR PERIMENOPAUSE",
+   "ours": "FOR HEAVY, SWOLLEN LEGS",
+   "source": "B2 problem named",
+   "same_length": true
+  }
+ ],
+ "text_slot_count": 5,
+ "proof_allowed": [
+  "8 PPM"
+ ],
+ "people": {
+  "customer_look": "no person",
+  "other_people": "none"
+ },
+ "visual_bans": [
+  "no skincare, no jade roller, no fan",
+  "no real brand on the rival props; no drug names on the white bottle",
+  "the product is only ever a white effervescent tablet in a clear glass of water — no other dosage form, no blister pack, no sachet",
+  "no bottle, jar or tub for Edenvia — the container is the stand-up pouch of Image 1, label untouched",
+  "any glass holds clear water with fine rising bubbles; never hot water, tea or coffee in that glass",
+  "no competitor brand name, logo or bottle shape anywhere (brand.json banned list)",
+  "no disease or drug name on the image"
+ ],
+ "compliance_flags": [],
+ "missing": []
+}

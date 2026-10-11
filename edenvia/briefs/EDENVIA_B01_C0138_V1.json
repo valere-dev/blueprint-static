@@ -1,0 +1,183 @@
+{
+ "brand": "EDENVIA",
+ "ad_id": "EDENVIA_B01_C0138_V1",
+ "template": {
+  "id": "c0138",
+  "path": "/home/adanalysis/workspace/blueprint-static/edenvia/batch/templates/10-11_c0138_MarsVitasteron.webp",
+  "source": "MarsVitasteron · Adrien batch 01 · 1:1 anatomy split (Wildhorn c0138 validated)",
+  "family": "1 US vs THEM / comparison",
+  "aspect": "1:1",
+  "production_method": "full illustration — medical cross-section illustration, no product, small logo + button by script",
+  "refusal_risk": "none"
+ },
+ "decode": {
+  "scroll_stop_trick": "The same limb cut open twice: on the left the cross-section is packed with yellow fat around a shrunken muscle, on the right it is lean muscle — the buyer sees inside her own body.",
+  "angle_carried": "'lose fat, not definition' (muscle preservation while cutting)",
+  "hidden_reading": "none — pure anatomy; the authority of a textbook drawing",
+  "scene_logic": "no scene; a medical plate on a beige page — ours is the same plate, lower leg instead of upper arm, because her problem is inside the calf and ankle",
+  "visual_trick": "two cross-sections side by side with a thin vertical divider; the 'bad' tissue is yellow and lumpy, the 'good' tissue is clean red/pink — copy literally: left calf swollen, skin stretched, tissue pale and water-logged with yellowish fluid pockets between the muscle and the skin; right calf slim, skin close to the muscle, tissue clean, same pose, same cut line",
+  "shape_or_function_equivalent": "fatty cross-section of an upper arm ↔ fluid-logged cross-section of a lower leg (calf + ankle); the arm's bent elbow ↔ the ankle bend",
+  "verb_of_the_scene": "cut open / reveal",
+  "structure_type": "split (two states, one body part, divider in the middle)",
+  "shock_level": "calm (clinical)",
+  "render_style": "flat medical illustration, soft pastel skin, beige #f3efe9 background, no outlines",
+  "text_treatment": "bold black sans headers top, italic in the tagline ('Not Definition' italic), black rounded button with white text, small grey footnote, small logo bottom centre"
+ },
+ "strategy": {
+  "angle_id": "A8",
+  "angle": "A8-L heavy, swollen legs — 'lose the fluid, not more weight'",
+  "mechanism_id": "M1",
+  "mechanism": "M1: when the body can't clear everyday oxidative stress, the tissue in the legs stays inflamed and stops draining normally, so fluid sits there — heavy, tender, puffy — and no diet reaches it, because it was never fat; the tablet turns a glass of water into hydrogen-rich water, hydrogen is the smallest molecule there is, reaches the tissue and helps the body switch that process off so normal drainage can resume",
+  "sub_avatar": "trigger: told to lose weight again · cause: inflamed tissue holding fluid under the skin · tried: dieting harder for years",
+  "awareness": "problem-aware",
+  "belief_installed": "It was never fat. It's fluid my body stopped clearing — and no diet reaches it."
+ },
+ "inventory": [
+  {
+   "zone": "header_left",
+   "template": "'Men on Other brands'",
+   "action": "SWAP",
+   "ours": "'Women on other brands'",
+   "reason": "template words kept, gender swapped (A19)"
+  },
+  {
+   "zone": "header_right",
+   "template": "'Men on Mars Vitasteron'",
+   "action": "SWAP",
+   "ours": "'Women on Edenvia'",
+   "reason": "brand slot"
+  },
+  {
+   "zone": "body_part",
+   "template": "upper arm, bent at the elbow, cut lengthwise",
+   "action": "SWAP",
+   "ours": "lower leg from knee to foot, cut lengthwise, foot at the bottom",
+   "reason": "their body part = their problem; ours = the calf and ankle (C1)"
+  },
+  {
+   "zone": "left_tissue",
+   "template": "yellow fat globules crowding a small red muscle",
+   "action": "SWAP",
+   "ours": "pale water-logged tissue with yellowish fluid pockets swelling the calf outward, skin stretched, ankle thick",
+   "reason": "the invisible made visible (C2): fluid, not fat"
+  },
+  {
+   "zone": "right_tissue",
+   "template": "full red muscle, thin fat layer",
+   "action": "KEEP",
+   "ours": "clean red muscle, skin close to it, slim ankle — same drawing style",
+   "reason": "before/after stays before/after"
+  },
+  {
+   "zone": "divider",
+   "template": "thin vertical black line",
+   "action": "KEEP",
+   "ours": "same",
+   "reason": "structure"
+  },
+  {
+   "zone": "tagline",
+   "template": "'Lose Fat, Not Definition.'",
+   "action": "SWAP",
+   "ours": "'Lose The Fluid, Not More Weight.'",
+   "reason": "copy formula 'Lose X, Not Y'; her failed solution = losing weight"
+  },
+  {
+   "zone": "button",
+   "template": "black rounded button 'FLAT 20% OFF'",
+   "action": "SWAP",
+   "ours": "black rounded button 'NOW $39.00'",
+   "reason": "our offer framing; $39.00 is in prices_allowed; '20% off' is not ours"
+  },
+  {
+   "zone": "logo",
+   "template": "'mars' wordmark small bottom centre",
+   "action": "SWAP",
+   "ours": "Edenvia wordmark (blue, light_bg file), same size, pasted by script",
+   "reason": "brand slot (D19)"
+  },
+  {
+   "zone": "footnote",
+   "template": "'*Results may vary' grey bottom right",
+   "action": "KEEP",
+   "ours": "same words",
+   "reason": "template words kept"
+  },
+  {
+   "zone": "product_spot",
+   "template": "none",
+   "action": "KEEP",
+   "ours": "none — the template has no product",
+   "reason": "C6: no product added"
+  },
+  {
+   "zone": "background",
+   "template": "warm beige",
+   "action": "KEEP",
+   "ours": "same beige",
+   "reason": "render style"
+  }
+ ],
+ "text_slots": [
+  {
+   "slot": "header_left",
+   "template_text": "Men on Other brands",
+   "ours": "Women on other brands",
+   "source": "template words kept",
+   "same_length": true
+  },
+  {
+   "slot": "header_right",
+   "template_text": "Men on Mars Vitasteron",
+   "ours": "Women on Edenvia",
+   "source": "brand slot",
+   "same_length": true
+  },
+  {
+   "slot": "tagline",
+   "template_text": "Lose Fat, Not Definition.",
+   "ours": "Lose The Fluid, Not More Weight.",
+   "source": "copy formula; bank #1 'it's fluid your body stopped clearing'",
+   "same_length": true
+  },
+  {
+   "slot": "button",
+   "template_text": "FLAT 20% OFF",
+   "ours": "NOW $39.00",
+   "source": "prices_allowed",
+   "same_length": true
+  },
+  {
+   "slot": "footnote",
+   "template_text": "*Results may vary",
+   "ours": "*Results may vary",
+   "source": "template words kept",
+   "same_length": true
+  }
+ ],
+ "text_slot_count": 5,
+ "proof_allowed": [
+  "$39.00"
+ ],
+ "people": {
+  "customer_look": "no face — a cross-section of a woman's lower leg (smooth skin, no hair, painted toenails optional)",
+  "other_people": "none"
+ },
+ "visual_bans": [
+  "no arm, no muscle-building reading",
+  "no veins drawn as a disease, no red inflamed skin — calm clinical pastel",
+  "the product is only ever a white effervescent tablet in a clear glass of water — no other dosage form, no blister pack, no sachet",
+  "no bottle, jar or tub for Edenvia — the container is the stand-up pouch of Image 1, label untouched",
+  "any glass holds clear water with fine rising bubbles; never hot water, tea or coffee in that glass",
+  "no competitor brand name, logo or bottle shape anywhere (brand.json banned list)",
+  "no disease or drug name on the image"
+ ],
+ "compliance_flags": [
+  {
+   "line": "Lose The Fluid, Not More Weight.",
+   "risk": "weight claim",
+   "decision": "kept — structure/function reading: she stops dieting, the fluid is the problem"
+  }
+ ],
+ "missing": []
+}

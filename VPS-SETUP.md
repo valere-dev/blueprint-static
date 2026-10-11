@@ -17,9 +17,9 @@ Adrien runs Wildhorn ("ssh vps-claude", everything on the VPS, never in the Mac'
 
 ```
 Clone https://github.com/valere-dev/blueprint-static (branch claude/friendly-bell-v79g1w) into
-/root/workspace/blueprint-static. Read README.md, VPS-SETUP.md, edenvia/BRAND-KIT.md and
+/home/adanalysis/workspace/blueprint-static (already done on nutraflow1 — then just `git pull`). Read README.md, VPS-SETUP.md, edenvia/BRAND-KIT.md and
 .claude/skills/static-ads/SKILL.md before anything else. Working folder for every batch:
-SAC_WORKDIR=/root/workspace/blueprint-static/edenvia, SKILL=/root/workspace/blueprint-static/.claude/skills/static-ads.
+SAC_WORKDIR=/home/adanalysis/workspace/blueprint-static/edenvia, SKILL=/home/adanalysis/workspace/blueprint-static/.claude/skills/static-ads.
 Check that /etc/secrets/openai_api_key and /etc/secrets/kie_api_key exist (never print them).
 Then tell me what is missing from the pre-flight checklist in $SKILL/2-make/first-batch.md §6.
 ```
@@ -46,6 +46,20 @@ rebuild the same folders here:
   real extension, rule D10).
 - **Lymphoria's own winning statics** (step-1 competitor): the 35 decoded in step 1, pulled from Brandsearch
   by EU spend. Same buyer, same desire, so their structures are the first concept families to clone.
+
+## 3b. Step 2 hand-off (2026-10-11): concept family 1 is briefed
+
+```
+git pull
+export SAC_WORKDIR=/home/adanalysis/workspace/blueprint-static/edenvia SKILL=/home/adanalysis/workspace/blueprint-static/.claude/skills/static-ads
+export SAC_BATCH=$SAC_WORKDIR/batch BRAND_JSON=$SAC_WORKDIR/brand.json
+python3 $SKILL/scripts/brief2spec.py $SAC_BATCH/s1specs.py $SAC_WORKDIR/briefs/EDENVIA_B01_C*.json
+python3 $SKILL/scripts/lint.py $SAC_BATCH/s1specs.py        # passes as drafted (checked in the cloud session)
+```
+Then, per `2-make/spec-format.md`: rewrite each `visual` as one scene description, keep every KEEP product placement in
+the composite (D6), set the engine per `production_method` (c0196 is a photo → A25 method; c0310 meme text by script),
+generate the 10 ads of family 1 only (gate 2), QC at full resolution, build the comparison page (template | ad) and the
+demo page under `edenvia/pages/`, and send the two links. Budget per round: $30 (founder).
 
 ## 4. Review pages
 

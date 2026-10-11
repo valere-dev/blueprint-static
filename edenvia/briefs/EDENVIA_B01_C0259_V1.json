@@ -1,0 +1,130 @@
+{
+ "brand": "EDENVIA",
+ "ad_id": "EDENVIA_B01_C0259_V1",
+ "template": {
+  "id": "c0259",
+  "path": "/home/adanalysis/workspace/blueprint-static/edenvia/batch/templates/10-11_c0259_GoliAshwagandha.webp",
+  "source": "GoliAshwagandha · Adrien batch 01 · 3:4 top/bottom routine (Wildhorn c0259 validated)",
+  "family": "1 US vs THEM / comparison",
+  "aspect": "3:4",
+  "production_method": "real photo + pasted product — two stacked photoreal scenes (messy vs calm), product pasted in the lower scene, text and button by script",
+  "refusal_risk": "none"
+ },
+ "decode": {
+  "scroll_stop_trick": "Two desks stacked: the top one is chaos (energy cans, notifications, crumpled paper), the bottom one is calm with the bottle and a glass of water — the ad shows the before and after of a habit, not a body.",
+  "angle_carried": "your routine is the problem: 'your current wind-down routine may be letting you down'",
+  "hidden_reading": "none; the relief of the clean desk",
+  "scene_logic": "desk because the product fixes evenings at the desk. Ours: top = her evening leg routine on the bathroom counter (compression socks peeled off, 'detox tea' box, dry brush, a white bottle, legs-up pillow); bottom = the kitchen counter in the morning, the pouch and a clear glass with the tablet fizzing",
+  "visual_trick": "same camera angle for both halves, the bottom half warmer and tidier — copy literally",
+  "shape_or_function_equivalent": "the glass of water next to the Goli bottle ↔ OUR glass of water with the tablet fizzing (template already has the glass: keep it, make it ours)",
+  "verb_of_the_scene": "wind down → start the day",
+  "structure_type": "before/after stacked top/bottom",
+  "shock_level": "calm",
+  "render_style": "photoreal, moody desk lamp light top, warm morning light bottom, shallow depth of field",
+  "text_treatment": "white bold sans headline (3 lines), white regular 2-line subline, yellow rounded button with dark text and an arrow → Edenvia accent blue button with white text"
+ },
+ "strategy": {
+  "angle_id": "A8",
+  "angle": "A8-L heavy, swollen legs — your leg-swelling routine is letting you down",
+  "mechanism_id": "M1",
+  "mechanism": "M1: when the body can't clear everyday oxidative stress, the tissue in the legs stays inflamed and stops draining normally, so fluid sits there — heavy, tender, puffy — and no diet reaches it, because it was never fat; the tablet turns a glass of water into hydrogen-rich water, hydrogen is the smallest molecule there is, reaches the tissue and helps the body switch that process off so normal drainage can resume",
+  "sub_avatar": "trigger: the nightly ritual of socks, tea and legs up the wall · cause: none of it reaches the inflamed tissue · tried: compression, teas, dry brushing, elevating",
+  "awareness": "solution-aware",
+  "belief_installed": "It was never fat. It's fluid my body stopped clearing — and no diet reaches it."
+ },
+ "inventory": [
+  {
+   "zone": "headline",
+   "template": "'Your current wind-down routine may be letting you down.' 3 lines",
+   "action": "SWAP",
+   "ours": "'Your current leg-swelling routine may be letting you down.' 3 lines",
+   "reason": "copy formula, one noun swapped, same length"
+  },
+  {
+   "zone": "subline",
+   "template": "'Support calm without the crash. Plant-based. Clinically proven.'",
+   "action": "SWAP",
+   "ours": "'Lighter legs without the bathroom runs. 8 PPM hydrogen. Third-party lab tested.'",
+   "reason": "three-beat formula; proof from the kit"
+  },
+  {
+   "zone": "top_scene",
+   "template": "messy desk: energy cans, iced coffee, phone with notifications, crumpled notes",
+   "action": "SWAP",
+   "ours": "messy bathroom counter at night: peeled-off compression socks, a 'DETOX TEA' box, a dry brush, a white 'WATER TABLETS' bottle, a wedge pillow, a phone showing a 'water retention' search",
+   "reason": "props of OUR problem"
+  },
+  {
+   "zone": "bottom_scene",
+   "template": "calm desk: lamp, book, bottle, glass of water, plant",
+   "action": "SWAP",
+   "ours": "calm kitchen counter in the morning: the Edenvia pouch, a clear glass of water with the white tablet fizzing at the bottom and fine bubbles rising, a plant, a window",
+   "reason": "scene of the fix; glass kept"
+  },
+  {
+   "zone": "product_spot",
+   "template": "bottle lower-left of the bottom scene, ~20 % width, glass of water to its right",
+   "action": "KEEP",
+   "ours": "Edenvia pouch, same spot and size; the glass to its right with the tablet fizzing",
+   "reason": "placement + the ingredient visual (C2)"
+  },
+  {
+   "zone": "button",
+   "template": "yellow 'Upgrade your routine →'",
+   "action": "SWAP",
+   "ours": "Edenvia accent blue button, same words 'Upgrade your routine →'",
+   "reason": "template words kept; brand colour"
+  },
+  {
+   "zone": "logo",
+   "template": "none",
+   "action": "KEEP",
+   "ours": "none",
+   "reason": "no logo slot"
+  }
+ ],
+ "text_slots": [
+  {
+   "slot": "headline",
+   "template_text": "Your current wind-down routine may be letting you down.",
+   "ours": "Your current leg-swelling routine may be letting you down.",
+   "source": "copy formula",
+   "same_length": true
+  },
+  {
+   "slot": "subline",
+   "template_text": "Support calm without the crash. Plant-based. Clinically proven.",
+   "ours": "Legs feel lighter without the bathroom runs. 8 PPM hydrogen. Third-party lab tested.",
+   "source": "three-beat; proof_allowed",
+   "same_length": true
+  },
+  {
+   "slot": "button",
+   "template_text": "Upgrade your routine →",
+   "ours": "Upgrade your routine →",
+   "source": "template words kept",
+   "same_length": true
+  }
+ ],
+ "text_slot_count": 3,
+ "proof_allowed": [
+  "8 PPM",
+  "Third-party lab tested"
+ ],
+ "people": {
+  "customer_look": "no person (hands optional, a woman's hand 40s)",
+  "other_people": "none"
+ },
+ "visual_bans": [
+  "no desk, no energy drinks, no laptop",
+  "the glass is clear water, tablet white and fizzing — never cloudy or coloured",
+  "no gummies",
+  "the product is only ever a white effervescent tablet in a clear glass of water — no other dosage form, no blister pack, no sachet",
+  "no bottle, jar or tub for Edenvia — the container is the stand-up pouch of Image 1, label untouched",
+  "any glass holds clear water with fine rising bubbles; never hot water, tea or coffee in that glass",
+  "no competitor brand name, logo or bottle shape anywhere (brand.json banned list)",
+  "no disease or drug name on the image"
+ ],
+ "compliance_flags": [],
+ "missing": []
+}

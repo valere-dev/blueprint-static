@@ -1,0 +1,169 @@
+{
+ "brand": "EDENVIA",
+ "ad_id": "EDENVIA_B01_C0376_V1",
+ "template": {
+  "id": "c0376",
+  "path": "/home/adanalysis/workspace/blueprint-static/edenvia/batch/templates/10-11_c0376_MarsMen.webp",
+  "source": "MarsMen · Adrien batch 01 · 9:16 comic 'X | X with BRAND' (Wildhorn c0376 validated)",
+  "family": "1 US vs THEM / comparison",
+  "aspect": "9:16",
+  "production_method": "full illustration + pasted product — comic/ink illustration of the same man twice, each holding a product; both products pasted; text by script",
+  "refusal_risk": "none"
+ },
+ "decode": {
+  "scroll_stop_trick": "The same man drawn twice — hollow-eyed on the left holding his prescription, healthy on the right holding the brand — under 'FINASTERIDE | FINASTERIDE WITH MARS MEN': you keep your thing, we fix its side effect.",
+  "angle_carried": "concede the thing he keeps (the drug), kill its side effect (A31 'keep your beer')",
+  "hidden_reading": "none; the social mechanism is the mirror: same face, two futures",
+  "scene_logic": "no scene; two half-length portraits on cream. Ours: the same woman twice, face and jawline visible because this is the face angle",
+  "visual_trick": "identical character, left degraded (dark circles, sunken), right restored; each holds its product at the chest with the label out — copy literally: left puffy face, soft double chin, tired; right the jawline back, same hair, same T-shirt",
+  "shape_or_function_equivalent": "Finasteride (the thing she keeps doing) ↔ dieting: a diet-shake bottle in the left hand labelled 'DIET SHAKE' — she keeps the diet, Edenvia fixes what the diet never touched",
+  "verb_of_the_scene": "hold the product at the chest",
+  "structure_type": "split (same person, two states)",
+  "shock_level": "calm",
+  "render_style": "comic ink illustration, flat cream #f1e9dc background, dark curly hair, black T-shirt, subtle shading",
+  "text_treatment": "black bold condensed caps headers, the brand name highlighted on an orange → Edenvia accent blue box with white text, small caps lines with ✅ / ❌"
+ },
+ "strategy": {
+  "angle_id": "A8",
+  "angle": "A8-F puffy face and soft jawline — dieting with Edenvia brings the jawline back",
+  "mechanism_id": "M1",
+  "mechanism": "M1: when the body can't clear everyday oxidative stress, the tissue in the legs stays inflamed and stops draining normally, so fluid sits there — heavy, tender, puffy — and no diet reaches it, because it was never fat; the tablet turns a glass of water into hydrogen-rich water, hydrogen is the smallest molecule there is, reaches the tissue and helps the body switch that process off so normal drainage can resume",
+  "sub_avatar": "trigger: the morning puffy face in the mirror, the double chin in photos · cause: fluid the face tissue stopped moving · tried: dieting harder, diet shakes, 'lose weight' advice",
+  "awareness": "problem-aware",
+  "belief_installed": "A puffy face and soft jawline are fluid the body stopped moving, not weight."
+ },
+ "inventory": [
+  {
+   "zone": "person_left",
+   "template": "man ~30, curly hair, dark circles, sunken, black T-shirt, holding a Finasteride bottle at the chest",
+   "action": "SWAP",
+   "ours": "woman 45–50, shoulder-length dark curly hair, puffy face, soft double chin, tired eyes, black T-shirt, holding a 'DIET SHAKE' bottle at the chest, label out",
+   "reason": "avatar + body part = the face (A11, C1); rival object = what she keeps doing"
+  },
+  {
+   "zone": "person_right",
+   "template": "same man, healthy, holding Mars Men bottle",
+   "action": "SWAP",
+   "ours": "the same woman, jawline sharp, eyes rested, same hair and T-shirt, holding the Edenvia pouch at the chest, label out",
+   "reason": "before/after; gesture kept (A8)"
+  },
+  {
+   "zone": "header_left",
+   "template": "'FINASTERIDE'",
+   "action": "SWAP",
+   "ours": "'DIETING'",
+   "reason": "the thing she keeps"
+  },
+  {
+   "zone": "header_right",
+   "template": "'FINASTERIDE WITH' + 'MARS MEN' on orange box",
+   "action": "SWAP",
+   "ours": "'DIETING WITH' + 'EDENVIA' on Edenvia accent blue box",
+   "reason": "copy formula X WITH BRAND; brand slot"
+  },
+  {
+   "zone": "left_lines",
+   "template": "'TREATS HAIRLOSS ✅' / 'KILLS TESTOSTERONE ❌'",
+   "action": "SWAP",
+   "ours": "'LOSES WEIGHT ✅' / 'PUFFY FACE STAYS ❌'",
+   "reason": "formula: the thing works ✅, its side effect ❌"
+  },
+  {
+   "zone": "right_lines",
+   "template": "'KEEPS HAIR ✅' / 'NATURAL TESTOSTERONE ✅'",
+   "action": "SWAP",
+   "ours": "'LOSES WEIGHT ✅' / 'JAWLINE BACK ✅'",
+   "reason": "both ✅; bank: 'My jawline FINALLY back'"
+  },
+  {
+   "zone": "product_spot",
+   "template": "left: rival bottle at chest, ~30 % width; right: brand bottle at chest, same size",
+   "action": "KEEP",
+   "ours": "left: a plain 'DIET SHAKE' shaker bottle; right: the Edenvia pouch from Image 1 held with the fingers wrapped around it",
+   "reason": "placement + gesture (A8, C11); pouch keeps real proportions"
+  },
+  {
+   "zone": "background",
+   "template": "flat cream",
+   "action": "KEEP",
+   "ours": "same cream",
+   "reason": "render style"
+  },
+  {
+   "zone": "logo",
+   "template": "none beyond the product",
+   "action": "KEEP",
+   "ours": "none",
+   "reason": "no logo slot"
+  }
+ ],
+ "text_slots": [
+  {
+   "slot": "header_left",
+   "template_text": "FINASTERIDE",
+   "ours": "DIETING",
+   "source": "the thing she keeps",
+   "same_length": true
+  },
+  {
+   "slot": "header_right",
+   "template_text": "FINASTERIDE WITH MARS MEN",
+   "ours": "DIETING WITH EDENVIA",
+   "source": "copy formula; brand slot",
+   "same_length": true
+  },
+  {
+   "slot": "left_1",
+   "template_text": "TREATS HAIRLOSS ✅",
+   "ours": "LOSES WEIGHT ✅",
+   "source": "formula kept",
+   "same_length": true
+  },
+  {
+   "slot": "left_2",
+   "template_text": "KILLS TESTOSTERONE ❌",
+   "ours": "PUFFY FACE STAYS ❌",
+   "source": "problem named (B2)",
+   "same_length": true
+  },
+  {
+   "slot": "right_1",
+   "template_text": "KEEPS HAIR ✅",
+   "ours": "LOSES WEIGHT ✅",
+   "source": "formula kept",
+   "same_length": true
+  },
+  {
+   "slot": "right_2",
+   "template_text": "NATURAL TESTOSTERONE ✅",
+   "ours": "JAWLINE BACK ✅",
+   "source": "bank: 'My jawline FINALLY back'",
+   "same_length": true
+  }
+ ],
+ "text_slot_count": 6,
+ "proof_allowed": [
+  "none needed"
+ ],
+ "people": {
+  "customer_look": "woman 45–50, soft midlife face, shoulder-length dark curly hair, black T-shirt — rendered as comic ink, same face both sides",
+  "other_people": "none"
+ },
+ "visual_bans": [
+  "no man, no hair-loss reading, no prescription bottle",
+  "no young model face on the right — the same 45-year-old, only de-puffed",
+  "the product is only ever a white effervescent tablet in a clear glass of water — no other dosage form, no blister pack, no sachet",
+  "no bottle, jar or tub for Edenvia — the container is the stand-up pouch of Image 1, label untouched",
+  "any glass holds clear water with fine rising bubbles; never hot water, tea or coffee in that glass",
+  "no competitor brand name, logo or bottle shape anywhere (brand.json banned list)",
+  "no disease or drug name on the image"
+ ],
+ "compliance_flags": [
+  {
+   "line": "LOSES WEIGHT ✅",
+   "risk": "weight-loss claim about dieting, not the product",
+   "decision": "kept — the ✅ belongs to the diet, Edenvia claims the jawline"
+  }
+ ],
+ "missing": []
+}

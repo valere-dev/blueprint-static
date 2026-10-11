@@ -1,0 +1,135 @@
+{
+ "brand": "EDENVIA",
+ "ad_id": "EDENVIA_B01_C0196_V1",
+ "template": {
+  "id": "c0196",
+  "path": "/home/adanalysis/workspace/blueprint-static/edenvia/batch/templates/10-11_c0196_DynoMyoGrow.webp",
+  "source": "DynoMyoGrow · Adrien batch 01 · 1:1 photo 'guess who's on' (Wildhorn c0196 validated)",
+  "family": "1 US vs THEM / comparison",
+  "aspect": "1:1",
+  "production_method": "real photo + pasted product — photoreal stock-style photo, product cut-out pasted top-left, red footer band and text by script",
+  "refusal_risk": "body"
+ },
+ "decode": {
+  "scroll_stop_trick": "Two arms locked in an arm-wrestle, one thick and veined, one thin and pale, under 'Beef vs. Spaghetti' — the metaphor and the photo say the same thing in half a second.",
+  "angle_carried": "strength with age: 'made for men who refuse to shrink with age'",
+  "hidden_reading": "the playground insult (spaghetti arms) — social mechanism: everyone can see which one you are",
+  "scene_logic": "a contest where the body difference is the whole point. Ours: two men side by side at a backyard BBQ, shirts tucked, belt line in frame — the belly difference is the contest",
+  "visual_trick": "two bodies touching at the centre, the strong one on the left, dark vignette, product floating top-left — copy literally with two torsos: left a flat tucked-in waist, right a belly hanging over the belt, standing shoulder to shoulder, each holding a beer",
+  "shape_or_function_equivalent": "thick arm vs thin arm ↔ flat waist vs keg belly; 'Beef vs. Spaghetti' ↔ 'Belt Buckle vs. Keg'",
+  "verb_of_the_scene": "compete / show off side by side",
+  "structure_type": "split in one photo (two bodies)",
+  "shock_level": "cheeky",
+  "render_style": "photoreal, dark moody background, warm skin, sharp detail",
+  "text_treatment": "white regular sans top line, white bold line with the brand name in red → Edenvia blue, red footer band → Edenvia navy band with white bold text"
+ },
+ "strategy": {
+  "angle_id": "A8",
+  "angle": "A8-M the man's belly that isn't fat — 'it's not the beer, it's what your body stopped clearing'",
+  "mechanism_id": "M1",
+  "mechanism": "M1: when the body can't clear everyday oxidative stress, the tissue in the legs stays inflamed and stops draining normally, so fluid sits there — heavy, tender, puffy — and no diet reaches it, because it was never fat; the tablet turns a glass of water into hydrogen-rich water, hydrogen is the smallest molecule there is, reaches the tissue and helps the body switch that process off so normal drainage can resume",
+  "sub_avatar": "trigger: belt on the last hole, the photo at the BBQ · cause: a bloated, fluid-heavy belly no diet moved · tried: cutting beer, sit-ups, keto",
+  "awareness": "problem-aware",
+  "belief_installed": "A belly that no diet moves isn't food I stored — it's what my body stopped clearing."
+ },
+ "inventory": [
+  {
+   "zone": "line_1",
+   "template": "'Beef vs. Spaghetti' white regular",
+   "action": "SWAP",
+   "ours": "'Belt Buckle vs. Keg'",
+   "reason": "metaphor pair for our body part (E6)"
+  },
+  {
+   "zone": "line_2",
+   "template": "'Guess who's on MYO-GROW' bold, brand in red",
+   "action": "SWAP",
+   "ours": "'Guess who's on EDENVIA' bold, brand in Edenvia accent blue",
+   "reason": "template words kept + brand slot"
+  },
+  {
+   "zone": "scene",
+   "template": "two arms arm-wrestling, dark studio",
+   "action": "SWAP",
+   "ours": "two men 45–60 at a backyard BBQ in the evening, side by side from chest to thigh, shirts tucked into jeans, each holding a beer; left man flat waist and visible belt buckle, right man a round belly hanging over the belt",
+   "reason": "scene where OUR problem is directly visible (A3); concede the beer (B11)"
+  },
+  {
+   "zone": "product_spot",
+   "template": "product top-left, ~22 % width, floating over the photo",
+   "action": "KEEP",
+   "ours": "Edenvia pouch from Image 1, same spot and size",
+   "reason": "placement"
+  },
+  {
+   "zone": "footer_band",
+   "template": "red band, 2 lines white bold",
+   "action": "SWAP",
+   "ours": "Edenvia navy #14488F band, 2 lines white bold",
+   "reason": "brand colour"
+  },
+  {
+   "zone": "footer_text",
+   "template": "'MYO-GROW was made for men who refuse to shrink with age.'",
+   "action": "SWAP",
+   "ours": "'EDENVIA was made for men who refuse to blame the beer.'",
+   "reason": "copy formula + B11 (concede the pleasure)"
+  },
+  {
+   "zone": "logo",
+   "template": "none",
+   "action": "KEEP",
+   "ours": "none",
+   "reason": "no logo slot"
+  }
+ ],
+ "text_slots": [
+  {
+   "slot": "line_1",
+   "template_text": "Beef vs. Spaghetti",
+   "ours": "Belt Buckle vs. Keg",
+   "source": "shape equivalent",
+   "same_length": true
+  },
+  {
+   "slot": "line_2",
+   "template_text": "Guess who's on MYO-GROW",
+   "ours": "Guess who's on EDENVIA",
+   "source": "template words kept",
+   "same_length": true
+  },
+  {
+   "slot": "footer",
+   "template_text": "MYO-GROW was made for men who refuse to shrink with age.",
+   "ours": "EDENVIA was made for men who refuse to blame the beer.",
+   "source": "copy formula; B11",
+   "same_length": true
+  }
+ ],
+ "text_slot_count": 3,
+ "proof_allowed": [
+  "none needed"
+ ],
+ "people": {
+  "customer_look": "man 45–60, greying, soft midlife build, belly over the belt, ordinary T-shirt or button shirt — never a fitness model; the lean man is the same age, not a bodybuilder",
+  "other_people": "the two men are the customer before/after, nobody else"
+ },
+ "visual_bans": [
+  "no arm wrestling, no muscles reading",
+  "no faces needed — crop chest to thigh; no shirtless skin",
+  "no bison, no jar",
+  "the product is only ever a white effervescent tablet in a clear glass of water — no other dosage form, no blister pack, no sachet",
+  "no bottle, jar or tub for Edenvia — the container is the stand-up pouch of Image 1, label untouched",
+  "any glass holds clear water with fine rising bubbles; never hot water, tea or coffee in that glass",
+  "no competitor brand name, logo or bottle shape anywhere (brand.json banned list)",
+  "no disease or drug name on the image"
+ ],
+ "compliance_flags": [
+  {
+   "line": "Belt Buckle vs. Keg",
+   "risk": "body shaming",
+   "decision": "kept — matches the template's 'Spaghetti' insult; compliance deferred"
+  }
+ ],
+ "missing": []
+}

@@ -1,0 +1,190 @@
+{
+ "brand": "EDENVIA",
+ "ad_id": "EDENVIA_B01_C0192_V1",
+ "template": {
+  "id": "c0192",
+  "path": "/home/adanalysis/workspace/blueprint-static/edenvia/batch/templates/10-11_c0192_PrimalStorm.webp",
+  "source": "PrimalStorm · Adrien batch 01 · 1:1 mechanism diagram + product (Wildhorn c0192 validated)",
+  "family": "1 US vs THEM / comparison",
+  "aspect": "1:1",
+  "production_method": "full illustration + pasted product — coloured-pencil anatomy sketch with callouts, real jar composited at the centre bottom, text by script",
+  "refusal_risk": "none"
+ },
+ "decode": {
+  "scroll_stop_trick": "A blunt three-line question in black condensed caps ('CAN'T STAY HARD? LOOK AT YOUR BLOOD FLOW.') over two cut-open arteries, one clogged, one clear, with the jar standing between them as the switch.",
+  "angle_carried": "mechanism reveal: your problem is a flow problem",
+  "hidden_reading": "the leet 'ER3CT!ONS' (policy dodge) — ours needs none, nothing to dodge",
+  "scene_logic": "no scene; a diagram on cream paper. Ours: the same diagram, the vessel that drains the leg instead of an artery, because her problem is fluid that stopped moving",
+  "visual_trick": "two diagonal cut-open tubes mirrored left/right, left narrowed and clogged with yellow sludge and a small arrow, right wide and clear with a big arrow; callout lines with small labels — copy literally",
+  "shape_or_function_equivalent": "clogged artery tube ↔ a blocked drainage vessel in the calf: left the tube is squeezed by swollen, pale, water-logged tissue around it and the fluid inside is stagnant yellowish; right the tube is open, tissue calm and pink, fluid moving (arrow)",
+  "verb_of_the_scene": "look at / cut open",
+  "structure_type": "split (blocked vs clear) with a centred product",
+  "shock_level": "calm (clinical) but blunt copy",
+  "render_style": "coloured-pencil / crayon medical sketch on cream #f5e9d8, hand-drawn hatching, thin black callout lines",
+  "text_treatment": "heavy condensed black caps (Anton-like) for headline and footer, bold caps panel labels, small regular callouts; product centred bottom with a long thin vertical line down to it"
+ },
+ "strategy": {
+  "angle_id": "A8",
+  "angle": "A8-L heavy, swollen legs — look at what's holding the fluid",
+  "mechanism_id": "M1",
+  "mechanism": "M1: when the body can't clear everyday oxidative stress, the tissue in the legs stays inflamed and stops draining normally, so fluid sits there — heavy, tender, puffy — and no diet reaches it, because it was never fat; the tablet turns a glass of water into hydrogen-rich water, hydrogen is the smallest molecule there is, reaches the tissue and helps the body switch that process off so normal drainage can resume",
+  "sub_avatar": "trigger: swollen by evening every day, told it's weight · cause: inflamed tissue blocking the drainage · tried: diets, water tablets",
+  "awareness": "problem-aware → mechanism-aware",
+  "belief_installed": "It was never fat. It's fluid my body stopped clearing — and no diet reaches it."
+ },
+ "inventory": [
+  {
+   "zone": "headline",
+   "template": "'PREDIABETIC MEN: CAN'T STAY HARD? LOOK AT YOUR BLOOD FLOW.' 3 lines",
+   "action": "SWAP",
+   "ours": "'DIETED FOR YEARS: LEGS STILL SWOLLEN? LOOK AT YOUR DRAINAGE.' 3 lines",
+   "reason": "copy formula [who]: [problem?] LOOK AT YOUR [mechanism]; problem named in full (B2)"
+  },
+  {
+   "zone": "panel_label_left",
+   "template": "'WEAK BLOOD-FLOW'",
+   "action": "SWAP",
+   "ours": "'BLOCKED DRAINAGE'",
+   "reason": "mechanism noun swap"
+  },
+  {
+   "zone": "panel_label_right",
+   "template": "'STRONGER BLOOD-FLOW'",
+   "action": "SWAP",
+   "ours": "'CLEAR DRAINAGE'",
+   "reason": "mechanism noun swap"
+  },
+  {
+   "zone": "left_diagram",
+   "template": "narrowed artery, yellow plaque, red cells squeezed, small arrow",
+   "action": "SWAP",
+   "ours": "drainage vessel squeezed by swollen pale tissue, stagnant yellowish fluid, small arrow",
+   "reason": "shape equivalent: tube ↔ tube"
+  },
+  {
+   "zone": "right_diagram",
+   "template": "wide artery, free red cells, big arrow",
+   "action": "SWAP",
+   "ours": "open vessel, calm pink tissue, clear fluid moving, big arrow",
+   "reason": "before/after stays before/after"
+  },
+  {
+   "zone": "callouts_left",
+   "template": "'Narrowed Arteries' / 'Reduced Blood-flow'",
+   "action": "SWAP",
+   "ours": "'Inflamed, swollen tissue' / 'Fluid sitting still'",
+   "reason": "mechanism in plain words (B4: no jargon)"
+  },
+  {
+   "zone": "callouts_right",
+   "template": "'Wider Arteries' / 'Improved Blood-flow'",
+   "action": "SWAP",
+   "ours": "'Calm tissue' / 'Fluid draining'",
+   "reason": "plain words"
+  },
+  {
+   "zone": "product_spot",
+   "template": "jar centred bottom, ~25 % width, between the two diagrams, thin line above it",
+   "action": "KEEP",
+   "ours": "Edenvia pouch from Image 1, same spot and size, same thin line",
+   "reason": "placement (A8); real proportions"
+  },
+  {
+   "zone": "footer",
+   "template": "'SUPPORT THE BLOOD FLOW BEHIND YOUR ER3CT!ONS.' 2 lines",
+   "action": "SWAP",
+   "ours": "'SUPPORT THE DRAINAGE BEHIND LIGHT, SLIM LEGS.' 2 lines",
+   "reason": "copy formula SUPPORT THE [mechanism] BEHIND [result]; 'lymphatic drainage support' wording allowed"
+  },
+  {
+   "zone": "background",
+   "template": "cream paper",
+   "action": "KEEP",
+   "ours": "same",
+   "reason": "render style"
+  }
+ ],
+ "text_slots": [
+  {
+   "slot": "headline",
+   "template_text": "PREDIABETIC MEN: CAN'T STAY HARD? LOOK AT YOUR BLOOD FLOW.",
+   "ours": "DIETED FOR YEARS: LEGS STILL SWOLLEN? LOOK AT YOUR DRAINAGE.",
+   "source": "copy formula; bank #9",
+   "same_length": true
+  },
+  {
+   "slot": "panel_left",
+   "template_text": "WEAK BLOOD-FLOW",
+   "ours": "BLOCKED DRAINAGE",
+   "source": "noun swap",
+   "same_length": true
+  },
+  {
+   "slot": "panel_right",
+   "template_text": "STRONGER BLOOD-FLOW",
+   "ours": "CLEAR DRAINAGE",
+   "source": "noun swap",
+   "same_length": true
+  },
+  {
+   "slot": "callout_left_1",
+   "template_text": "Narrowed Arteries",
+   "ours": "Inflamed, swollen tissue",
+   "source": "plain words",
+   "same_length": true
+  },
+  {
+   "slot": "callout_left_2",
+   "template_text": "Reduced Blood-flow",
+   "ours": "Fluid sitting still",
+   "source": "plain words",
+   "same_length": true
+  },
+  {
+   "slot": "callout_right_1",
+   "template_text": "Wider Arteries",
+   "ours": "Calm tissue",
+   "source": "plain words",
+   "same_length": true
+  },
+  {
+   "slot": "callout_right_2",
+   "template_text": "Improved Blood-flow",
+   "ours": "Fluid draining",
+   "source": "plain words",
+   "same_length": true
+  },
+  {
+   "slot": "footer",
+   "template_text": "SUPPORT THE BLOOD FLOW BEHIND YOUR ER3CT!ONS.",
+   "ours": "SUPPORT THE DRAINAGE BEHIND LIGHT, SLIM LEGS.",
+   "source": "copy formula",
+   "same_length": true
+  }
+ ],
+ "text_slot_count": 8,
+ "proof_allowed": [
+  "none needed"
+ ],
+ "people": {
+  "customer_look": "no person — a leg cross-section",
+  "other_people": "none"
+ },
+ "visual_bans": [
+  "no artery, no blood cells, no heart reading",
+  "the label says 30 TABLETS — keep it as in Image 1",
+  "the product is only ever a white effervescent tablet in a clear glass of water — no other dosage form, no blister pack, no sachet",
+  "no bottle, jar or tub for Edenvia — the container is the stand-up pouch of Image 1, label untouched",
+  "any glass holds clear water with fine rising bubbles; never hot water, tea or coffee in that glass",
+  "no competitor brand name, logo or bottle shape anywhere (brand.json banned list)",
+  "no disease or drug name on the image"
+ ],
+ "compliance_flags": [
+  {
+   "line": "BLOCKED DRAINAGE / CLEAR DRAINAGE",
+   "risk": "lymphatic function claim",
+   "decision": "kept as 'drainage support' wording (brand prints 'lymphatic drainage support'); compliance deferred"
+  }
+ ],
+ "missing": []
+}

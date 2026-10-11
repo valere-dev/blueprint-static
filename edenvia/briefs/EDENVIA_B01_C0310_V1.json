@@ -1,0 +1,197 @@
+{
+ "brand": "EDENVIA",
+ "ad_id": "EDENVIA_B01_C0310_V1",
+ "template": {
+  "id": "c0310",
+  "path": "/home/adanalysis/workspace/blueprint-static/edenvia/batch/templates/10-11_c0310_Overload.webp",
+  "source": "Overload · Adrien batch 01 · 1:1 wojak vs chad meme (Wildhorn c0310 validated)",
+  "family": "1 US vs THEM / comparison",
+  "aspect": "1:1",
+  "production_method": "collage — meme line-art (crying wojak / chad) on a white vs red split, three caps lines each side, product cut-out bottom right, all text by script",
+  "refusal_risk": "none"
+ },
+ "decode": {
+  "scroll_stop_trick": "The crying wojak and the bearded chad — the internet's own 'loser vs winner' — with three brutally specific bedroom lines under each; the reader knows which one he is.",
+  "angle_carried": "sexual performance shame (sexual, shocking register)",
+  "hidden_reading": "explicit sexual humiliation vs triumph, the wife as witness — ours: belly shame with the wife as the same witness, same profanity level",
+  "scene_logic": "no scene; a meme card. Ours: same card, same two faces, belly lines instead of bedroom lines",
+  "visual_trick": "two meme faces facing each other across a white/red split, product tucked bottom right, 'ingredient stack' line bottom left — copy literally; red half → Edenvia accent blue",
+  "shape_or_function_equivalent": "none needed (meme faces stay meme faces); the chad gets a flat tucked-in shirt line in the drawing, the wojak a round belly line",
+  "verb_of_the_scene": "confess vs brag",
+  "structure_type": "split meme (3 vs 3 lines)",
+  "shock_level": "shocking / crude — match it ('holy shit' stays)",
+  "render_style": "black line-art meme faces, flat white left half, flat red → Edenvia blue #1468DB right half",
+  "text_treatment": "heavy condensed black caps (Oswald-like) in 3 short blocks per side, bottom-left big caps ingredient line + regular tagline, red CTA button 'SHOP NOW →' → blue"
+ },
+ "strategy": {
+  "angle_id": "A8",
+  "angle": "A8-M the man's belly that isn't fat — he sucks it in, the other one tucks his shirt in",
+  "mechanism_id": "M1",
+  "mechanism": "M1: when the body can't clear everyday oxidative stress, the tissue in the legs stays inflamed and stops draining normally, so fluid sits there — heavy, tender, puffy — and no diet reaches it, because it was never fat; the tablet turns a glass of water into hydrogen-rich water, hydrogen is the smallest molecule there is, reaches the tissue and helps the body switch that process off so normal drainage can resume",
+  "sub_avatar": "trigger: sucking in his gut for the family photo · cause: a bloated belly no diet moved · tried: cutting beer, crunches, 'it's just your age'",
+  "awareness": "problem-aware",
+  "belief_installed": "A belly that no diet moves isn't food I stored — it's what my body stopped clearing."
+ },
+ "inventory": [
+  {
+   "zone": "left_face",
+   "template": "crying wojak, line art",
+   "action": "KEEP",
+   "ours": "same crying wojak, with a round belly line drawn under the face (shirt untucked)",
+   "reason": "meme stays meme; body part added in the same line art (C1)"
+  },
+  {
+   "zone": "right_face",
+   "template": "bearded chad profile on red",
+   "action": "KEEP",
+   "ours": "same chad, shirt tucked, flat line at the waist, on Edenvia blue",
+   "reason": "meme stays meme"
+  },
+  {
+   "zone": "left_lines",
+   "template": "3 sexual shame lines",
+   "action": "SWAP",
+   "ours": "3 belly shame lines (see slots)",
+   "reason": "same count, same register, our problem"
+  },
+  {
+   "zone": "right_lines",
+   "template": "3 sexual triumph lines incl. 'WIFE: HOLY SHIT…'",
+   "action": "SWAP",
+   "ours": "3 belly triumph lines incl. 'WIFE: HOLY SHIT, WHERE DID YOUR GUT GO?'",
+   "reason": "copy formula + profanity level kept (A15)"
+  },
+  {
+   "zone": "ingredient_line",
+   "template": "'PYGEUM + ZINC + LECITHIN' big caps",
+   "action": "SWAP",
+   "ours": "'HYDROGEN + MAGNESIUM + MINERALS'",
+   "reason": "our literal contents in the same display (C2)"
+  },
+  {
+   "zone": "tagline",
+   "template": "'The Stack That Changes Everything.'",
+   "action": "SWAP",
+   "ours": "'The Glass That Changes Everything.'",
+   "reason": "copy formula; one noun = our ritual"
+  },
+  {
+   "zone": "cta",
+   "template": "red 'SHOP NOW →'",
+   "action": "SWAP",
+   "ours": "Edenvia blue 'SHOP NOW →'",
+   "reason": "template words kept"
+  },
+  {
+   "zone": "product_spot",
+   "template": "black tub bottom right, ~20 % width, overlapping the split",
+   "action": "KEEP",
+   "ours": "Edenvia pouch from Image 1, same spot and size",
+   "reason": "placement"
+  },
+  {
+   "zone": "right_half_colour",
+   "template": "red",
+   "action": "SWAP",
+   "ours": "Edenvia accent blue",
+   "reason": "brand colour"
+  },
+  {
+   "zone": "logo",
+   "template": "none",
+   "action": "KEEP",
+   "ours": "none",
+   "reason": "no logo slot"
+  }
+ ],
+ "text_slots": [
+  {
+   "slot": "left_1",
+   "template_text": "FINISHES WITH A SAD LITTLE DRIBBLE",
+   "ours": "SUCKS HIS GUT IN FOR EVERY PHOTO",
+   "source": "avatar hiding behaviour from research (B8)",
+   "same_length": true
+  },
+  {
+   "slot": "left_2",
+   "template_text": "WIFE HANDS HIM A TISSUE WITHOUT MAKING EYE CONTACT",
+   "ours": "WIFE SAYS 'IT'S THE BEER' WITHOUT LOOKING UP",
+   "source": "same witness, same cruelty; B11 the beer blamed",
+   "same_length": true
+  },
+  {
+   "slot": "left_3",
+   "template_text": "AVOIDS CERTAIN POSITIONS SO SHE CAN'T SEE",
+   "ours": "KEEPS HIS SHIRT ON AT THE POOL SO NOBODY CAN SEE",
+   "source": "hiding behaviour (B8); formula kept",
+   "same_length": true
+  },
+  {
+   "slot": "right_1",
+   "template_text": "SHOOTS ROPES THAT HIT THE PILLOW",
+   "ours": "TUCKS HIS SHIRT IN. ON PURPOSE.",
+   "source": "proud proof (B9: tucked shirt, Lymphoria #14)",
+   "same_length": true
+  },
+  {
+   "slot": "right_2",
+   "template_text": "WIFE: \"HOLY SHIT, WHERE DID THAT COME FROM?\"",
+   "ours": "WIFE: \"HOLY SHIT, WHERE DID YOUR GUT GO?\"",
+   "source": "copy formula, profanity kept",
+   "same_length": true
+  },
+  {
+   "slot": "right_3",
+   "template_text": "SUGGESTS NEW POSITIONS BECAUSE HE KNOWS THE ENDING WILL IMPRESS",
+   "ours": "STANDS FOR THE PHOTO BECAUSE HE KNOWS THE BELT WILL IMPRESS",
+   "source": "formula kept; proud proof",
+   "same_length": true
+  },
+  {
+   "slot": "ingredient_line",
+   "template_text": "PYGEUM + ZINC + LECITHIN",
+   "ours": "HYDROGEN + MAGNESIUM + MINERALS",
+   "source": "product contents (product page 2026-03)",
+   "same_length": true
+  },
+  {
+   "slot": "tagline",
+   "template_text": "The Stack That Changes Everything.",
+   "ours": "The Glass That Changes Everything.",
+   "source": "copy formula",
+   "same_length": true
+  },
+  {
+   "slot": "cta",
+   "template_text": "SHOP NOW →",
+   "ours": "SHOP NOW →",
+   "source": "template words kept",
+   "same_length": true
+  }
+ ],
+ "text_slot_count": 9,
+ "proof_allowed": [
+  "none needed"
+ ],
+ "people": {
+  "customer_look": "meme faces only (wojak / chad) — no photo of a person",
+  "other_people": "the wife is quoted, not shown"
+ },
+ "visual_bans": [
+  "no sexual imagery, no tub",
+  "no beer can drawn (the beer is only in the wife's line)",
+  "the product is only ever a white effervescent tablet in a clear glass of water — no other dosage form, no blister pack, no sachet",
+  "no bottle, jar or tub for Edenvia — the container is the stand-up pouch of Image 1, label untouched",
+  "any glass holds clear water with fine rising bubbles; never hot water, tea or coffee in that glass",
+  "no competitor brand name, logo or bottle shape anywhere (brand.json banned list)",
+  "no disease or drug name on the image"
+ ],
+ "compliance_flags": [
+  {
+   "line": "WIFE: \"HOLY SHIT, WHERE DID YOUR GUT GO?\"",
+   "risk": "profanity",
+   "decision": "kept — matches the template's register (A15); founder: hardcore marketing"
+  }
+ ],
+ "missing": []
+}

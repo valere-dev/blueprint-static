@@ -1,0 +1,212 @@
+{
+ "brand": "EDENVIA",
+ "ad_id": "EDENVIA_B01_C0178_V1",
+ "template": {
+  "id": "c0178",
+  "path": "/home/adanalysis/workspace/blueprint-static/edenvia/batch/templates/10-11_c0178_AleviaAmla.webp",
+  "source": "AleviaAmla · Adrien batch 01 · 1:1 product vs habit split (Wildhorn c0178 validated)",
+  "family": "1 US vs THEM / comparison",
+  "aspect": "1:1",
+  "production_method": "collage — flat split background, cut-out product photo left, cut-out object photo right, five ✓ and five ✗ lines",
+  "refusal_risk": "none"
+ },
+ "decode": {
+  "scroll_stop_trick": "The brand's bottle faces the everyday thing the buyer already uses (coffee) with a VS badge between them, and the two columns of green ticks vs red crosses settle the fight before she reads a word.",
+  "angle_carried": "anti-waste: 'what you use now vs what works' (coffee crash)",
+  "hidden_reading": "none; the social mechanism is the familiar object turned into the loser",
+  "scene_logic": "no scene; a split page. Ours: the Edenvia pouch vs the cup of 'detox tea' she drinks for her swollen legs — the same cup shape, same place",
+  "visual_trick": "cut-out product left on the brand-colour half, cut-out everyday object right on a grey half, big VS circle on the divider — copy literally",
+  "shape_or_function_equivalent": "cup of coffee ↔ cup of dandelion 'detox tea' with the teabag tag hanging out (same cup and saucer, same angle)",
+  "verb_of_the_scene": "face off",
+  "structure_type": "split / table (5 ticks vs 5 crosses)",
+  "shock_level": "calm",
+  "render_style": "flat design, green gradient left half → Edenvia blue gradient, light grey right half, photo cut-outs with soft shadow",
+  "text_treatment": "bold rounded sans headline (brand name in white on the colour half, black on the grey half), black VS circle, green ✅ list and red ❌ list in regular sans"
+ },
+ "strategy": {
+  "angle_id": "A8",
+  "angle": "A8-L heavy, swollen legs — the detox tea only flushes water for a few hours",
+  "mechanism_id": "M1",
+  "mechanism": "M1: when the body can't clear everyday oxidative stress, the tissue in the legs stays inflamed and stops draining normally, so fluid sits there — heavy, tender, puffy — and no diet reaches it, because it was never fat; the tablet turns a glass of water into hydrogen-rich water, hydrogen is the smallest molecule there is, reaches the tissue and helps the body switch that process off so normal drainage can resume",
+  "sub_avatar": "trigger: a 'detox tea' every evening, bathroom all night, legs heavy again by noon · cause: the tea moves water, not the inflamed tissue holding it · tried: diuretic teas, water tablets",
+  "awareness": "solution-aware",
+  "belief_installed": "It was never fat. It's fluid my body stopped clearing — and no diet reaches it."
+ },
+ "inventory": [
+  {
+   "zone": "left_half_colour",
+   "template": "green gradient",
+   "action": "SWAP",
+   "ours": "Edenvia accent blue gradient #1468DB → #14488F",
+   "reason": "brand colour slot"
+  },
+  {
+   "zone": "headline_left",
+   "template": "'Alevia's AMLA' white, 2 lines",
+   "action": "SWAP",
+   "ours": "'Edenvia's HYDROGEN'",
+   "reason": "copy formula [Brand]'s [INGREDIENT]"
+  },
+  {
+   "zone": "vs_badge",
+   "template": "black circle 'VS'",
+   "action": "KEEP",
+   "ours": "same",
+   "reason": "structure"
+  },
+  {
+   "zone": "headline_right",
+   "template": "'Coffee' black",
+   "action": "SWAP",
+   "ours": "'Detox Tea'",
+   "reason": "the rival habit she already knows (A31)"
+  },
+  {
+   "zone": "product_spot",
+   "template": "Alevia bottle left, ~40 % width, centred under the headline",
+   "action": "KEEP",
+   "ours": "Edenvia pouch from Image 1, same spot, same size",
+   "reason": "placement"
+  },
+  {
+   "zone": "rival_object",
+   "template": "white coffee cup on saucer, steam",
+   "action": "SWAP",
+   "ours": "the same white cup on a saucer, pale yellow-green tea, a teabag tag hanging over the rim reading 'DETOX'",
+   "reason": "shape equivalent: cup ↔ cup"
+  },
+  {
+   "zone": "tick_list",
+   "template": "5 green ✅ benefit lines",
+   "action": "SWAP",
+   "ours": "5 lines in our words (see slots)",
+   "reason": "same count, same hierarchy"
+  },
+  {
+   "zone": "cross_list",
+   "template": "5 red ❌ lines",
+   "action": "SWAP",
+   "ours": "5 lines in our words",
+   "reason": "same count"
+  },
+  {
+   "zone": "logo",
+   "template": "none beyond the product label",
+   "action": "KEEP",
+   "ours": "none",
+   "reason": "template has no logo slot"
+  }
+ ],
+ "text_slots": [
+  {
+   "slot": "headline_left",
+   "template_text": "Alevia's AMLA",
+   "ours": "Edenvia's HYDROGEN",
+   "source": "copy formula",
+   "same_length": true
+  },
+  {
+   "slot": "vs_badge",
+   "template_text": "VS",
+   "ours": "VS",
+   "source": "template words kept",
+   "same_length": true
+  },
+  {
+   "slot": "headline_right",
+   "template_text": "Coffee",
+   "ours": "Detox Tea",
+   "source": "rival habit",
+   "same_length": true
+  },
+  {
+   "slot": "tick_1",
+   "template_text": "Energy that lasts all day",
+   "ours": "Reaches the fluid stuck in your legs",
+   "source": "mechanism in plain words",
+   "same_length": true
+  },
+  {
+   "slot": "tick_2",
+   "template_text": "No shaky jittery feeling",
+   "ours": "No bathroom runs every hour",
+   "source": "her lived rival side-effect",
+   "same_length": true
+  },
+  {
+   "slot": "tick_3",
+   "template_text": "Helps you feel calm",
+   "ours": "Legs feel lighter by evening",
+   "source": "bank: 'feel lighter'",
+   "same_length": true
+  },
+  {
+   "slot": "tick_4",
+   "template_text": "No afternoon energy crash",
+   "ours": "No swelling bounce-back tomorrow",
+   "source": "benefit vs what she tried (B3)",
+   "same_length": true
+  },
+  {
+   "slot": "tick_5",
+   "template_text": "Easier on your stomach",
+   "ours": "One tablet, one glass of water",
+   "source": "product fact",
+   "same_length": true
+  },
+  {
+   "slot": "cross_1",
+   "template_text": "Makes you crash by afternoon",
+   "ours": "Only flushes water for a few hours",
+   "source": "rival mechanism",
+   "same_length": true
+  },
+  {
+   "slot": "cross_2",
+   "template_text": "Makes you feel anxious",
+   "ours": "Keeps you up for the bathroom",
+   "source": "rival side-effect",
+   "same_length": true
+  },
+  {
+   "slot": "cross_3",
+   "template_text": "Makes stress feel worse",
+   "ours": "Legs heavy again by noon",
+   "source": "problem named (B2)",
+   "same_length": true
+  },
+  {
+   "slot": "cross_4",
+   "template_text": "Ruins your sleep at night",
+   "ours": "Washes out minerals, not the puffiness",
+   "source": "rival weakness",
+   "same_length": true
+  },
+  {
+   "slot": "cross_5",
+   "template_text": "Only a temporary boost",
+   "ours": "Only a temporary flush",
+   "source": "template words kept, one noun swapped",
+   "same_length": true
+  }
+ ],
+ "text_slot_count": 13,
+ "proof_allowed": [
+  "none needed"
+ ],
+ "people": {
+  "customer_look": "no person",
+  "other_people": "none"
+ },
+ "visual_bans": [
+  "no coffee, no energy reading",
+  "the tea cup is plain white — no brand on it",
+  "the product is only ever a white effervescent tablet in a clear glass of water — no other dosage form, no blister pack, no sachet",
+  "no bottle, jar or tub for Edenvia — the container is the stand-up pouch of Image 1, label untouched",
+  "any glass holds clear water with fine rising bubbles; never hot water, tea or coffee in that glass",
+  "no competitor brand name, logo or bottle shape anywhere (brand.json banned list)",
+  "no disease or drug name on the image"
+ ],
+ "compliance_flags": [],
+ "missing": []
+}

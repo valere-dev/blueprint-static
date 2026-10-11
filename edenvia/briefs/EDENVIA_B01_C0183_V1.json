@@ -1,0 +1,211 @@
+{
+ "brand": "EDENVIA",
+ "ad_id": "EDENVIA_B01_C0183_V1",
+ "template": {
+  "id": "c0183",
+  "path": "/home/adanalysis/workspace/blueprint-static/edenvia/batch/templates/10-11_c0183_Bioma.webp",
+  "source": "Bioma · Adrien batch 01 · 9:16 Pixar split (Wildhorn c0183 validated)",
+  "family": "1 US vs THEM / comparison",
+  "aspect": "9:16",
+  "production_method": "full illustration — Pixar-style 3D render, two characters, split background, no product; text by script",
+  "refusal_risk": "none"
+ },
+ "decode": {
+  "scroll_stop_trick": "A Pixar woman drawn twice — miserable in grey sweats on a black half, glowing in a white blouse on a purple half — with the rival's name spelled in leet so it reads as a secret ('OZ3MP!C').",
+  "angle_carried": "the GLP-1 alternative: 'what comes with the drug vs what comes with us'",
+  "hidden_reading": "the obfuscated rival name = 'we're not allowed to say it' — the buyer feels let in on something; the sad character wears what she wears when she's given up (sweats)",
+  "scene_logic": "no scene, studio gradient; ours keeps the split and the two characters, legs visible because the problem lives there",
+  "visual_trick": "the same character, two emotional states, leet-spelled rival name — copy literally: 'ANOTHER D!ET' as the rival",
+  "shape_or_function_equivalent": "Ozempic (the thing she tried that came with side effects) ↔ 'another diet' (what she keeps doing that never touched her legs)",
+  "verb_of_the_scene": "stand and be compared",
+  "structure_type": "split (two states)",
+  "shock_level": "calm / cheeky",
+  "render_style": "Pixar 3D, big eyes, soft studio light, black left half, purple→ Edenvia blue right half",
+  "text_treatment": "white rounded bold sans headers, the rival/brand name in a chunky cartoon display font with a dark outline, four white body lines per side with a soft shadow"
+ },
+ "strategy": {
+  "angle_id": "A8",
+  "angle": "A8-L heavy, swollen legs — another diet vs one tablet in a glass of water",
+  "mechanism_id": "M1",
+  "mechanism": "M1: when the body can't clear everyday oxidative stress, the tissue in the legs stays inflamed and stops draining normally, so fluid sits there — heavy, tender, puffy — and no diet reaches it, because it was never fat; the tablet turns a glass of water into hydrogen-rich water, hydrogen is the smallest molecule there is, reaches the tissue and helps the body switch that process off so normal drainage can resume",
+  "sub_avatar": "trigger: starting yet another diet on Monday · cause: fluid in inflamed tissue that no calorie deficit reaches · tried: dieting harder, for years",
+  "awareness": "problem-aware",
+  "belief_installed": "It was never fat. It's fluid my body stopped clearing — and no diet reaches it."
+ },
+ "inventory": [
+  {
+   "zone": "person_left",
+   "template": "Pixar woman ~30, long dark hair, grey T-shirt and grey sweatpants, sad",
+   "action": "SWAP",
+   "ours": "Pixar woman 45–50, same face as the right one, hair tied back, grey T-shirt and grey capri leggings so the swollen calves and thick ankles show, sad, standing heavy",
+   "reason": "avatar age + body part visible (A11, C1)"
+  },
+  {
+   "zone": "person_right",
+   "template": "Pixar woman, white blouse, black pencil skirt, smiling",
+   "action": "SWAP",
+   "ours": "the same woman, white blouse, knee-length skirt, slim calves and ankles, heeled sandals, smiling",
+   "reason": "before/after stays before/after; proud proof = legs in the open"
+  },
+  {
+   "zone": "header_left",
+   "template": "'What comes with' + 'OZ3MP!C' leet",
+   "action": "SWAP",
+   "ours": "'What comes with' + 'ANOTHER D!ET'",
+   "reason": "the leet trick kept on our rival (A21)"
+  },
+  {
+   "zone": "header_right",
+   "template": "'What comes with' + 'BIOMA'",
+   "action": "SWAP",
+   "ours": "'What comes with' + 'EDENVIA'",
+   "reason": "brand slot"
+  },
+  {
+   "zone": "left_lines",
+   "template": "4 lines: needles, side effects, bill, weight comes back",
+   "action": "SWAP",
+   "ours": "4 lines in our words",
+   "reason": "same count, same rhythm"
+  },
+  {
+   "zone": "right_lines",
+   "template": "4 lines: '2 … a day' / Food noise: GONE / Flatter belly, less bloat / 'Lost 24 lbs!'",
+   "action": "SWAP",
+   "ours": "4 lines: 1 tablet in a glass of water / Puffiness: GONE / Lighter legs, slimmer ankles / 'My boots zip again!'",
+   "reason": "same formula incl. 'X: GONE' and the quoted proof line"
+  },
+  {
+   "zone": "background",
+   "template": "black left, purple gradient right",
+   "action": "SWAP",
+   "ours": "black left, Edenvia blue gradient right (#1468DB → #0A1327)",
+   "reason": "brand colour slot"
+  },
+  {
+   "zone": "product_spot",
+   "template": "none",
+   "action": "KEEP",
+   "ours": "none",
+   "reason": "C6: template has no product"
+  },
+  {
+   "zone": "logo",
+   "template": "none",
+   "action": "KEEP",
+   "ours": "none",
+   "reason": "no logo slot"
+  }
+ ],
+ "text_slots": [
+  {
+   "slot": "header_left_1",
+   "template_text": "What comes with",
+   "ours": "What comes with",
+   "source": "template words kept",
+   "same_length": true
+  },
+  {
+   "slot": "header_left_2",
+   "template_text": "OZ3MP!C",
+   "ours": "ANOTHER D!ET",
+   "source": "leet rival; her failed solution",
+   "same_length": true
+  },
+  {
+   "slot": "left_1",
+   "template_text": "Needles + nausea",
+   "ours": "Hungry all day",
+   "source": "rival cost",
+   "same_length": true
+  },
+  {
+   "slot": "left_2",
+   "template_text": "Side effects roulette",
+   "ours": "Legs still heavy by 5 p.m.",
+   "source": "problem named (B2)",
+   "same_length": true
+  },
+  {
+   "slot": "left_3",
+   "template_text": "Expensive monthly bill",
+   "ours": "Scale moves, swelling doesn't",
+   "source": "the belief: it was never fat",
+   "same_length": true
+  },
+  {
+   "slot": "left_4",
+   "template_text": "Weight comes back when you stop",
+   "ours": "Puffiness back the week you stop",
+   "source": "template line, our noun",
+   "same_length": true
+  },
+  {
+   "slot": "header_right_1",
+   "template_text": "What comes with",
+   "ours": "What comes with",
+   "source": "template words kept",
+   "same_length": true
+  },
+  {
+   "slot": "header_right_2",
+   "template_text": "BIOMA",
+   "ours": "EDENVIA",
+   "source": "brand slot",
+   "same_length": true
+  },
+  {
+   "slot": "right_1",
+   "template_text": "2 capsules a day",
+   "ours": "1 tablet in a glass of water",
+   "source": "product fact (C2: tablet in a glass)",
+   "same_length": true
+  },
+  {
+   "slot": "right_2",
+   "template_text": "Food noise: GONE",
+   "ours": "Puffiness: GONE",
+   "source": "copy formula 'X: GONE'",
+   "same_length": true
+  },
+  {
+   "slot": "right_3",
+   "template_text": "Flatter belly, less bloat",
+   "ours": "Lighter legs, slimmer ankles",
+   "source": "benefit in her words",
+   "same_length": true
+  },
+  {
+   "slot": "right_4",
+   "template_text": "\"Lost 24 lbs!\"",
+   "ours": "\"My boots zip again!\"",
+   "source": "proud proof from the avatar sheet (B9)",
+   "same_length": true
+  }
+ ],
+ "text_slot_count": 12,
+ "proof_allowed": [
+  "none needed"
+ ],
+ "people": {
+  "customer_look": "woman 40–55, soft midlife build, ordinary clothes, visibly swollen heavy calves and ankles (sock marks, puffy ankles) — never a young fitness model — rendered in Pixar 3D",
+  "other_people": "none"
+ },
+ "visual_bans": [
+  "no belly focus, no needles, no drug imagery",
+  "no young slim character on the left — same 45-year-old face both sides",
+  "the product is only ever a white effervescent tablet in a clear glass of water — no other dosage form, no blister pack, no sachet",
+  "no bottle, jar or tub for Edenvia — the container is the stand-up pouch of Image 1, label untouched",
+  "any glass holds clear water with fine rising bubbles; never hot water, tea or coffee in that glass",
+  "no competitor brand name, logo or bottle shape anywhere (brand.json banned list)",
+  "no disease or drug name on the image"
+ ],
+ "compliance_flags": [
+  {
+   "line": "Puffiness: GONE",
+   "risk": "absolute result",
+   "decision": "kept — template formula; compliance deferred (founder)"
+  }
+ ],
+ "missing": []
+}

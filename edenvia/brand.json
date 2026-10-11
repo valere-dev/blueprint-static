@@ -1,6 +1,6 @@
 {
   "_comment": "Edenvia brand file — v1.0 LOCKED 2026-10-11 after the founder's verdicts. Values marked [TO CONFIRM] are secondary and do not block generation. Every value carries a source in BRAND-KIT.md. Scripts find this file via SAC_WORKDIR=<repo>/edenvia.",
-  "_status": "v1.4 — 2026-10-11: gate 1 signed (angles + avatar). Compliance deferred by the founder. Natives (raw-photo advertorial images) excluded from the template families. Step 2 templates = Adrien's swipe file (79 source templates + concept remix) with Lymphoria's structures.",
+  "_status": "v1.5 — 2026-10-11: gate 1 signed (angles + avatar). Compliance deferred by the founder. Natives (raw-photo advertorial images) excluded from the template families. Step 2 templates = Adrien's swipe file (79 source templates + concept remix) with Lymphoria's structures.",
   "name": "EDENVIA",
   "file_prefix": "Edenvia",
   "wordmark": "Edenvia",
@@ -193,10 +193,11 @@
     "DEFERRED (founder, 2026-10-11): the founder will re-check compliance with another AI later. Until then copy the swipe file's level of claim. Still never: a competitor name, a $ amount outside prices_allowed, a capsule/pill/powder, an invented named doctor on the Edenvia side unless the template carries one."
   ],
   "angle_keyword": {
-    "loose": "\\b(legs?|swelling|swollen|puffy|bloated|water)\\b",
-    "required_any": "heavy legs|swollen legs|puffy legs|not a fat problem|never just fat|water retention|puffiness|feel lighter|drain",
+    "loose": "\\b(legs?|swelling|swollen|puffy|bloated|water|belly|gut|face|chin|jawline)\\b",
+    "required_any": "heavy legs|swollen legs|puffy legs|not a fat problem|never just fat|water retention|puffiness|feel lighter|drain|puffy face|double chin|jawline|blame the beer|belly that isn't fat|gut go|keg",
     "angle_prefix": "A8",
-    "msg": "B2: on A8 name the core problem in plain words — 'heavy, swollen legs', 'it's not a fat problem', 'puffiness', never a vague 'legs' or 'water'"
+    "msg": "B2: on A8 name the core problem in plain words — legs: 'heavy, swollen legs', 'puffiness', 'feel lighter'; face: 'puffy face', 'jawline', 'double chin'; man's belly: 'blame the beer', 'keg', 'where did your gut go' — never a vague 'legs', 'water' or 'belly'",
+    "_note": "2026-10-11 extended to the three A8 sub-angles signed at gate 1 (legs/belly king, puffy face/jawline, man's belly)"
   },
   "visual_checks": [
     {

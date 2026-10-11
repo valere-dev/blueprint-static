@@ -5,12 +5,15 @@ Source of the templates: Adrien's Blueprint batch 01 for Wildhorn — the 79 `c#
 into the 9 concept families (`example.md`, "The 79 templates, sorted into 9 concept families"). The families are reused
 as they are (R1, R2). Raw-photo natives are not templates (founder, 2026-10-11).
 
-## §8.1 Template intake — 131 templates, by family (Adrien's 79 + 52 from the founder's coded swipe file, sorted with `sort-ad`)
+## §8.1 Template intake — 319 templates, by family (Adrien's 79 + 52 coded ads + 188 from the founder's Image_Ad_Concepts, all sorted with `sort-ad`)
 
 Pool: `edenvia/batch/templates-pool/F<n>_…/` (the 131 webp, one folder per family, INDEX.md per folder with the reason for
 every placement). Adrien's 79 keep their `F<n>_cNNNN` names; the 52 new keep their Drive names `NN_CODE_id_before.webp`
 (ST = Stat, NH = Negative Hook, placed by the picture, see `.claude/skills/sort-ad`). Founder's Drive copy of the pool
-(older sort, NH folder): `1djZbc2xfuVkLqpuXe2qi877LkkAysJ-5`. A bigger swipe file is announced; it will be sorted the same way and appended.
+`1djZbc2xfuVkLqpuXe2qi877LkkAysJ-5`. The founder's `Image_Ad_Concepts` (188 unique ads, 2026-10-11) was sorted the same way and
+appended under its original filenames; 6 files over the Drive-tool size limit are indexed but not in the repo (pool README).
+
+Table A — Adrien's 79 + the 52 coded ads (unchanged). Table B — the 188 Image_Ad_Concepts, by family.
 
 | Family | Adrien templates (c-id) | New (Drive name) | Count | Status |
 |---|---|---|---|---|
@@ -24,7 +27,25 @@ every placement). Adrien's 79 keep their `F<n>_cNNNN` names; the 52 new keep the
 | 8 Meme / humour / UGC | c0033 c0123 c0135 c0142 c0149 c0174 c0194 c0264 c0305 c0382 | 51_MEME_3431 52_MEME_3576 08_NH_1844 | 13 | queued |
 | 9 Off-avatar, re-skin last | c0143 c0165 c0180 c0227 c0252 c0253 c0262 c0267 c0328 | — | 9 | queued |
 
-One ad per template: 131 in, 131 out (R4), reviewed 10 at a time. Files for the family being generated are copied to
+Table B — Image_Ad_Concepts (188), sorted by `sort-ad`. Reasons per file in the folder INDEX; off-avatar ads carry a re-skin target.
+
+| Family | Image_Ad_Concepts | In repo | Notes |
+|---|---|---|---|
+| 1 US vs THEM | 7 | 7 | 5 sure (Gruns/Ryze/Us-vs-them columns), 2 whiteboard/battery comparisons |
+| 2 Before-after | 5 | 5 | whiteboard timelines, split before/after, stat + faces |
+| 3 Problem reframe | 18 | 18 | 3 "at 40 my body felt like…" metaphors, 6 native advertorials, reframe headlines |
+| 4 Mechanism | 5 | 4 | artery cuts, ingredient puzzle; `IMG - Mechanism Visualization` missing (size) |
+| 5 Origin | 0 | 0 | — |
+| 6 Offer | 37 | 36 | BOF sale/bundle/guarantee set, Bundle Headline v(1–7); `IMG - Offer Stack (3)` missing |
+| 7 Bold claim | 51 | 50 | Percentage Facts, Were Sorry ×5, Benefit Headline Angle ×4, typography walls; `MOF - Drawing Benefits Claim` missing |
+| 8 Meme / UGC | 24 | 24 | tweet screenshots, TikTok captions, Bitmoji, Google search, memes |
+| 9 Off-avatar | 41 | 38 | acne / menopause / cellulite / women's hair / kids; re-skin as F8 ×17, F2 ×10, F7 ×8, F6 ×2, F3 ×2, F1 ×1, F4 ×1; 3 missing |
+| **Total** | **188** | **182** | |
+
+Pool after this intake: 319 templates (23 / 23 / 34 / 16 / 8 / 53 / 72 / 37 / 47 by family).
+
+One ad per template: 131 in, 131 out for the first pass (R4), reviewed 10 at a time. The 188 Image_Ad_Concepts join the queue
+of their family after the 131 (same order of work); F9 ones are adapted last and by their re-skin target. Files for the family being generated are copied to
 `edenvia/batch/templates/` named `MM-DD_cNNNN_Source.webp` (real format, D10; sorted order = ad order); for the new ones the
 "c-id" slot takes the Drive id (`MM-DD_UVT1140_Source.webp`). Duplicates kept as Adrien ran them: c0325 = c0330, c0378 = c0384.
 

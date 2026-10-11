@@ -1,0 +1,193 @@
+{
+ "brand": "EDENVIA",
+ "ad_id": "EDENVIA_B01B_UVT4364_V1",
+ "template": {
+  "id": "UVT4364",
+  "path": "/home/adanalysis/workspace/blueprint-static/edenvia/batch/templates/10-11_UVT4364_LuluTox.webp",
+  "source": "LuluTox · founder's coded swipe file (UVT = us vs them) · sorted F1 by sort-ad",
+  "family": "1 US vs THEM / comparison",
+  "aspect": "9:16",
+  "production_method": "collage — two vertical panels (white / pink-purple gradient), two 4-line lists, object left, hand holding the pouch right, black offer button; objects on gpt-image-2, hand + pouch from the library, text by script",
+  "refusal_risk": "none"
+ },
+ "decode": {
+  "scroll_stop_trick": "'2025 YOU' vs '2026 YOU': the year does the before/after, four crosses against four smiles, and the pouch is already in a hand.",
+  "angle_carried": "belly pooch / bloating → flat tummy with a detox tea",
+  "hidden_reading": "none",
+  "scene_logic": "no scene. Ours: her 2025 (years of dieting, legs still heavy) vs 2026 (light legs, Edenvia in hand)",
+  "visual_trick": "the donut-shaped bathroom scale is the joke (diets) — applies to us word for word; the right hand holds a stand-up pouch, same shape as ours",
+  "shape_or_function_equivalent": "donut scale ↔ donut scale (her years of dieting); LuluTox pouch in hand ↔ Edenvia pouch in hand (library)",
+  "verb_of_the_scene": "step on the scale vs hold the pouch",
+  "structure_type": "two columns / ✗ list vs list",
+  "shock_level": "calm",
+  "render_style": "white panel left, pink→purple gradient right; photo objects with soft shadow",
+  "text_treatment": "'2025 YOU' / '2026 YOU' in heavy black and white caps; red ✗ lines; 😍 lines; black rounded button white text"
+ },
+ "strategy": {
+  "angle_id": "A8",
+  "angle": "A8-L heavy, swollen legs that diets never fixed",
+  "mechanism_id": "M1",
+  "mechanism": "M1: when the body can't clear everyday oxidative stress, the tissue in the legs stays inflamed and stops draining normally, so fluid sits there — heavy, tender, puffy — and no diet reaches it, because it was never fat; the tablet turns a glass of water into hydrogen-rich water, hydrogen is the smallest molecule there is, reaches the tissue and helps the body switch that process off so normal drainage can resume",
+  "sub_avatar": "trigger: another January diet, the scale moves, the legs don't · cause: fluid, not fat · tried: dieting for years, water tablets, compression",
+  "awareness": "problem-aware",
+  "belief_installed": "It was never fat. It's fluid my body stopped clearing — and no diet reaches it."
+ },
+ "inventory": [
+  {
+   "zone": "panel_left",
+   "template": "white, '2025 YOU', 4 ✗ lines, donut scale",
+   "action": "KEEP",
+   "ours": "same scale, our 4 lines",
+   "reason": "the diet joke is her story (E5)"
+  },
+  {
+   "zone": "scale",
+   "template": "donut-shaped bathroom scale, purple glaze, sprinkles",
+   "action": "KEEP",
+   "ours": "same donut scale, no number on the dial",
+   "reason": "the diet joke is her story (E5)"
+  },
+  {
+   "zone": "list_left",
+   "template": "4 red ✗ lines",
+   "action": "SWAP",
+   "ours": "4 ours",
+   "reason": "same count"
+  },
+  {
+   "zone": "panel_right",
+   "template": "pink gradient, '2026 YOU', 4 😍 lines, hand holding LuluTox pouch",
+   "action": "SWAP",
+   "ours": "Edenvia blue gradient #1468DB→#8FD3FF, hand holding the Edenvia pouch from the library, same spot and size",
+   "reason": "brand colour; C23 hand + pouch real"
+  },
+  {
+   "zone": "hand_pouch",
+   "template": "woman's hand holding the LuluTox stand-up pouch, bottom right",
+   "action": "SWAP",
+   "ours": "library hand holding the Edenvia pouch, same spot, same size or bigger",
+   "reason": "C23"
+  },
+  {
+   "zone": "list_right",
+   "template": "4 😍 lines",
+   "action": "SWAP",
+   "ours": "4 ours",
+   "reason": "same count"
+  },
+  {
+   "zone": "button",
+   "template": "black 'Today 70% OFF!'",
+   "action": "SWAP",
+   "ours": "black 'Today -50%!'",
+   "reason": "B23 parity: percentage stays a percentage ($39 vs $79.99)"
+  },
+  {
+   "zone": "logo",
+   "template": "none",
+   "action": "KEEP",
+   "ours": "none",
+   "reason": "template has no logo slot"
+  }
+ ],
+ "text_slots": [
+  {
+   "slot": "year_left",
+   "template_text": "2025 YOU",
+   "ours": "2025 YOU",
+   "source": "template words kept",
+   "same_length": true
+  },
+  {
+   "slot": "year_right",
+   "template_text": "2026 YOU",
+   "ours": "2026 YOU",
+   "source": "template words kept",
+   "same_length": true
+  },
+  {
+   "slot": "x1",
+   "template_text": "Belly pooch",
+   "ours": "Heavy legs by 5 pm",
+   "source": "B2 heavy legs",
+   "same_length": true
+  },
+  {
+   "slot": "x2",
+   "template_text": "Excess bloating",
+   "ours": "Swollen ankles",
+   "source": "B2",
+   "same_length": true
+  },
+  {
+   "slot": "x3",
+   "template_text": "Slow metabolism",
+   "ours": "Another diet, same legs",
+   "source": "her failed fix",
+   "same_length": true
+  },
+  {
+   "slot": "x4",
+   "template_text": "Low energy",
+   "ours": "Hiding them under long skirts",
+   "source": "hides_it_by",
+   "same_length": true
+  },
+  {
+   "slot": "y1",
+   "template_text": "Flat tummy",
+   "ours": "Light legs",
+   "source": "bank: feel lighter",
+   "same_length": true
+  },
+  {
+   "slot": "y2",
+   "template_text": "Better gut health",
+   "ours": "Ankles back",
+   "source": "proud proof",
+   "same_length": true
+  },
+  {
+   "slot": "y3",
+   "template_text": "Peak metabolism",
+   "ours": "No diet needed",
+   "source": "pleasure kept",
+   "same_length": true
+  },
+  {
+   "slot": "y4",
+   "template_text": "So much energy!",
+   "ours": "Shorts again!",
+   "source": "proud proof",
+   "same_length": true
+  },
+  {
+   "slot": "button",
+   "template_text": "Today 70% OFF!",
+   "ours": "Today -50%!",
+   "source": "B23; prices_allowed",
+   "same_length": true
+  }
+ ],
+ "text_slot_count": 11,
+ "proof_allowed": [
+  "none needed"
+ ],
+ "people": {
+  "customer_look": "woman's hand, 45, no nail polish, cream sleeve (library photo hand_pouch-against-blue-sky)",
+  "other_people": "none"
+ },
+ "product_source": "/home/adanalysis/workspace/blueprint-static/edenvia/assets/product/library/hand_pouch-against-blue-sky.jpg (hand + pouch, cut together) · fallback hand_pouch-kitchen.jpg",
+ "visual_bans": [
+  "the scale shows no number",
+  "no tea, no teabag on our side",
+  "the product is only ever a white effervescent tablet in a clear glass of water — no other dosage form, no blister pack, no sachet",
+  "no bottle, jar or tub for Edenvia — the container is the stand-up pouch cut from the product library (C23), label untouched, water droplets kept",
+  "any glass holds clear water with fine rising bubbles; never hot water, tea or coffee in that glass",
+  "no competitor brand name, logo or bottle shape anywhere (brand.json banned list)",
+  "no disease or drug name on the image",
+  "two bodies of different weight never appear on A8: the body is the same, only the swelling changes (Loom 1 system note, pending founder)"
+ ],
+ "compliance_flags": [],
+ "missing": []
+}

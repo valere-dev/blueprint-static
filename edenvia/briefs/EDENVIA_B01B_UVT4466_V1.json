@@ -1,0 +1,165 @@
+{
+ "brand": "EDENVIA",
+ "ad_id": "EDENVIA_B01B_UVT4466_V1",
+ "template": {
+  "id": "UVT4466",
+  "path": "/home/adanalysis/workspace/blueprint-static/edenvia/batch/templates/10-11_UVT4466_ResiliaOregano.webp",
+  "source": "ResiliaOregano · founder's coded swipe file (UVT = us vs them) · sorted F1 by sort-ad",
+  "family": "1 US vs THEM / comparison",
+  "aspect": "1:1",
+  "production_method": "collage — dark left half with a dropper bottle, brand-colour right half with the stand-up pouch, headline across the top, VS badge, 3 ✗ / 3 ✓; bottle on gpt-image-2, pouch from the library (studio cutout), text by script",
+  "refusal_risk": "none"
+ },
+ "decode": {
+  "scroll_stop_trick": "'TRUTH ABOUT…' promises an exposé; the dark side with a sinister dropper bottle vs the bright side with the pouch settles it before the lines are read.",
+  "angle_carried": "dangerous parasite cleansers vs safe oregano oil",
+  "hidden_reading": "none",
+  "scene_logic": "no scene. Ours: 'TRUTH ABOUT LEG-SWELLING TEAS' — the dandelion drops she bought vs the Edenvia pouch",
+  "visual_trick": "the rival is physically dark and small, ours is lit and bigger; the stand-up pouch is the same object as ours — copy the layout 1:1",
+  "shape_or_function_equivalent": "wormwood dropper bottle ↔ a brown dropper bottle labelled 'DANDELION DROPS' (generic, no brand); Resilia pouch ↔ Edenvia pouch (library studio cutout, droplets kept)",
+  "verb_of_the_scene": "expose",
+  "structure_type": "split / 3 crosses vs 3 ticks",
+  "shock_level": "medium (exposé tone)",
+  "render_style": "left: black-to-charcoal gradient, bottle lit from above; right: Edenvia blue gradient, pouch lit, soft reflection",
+  "text_treatment": "heavy condensed caps headline white across both halves; VS in a black circle with white rim; ✗ red and ✓ green lines in condensed caps"
+ },
+ "strategy": {
+  "angle_id": "A8",
+  "angle": "A8-L heavy, swollen legs — the drops only move water",
+  "mechanism_id": "M1",
+  "mechanism": "M1: when the body can't clear everyday oxidative stress, the tissue in the legs stays inflamed and stops draining normally, so fluid sits there — heavy, tender, puffy — and no diet reaches it, because it was never fat; the tablet turns a glass of water into hydrogen-rich water, hydrogen is the smallest molecule there is, reaches the tissue and helps the body switch that process off so normal drainage can resume",
+  "sub_avatar": "trigger: bought 'lymph drops' online, legs still heavy · cause: drops flush water, the inflamed tissue keeps the fluid · tried: diuretic teas, drops, water tablets",
+  "awareness": "solution-aware",
+  "belief_installed": "It was never fat. It's fluid my body stopped clearing — and no diet reaches it."
+ },
+ "inventory": [
+  {
+   "zone": "headline",
+   "template": "'TRUTH ABOUT PARASITE CLEANSERS' white caps",
+   "action": "SWAP",
+   "ours": "'TRUTH ABOUT WATER-FLUSHING DROPS'",
+   "reason": "copy formula 'TRUTH ABOUT [rival category]'"
+  },
+  {
+   "zone": "left_half",
+   "template": "dark, brown dropper bottle 'WORMWOOD'",
+   "action": "SWAP",
+   "ours": "dark, brown dropper bottle labelled 'DANDELION DROPS' only",
+   "reason": "generic rival, no brand (C21)"
+  },
+  {
+   "zone": "right_half",
+   "template": "green gradient, Resilia pouch",
+   "action": "SWAP",
+   "ours": "Edenvia blue gradient, Edenvia pouch cut from the library studio photo, same spot, at least the template's pouch size",
+   "reason": "C23"
+  },
+  {
+   "zone": "vs_badge",
+   "template": "black circle 'VS'",
+   "action": "KEEP",
+   "ours": "same",
+   "reason": "structure"
+  },
+  {
+   "zone": "cross_list",
+   "template": "3 red ✗ lines",
+   "action": "SWAP",
+   "ours": "3 ours",
+   "reason": "same count"
+  },
+  {
+   "zone": "tick_list",
+   "template": "3 green ✓ lines",
+   "action": "SWAP",
+   "ours": "3 ours",
+   "reason": "same count"
+  }
+ ],
+ "text_slots": [
+  {
+   "slot": "headline",
+   "template_text": "TRUTH ABOUT PARASITE CLEANSERS",
+   "ours": "TRUTH ABOUT WATER-FLUSHING DROPS",
+   "source": "copy formula",
+   "same_length": true
+  },
+  {
+   "slot": "rival_label",
+   "template_text": "WORMWOOD",
+   "ours": "DANDELION DROPS",
+   "source": "generic rival",
+   "same_length": true
+  },
+  {
+   "slot": "x1",
+   "template_text": "Can cause hallucinations & seizures",
+   "ours": "Flush minerals, not the swelling",
+   "source": "rival mechanism",
+   "same_length": true
+  },
+  {
+   "slot": "x2",
+   "template_text": "Destroys your good gut bacteria too",
+   "ours": "Keep you up for the bathroom",
+   "source": "rival side-effect",
+   "same_length": true
+  },
+  {
+   "slot": "x3",
+   "template_text": "Toxic to your kidneys & liver",
+   "ours": "Heavy legs again by noon",
+   "source": "B2",
+   "same_length": true
+  },
+  {
+   "slot": "t1",
+   "template_text": "Eliminates all parasites safely",
+   "ours": "Reaches the fluid stuck in your legs",
+   "source": "mechanism plain words",
+   "same_length": true
+  },
+  {
+   "slot": "t2",
+   "template_text": "Protects your good bacteria",
+   "ours": "Keeps your minerals",
+   "source": "benefit vs rival",
+   "same_length": true
+  },
+  {
+   "slot": "t3",
+   "template_text": "Keeps organs healthy",
+   "ours": "Legs light by evening",
+   "source": "bank",
+   "same_length": true
+  },
+  {
+   "slot": "vs",
+   "template_text": "VS",
+   "ours": "VS",
+   "source": "template words kept",
+   "same_length": true
+  }
+ ],
+ "text_slot_count": 9,
+ "proof_allowed": [
+  "none needed"
+ ],
+ "people": {
+  "customer_look": "no person",
+  "other_people": "none"
+ },
+ "product_source": "/home/adanalysis/workspace/blueprint-static/edenvia/assets/product/library/studio_pouch-ice-bowl-glass-straw-v2.png (pouch cutout, droplets kept)",
+ "visual_bans": [
+  "the dropper bottle carries no brand, no leaf icon",
+  "no leaves or herbs on our half",
+  "the product is only ever a white effervescent tablet in a clear glass of water — no other dosage form, no blister pack, no sachet",
+  "no bottle, jar or tub for Edenvia — the container is the stand-up pouch cut from the product library (C23), label untouched, water droplets kept",
+  "any glass holds clear water with fine rising bubbles; never hot water, tea or coffee in that glass",
+  "no competitor brand name, logo or bottle shape anywhere (brand.json banned list)",
+  "no disease or drug name on the image",
+  "two bodies of different weight never appear on A8: the body is the same, only the swelling changes (Loom 1 system note, pending founder)"
+ ],
+ "compliance_flags": [],
+ "missing": []
+}

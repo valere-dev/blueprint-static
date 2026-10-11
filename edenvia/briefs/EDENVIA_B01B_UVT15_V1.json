@@ -1,0 +1,179 @@
+{
+ "brand": "EDENVIA",
+ "ad_id": "EDENVIA_B01B_UVT15_V1",
+ "template": {
+  "id": "UVT15",
+  "path": "/home/adanalysis/workspace/blueprint-static/edenvia/batch/templates/10-11_UVT15_PilotPill.webp",
+  "source": "PilotPill · founder's coded swipe file (UVT = us vs them) · sorted F1 by sort-ad",
+  "family": "1 US vs THEM / comparison",
+  "aspect": "1:1",
+  "production_method": "flat design — headline band, two cards each with a photo of a hand holding one tablet, two 3-line tick lists, rounded button; gpt-image-2 for the two hands, everything else by script",
+  "refusal_risk": "none"
+ },
+ "decode": {
+  "scroll_stop_trick": "A pun headline, then two hands holding what looks like the same thing, and the lists tell you which one to pick.",
+  "angle_carried": "short-acting vs long-acting (sexual pun)",
+  "hidden_reading": "'a hard man' — the pun is the hook; ours mirrors it on the man's belly: 'a flat man'",
+  "scene_logic": "no scene, two product cards. Ours: a water tablet (what he takes before a beach photo) vs the Edenvia tablet",
+  "visual_trick": "two near-identical hand photos holding a small round tablet, blue card vs light card — copy literally; the only difference is the tablet",
+  "shape_or_function_equivalent": "blue tablet ↔ a plain white 'water tablet'; weekend tablet ↔ the white Edenvia tablet (identical look: the lists make the difference, as in the template)",
+  "verb_of_the_scene": "hold up, compare",
+  "structure_type": "two cards / 3 ticks vs 3 ticks",
+  "shock_level": "calm",
+  "render_style": "flat design, navy headline band, pale blue card left, royal blue card right, photo hands on white tiles",
+  "text_treatment": "bold serif headline white, card titles in light serif, tick lines regular sans, green rounded button"
+ },
+ "strategy": {
+  "angle_id": "A8",
+  "angle": "A8-M the man's belly that isn't fat — 'the keg that stays after the diet'",
+  "mechanism_id": "M1",
+  "mechanism": "M1: when the body can't clear everyday oxidative stress, the tissue in the legs stays inflamed and stops draining normally, so fluid sits there — heavy, tender, puffy — and no diet reaches it, because it was never fat; the tablet turns a glass of water into hydrogen-rich water, hydrogen is the smallest molecule there is, reaches the tissue and helps the body switch that process off so normal drainage can resume",
+  "sub_avatar": "trigger: sucks his gut in for every photo · cause: fluid and inflamed tissue, not beer fat · tried: water tablets before an event, cutting beer for a month",
+  "awareness": "solution-aware",
+  "belief_installed": "It was never fat. It's fluid my body stopped clearing — and no diet reaches it."
+ },
+ "inventory": [
+  {
+   "zone": "headline_band",
+   "template": "'A hard man is good to find' navy band",
+   "action": "SWAP",
+   "ours": "'A flat man is good to find.'",
+   "reason": "pun mirrored, one word swapped (E9)"
+  },
+  {
+   "zone": "card_left",
+   "template": "left card title, hand holding a blue tablet",
+   "action": "SWAP",
+   "ours": "'The Water Tablet', hand holding a plain white tablet",
+   "reason": "rival he knows; C2"
+  },
+  {
+   "zone": "card_right",
+   "template": "right card title, hand holding a yellow tablet",
+   "action": "SWAP",
+   "ours": "'The Hydrogen Tablet', same hand holding the white Edenvia tablet",
+   "reason": "our product's real form"
+  },
+  {
+   "zone": "tick_list_left",
+   "template": "3 blue ticks",
+   "action": "SWAP",
+   "ours": "3 lines ours",
+   "reason": "same count"
+  },
+  {
+   "zone": "tick_list_right",
+   "template": "3 green ticks",
+   "action": "SWAP",
+   "ours": "3 lines ours",
+   "reason": "same count"
+  },
+  {
+   "zone": "button",
+   "template": "green rounded button 'Pilot makes it easy'",
+   "action": "SWAP",
+   "ours": "'Edenvia makes it easy'",
+   "reason": "copy formula"
+  },
+  {
+   "zone": "product",
+   "template": "none beyond the tablets",
+   "action": "KEEP",
+   "ours": "none (F7: template has no pack); the tablet is the product",
+   "reason": "structure"
+  }
+ ],
+ "text_slots": [
+  {
+   "slot": "headline",
+   "template_text": "A hard man is good to find",
+   "ours": "A flat man is good to find.",
+   "source": "pun mirror; B2 belly that isn't fat",
+   "same_length": true
+  },
+  {
+   "slot": "card_left",
+   "template_text": "The Blue Pill",
+   "ours": "The Water Tablet",
+   "source": "rival; C2",
+   "same_length": true
+  },
+  {
+   "slot": "card_right",
+   "template_text": "The Weekend Pill",
+   "ours": "The Hydrogen Tablet",
+   "source": "product form",
+   "same_length": true
+  },
+  {
+   "slot": "tick_l1",
+   "template_text": "Works for 4-6 hours",
+   "ours": "Works for 4-6 hours",
+   "source": "template words kept",
+   "same_length": true
+  },
+  {
+   "slot": "tick_l2",
+   "template_text": "Use for a short date",
+   "ours": "Use before a beach photo",
+   "source": "his life",
+   "same_length": true
+  },
+  {
+   "slot": "tick_l3",
+   "template_text": "Best for planned fun",
+   "ours": "Bathroom every hour",
+   "source": "rival side-effect",
+   "same_length": true
+  },
+  {
+   "slot": "tick_r1",
+   "template_text": "Works for 36 hours",
+   "ours": "Works all day, every day",
+   "source": "product fact",
+   "same_length": true
+  },
+  {
+   "slot": "tick_r2",
+   "template_text": "Confidence all weekend",
+   "ours": "Where did your gut go?",
+   "source": "bank A8-M",
+   "same_length": true
+  },
+  {
+   "slot": "tick_r3",
+   "template_text": "Spontaneous made easy",
+   "ours": "The beer stays",
+   "source": "pleasure he keeps",
+   "same_length": true
+  },
+  {
+   "slot": "button",
+   "template_text": "Pilot makes it easy",
+   "ours": "Edenvia makes it easy",
+   "source": "copy formula",
+   "same_length": true
+  }
+ ],
+ "text_slot_count": 10,
+ "proof_allowed": [
+  "none needed"
+ ],
+ "people": {
+  "customer_look": "only a man's hand, 45, light tan, short nails",
+  "other_people": "none"
+ },
+ "product_source": "no pouch in this template (F7); tablet reference: /home/adanalysis/workspace/blueprint-static/edenvia/assets/product/library/flatlay_pouch-tablets-drops.png (plain white round tablet)",
+ "visual_bans": [
+  "no colour on the tablets: both plain white; no engraving, no logo on the tablet",
+  "no pouch, no glass",
+  "the product is only ever a white effervescent tablet in a clear glass of water — no other dosage form, no blister pack, no sachet",
+  "no bottle, jar or tub for Edenvia — the container is the stand-up pouch cut from the product library (C23), label untouched, water droplets kept",
+  "any glass holds clear water with fine rising bubbles; never hot water, tea or coffee in that glass",
+  "no competitor brand name, logo or bottle shape anywhere (brand.json banned list)",
+  "no disease or drug name on the image",
+  "two bodies of different weight never appear on A8: the body is the same, only the swelling changes (Loom 1 system note, pending founder)"
+ ],
+ "compliance_flags": [],
+ "missing": []
+}

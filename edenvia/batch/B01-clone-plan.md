@@ -56,6 +56,24 @@ Briefs: `edenvia/briefs/EDENVIA_B01_C####_V1.json` (worksheet §9). Draft specs 
 Loom 1 (written): product images rejected on all 10 (→ C23, product library), S2 offer slot → "-50%" (→ B23), rest validated.
 Round 2 = product re-placement only, see VPS-SETUP §3c. Families 2–9 follow after the founder validates round 2.
 
+## §8.2b Clone plan — family 1b (6 new UVT ads from the coded swipe file)
+
+Briefed 2026-10-11 after Loom 1: first batch written with C23 (product from the library, `product_source` in every brief) and
+B23 (offer-slot parity) from the start. Templates in `edenvia/batch/templates/10-11_UVT*_Source.webp`. Briefs
+`edenvia/briefs/EDENVIA_B01B_UVT*_V1.json`; draft specs lint clean (6/6, Edenvia brand.json).
+
+| Template | Aspect | Their mechanic | Assigned | Change distance (witness / clock / setting / body / belief) | Headline (ours) | Production |
+|---|---|---|---|---|---|---|
+| UVT1140 ColonBroom | 9:16 | same woman twice, B&W → colour holding the product | **A8-F** | self / before→after / selfie / face / my face wasn't tired, it was puffy | Realizing my puffy face wasn't tiredness. · Living puff-free with Edenvia | photo pair (A25), hand + pouch from the library |
+| UVT15 Pilot | 1:1 | pun headline, two hands each holding a tablet, 3 ticks each | **A8-M** | none / none / two cards / gut / a flat man is good to find | A flat man is good to find. | flat design, two hand photos, text by script, no pouch (F7) |
+| UVT4364 LuluTox | 9:16 | 2025 YOU ✗ vs 2026 YOU 😍, donut scale vs pouch in hand, % off | A8-L | none / year / two panels / legs / the diet joke is hers | 2025 YOU · 2026 YOU · Today -50%! | collage, library hand + pouch, B23 |
+| UVT4466 Resilia | 1:1 | TRUTH ABOUT…, dark rival bottle vs lit pouch, 3 ✗ / 3 ✓ | A8-L | none / none / split / legs / drops flush water, not swelling | TRUTH ABOUT WATER-FLUSHING DROPS | collage, library studio pouch cutout |
+| UVT460 Tushy | 1:1 | 2×2 grid B&W vs colour, same subject twice, tweet overlay | A8-L | self / 5 pm→evening / four stills / ankle / with tea vs with Edenvia | With Detox Tea · With Edenvia (tweet) | photo tiles (body risk → seedream_comp), tablet in glass, tweet by script |
+| UVT828 moonbrew | 1:1 | US 👍 glass vs THEM 👎 rival bottle, one metric each, 4 ✓ / 4 ✗ | A8-L | none / evening vs noon / split / legs / light by evening vs heavy by noon | LIGHT LEGS BY EVENING · HEAVY LEGS AGAIN BY NOON | collage, library glass with tablet, generic 'WATER TABLETS' bottle |
+
+Coverage 1b: A8-L 4 · A8-F 1 · A8-M 1 (running total after 24 ads: L 15 · F 3 · M 6). The founder's open point (Loom 2):
+whether every A8 body ad must show the same body, swelling only — all six already comply.
+
 ## §8.3 Clone plan — family 2 (8 ads, before-after / timeline)
 
 Briefed 2026-10-11 (cloud session) while the VPS generates family 1. These briefs are written before Loom 1, so the

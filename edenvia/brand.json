@@ -184,10 +184,10 @@
   ],
   "_competitors_source": "Step-1 competitor (founder, 2026-10-11, second choice): Lymphoria (lymphoria.co — lymphatic drainage supplement 'Nature's Sunrise'; 5.4M monthly visits per Brandsearch; runs through persona pages 'Herbal Remedies' (~3,800 active ads), 'Ancient Roots', 'Lymphatic Wellness Explained', 'The Lymph Journal'; advertorial LP 'Harvard states 165 million Americans are living with a lymphatic dysfunction'). Same buyer (woman 40+, puffiness/weight), different product. Earlier candidates Metabolae and Lirae (blood sugar) kept in reserve. Rovina: the brand whose ads the avatar sheets decode.",
   "banned": {
-    "\\b(autoship|subscription|subscribe|subscribe & save|50% off)\\b": "site-only offers never in ads",
     "\\b(selective antioxidant|hydroxyl radical|reactive oxygen species|ROS\\b|endothelial|redox|NSAID|NSAIDs|bioavailab\\w+|pharmacokinetic)\\b": "B4: mechanism jargon never printed",
     "\\b(capsule|capsules|gel ?cap|pill|pills|powder|scoop)\\b": "C2: the product is an effervescent tablet, never a capsule / pill / powder",
-    "\\b(Lymphoria|Nature'?s Sunrise|Metabolae|Lirae|Liraé|Rovina|Mercola|HRW|Quicksilver|H2TAB|Gundry|Vital Reaction)\\b": "competitor names never printed"
+    "\\b(Lymphoria|Nature'?s Sunrise|Metabolae|Lirae|Liraé|Rovina|Mercola|HRW|Quicksilver|H2TAB|Gundry|Vital Reaction)\\b": "competitor names never printed",
+    "\\b(autoship|subscription|subscribe|subscribe & save)\\b": "site-only offers never in ads"
   },
   "compliance": [
     "DEFERRED (founder, 2026-10-11): the founder will re-check compliance with another AI later. Until then copy the swipe file's level of claim. Still never: a competitor name, a $ amount outside prices_allowed, a capsule/pill/powder, an invented named doctor on the Edenvia side unless the template carries one."
@@ -248,5 +248,6 @@
   },
   "_banned_note": "Founder decision 2026-10-11 (gate 1): compliance is set aside for now — 'do like them'. The DSHEA/FTC bans were moved to _banned_disabled so lint stops blocking disease words, 'treat/cure', doctor titles and drug names; they are re-enabled by moving them back into `banned`. Still enforced: competitor names, mechanism jargon (B4), $ amounts outside prices_allowed (B20), capsule/pill/powder (C2).",
   "product_library": "/home/adanalysis/workspace/blueprint-static/edenvia/assets/product/library",
-  "_product_library_note": "Founder's reference photos (Drive 1yRiSc4xCw66dJdPtz_FzLD0cEJ1RbeWd), 14 of 27 in the repo, INDEX.md describes each. Rule C23: every pouch placement is cut from the library photo that matches the slot (standing / held / flat lay with tablets), droplets and glass kept. Cutout master: studio_pouch-ice-bowl-glass-straw-v2.png. The old web packshot cutout stays only as a fallback."
+  "_product_library_note": "Founder's reference photos (Drive 1yRiSc4xCw66dJdPtz_FzLD0cEJ1RbeWd), 14 of 27 in the repo, INDEX.md describes each. Rule C23: every pouch placement is cut from the library photo that matches the slot (standing / held / flat lay with tablets), droplets and glass kept. Cutout master: studio_pouch-ice-bowl-glass-straw-v2.png. The old web packshot cutout stays only as a fallback.",
+  "_banned_50_note": "2026-10-11 Loom 1: '50% off' removed from banned — the founder asked for '-50%' in % offer slots (B23: $39 vs $79.99). Subscription words stay banned."
 }

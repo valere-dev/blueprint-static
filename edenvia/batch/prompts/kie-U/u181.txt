@@ -1,11 +1,1 @@
-Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
-
-Changes: the 93% → 93%; the woman → our avatar, a 40–55 woman with heavy, swollen, puffy legs and ankles, hiding her legs, “it was never fat”; the product box and sachet → the Edenvia pouch in the same spot and size; the gold guarantee badge → Edenvia blue guarantee badge; the red background → Edenvia blue-to-ice-blue gradient accents. Keep the same confident studio-ad look.
-
-Text, exactly and nothing else:
-"93%"
-"sleep through the night — and"
-"wished they’d started sooner"
-"30-Day Money Back Guarantee"
-
-What not to draw: no capsules, pills, powder, bottle, jar, competitor branding, disease names, drugs, or medical claims.
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Changes: top hero = heavy swollen legs/water retention claim; center woman = 40–55 avatar with puffy legs/ankles, hiding her legs, boots won’t zip; bottom-right = Edenvia pouch and white effervescent tablet ritual; bottom-left = 30-Day Money Back Guarantee. Text, exactly and nothing else: 93% lighter legs by evening — and boots zipped again by dinner 30-DAY MONEY BACK GUARANTEE Edenvia MOLECULAR HYDROGEN GENERATES 8PPM OF HYDROGEN PER TABLET CONSUME DAILY ANTIOXIDANTS AND EXHIBIT HEALTHIER, IMPROVED LIVING DIETARY SUPPLEMENT 30 TABLETS | 30 DAY SUPPLY Edenvia Molecular Hydrogen Hydrogen Magnesium Minerals 8PPM Hydration + drainage support 30 tablets | 30-day supply WHITE EFFERVESCENT TABLET ONE A DAY | 3 MINUTE DISSOLVE Do NOT draw: a bottle, jar, pills, gummies, drops, capsules, competitor names, badges, extra logos, sleep imagery, or skincare claims.

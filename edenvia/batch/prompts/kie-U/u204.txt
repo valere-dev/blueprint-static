@@ -1,10 +1,8 @@
-Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
-Changes: swap the central product for the Edenvia stand-up resealable pouch in the same spot and size, label readable and lit by the scene; use Edenvia blue, navy, deep navy, and ice blue accents; keep the testimonial-style packed suitcase/lifestyle context; replace all brand mentions with Edenvia.
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it.
+Changes: organic suitcase flat lay becomes Edenvia UGC; top bubble = woman 40–55 with heavy, swollen legs saying lighter legs by evening; left pink callout = one effervescent tablet a day; right pink callout = flushes the fluid stuck in your legs; bottom pink callout = hydrogen, magnesium, minerals, 8 PPM, drainage support, antioxidants, water retention, cellular recovery. No rival side.
 Text, exactly and nothing else:
-"I’ve never had a better" / "tasting effervescent" / "tablet than this"
-"made with molecular hydrogen"
-"daily 8 PPM hydrogen support"
-"30 tablets | 30 day supply"
-"Generates 8PPM of hydrogen per tablet"
-"with antioxidants, drainage support, water retention support"
-Do not draw capsules, pills, powder, bottles, jars, competitor names, disease names, drug names, hot water, medical claims, or extra text.
+I’ve never had lighter legs by evening than this
+one effervescent tablet a day
+flushes the fluid stuck in your legs
+With hydrogen, magnesium, minerals, 8 PPM of hydrogen, drainage support, antioxidants, water retention, cellular recovery
+Do NOT draw: bottles, jars, capsules, pills, powders, competitor names, medical claims, badges, extra logos, or anything not in Image 2 and Image 3.

@@ -1,0 +1,16 @@
+{
+ "analysis": "Format: vertical real-photo farm/UGC-style static ad with a big 3-line headline centered over the image and one hero product pouch at bottom. Family: comparative/claim-style irony, but not a formal side-by-side. Mechanism: origin/transformation (“what comes out… goes in the bag”) repurposed into hydration/effervescent tablet ritual. Zones: top = hook/headline, middle = proof/ritual action, bottom = product pack shot. No rival product needed; the template is a single-product identity ad, not a comparison.",
+ "needs_rival": "none",
+ "template_lines": [
+  "WHAT CAME OUT",
+  "OF THE COW IS WHAT",
+  "GOES IN THE BAG"
+ ],
+ "our_lines": [
+  "WHAT GOES INTO THE GLASS",
+  "IS WHAT DRIVES OUT",
+  "HEAVY, SWOLLEN LEGS"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it.\nChanges: replace farm/dairy scene with a woman 40–55 showing heavy, swollen legs/ankles and a clear glass with one white tablet dissolving; keep the same centered 3-line headline and bottom pouch position. The text speaks to water retention, lighter legs by evening, slimmer ankles, boots zip again.\nText, exactly and nothing else:\nWHAT GOES INTO THE GLASS\nIS WHAT DRIVES OUT\nHEAVY, SWOLLEN LEGS\nDo NOT draw: cow, milk, bottle, jar, pills, capsules, competitor names, badges, certifications, extra copy, disease names.",
+ "validator_errors": []
+}

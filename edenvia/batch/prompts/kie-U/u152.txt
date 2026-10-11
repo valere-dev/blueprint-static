@@ -1,12 +1,1 @@
-Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen stand-up resealable pouch — reproduce it exactly — white fading to sky blue with water droplets, readable label lit by the scene, the label reads Edenvia (atom icon) / MOLECULAR / HYDROGEN / GENERATES 8PPM OF HYDROGEN PER TABLET / CONSUME DAILY ANTIOXIDANTS AND EXHIBIT HEALTHIER, IMPROVED LIVING / DIETARY SUPPLEMENT / 30 TABLETS | 30 DAY SUPPLY.
-
-Changes: runner → woman 45–50 with heavy, swollen, puffy legs and ankles, hiding her legs, subtle sock marks, tired late-day ache; place the pouch in the same lower-right spot and size as the original product; replace the beach/action scene with a calm bright lifestyle scene that still feels premium and editorial; replace the brand color accents with Edenvia blue (#1468DB), navy #14488F, deep navy #172A54, ice blue #EAF1F9.
-
-Text, exactly and nothing else:
-"SUSTAINED CELLULAR"
-"ENERGY, ALL DAY"
-"Support drainage support for"
-"lighter legs at the source."
-"PRACIUTIONER-FORMULATED"
-
-Do not draw: capsules, pills, powder, bottle, jar, competitor names, disease names, drug names, lab imagery, extra icons, extra text, hot water, beach running, or more than one pouch.
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Changes: top hero image shows a 40–55 woman on the beach in motion with heavy, swollen legs/ankles, puffy calves, hidden discomfort; product zone shows the Edenvia pouch overlapping the seam; bottom text block swaps to leg puffiness/water retention. Text, exactly and nothing else: Heavy, Swollen Legs. By Evening. Drain fluid stuck in your legs for lighter ankles at the source. TRUSTED BY HEALTHCARE PROFESSIONALS. Do NOT draw: any jar, bottle, pills, gummies, drops, competitor names, extra badges, extra copy.

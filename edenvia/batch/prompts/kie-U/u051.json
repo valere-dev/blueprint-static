@@ -1,0 +1,18 @@
+{
+ "analysis": "Static single-panel social ad; organic educational screenshot look. Zones: top header = brand; large white card = main claim; lower-left = CTA; lower-right = icon/visual proof. No rival/comparison needed. Template uses 3 text blocks plus brand name.",
+ "needs_rival": "none",
+ "template_lines": [
+  "Resilia",
+  "Your immune system can miss up to 90% of gut invaders due to their natural antioxidant defenses. Now they're finally being revealed.",
+  "A clinically-studied Mediterranean formula was created using time-tested oils. It breaks down the protective barriers that keep parasites invisible and triggers natural elimination.",
+  "Tap to learn more."
+ ],
+ "our_lines": [
+  "Edenvia",
+  "Your swollen legs can hold on to fluid by 5 p.m. because oxidative stress keeps the tissue inflamed. Now the drain is being switched back on.",
+  "A molecular-hydrogen formula was created to reach deep tissue fast. It cuts the inflammatory response, supports drainage support, and triggers lighter, slimmer ankles with one glass a day.",
+  "Tap to see results."
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it.\nChanges: top brand zone = Edenvia logo/name; main card = heavy, swollen legs / water retention headline and body; lower-left CTA = same placement, rewritten for lymphatic bloating; lower-right icon = clean wellness icon style, not medical certification.\nText, exactly and nothing else:\nEdenvia\nYour swollen legs can hold on to fluid by 5 p.m. because oxidative stress keeps the tissue inflamed. Now the drain is being switched back on.\nA molecular-hydrogen formula was created to reach deep tissue fast. It cuts the inflammatory response, supports drainage support, and triggers lighter, slimmer ankles with one glass a day.\nTap to see results.\nDo NOT draw: competitor brands, pills, capsules, jars, labels other than Edenvia, badges, certifications, disease names, medical claims, extra text, or any product besides the Edenvia pouch.",
+ "validator_errors": []
+}

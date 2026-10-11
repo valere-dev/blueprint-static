@@ -1,0 +1,45 @@
+U027: PASS u_027_v2.png (try 1, rival=none)
+U032: try 1 rejected — Standalone brand mark shown is not Edenvia with atom icon; it is another logo/badge.; Edenvia product is placed on the solution side but the comparison still uses a rival product on the left; ensure only Edenvia is featured if required.
+U021: try 1 rejected — Edenvia pouch is shown on the after/right side while the other side is the losing/old side, which is fine for this template.
+U004: PASS u_004_v2.png (try 1, rival=drops)
+U015: PASS u_015_v2.png (try 1, rival=pills)
+U009: PASS u_009_v2.png (try 1, rival=pills)
+U011: PASS u_011_v2.png (try 1, rival=pills)
+U012: PASS u_012_v2.png (try 1, rival=none)
+U020: PASS u_020_v2.png (try 1, rival=pills)
+U037: PASS u_037_v2.png (try 1, rival=none)
+U021: try 2 rejected — The product pouch design does not match the reference: it says 'Molecular Hydrogen' but the pouch shape/label details differ from the studio pouch.; A standalone brand mark appears that is not the Edenvia atom-wordmark.; The comparison layout is incorrect because Edenvia is shown on the 'after' side but the scene also includes a rival product on the other side; however the main comparative logic is still muddy with the jar.
+U021: FLAGGED after 2 tries — The product pouch design does not match the reference: it says 'Molecular Hydrogen' but the pouch shape/label details differ from the studio pouch.; A standalone brand mark appears that is not the Edenvia atom-wordmark.; The comparison layout is incorrect because Edenvia is shown on the 'after' side but the scene also includes a rival product on the other side; however the main comparative logic is still muddy with the jar.
+U039: PASS u_039_v2.png (try 1, rival=none)
+U032: PASS u_032_v3.png (try 2, rival=none)
+U058: try 1 rejected — Edenvia pouch design does not match the reference pouch: it shows 30 tablets and the label text/style differs from Image 2.; A standalone logo/wordmark appears different from the Edenvia atom logo reference in Image 3.
+U051: PASS u_051_v2.png (try 1, rival=none)
+U056: PASS u_056_v2.png (try 1, rival=none)
+U060: PASS u_060_v2.png (try 1, rival=none)
+U062: try 1 rejected — Standalone logo mark is Edenvia with the atom icon, but the image also includes a Walmart call-to-action text that is a different brand name.; The headline 'daily nutrition starts here' is off-niche for this swelling/water-retention ad and should be replaced with relevant drainage/leg relief copy.
+U066: try 1 rejected — Standalone Edenvia logo is present but the file also includes a different large logo mark below.; Lower template text mentions beef organs/ovaries, which is a different niche from the leg-swelling ad.
+U069: try 1 rejected — Logo is a standalone Edenvia wordmark with atom icon, but it is missing the exact official styling/placement as a simple brand mark check.; Text includes a different niche claim about hair/GLP-1, which is off-brief for this water-retention ad.
+U058: PASS u_058_v3.png (try 2, rival=none)
+U071: PASS u_071_v2.png (try 1, rival=none)
+U045: PASS u_045_v2.png (try 1, rival=none)
+U078: try 1 rejected — Standalone Edenvia logo shown is not a simple Edenvia wordmark with atom icon.; Comparative layout places the Edenvia pouch on the winning side?; Visible conflicting brand mark/logo appears in the asset.
+U066: PASS u_066_v3.png (try 2, rival=none)
+U010: PASS u_010_v2.png (try 1, rival=drops)
+U069: try 2 rejected — Stand-alone logo is not the Edenvia atom mark; it shows Edenvia in a different logo treatment.; The ad compares Edenvia against a water pills bottle, but Edenvia is on the winning/right side, so comparison is not flipped.
+U069: FLAGGED after 2 tries — Stand-alone logo is not the Edenvia atom mark; it shows Edenvia in a different logo treatment.; The ad compares Edenvia against a water pills bottle, but Edenvia is on the winning/right side, so comparison is not flipped.
+U082: PASS u_082_v2.png (try 1, rival=none)
+U081: PASS u_081_v2.png (try 1, rival=none)
+U087: PASS u_087_v2.png (try 1, rival=none)
+U080: PASS u_080_v2.png (try 1, rival=none)
+U078: PASS u_078_v3.png (try 2, rival=none)
+U095: try 1 rejected — Standalone logo is not Edenvia with atom icon; it shows a different brand mark.; Ad includes a rival/cloned brand logo on the template comparison side.; Product pouch design is not the required studio pouch match.
+U090: PASS u_090_v2.png (try 1, rival=none)
+U098: PASS u_098_v2.png (try 1, rival=none)
+U043: PASS u_043_v2.png (try 1, rival=drops)
+U101: PASS u_101_v2.png (try 1, rival=none)
+U095: generation failed
+U062: try 2 rejected — Standalone logo uses Edenvia but appears as a different mark treatment than the official logo reference.; Main headline is about lymphatic relief; this is the correct niche, but the ad also includes a Walmart-style purchase line which is a different brand name.; The product pouch itself matches the reference sufficiently.
+U062: FLAGGED after 2 tries — Standalone logo uses Edenvia but appears as a different mark treatment than the official logo reference.; Main headline is about lymphatic relief; this is the correct niche, but the ad also includes a Walmart-style purchase line which is a different brand name.; The product pouch itself matches the reference sufficiently.
+U092: try 1 rejected — Standalone logo is a different brand mark (EDENVIA) instead of the Edenvia atom-wordmark.; Primary text is about a general sale/product push, not the target swollen-legs niche.; Text/product are clipped at the image edges in the template composition.
+U092: PASS u_092_v3.png (try 2, rival=none)
+DONE

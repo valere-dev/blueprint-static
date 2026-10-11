@@ -1,0 +1,22 @@
+{
+ "analysis": "Static lifestyle ad, single-image promo with large headline, 3-item benefit list, CTA banner, tiny disclaimer. No rival product; format is before/after-ish aspirational list. Roles: headline = aspirational hook; 3 bullets = desirables/benefits, rewritten for heavy swollen legs; CTA = urgency to buy Edenvia.",
+ "needs_rival": "none",
+ "template_lines": [
+  "3 THINGS",
+  "MY BILLIONAIRE BOYFRIEND MADE ME DO",
+  "1 - Host parties for a bunch of socialites every week 😏",
+  "2 - Fly private only between NY and the Maldives 😏",
+  "3 - Take liquid collagen daily to stay looking itsy bitsy 💅",
+  "TRY BEFORE YOU BUY!"
+ ],
+ "our_lines": [
+  "3 THINGS",
+  "MY BOYFRIEND MADE ME DO FOR MY HEAVY, SWOLLEN LEGS",
+  "1 - Drop one Edenvia tablet in water every morning so the fluid stuck in my legs drains 😮",
+  "2 - Keep my ankles slimmer by evening and stop the sock marks 😮",
+  "3 - Drink it daily so my boots zip again and I feel lighter by 5 p.m. 💧",
+  "TRY EDENVIA BEFORE YOUR LEGS BLOAT UP!"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Changes: keep the same beach lifestyle scene and blonde woman pose, but rewrite the whole message for a 40–55 woman with heavy, swollen, puffy legs and ankles, water retention, sock marks, boots won’t zip, aches by 5 p.m.; the headline names heavy swollen legs, the 3 numbered boxes become fast benefit claims about drainage support, slimmer ankles, lighter legs by evening, and the CTA becomes a purchase urgency banner. Text, exactly and nothing else: 3 THINGS / MY BOYFRIEND MADE ME DO FOR MY HEAVY, SWOLLEN LEGS / 1 - Drop one Edenvia tablet in water every morning so the fluid stuck in my legs drains 😮 / 2 - Keep my ankles slimmer by evening and stop the sock marks 😮 / 3 - Drink it daily so my boots zip again and I feel lighter by 5 p.m. 💧 / TRY EDENVIA BEFORE YOUR LEGS BLOAT UP! Do NOT draw: extra logos, badges, certifications, pills, capsules, jars, bottles, competing brands, extra text, changed layout, changed fonts, changed composition.",
+ "validator_errors": []
+}

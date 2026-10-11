@@ -1,0 +1,10 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it.
+Changes: Keep the Gmail reply screenshot look. Replace the subject with swollen legs/water retention. The sender line is a real customer testimonial about heavy, swollen legs. The body is a rave review for Edenvia, before/after from puffy, aching legs to lighter legs by evening, slimmer ankles, fewer sock marks, easier movement. The quoted prior thread becomes a generic old complaint about being told to just lose weight. Text, exactly and nothing else:
+Re: Review your legs
+Mary Vito 01:09
+to me
+Love this stuff. Only regret....not taking a picture of my heavy, swollen legs before I started using Edenvia Molecular Hydrogen. I’ve used it for 3 weeks and the results are amazing. By 5 p.m. my legs feel lighter, my ankles look slimmer, and the sock marks are finally fading. The fluid stuck in my legs is dropping fast. Even my husband noticed I’m moving easier. My swelling used to be so bad I was told to just lose weight. I’m glad my research pointed me in your direction.
+On Mon, Apr 22, 2024 at 8:36 PM Edenvia
+Do NOT draw: any acne words, pills, jars, bottles, doctors, Accutane, badges, extra graphics, or redesign the email UI.
+
+FIX from QC: Bottom signature line shows a different brand name instead of Edenvia.; Email body is about acne/skin, which is the wrong niche for this product.

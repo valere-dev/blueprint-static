@@ -1,0 +1,12 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it.
+Changes: keep the same square full-bleed gradient background and centered bold black headline. Replace the acne audience with women 40–55 with heavy, swollen legs and ankles. Make the hook about puffiness, water retention, and wanting lighter legs by evening. No rival side; no product packshot needed.
+Text, exactly and nothing else:
+HEY! We’re seeking
+for women 40–55
+who’ve dealt
+with heavy, swollen
+legs and ankles
+and want lighter legs by evening.
+Do NOT draw: acne, face, skin-clearing claims, pills, gummies, drops, bottles, jars, badges, seals, extra logos, small print, or any comparison layout.
+
+FIX from QC: Text is for the wrong niche: acne/clear skin and women under 30 instead of swollen legs/ankles women 40-55.; Logo is not the Edenvia atom-wordmark; it shows a different standalone brand mark.

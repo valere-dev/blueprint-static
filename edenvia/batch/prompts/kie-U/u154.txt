@@ -1,4 +1,8 @@
-Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
-Changes: the black jar → our stand-up resealable Edenvia pouch same spot and size; the giant red object → the woman’s swollen lower legs/ankles standing upright as a sculptural symbol of heavy, puffy legs; the red accents → Edenvia blue (#1468DB) and ice blue; the hand remains as a supporting hand, manicured red nails.
-Text, exactly and nothing else: "DO NOT TAKE" / "THIS WITHOUT" / "WARNING" / "YOUR WIFE"
-Do not draw: competitor branding, capsules, pills, powder, jars, disease names, drug names, medical claims, extra text, extra props, hot water, or a realistic body horror scene.
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it.
+Changes: keep the same dark dramatic background, same top-left stacked headline zone, same lower-left hand-held product zone, same large right-side metaphor zone. Right side becomes heavy, swollen legs/ankles deflating and draining by evening; left product becomes Edenvia pouch in hand. The headline is a warning about heavy, swollen legs and water retention, not a generic warning.
+Text, exactly and nothing else:
+DO NOT TAKE
+THIS WITHOUT
+TELLING
+YOUR WIFE
+Do NOT draw: extra copy, extra logos, bottle/jar, capsules, pills, competitor names, badges, certifications, medical claims, smiley wellness aesthetics, or any product other than the exact Edenvia pouch.

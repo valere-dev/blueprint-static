@@ -1,12 +1,9 @@
-Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.  
-Changes: swap the bottle for the Edenvia stand-up resealable pouch in the same hand-held position and size; keep the back-view woman composition; replace the handwritten back text with Edenvia-style benefit copy about heavy, swollen legs, puffy ankles, lighter legs by evening, slimmer ankles, no bathroom runs; change brand colours to Edenvia blue #1468DB, navy #14488F, deep navy #172A54, ice blue #EAF1F9.  
-Text, exactly and nothing else:  
-"I WAS DEALING WITH"  
-"HEAVY, SWOLLEN LEGS"  
-"AND PUFFY ANKLES"  
-"BUT NOW"  
-"LIGHTER LEGS BY EVENING"  
-"SLIMMER ANKLES"  
-"NO BATHROOM RUNS"  
-"INDIVIDUAL RESULTS MAY VARY."  
-Do not draw a bottle, jar, capsule, pill, powder, extra props, medical claims, disease names, competitor branding, or any text beyond the listed copy.
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it.
+Changes: keep the same UGC back-view bathroom/selfie feel, but swap the story to a 40–55 woman with heavy, swollen, puffy legs and ankles that no diet fixed; her legs ache by 5 p.m., sock marks show, boots won’t zip, it was never fat. Use the Edenvia pouch as the held proof product. No rival side, no comparison layout. 
+Text, exactly and nothing else:
+I WENT FROM
+HEAVY, SWOLLEN LEGS TO
+LIGHTER LEGS BY EVENING
+EFFORTLESSLY
+*RESULTS MAY VARY.
+Do NOT draw: a bottle, jar, pill, capsule, gummies, dropper, badge, certification mark, competitor brand, extra text, clinical claims, or changed layout.

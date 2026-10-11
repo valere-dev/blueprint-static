@@ -1,0 +1,26 @@
+{
+ "analysis": "Comparison static ad template. 2-column before/after layout with rival on left vs our product on right, large headline top, VS circle center, 3-line benefit list bottom each side. Left zone = losing side / suffering, right zone = winning side / desire. Product image zones swap generic rival bottle for Edenvia pouch. Bottom copy becomes leg/ankle water-retention pain vs lighter legs/boots zip/drainage.",
+ "needs_rival": "drops",
+ "template_lines": [
+  "TRUTH ABOUT PARASITE CLEANSERS",
+  "VS",
+  "CAN CAUSE HALLUCINATIONS & SEIZURES",
+  "DESTROYS YOUR GOOD GUT BACTERIA TOO",
+  "TOXIC TO YOUR KIDNEYS & LIVER",
+  "ELIMINATES ALL PARASITES SAFELY",
+  "PROTECTS YOUR GOOD BACTERIA",
+  "KEEPS ORGANS HEALTHY"
+ ],
+ "our_lines": [
+  "TRUTH ABOUT HEAVY, SWOLLEN LEGS",
+  "VS",
+  "CAN LEAVE YOU WITH HEAVY LEGS BY 5 P.M.",
+  "STILL SHOWS SOCK MARKS & PUFFY ANKLES",
+  "MAKES YOUR BOOTS WON'T ZIP",
+  "DRAINS FLUID STUCK IN YOUR LEGS",
+  "TRIGGERS LIGHTER LEGS BY EVENING",
+  "HELPS YOUR BOOTS ZIP AGAIN"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Image 4 is the rival product for the losing side. Changes: left side = rival drops bottle + what she suffers (heavy, swollen legs, sock marks, boots won’t zip, bathroom runs, pricier, nothing changes); right side = Edenvia pouch + what she wants (lighter legs by evening, slimmer ankles, one glass a day, drains fluid, boots zip). Text, exactly and nothing else: TRUTH ABOUT HEAVY, SWOLLEN LEGS / VS / CAN LEAVE YOU WITH HEAVY LEGS BY 5 P.M. / STILL SHOWS SOCK MARKS & PUFFY ANKLES / MAKES YOUR BOOTS WON'T ZIP / DRAINS FLUID STUCK IN YOUR LEGS / TRIGGERS LIGHTER LEGS BY EVENING / HELPS YOUR BOOTS ZIP AGAIN. Do NOT draw: pills, capsules, jars, bottles on our side, badges, certifications, extra logos, disease names, medical claims, extra text.",
+ "validator_errors": []
+}

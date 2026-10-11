@@ -1,0 +1,18 @@
+{
+ "analysis": "Format: organic UGC phone photo with overlaid warning text; one product box hero, one blurred secondary product in background. Family: hair/scalp serum promo. Mechanism: before/after warning framing plus ingredient claims. Roles: hero zone = our product; overlay text = desire/urgency; background bottle = unused visual filler, not rival comparison.",
+ "needs_rival": "none",
+ "template_lines": [
+  "DONT👩‍🎤 try this... if you",
+  "don’t want fuller, thicker,",
+  "faster growing, oil-free hair.",
+  "You’ve been warned."
+ ],
+ "our_lines": [
+  "DON’T🫶 try this... if you",
+  "don’t want lighter legs by evening,",
+  "slimmer ankles, less sock marks.",
+  "Better watch those puffy legs."
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Changes: keep the same handheld phone-photo UGC look, same black box hero framing, same white caption boxes; replace hair/scalp wording with heavy, swollen legs / puffy ankles / water retention; the product shown is Edenvia only, with the pouch replacing the box. Text, exactly and nothing else: DON’T🫶 try this... if you don’t want lighter legs by evening, slimmer ankles, less sock marks. Better watch those puffy legs. Do NOT draw: hair, scalp, serum, bottle, jar, clinic, badges, extra logos, competitor names, or any text not listed.",
+ "validator_errors": []
+}

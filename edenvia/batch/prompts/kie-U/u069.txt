@@ -1,14 +1,1 @@
----
-Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
-Changes: the blue pen → a white effervescent tablet in a clear glass of water, fizzing; the jar/bottle → the Edenvia Molecular Hydrogen stand-up resealable pouch, same visual prominence, same angle, same size; orange accent → Edenvia blue (#1468DB) and navy (#14488F); the person theme → woman 40–55 with heavy, swollen, puffy legs and ankles, hidden legs, sock marks, boots won’t zip, “it was never fat.”
-Text, exactly and nothing else:
-"You can keep your legs and your lighter evenings."
-"Here's how it works"
-"Two different systems:"
-"Oxidative stress keeps tissue inflamed. Hydrogen helps switch it off."
-"Nothing to cancel out:"
-"No bathroom runs. Water retention. Drainage support."
-"Stops the swelling at the root."
-"While you stay on your dose."
-"STOP Your Heavy Legs"
-Do not draw capsules, pills, powder, bottles, jars, competitor brands, disease names, or any claim words like clinically proven/FDA approved.
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Image 4 is the rival product for the losing side. Changes: top headline swaps hair/GLP-1 for heavy swollen legs/water retention; left/losing concept is a generic WATER PILLS bottle causing bathroom runs; right/winning concept is the Edenvia pouch and the desired result: lighter legs by evening, slimmer ankles, boots zip again. Mechanism copy becomes plain-English drainage support and oxidative stress/inflammation language. Text, exactly and nothing else: You can keep your lighter legs and your water retention. This is how it works Two systems, one outcome: Water pills trigger bathroom runs. Edenvia drains the fluid stuck in your legs. Nothing left to chase: No capsules, no jar, no guessing. One white tablet daily. Deflates the inflammation at the root. Every morning, one glass; every evening, lighter legs. STOP Heavy Leg Puffiness. Do NOT draw: extra badges, capsules, jars, pills, hair imagery, GLP-1, FDA marks, before/after arrows, new layout.

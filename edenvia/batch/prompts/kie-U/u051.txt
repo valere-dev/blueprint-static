@@ -1,7 +1,8 @@
-Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.  
-Changes: the Resilia logo/name → Edenvia logo/name with atom icon in the same spot; the green brand colour → Edenvia blue (#1468DB) and matching navy/ice-blue palette; the shield/germs theme → a woman 40–55 with heavy, swollen, puffy legs and ankles, tired by 5 p.m., sock marks, boots won’t zip; keep the same infographic-card layout and the product pouch same spot and size.  
-Text, exactly and nothing else:  
-"Your immune system can miss up to 90% of fluid stuck in your legs due to oxidative stress. Now it’s finally being revealed."  
-"A cellular, science-backed molecular hydrogen formula was created using 8 PPM tablets. It supports drainage support and helps the body switch off inflammatory response so heavy, tender, puffy legs feel lighter."  
-"Tap to learn more."  
-Do not draw capsules, pills, powder, bottles, jars, a competitor name, a disease name, a drug name, hot water, or anything not in the template.
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it.
+Changes: top brand zone = Edenvia logo/name; main card = heavy, swollen legs / water retention headline and body; lower-left CTA = same placement, rewritten for lymphatic bloating; lower-right icon = clean wellness icon style, not medical certification.
+Text, exactly and nothing else:
+Edenvia
+Your swollen legs can hold on to fluid by 5 p.m. because oxidative stress keeps the tissue inflamed. Now the drain is being switched back on.
+A molecular-hydrogen formula was created to reach deep tissue fast. It cuts the inflammatory response, supports drainage support, and triggers lighter, slimmer ankles with one glass a day.
+Tap to see results.
+Do NOT draw: competitor brands, pills, capsules, jars, labels other than Edenvia, badges, certifications, disease names, medical claims, extra text, or any product besides the Edenvia pouch.

@@ -1,14 +1,1 @@
-Image 1 is the ad template to clone 1:1 (same 2x2 grid layout, composition, white background space, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
-
-Changes: the candy/greens → our white effervescent tablet imagery; the child → our woman 40–55 with heavy, swollen, puffy legs and ankles, hiding her legs; the bag → our stand-up resealable Edenvia pouch same spot and size; the green brand colour → Edenvia blue (#1468DB) and deep navy; the “kids” messaging → lymphatic bloating / water retention / slimmer ankles / lighter legs by evening.
-
-Text, exactly and nothing else:
-“Sneaky greens disguised as candy. Delicious too. All three of my kids love them!”
-- Brooke
-“20,000+”
-★★★★★ Reviews
-“100%”
-DAILY VITAMINS
-The easiest way for women to get lighter legs by evening
-
-Do not draw extra products, capsules, pills, powders, jars, bottles, disease names, drug names, medical claims, competitor names, or any text beyond the template slots.
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Changes: swap the kid snack story for Edenvia and angle A8 lymphatic bloating. Top-left is the testimonial pain-to-desire quote about heavy, swollen legs and lighter legs by evening. Top-right is a lifestyle closeup with the Edenvia pouch held in hand; keep the review badge style and place proof/ratings there. Bottom-left is the pouch hero pack shot, exact label visible. Bottom-right is the bold benefit/stat panel: 8 PPM DAILY HYDROGEN and the desire to drain puffy legs, slimmer ankles, boots zip again. Text, exactly and nothing else: “My heavy, swollen legs feel lighter by evening. My boots zip again!” - Brooke 12,000+ Customers 8 PPM DAILY HYDROGEN The fastest way for heavy, puffy legs to drain Do NOT draw: kids, candy, gummies, greens, vitamins, bears, snack cues, capsules, bottles, jars, pills, medical claims, extra logos, badges, certifications, or any product other than the exact Edenvia pouch.

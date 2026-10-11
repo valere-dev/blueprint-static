@@ -1,17 +1,1 @@
-Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
-Changes: replace the left “Old Me” side with Edenvia’s lymphatic-bloating avatar: woman 40–55, heavy swollen puffy legs and ankles, tired, hiding her legs, grayscale, aching by 5 p.m., sock marks, boots won’t zip; replace the right “New Me” side with the same woman in bright healthy color, lighter legs by evening, slimmer ankles, confident smile. Swap the top pills for a clear glass of water with one white effervescent tablet fizzing on the right-side halo area, and add the Edenvia stand-up resealable pouch in the top-left area, same scale as the template’s product cluster, label readable and exactly: Edenvia (atom icon) / MOLECULAR / HYDROGEN / GENERATES 8PPM OF HYDROGEN PER TABLET / CONSUME DAILY ANTIOXIDANTS AND EXHIBIT HEALTHIER, IMPROVED LIVING / DIETARY SUPPLEMENT / 30 TABLETS | 30 DAY SUPPLY. Use Edenvia blue (#1468DB) and the same clean ad aesthetic.
-Text, exactly and nothing else:
-"Old Me"
-"New Me"
-"heavy, swollen legs"
-"puffy"
-"lighter legs by evening"
-"slimmer ankles"
-"it was never fat"
-"reaches the fluid stuck in your legs"
-"TOTAL"
-"$39.00"
-"was $79.99"
-"93% sold"
-"30-Day Money Back Guarantee"
-Do not draw capsules, pills, powder, bottles, jars, competitor branding, disease names, drugs, or any extra copy.
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Image 4 is the rival product for the losing side. Changes: left/old zone = WATER PILLS bottle + heavy, swollen legs, sock marks, aching by 5 p.m., bathroom runs; right/new zone = Edenvia pouch + lighter legs by evening, slimmer ankles, boots zip again, one glass a day. Bottom avatar: woman 40–55, puffy legs/ankles, relieved and confident. Text, exactly and nothing else: Heavy, Swollen Legs / Water retention relief / Lighter legs by evening / Slimmer ankles / Boots zip again / TOTAL / Edenvia / Molecular Hydrogen / One tablet a day / 8PPM hydrogen per tablet / TOTAL. Do NOT draw: capsules, jars, badges, extra ingredients, competitor names, pills on the good side.

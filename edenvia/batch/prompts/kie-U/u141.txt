@@ -1,10 +1,10 @@
-Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.  
-Changes: the black card pouch → our Edenvia pouch in the same spot and size; the blue tablets → white effervescent tablets; the couple → a 45–55 woman with heavy, swollen, puffy legs and ankles, hiding her legs, tired by evening; the brand accent → Edenvia blue (#1468DB).  
-Text, exactly and nothing else:  
-"After years of"  
-"struggle with heavy, swollen legs"  
-"a product that works"  
-"and makes us"  
-"lighter by evening."  
-"Over 1 Million Doses Sold"  
-Do not draw: any capsule/pill/powder/bottle/jar, any disease name, any competitor name, any medical device, extra text, extra hands/limbs, or any layout changes.
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it.
+Changes: top hero becomes a 40–55 woman with heavy, swollen, puffy legs/ankles; middle left shows the Edenvia pouch only; middle right is the new headline; bottom bar is proof for the legs niche.
+Text, exactly and nothing else:
+After years of heavy, swollen legs
+struggle with fluid stuck in your legs
+Edenvia drains and flushes
+the cellular inflammation
+lighter, slimmer ankles by evening.
+Over 12,000 Customers Sold
+Do NOT draw: pills, bottles, jars, capsules, medical claims, competitor names, extra badges, any text not listed, or a different pouch.

@@ -1,0 +1,20 @@
+{
+ "analysis": "Organic UGC selfie/photo-note style, single-zone testimonial image. Role: whole frame is the before/after claim on the body, with product held as proof. No comparison split, so no rival side. Need rewrite every visible line to lymphatic bloating avatar with heavy swollen legs/ankles, in the same handwritten style.",
+ "needs_rival": "none",
+ "template_lines": [
+  "I WENT FROM",
+  "A SIZE 12 TO",
+  "A SIZE 4",
+  "EFFORTLESSLY",
+  "individual results may vary."
+ ],
+ "our_lines": [
+  "I WENT FROM",
+  "HEAVY, SWOLLEN LEGS TO",
+  "LIGHTER LEGS BY EVENING",
+  "EFFORTLESSLY",
+  "*RESULTS MAY VARY."
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it.\nChanges: keep the same UGC back-view bathroom/selfie feel, but swap the story to a 40–55 woman with heavy, swollen, puffy legs and ankles that no diet fixed; her legs ache by 5 p.m., sock marks show, boots won’t zip, it was never fat. Use the Edenvia pouch as the held proof product. No rival side, no comparison layout. \nText, exactly and nothing else:\nI WENT FROM\nHEAVY, SWOLLEN LEGS TO\nLIGHTER LEGS BY EVENING\nEFFORTLESSLY\n*RESULTS MAY VARY.\nDo NOT draw: a bottle, jar, pill, capsule, gummies, dropper, badge, certification mark, competitor brand, extra text, clinical claims, or changed layout.",
+ "validator_errors": []
+}

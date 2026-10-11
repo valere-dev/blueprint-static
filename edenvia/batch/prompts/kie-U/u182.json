@@ -1,0 +1,30 @@
+{
+ "analysis": "Format: bold stat-led vertical Meta static ad with a huge headline, short subhead, central lifestyle portrait, product packshot bottom-right, trust badge bottom-left. Family: transformation/proof template with implied before/after; no rival panel. Mechanism: emotional proof + product payoff. Zones: top stat = outcome proof; mid copy = desire/identity; portrait = avatar; bottom-left badge = guarantee/trust; bottom-right = product hero. Role mapping: all zones are ours; before/after is implied in the 93% claim and wishful messaging.",
+ "needs_rival": "none",
+ "template_lines": [
+  "93%",
+  "reclaimed their life — and wished",
+  "they'd started sooner",
+  "MONEY BACK",
+  "90",
+  "DAY",
+  "GUARANTEE",
+  "ZOOONE",
+  "NAD+",
+  "1000mg"
+ ],
+ "our_lines": [
+  "93%",
+  "reclaimed their lighter legs — and wished",
+  "they found Edenvia sooner",
+  "MONEY BACK",
+  "30",
+  "DAY",
+  "GUARANTEE",
+  "Edenvia",
+  "MOLECULAR HYDROGEN",
+  "GENERATES 8PPM OF HYDROGEN PER TABLET"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Changes: keep the same single-panel layout; top stat becomes heavy, swollen legs/water retention proof; the portrait is a woman 40–55 with puffy legs/ankles, relieved and confident; bottom-right product is the Edenvia pouch; bottom-left badge becomes our guarantee. Text, exactly and nothing else: 93% / reclaimed their lighter legs — and wished / they found Edenvia sooner / MONEY BACK / 30 / DAY / GUARANTEE / Edenvia / MOLECULAR HYDROGEN / GENERATES 8PPM OF HYDROGEN PER TABLET. Do NOT draw: rival products, pills, gummies, drops, jars, bottles, certification seals, extra claims, disease names, or any text not listed.",
+ "validator_errors": []
+}

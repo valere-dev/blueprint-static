@@ -1,0 +1,71 @@
+U136: prompt still has validator errors ["offer not allowed: '39%' in '+39%'"]
+U141: generation failed
+U109: PASS u_109_v2.png (try 1, rival=none)
+U105: PASS u_105_v2.png (try 1, rival=none)
+U140: PASS u_140_v2.png (try 1, rival=none)
+U136: PASS u_136_v2.png (try 1, rival=none)
+U133: PASS u_133_v2.png (try 1, rival=gummies)
+U128: PASS u_128_v2.png (try 1, rival=none)
+U103: PASS u_103_v2.png (try 1, rival=none)
+U131: PASS u_131_v2.png (try 1, rival=none)
+U142: try 1 rejected — Standalone Edenvia logo mark differs from the required Edenvia atom logo.; Text includes a different-brand promo/template text in the collage, not part of the Edenvia ad.
+U143: PASS u_143_v2.png (try 1, rival=none)
+U144: PASS u_144_v2.png (try 1, rival=none)
+U154: PASS u_154_v2.png (try 1, rival=none)
+U155: try 1 rejected — No clear Edenvia pouch shown in the ad image; the product text/layout does not match the required pouch reference.; A standalone Edenvia logo is present and matches the allowed brand mark.; The ad does not show a clear two-side comparison.; Visible text is about leg puffiness/lymph drainage, which fits the niche.; No visible anatomy deformity.; Nothing appears cut off or blank.
+U162: PASS u_162_v2.png (try 1, rival=none)
+U178: prompt still has validator errors ["line unchanged from the template: 'The Smarter Way to RECLAIM YOUR'"]
+U152: PASS u_152_v2.png (try 1, rival=none)
+U164: PASS u_164_v2.png (try 1, rival=none)
+U170: PASS u_170_v2.png (try 1, rival=none)
+U172: PASS u_172_v2.png (try 1, rival=none)
+U181: try 1 rejected — Edenvia pouch is shown on the losing/old side of the comparison.
+U155: PASS u_155_v3.png (try 2, rival=none)
+U142: PASS u_142_v3.png (try 2, rival=none)
+U182: try 1 rejected — Standalone logo shown is EDENVIA but not the Edenvia atom-mark logo; The ad compares two sides and Edenvia is placed on the losing side; Text shifts to a different niche with 'reclaimed their life' / NAD+ branding in the comparison
+U186: PASS u_186_v2.png (try 1, rival=none)
+U178: PASS u_178_v2.png (try 1, rival=none)
+U185: PASS u_185_v2.png (try 1, rival=none)
+U195: PASS u_195_v2.png (try 1, rival=none)
+U104: PASS u_104_v2.png (try 1, rival=none)
+U198: PASS u_198_v2.png (try 1, rival=none)
+U181: PASS u_181_v3.png (try 2, rival=none)
+U182: try 2 rejected — Standalone brand mark shows EDENVIA logo incorrectly as a large separate graphic.; Text mentions a different niche/product (NAD+, not molecular-hydrogen leg support).; Product shown is not the Edenvia pouch; it uses a box/sachet NAD+ package instead.
+U182: FLAGGED after 2 tries — Standalone brand mark shows EDENVIA logo incorrectly as a large separate graphic.; Text mentions a different niche/product (NAD+, not molecular-hydrogen leg support).; Product shown is not the Edenvia pouch; it uses a box/sachet NAD+ package instead.
+U203: PASS u_203_v2.png (try 1, rival=none)
+U204: PASS u_204_v2.png (try 1, rival=none)
+U207: PASS u_207_v2.png (try 1, rival=none)
+U208: PASS u_208_v2.png (try 1, rival=none)
+U205: PASS u_205_v2.png (try 1, rival=none)
+U224: try 1 rejected — Standalone logo mark differs from the Edenvia atom-wordmark; Comparison places Edenvia on the improved side, which is correct by design
+U225: try 1 rejected — Standalone logo is Edenvia, but there is also a different brand mark/logo shown in the comparison panel.; The lower comparison panel includes unrelated NAD+ CORE capsule content instead of the Edenvia ad theme.
+U220: PASS u_220_v2.png (try 1, rival=none)
+U235: try 1 rejected — Bottom comparison row includes acne/son's acne content, which is a different niche.; Standalone logo shown is EDENVIA with atom icon, but the ad also includes acne-themed copy from another template.
+U234: try 1 rejected — Bottom-left text is off-niche: includes skin/acne template content instead of the swelling/legs niche.
+U236: PASS u_236_v2.png (try 1, rival=none)
+U230: PASS u_230_v2.png (try 1, rival=none)
+U240: try 1 rejected — Bottom signature line shows a different brand name instead of Edenvia.; Email body is about acne/skin, which is the wrong niche for this product.
+U224: PASS u_224_v3.png (try 2, rival=none)
+U244: PASS u_244_v2.png (try 1, rival=none)
+U225: try 2 rejected — Standalone logo is a different brand mark, not Edenvia with atom icon.; The ad compares against a losing-side product and the Edenvia pouch is on the winning/right side, so comparison is not clearly invalid.; Bottom ad text is about injections/capsules and NAD+, which is a different niche.
+U225: FLAGGED after 2 tries — Standalone logo is a different brand mark, not Edenvia with atom icon.; The ad compares against a losing-side product and the Edenvia pouch is on the winning/right side, so comparison is not clearly invalid.; Bottom ad text is about injections/capsules and NAD+, which is a different niche.
+U235: try 2 rejected — Headline mentions acne/son, which is a different niche than swollen legs and ankles.
+U235: FLAGGED after 2 tries — Headline mentions acne/son, which is a different niche than swollen legs and ankles.
+U234: PASS u_234_v3.png (try 2, rival=none)
+U240: try 2 rejected — Text is about acne/skin and mentions a different brand/niche instead of swollen legs and water retention.; Standalone Edenvia logo mark is replaced by a different brand logo/name.
+U240: FLAGGED after 2 tries — Text is about acne/skin and mentions a different brand/niche instead of swollen legs and water retention.; Standalone Edenvia logo mark is replaced by a different brand logo/name.
+U251: try 1 rejected — Standalone logo is Edenvia, not another brand.; The comparison places Edenvia on the winning side, but the creative is using a different side-by-side format than the template.; All visible text is on-niche and readable; no layout cutoffs or anatomy defects visible.
+U255: try 1 rejected — Bottom product is not the Edenvia pouch; it shows a different jar/bottle brand.; Standalone logo shown is not Edenvia with atom icon; it reads a different brand mark.; The ad compares against HRT/lower belly fat, which is a different niche from the required swollen-legs Edenvia angle.
+U261: try 1 rejected — Text is for the wrong niche: acne/clear skin and women under 30 instead of swollen legs/ankles women 40-55.; Logo is not the Edenvia atom-wordmark; it shows a different standalone brand mark.
+U265: try 1 rejected — Standalone EDENVIA logo mark appears, but it is not the correct atom-style brand logo.; Bottom-left panel uses a kids gummies product and not the Edenvia hydro­gen pouch, so it’s off-niche text/product for this ad.
+U270: PASS u_270_v2.png (try 1, rival=none)
+U210: PASS u_210_v2.png (try 1, rival=none)
+U212: PASS u_212_v2.png (try 1, rival=none)
+U251: PASS u_251_v3.png (try 2, rival=none)
+U261: try 2 rejected — Text mentions acne/clear skin, which is the wrong niche.
+U261: FLAGGED after 2 tries — Text mentions acne/clear skin, which is the wrong niche.
+U255: try 2 rejected — Text references HRT/lower belly fat, which is a different niche than swollen legs/water retention.; Standalone logo shown is not Edenvia with an atom icon.; Bottom product shown is Glee Full, not Edenvia.
+U255: FLAGGED after 2 tries — Text references HRT/lower belly fat, which is a different niche than swollen legs/water retention.; Standalone logo shown is not Edenvia with an atom icon.; Bottom product shown is Glee Full, not Edenvia.
+U265: PASS u_265_v3.png (try 2, rival=none)
+U246: PASS u_246_v2.png (try 1, rival=none)
+DONE

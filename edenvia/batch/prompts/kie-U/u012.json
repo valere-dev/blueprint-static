@@ -1,0 +1,30 @@
+{
+ "analysis": "Format: static comparison infographic, 2-column vs template with center checklist. Rival on left, ours on right. Zones: top logos = rival vs Edenvia; subtitle = category framing for heavy swollen legs/water retention; center checklist = six feature/benefit lines, left side pain/old routine, right side desire/ours.",
+ "needs_rival": "none",
+ "template_lines": [
+  "grüns",
+  "vs",
+  "AG1",
+  "Gut Health Edition",
+  "Zero Prep",
+  "Precise Dosages",
+  "Fully Comprehensive",
+  "100% organic fruits & veggies",
+  "1g net carb",
+  "6g fiber"
+ ],
+ "our_lines": [
+  "WATER PILLS",
+  "vs",
+  "Edenvia",
+  "Heavy Legs Edition",
+  "Heavy by 5 p.m.",
+  "No bathroom runs",
+  "Drainage support",
+  "Hydrogen + minerals",
+  "30 tablets",
+  "8PPM per tablet"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Changes: left side is the rival/old routine with heavy, swollen legs by 5 p.m.; right side is Edenvia with lighter legs by evening, slimmer ankles, boots zip, one glass a day. Use the same six checklist slots and make every line about lymphatic bloating/water retention. Text, exactly and nothing else: WATER PILLS / vs / Edenvia / Heavy Legs Edition / Heavy by 5 p.m. / No bathroom runs / Drainage support / Hydrogen + minerals / 30 tablets / 8PPM per tablet. Do NOT draw: any bottle, jar, pills, gummies, drops, certifications, badges, extra text, competitor names, or other product forms.",
+ "validator_errors": []
+}

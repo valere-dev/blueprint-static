@@ -1,13 +1,1 @@
----
-Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
-Changes: keep the stark white background, oversized stacked headline, red strike-through lines, yellow CTA button, and the large frosted container shape in the lower half. Swap the generic brand/container into Edenvia’s aesthetic where relevant, with Edenvia blue #1468DB only for any brand accent if needed. No people.
-Text, exactly and nothing else:
-"PORN."
-"SUGAR."
-"VAPES."
-"TIKTOK."
-"ADDERALL."
-"BRAIN FOG."
-"Tired of chasing dopamine?"
-"TRY THESIS"
-What NOT to draw: no extra objects, no competitor names, no capsules, pills, powder, bottles, jars, no medical claims, no watermark, no clutter.
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Changes: keep the stacked strike-through headline, but rewrite every line for heavy, swollen legs / water retention. Top zone = what she hates; subheadline = her evening pain; button = CTA; bottom zone = Edenvia pouch, the desired daily ritual. Text, exactly and nothing else: HEAVY LEGS. PUFFY ANKLES. SOCK MARKS. BOOTS WON’T ZIP. 5 P.M. ACHES. WATER RETENTION. Tired of swollen legs by evening? TRY EDENVIA Do NOT draw: extra badges, pills, bottles, jars, capsules, or any competitor.

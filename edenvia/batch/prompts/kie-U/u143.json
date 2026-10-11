@@ -1,0 +1,30 @@
+{
+ "analysis": "Static promo poster, single-product packshot on warm beige gradient background. Top headline, center-left product image, right-side stacked benefit bars with arrows, bottom-left circular discount badge, bottom-right CTA pill. Roles: left/center is ours (Edenvia pouch), right bars are our benefit claims, badge is offer, CTA is urgency. No rival comparison; old-vs-new is not present.",
+ "needs_rival": "none",
+ "template_lines": [
+  "Lose",
+  "Hormonal Fat",
+  "UP TO",
+  "40%",
+  "OFF",
+  "IMPROVED STAMINA",
+  "STRONGER IMMUNITY",
+  "ALL-DAY ENERGY",
+  "DELICIOUS TASTE",
+  "FREE GIFTS + FREE SHIPPING"
+ ],
+ "our_lines": [
+  "Lose",
+  "Heavy, Swollen Legs",
+  "UP TO",
+  "50%",
+  "OFF",
+  "LIGHTER LEGS BY EVENING",
+  "SLIMMER ANKLES",
+  "NO MORE SOCK MARKS",
+  "BOOTS ZIP AGAIN",
+  "FREE CELLULAR RECOVERY PROTOCOL"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Changes: replace the headline with heavy, swollen legs / water retention; keep center-left pouch hero, bottom-left offer badge, right-side benefit bars with arrows, bottom CTA. The pouch is Edenvia only; no rival needed. Text, exactly and nothing else: Lose / Heavy, Swollen Legs / UP TO / 50% / OFF / LIGHTER LEGS BY EVENING / SLIMMER ANKLES / NO MORE SOCK MARKS / BOOTS ZIP AGAIN / FREE CELLULAR RECOVERY PROTOCOL. Do NOT draw: extra logos, badges, bottles, jars, capsules, pills, pills in water, competitor names, new icons, more text, or any changes to layout.",
+ "validator_errors": []
+}

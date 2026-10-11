@@ -1,4 +1,6 @@
-Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.  
-Changes: the hand-held sale sign → a large sign reading “HEAVY, SWOLLEN LEGS” / “LIGHTER LEGS BY EVENING” in the same spot and size; the woman in the street → our avatar woman 40–55 with puffy legs and ankles, hidden legs, tired but hopeful; the background sign color accents → Edenvia blue (#1468DB); the overall feel stays candid outdoor photo-ad style. Include the Edenvia pouch naturally in-frame as the featured product.  
-Text, exactly and nothing else: “HEAVY, SWOLLEN LEGS” / “LIGHTER LEGS BY EVENING”  
-What not to draw: no competitor brands, no disease names, no drugs, no capsule, pill, powder, bottle, or jar, no extra props, no medical imagery.
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it.
+Changes: keep the same candid street photo, same woman pose and cardboard sign, but make her an avatar 40–55 with visibly puffy, swollen legs/ankles energy; the sign is the headline zone and the price zone. No rival. The message is about heavy, swollen legs, water retention, lighter legs by evening, slimmer ankles, boots zip again. Sell urgency.
+Text, exactly and nothing else:
+HEAVY, SWOLLEN LEGS
+$39.00
+Do NOT draw: extra text, badges, certifications, product bottle/jar, competitor brands, medical claims, anatomy diagrams.

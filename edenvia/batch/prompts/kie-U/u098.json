@@ -1,0 +1,14 @@
+{
+ "analysis": "Format: candid UGC street photo, single hero subject, one handheld cardboard sign, minimal text, natural daylight. Family: protest/offer placard. Mechanism: sign-based attention grab; the zone is the message. Zones: subject = our avatar; sign = headline/offer; background = context only. No rival/before-after comparison.",
+ "needs_rival": "none",
+ "template_lines": [
+  "SALE",
+  "30%"
+ ],
+ "our_lines": [
+  "HEAVY, SWOLLEN LEGS",
+  "$39.00"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it.\nChanges: keep the same candid street photo, same woman pose and cardboard sign, but make her an avatar 40–55 with visibly puffy, swollen legs/ankles energy; the sign is the headline zone and the price zone. No rival. The message is about heavy, swollen legs, water retention, lighter legs by evening, slimmer ankles, boots zip again. Sell urgency.\nText, exactly and nothing else:\nHEAVY, SWOLLEN LEGS\n$39.00\nDo NOT draw: extra text, badges, certifications, product bottle/jar, competitor brands, medical claims, anatomy diagrams.",
+ "validator_errors": []
+}

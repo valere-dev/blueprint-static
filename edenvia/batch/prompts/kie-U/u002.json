@@ -1,0 +1,30 @@
+{
+ "analysis": "Format: split-screen comparison ad with top headline, left/right titles, central product image on each side, 3 benefit bullets per side, bottom CTA banner. Family: before/after or us vs them comparison template. Mechanism: left zone = rival/old bad routine with suffering and short duration; right zone = Edenvia/desired outcome with longer-lasting relief and convenience. Roles: top headline states the transformation; left panel is the loser/current problem; right panel is the winner/our solution; bottom banner is the CTA/brand promise.",
+ "needs_rival": "pills",
+ "template_lines": [
+  "A hard man is good to find",
+  "The Blue Pill",
+  "Works for 4–6 hours",
+  "Use for a short date",
+  "Best for planned fun",
+  "The Weekend Pill",
+  "Works for 36 hours",
+  "Confidence all weekend",
+  "Spontaneous made easy",
+  "Pilot makes it easy"
+ ],
+ "our_lines": [
+  "Heavy, swollen legs are hard to hide",
+  "The Water Pill",
+  "Heavy by 5 p.m.",
+  "Sock marks by night",
+  "Bathroom runs all day",
+  "The Edenvia Pouch",
+  "Lighter legs by evening",
+  "Slimmer ankles by night",
+  "One glass a day",
+  "Edenvia drains it easy"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Image 4 is the rival product for the losing side. Changes: top headline becomes heavy swollen legs / water retention; left zone shows the rival WATER PILLS and what she suffers; right zone shows the Edenvia pouch and what she wants; keep the same split-screen, product-in-hand photo boxes, bullets, and bottom banner. Text, exactly and nothing else: Heavy, swollen legs are hard to hide / The Water Pill / Heavy by 5 p.m. / Sock marks by night / Bathroom runs all day / The Edenvia Pouch / Lighter legs by evening / Slimmer ankles by night / One glass a day / Edenvia drains it easy. Do NOT draw: pills bottle branding, extra badges, medical claims, new icons, or any product other than the exact Edenvia pouch.",
+ "validator_errors": []
+}

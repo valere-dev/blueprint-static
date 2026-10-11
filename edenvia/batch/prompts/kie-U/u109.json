@@ -1,0 +1,18 @@
+{
+ "analysis": "Static 1:1 poster, hero product trio on pedestal, luxury draped backdrop, bold stacked headline + small footer offer. Left/top zone = attention-grabbing promise; center zone = product family comparison substitute; bottom strip = offer/guarantee. For Edenvia, the trio becomes one pouch plus duplicated pouch callouts or tablet-glass ritual cues; the template’s hair-growth benefit is remapped to heavy, swollen legs / water retention relief. No rival needed because this is not a compare layout, just a single-product promo.",
+ "needs_rival": "none",
+ "template_lines": [
+  "30-DAY DENSITY CHALLENGE",
+  "3 BOTTLES.",
+  "1 VERY FULL PONYTAIL.",
+  "UP TO 40% OFF · 60-DAY MONEY-BACK GUARANTEE"
+ ],
+ "our_lines": [
+  "30-DAY LIGHTER-LEGS CHALLENGE",
+  "1 POUCH.",
+  "1 GLASS. LIGHTER BY EVENING.",
+  "$39.00 · 30-DAY MONEY BACK GUARANTEE"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Changes: replace the hair-growth theme with lymphatic bloating; the top headline attacks heavy, swollen legs and water retention; the center product zone shows Edenvia only, as the hero; the lower zone becomes the daily ritual cue and offer/guarantee. Text, exactly and nothing else: 30-DAY LIGHTER-LEGS CHALLENGE / 1 POUCH. / 1 GLASS. LIGHTER BY EVENING. / $39.00 · 30-DAY MONEY BACK GUARANTEE. Do NOT draw: extra bottles, hair products, pills, gummies, jars, capsules, badges, seals, certifications, competitor names, or any text besides the exact lines above.",
+ "validator_errors": []
+}

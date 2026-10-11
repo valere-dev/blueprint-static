@@ -1,12 +1,13 @@
-Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
-Changes: left-side brand MUD\WTR → Edenvia with small atom icon in Manrope-like geometric sans; replace the arm/coffee pouring scene with a studio lifestyle scene of a woman 40–55 with heavy, swollen, puffy legs and ankles, hands hiding her legs, subtle sock marks, boots nearby won’t zip, calm premium wellness ad lighting; use Edenvia blue #1468DB for accents where the template uses brand color; keep the white left panel and full-height right image split. Place the Edenvia pouch only if the template calls for product imagery; when shown, use the stand-up resealable pouch exactly, label readable, water droplets lit by the scene.
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it.
+Changes: left zone is the Edenvia sale stack and proof; right zone is the avatar’s swollen-legs lifestyle result, before/after feeling in her words; same split white/beige composition, no rival product, no extra objects.
 Text, exactly and nothing else:
-"EDENVIA"
-"Our Biggest Sale Of The Year"
-"+ FREE FROTHER"
-"+ FREE OPEN MINDFULNESS APP"
-"+ FREE SHIPPING"
-"Money-Back Guarantee"
-"Over 50k 5-star reviews"
-"★★★★★"
-What not to draw: no bottle, jar, capsule, pill, powder, competitor names, disease names, medical claims, or extra copy.
+Edenvia
+Our Biggest Leg-Lifting Sale Of The Year
++ FREE Cellular Recovery Protocol
++ FREE express shipping on the 5-pack
++ 30-Day Money Back Guarantee
+30-Day Money Back Guarantee
+Rated 4.9/5 | 12,000+ customers
+*My heavy, swollen legs felt lighter by evening. My boots zip again, and I finally feel like it’s not a fat problem.*
+-Cheyenne H
+Do NOT draw: extra logos, badges, pills, gummies, bottles, jars, capsules, app screens, frother, coffee brand marks, medical claims, competitor names.

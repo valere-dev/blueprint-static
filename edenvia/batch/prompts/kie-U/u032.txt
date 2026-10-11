@@ -1,13 +1,13 @@
-Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
-Changes: replace the left-side problem pills with avatar symptoms for a woman 40–55 with heavy, swollen legs and ankles: “heavy, swollen legs”, “puffy”, “sock marks”, “boots won’t zip”, “legs ache by 5 p.m.”, “slimmer ankles”; keep the right-side solution area as the Edenvia pouch standing upright, same size and placement as the template’s product silhouette; use Edenvia blue #1468DB for any accent; overall clean peach background, black text, Manrope-like geometric sans.
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it.
+Changes: left side is the PROBLEM = swollen legs, sock marks, boots won’t zip, aching calves, water retention; right side is the SOLUTION = Edenvia pouch, lighter legs by evening, slimmer ankles, one white tablet in a glass once a day, drains fluid. No rival product shown. Keep the vertical divider and bottom CTA shape.
 Text, exactly and nothing else:
-“THE PROBLEM:”
-“THE SOLUTION:”
-“heavy, swollen legs”
-“puffy”
-“sock marks”
-“boots won’t zip”
-“legs ache by 5 p.m.”
-“slimmer ankles”
-“TRY BEFORE YOU BUY”
-Do not draw a bottle, jar, capsule, pill, powder, competitor name, extra icons, extra copy, disease names, or medical claims.
+THE PROBLEM:
+THE SOLUTION:
+Heavy, swollen legs
+Puffy ankles by 5 p.m.
+Sock marks
+Boots won’t zip
+Aching, tender calves
+Water retention
+TRY ONE GLASS A DAY
+Do NOT draw: capsules, pills, bottles, jars, hair imagery, extra badges, seals, or any text beyond the lines above.

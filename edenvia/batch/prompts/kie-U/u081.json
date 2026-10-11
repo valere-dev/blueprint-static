@@ -1,0 +1,28 @@
+{
+ "analysis": "Format: vertical Meta promo with top oval badge, large 2-line headline, central hero image in rounded frame, 2 bottom offer cards, small footer note. Family: reward/freebie offer. Mechanism: no comparison; product tease + threshold-based gift. Zones: top badge = urgency/brand cue; headline = desire; hero image = product + use context; bottom cards = offer tiers; footer = scarcity.",
+ "needs_rival": "none",
+ "template_lines": [
+  "NOW LIVE",
+  "treat yourself",
+  "to free minis",
+  "WORTH $20",
+  "Peach",
+  "FREE ON ORDERS 79+",
+  "Strawberry",
+  "ALSO FREE ON ORDERS 119+",
+  "Whilst limited stocks last"
+ ],
+ "our_lines": [
+  "NOW LIVE",
+  "treat your legs",
+  "to lighter evenings",
+  "FREE Cellular Recovery Protocol",
+  "Lighter Legs",
+  "FREE ON ORDERS 78+",
+  "Slimmer Ankles",
+  "ALSO FREE ON ORDERS 117+",
+  "Only while stocks last"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Changes: keep the same pink promo layout, but replace the minis/gummies scene with the Edenvia pouch as the hero product in the central frame; sell heavy, swollen legs and fluid retention relief by evening, with one white effervescent tablet dropped into a clear glass of water nearby if shown; top zone is urgency, headline zone is desire, center zone is product, bottom cards are the offer tiers, footer stays scarcity. Text, exactly and nothing else: NOW LIVE / treat your legs / to lighter evenings / FREE Cellular Recovery Protocol / Lighter Legs / FREE ON ORDERS 78+ / Slimmer Ankles / ALSO FREE ON ORDERS 117+ / Only while stocks last. Do NOT draw: pills, capsules, bottles, jars, competitor names, badges, certifications, extra copy, or any product other than the exact Edenvia pouch.",
+ "validator_errors": []
+}

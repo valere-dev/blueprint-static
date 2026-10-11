@@ -1,0 +1,16 @@
+{
+ "analysis": "Format: vertical 2-panel split-image UGC/static ad. Zone 1 top = close-up human skin/face text-over-image; role = desire/offer hook. Zone 2 bottom = macro skin/arm texture text-over-image; role = before/after-style punchline. No rival product shown, just old problem vs our result. Mechanism: turn vague lifestyle line into lymphatic bloating/water-retention relief for swollen legs. Family: comparison/quote meme template, but no product comparison needed.",
+ "needs_rival": "none",
+ "template_lines": [
+  "“Get up to 60% off at True Classic during Black Friday”",
+  "My girlfriend",
+  "My new wardrobe"
+ ],
+ "our_lines": [
+  "“Get lighter legs by evening with Edenvia — 50% off”",
+  "My heavy, swollen legs",
+  "My slimmer ankles"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it.\nChanges: keep the same 2-panel split and meme-style text placement. Top panel = hook about heavy, swollen legs / water retention and Edenvia’s 50% off offer. Bottom panel = before/after feeling: old puffy, aching legs vs lighter legs by evening and slimmer ankles. Make the tone punchy, urgent, and quote-like; no competitor, no extra badges.\nText, exactly and nothing else:\n“Get lighter legs by evening with Edenvia — 50% off”\nMy heavy, swollen legs\nMy slimmer ankles\nDo NOT draw: any rival product, bottle, jar, pills, gummies, drops, certifications, badges, extra logos, extra text, changed layout, changed crop, or anything not in the template.",
+ "validator_errors": []
+}

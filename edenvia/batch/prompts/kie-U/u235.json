@@ -1,0 +1,16 @@
+{
+ "analysis": "Static UGC-style vertical ad template, simple phone-screenshot feel. Zones: top headline (problem/result), middle hero proof-shot holding product, bottom 3-step mini transformation strip. For Edenvia, the top zone becomes lymphatic bloating/heavy swollen legs; middle hero is the woman with the Edenvia pouch; bottom strip becomes before/after fluid release and lighter legs. No rival product needed because template is old-me/new-me, not a product comparison.",
+ "needs_rival": "none",
+ "template_lines": [
+  "This tiny balm",
+  "cleared my son’s",
+  "acne in just 9 days!"
+ ],
+ "our_lines": [
+  "My heavy, swollen legs",
+  "felt lighter by",
+  "evening in 9 days!"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Changes: top zone = heavy, swollen legs / water retention / puffy ankles; middle zone = woman 40–55 holding the Edenvia pouch in a clean testimonial shot; bottom zone = before/after mini strip showing fluid stuck in the legs then slimmer ankles / boots zip / lighter by evening. Text, exactly and nothing else: My heavy, swollen legs felt lighter by evening in 9 days! Do NOT draw: acne, balm, pills, bottle, jar, medical claims, extra logos, badges, certifications, or any product other than the Edenvia pouch.",
+ "validator_errors": []
+}

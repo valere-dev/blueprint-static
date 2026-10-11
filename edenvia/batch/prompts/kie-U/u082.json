@@ -1,0 +1,22 @@
+{
+ "analysis": "Format: minimal square static ad on off-white background, bold headline top, product visuals centered, short checklist under, logo bottom. Family: product-feature sale template. Mechanism: replace performance supplement bullets with Edenvia benefits for lymphatic bloating. Zones: headline = desire/urgency; product row = our pouch/usage result; checklist = benefit stack; bottom = logo.",
+ "needs_rival": "none",
+ "template_lines": [
+  "extended sale",
+  "5g creatine",
+  "Magnesium",
+  "Electrolytes",
+  "Vitamin D",
+  "ovrload"
+ ],
+ "our_lines": [
+  "extended sale ends soon",
+  "lighter legs by evening",
+  "Hydrogen",
+  "Magnesium",
+  "Minerals",
+  "Edenvia"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Changes: keep the same white background and centered stack; top headline becomes about heavy, swollen legs and lighter legs by evening; middle product image is the Edenvia pouch only; checklist becomes benefit words for water retention and drainage support; bottom logo is Edenvia. Text, exactly and nothing else: extended sale ends soon / lighter legs by evening / Hydrogen / Magnesium / Minerals / Edenvia. Do NOT draw: pills, gummies, drops, bottle, jar, extra badges, before-after body, medical claims, competitor names.",
+ "validator_errors": []
+}

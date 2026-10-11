@@ -1,0 +1,14 @@
+{
+ "analysis": "2-panel vertical meme/comic template; top zone = before/goal and emotional aspiration, bottom zone = contrast/failure/awkwardness. Role: top sells desired social confidence; bottom shows the lost/left-out feeling. For Edenvia, convert to lymphatic bloating: top = lighter legs, boots zip, evening comfort; bottom = heavy swollen legs, sock marks, hiding, ache by 5 p.m. No rival product needed because this is not a product-vs-product comparison, just a transformation template.",
+ "needs_rival": "none",
+ "template_lines": [
+  "STEP 1: GET SEXY",
+  "STEP 2: LET NO ONE HIT"
+ ],
+ "our_lines": [
+  "STEP 1: LIGHTER LEGS BY EVENING",
+  "STEP 2: LET THE SOCK MARKS DISAPPEAR"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Changes: top zone = woman 40–55 with puffy heavy swollen legs/ankles feeling confident because her boots zip and she wants lighter legs by evening; bottom zone = same woman hiding swollen legs, sock marks, aches by 5 p.m., looking frustrated. Text, exactly and nothing else: STEP 1: LIGHTER LEGS BY EVENING / STEP 2: LET THE SOCK MARKS DISAPPEAR. Do NOT draw: rival products, pills, capsules, bottles, jars, medical claims, badges, extra text.",
+ "validator_errors": []
+}

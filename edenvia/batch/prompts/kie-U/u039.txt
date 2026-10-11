@@ -1,14 +1,11 @@
-Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.  
-Changes: the tiny hanging pouch → our Edenvia pouch same spot and size; the woman → a 40–55 woman with heavy, swollen, puffy legs/ankles, slightly puffy face, serious expression, black top, dark studio background; the magenta accent bar → Edenvia blue #1468DB; keep the dramatic close-up, bold stacked left text, and product overlay.  
-Text, exactly and nothing else:  
-"THE CHIN HAIR IS"  
-"NOT THE PROBLEM."  
-"THE INFLAMMATORY RESPONSE"  
-"DRIVING IT IS."  
-"heavy, swollen legs"  
-"puffy"  
-"slimmer ankles"  
-"lighter legs by evening"  
-"ONE TABLET IN A GLASS OF WATER"  
-"30-DAY MONEY BACK GUARANTEE"  
-Not to draw: pills, capsules, powder, bottle, jar, competitor branding, disease names, medical claims, extra text, watermarks, busy background.
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it.
+
+Changes: keep the same black-background portrait composition; swap the face cue for a woman 40–55 with visibly puffy, swollen legs/ankles implied by the message; right side is the avatar/pain, left side is the claim. The highlighted middle line is the mechanism; the last line is the cause. No rival product. Edenvia pouch appears where the template product sits, but make it the white-to-sky-blue stand-up resealable pouch, not a bottle/jar/capsule. The pose and mood stay serious, premium, high-contrast.
+
+Text, exactly and nothing else:
+THE HEAVY, SWOLLEN LEGS ARE
+NOT THE REAL PROBLEM.
+THE OXIDATIVE STRESS
+CAUSING IT IS.
+
+Do NOT draw: bottle, jar, pills, gummies, drops, certification badges, extra logos, extra text, competitor names, hot water, capsules, powders, or any product other than the Edenvia pouch.

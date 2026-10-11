@@ -1,0 +1,20 @@
+{
+ "analysis": "Static square ad; one-zone single-product hero with large headline, small subhead, orange pill CTA, pouch centered, tiny disclaimer footer. Role: top headline = pain/desire; subhead + pill = mechanism/offer; hero product = ours only; footer = trust/legal microcopy.",
+ "needs_rival": "none",
+ "template_lines": [
+  "Don't let age 👵 be the excuse for your belly",
+  "REWIND THE CLOCK WITH",
+  "E27 LIQUID COLLAGEN",
+  "TRY BEFORE YOU BUY!",
+  "*These statements have not been evaluated by the Food and Drug Administration. The product is not intended to diagnose, treat, cure, or prevent any disease."
+ ],
+ "our_lines": [
+  "Don't let swollen legs be the excuse for your evening",
+  "DRIVE FLUID OUT WITH",
+  "EDENVIA MOLECULAR HYDROGEN",
+  "CLAIM LIGHTER LEGS NOW!",
+  "*These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease."
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Changes: keep the same warm tan/gold background and centered hero-product composition, but swap the bottle for the Edenvia stand-up resealable pouch only; top zone is for a woman with heavy, swollen legs and water retention by evening; the small middle line becomes a mechanism line about hydrogen and drainage support; the orange pill becomes a purchase CTA; all text must be in the same positions and style, rewritten for lymphatic bloating. Text, exactly and nothing else: Don't let swollen legs be the excuse for your evening / DRIVE FLUID OUT WITH / EDENVIA MOLECULAR HYDROGEN / CLAIM LIGHTER LEGS NOW! / *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease. Do NOT draw: pills, capsules, bottles, jars, competitor names, badges, certifications, extra logos, extra copy, hair/skin/gut/sugar themes, or any product other than the Edenvia pouch.",
+ "validator_errors": []
+}

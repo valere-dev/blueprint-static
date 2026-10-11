@@ -1,14 +1,1 @@
-Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
-
-Changes: swap the snack/meat for Edenvia Molecular Hydrogen effervescent tablets ritual; use a clear glass of water with one white tablet fizzing/dissolving as the hero object, lit by the scene; replace the hand-held food visual with a woman 40–55 showing heavy, swollen, puffy legs and ankles, socks leaving marks, boots won’t zip; use Edenvia blue (#1468DB) accents where the template uses brand color; keep the same vertical poster layout and bold headline style; include the stand-up resealable Edenvia pouch only if a product pack is shown, same spot and size, label readable exactly, white fading to sky blue with water droplets.
-
-Text, exactly and nothing else:
-"A SNACK THAT"
-"DOESN’T WRECK"
-"YOUR GUT"
-"GRASS-FED, GRASS-FINISHED MEAT & SALT. NOTHING ELSE."
-"ZERO ADDITIVES"
-"NO SEED OILS"
-"GUT FRIENDLY"
-
-Do not draw a bottle, jar, capsule, pill, powder, competitor brand, disease name, drug name, clinical claims, or extra text.
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Changes: keep the single-panel orange background and the same bold food-ad energy, but replace the snack with the Edenvia pouch and the avatar’s problem of heavy, swollen legs and water retention. Top headline = pain; middle ribbon = product/mechanism; three callouts = desired outcomes. Text, exactly and nothing else: A DAILY RITUAL THAT / DOESN'T BLOAT / YOUR LEGS / MOLECULAR HYDROGEN. 8 PPM PER TABLET. NOTHING ELSE. / REDUCES INFLAMMATION / SUPPORTS DRAINAGE / LIGHTER ANKLES. Do NOT draw: snack food, meat, bottle, jar, pills, capsules, competitor names, badges, certifications, extra copy, extra logos.

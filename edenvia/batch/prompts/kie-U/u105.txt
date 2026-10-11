@@ -1,16 +1,1 @@
----
-Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
-Changes: the mushroom bags → our stand-up resealable Edenvia pouch same spot and size; the top headline → about heavy, swollen legs and water retention for a 40–55 woman (“heavy, swollen legs”, “puffy”, “lighter legs by evening”); the six ingredient callouts → avatar pain-point benefits in the same positions; the red price burst → Edenvia blue (#1468DB) price burst with $39.00 (was $79.99) and 50%; persons → our female avatar only if shown. Use Manrope-like geometric sans.
-Text, exactly and nothing else:
-"HEAVY, SWOLLEN LEGS"
-"FOR GOOD"
-"PUFFY"
-"LIGHTER LEGS BY EVENING"
-"SLIMMER ANKLES"
-"NO BATHROOM RUNS"
-"REACHES THE FLUID STUCK IN YOUR LEGS"
-"IT’S NOT A FAT PROBLEM"
-"$39.00"
-"WAS $79.99"
-"50%"
-What NOT to draw: no capsules, pills, powder, bottle, jar, competitor names, disease names, drug names, or medical claims like clinically proven/FDA approved.
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Changes: top headline swaps muffin top for heavy, swollen legs and puffy ankles; middle 8-item grid becomes Edenvia benefits for a woman with heavy, swollen legs by 5 p.m.; bottom hero becomes the Edenvia pouch only, with the official logo, price badge changed to $39.00 was $79.99. Use the same premium warm cream background, same spacing and hierarchy, Manrope-like geometric sans, sell urgency. Text, exactly and nothing else: LOSE THE PUFFY LEGS / FOR GOOD / HYDROGEN / Drainage Support / MORNING TABLET / Oxidative Stress Defense / MINERALS / Water Retention Support / DAILY GLASS / Light-Leg Finish / MOUTH-TO-TISSUE / Inflammation Support / 8 PPM / Cellular Recovery / ONE-A-DAY / No Bathroom Runs / EDENVIA / MOLECULAR HYDROGEN / MOLECULAR HYDROGEN / $79.99 / $39.00. Do NOT draw: pills, bottles, jars, capsules, competitor names, badges, certifications, extra copy, changed layout, extra products.

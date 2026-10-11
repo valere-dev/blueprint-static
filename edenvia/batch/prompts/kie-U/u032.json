@@ -1,0 +1,28 @@
+{
+ "analysis": "Static comparison ad, split layout with left problem list and right solution product hero. Zone roles: left = rival/old routine + pain states; right = our Edenvia pouch + desired relief/outcome. Before/after comparison, no extra narrative.",
+ "needs_rival": "none",
+ "template_lines": [
+  "THE PROBLEM:",
+  "THE SOLUTION:",
+  "Hair thinning",
+  "Excessive shedding",
+  "Bald spots",
+  "Receding hairline",
+  "Brittle strands",
+  "Flaky scalp",
+  "TRY BEFORE YOU BUY"
+ ],
+ "our_lines": [
+  "THE PROBLEM:",
+  "THE SOLUTION:",
+  "Heavy, swollen legs",
+  "Puffy ankles by 5 p.m.",
+  "Sock marks",
+  "Boots won’t zip",
+  "Aching, tender calves",
+  "Water retention",
+  "TRY ONE GLASS A DAY"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it.\nChanges: left side is the PROBLEM = swollen legs, sock marks, boots won’t zip, aching calves, water retention; right side is the SOLUTION = Edenvia pouch, lighter legs by evening, slimmer ankles, one white tablet in a glass once a day, drains fluid. No rival product shown. Keep the vertical divider and bottom CTA shape.\nText, exactly and nothing else:\nTHE PROBLEM:\nTHE SOLUTION:\nHeavy, swollen legs\nPuffy ankles by 5 p.m.\nSock marks\nBoots won’t zip\nAching, tender calves\nWater retention\nTRY ONE GLASS A DAY\nDo NOT draw: capsules, pills, bottles, jars, hair imagery, extra badges, seals, or any text beyond the lines above.",
+ "validator_errors": []
+}

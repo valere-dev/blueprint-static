@@ -1,14 +1,1 @@
-Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).  
-Changes: the woman → our avatar, a 40–55 woman with heavy, swollen, puffy legs and ankles; keep the same smiling studio portrait framing. The boxed product → Edenvia Molecular Hydrogen pouch in the lower-right same spot and size, label readable, white fading to sky blue with water droplets, lit by the scene. The badge → Edenvia blue, same placement and seal style.  
-Text, exactly and nothing else:  
-"93%"  
-"reclaimed their life — and wished"  
-"they'd started sooner"  
-"30-Day Money Back Guarantee"  
-"Rated 4.9/5"  
-"12,000+ customers"  
-"Trusted by healthcare professionals"  
-"Third-party lab tested"  
-"GENERATES 8PPM OF HYDROGEN PER TABLET"  
-"30 TABLETS | 30 DAY SUPPLY"  
-Do not draw pills, capsules, powders, bottles, jars, competitor names, disease names, drug names, hot water, or any extra text.
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Changes: keep the same single-panel layout; top stat becomes heavy, swollen legs/water retention proof; the portrait is a woman 40–55 with puffy legs/ankles, relieved and confident; bottom-right product is the Edenvia pouch; bottom-left badge becomes our guarantee. Text, exactly and nothing else: 93% / reclaimed their lighter legs — and wished / they found Edenvia sooner / MONEY BACK / 30 / DAY / GUARANTEE / Edenvia / MOLECULAR HYDROGEN / GENERATES 8PPM OF HYDROGEN PER TABLET. Do NOT draw: rival products, pills, gummies, drops, jars, bottles, certification seals, extra claims, disease names, or any text not listed.

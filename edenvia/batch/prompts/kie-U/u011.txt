@@ -1,10 +1,19 @@
----
-Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
-Changes: the left coffee → a clear glass of water with one white effervescent tablet dissolving; the right coffee → same glass with calmer, brighter water; the coffee cups → our Edenvia pouch shown exactly, same spot and size, replacing the left product area; the brand colour → Edenvia blue (#1468DB) and deep navy accents; the template’s “before/after” contrast → before/after lymphatic bloating, with a woman 45–50 showing heavy, swollen, puffy legs and ankles on the left, then visibly lighter legs and slimmer ankles on the right.
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Image 4 is the rival product for the losing side.
+Changes: keep the same two-column comparison. Left zone = old/wrong routine with generic WATER PILLS and the avatar suffering heavy, swollen legs, sock marks, bathroom runs, and nothing changes. Right zone = Edenvia pouch and the avatar's desire: lighter legs by evening, slimmer ankles, boots zip, one glass a day. Use the product image exactly on the winning side only.
 Text, exactly and nothing else:
-"OLD ME" / "VS" / "NEW ME"
-"HEAVY, SWOLLEN LEGS" / "SLIMMER ANKLES"
-"ONE TABLET IN WATER" / "30 DAYS SUPPLY"
-"NO MERELY WATER RETENTION" / "DRAINAGE SUPPORT"
-"1 TABLET A DAY" / "8 PPM OF HYDROGEN"
-Do not draw any competitor logo, no disease name, no drug name, no capsule, pill, powder, bottle, or jar.
+@edenvia
+Old Me
+vs
+New Me
+HARD, SWOLLEN LEGS BY 5 P.M.
+WATER PILLS (bathroom runs)
+Low hydration recovery
+Sock marks, boots won't zip
+Nothing changes
+LIGHTER LEGS BY EVENING
+Edenvia hydrogen tablets (1 glass daily)
+8 PPM hydrogen
+Flushes water retention
+Slimmer ankles, boots zip
+Edenvia
+Do NOT draw: extra logos, badges, bottles, jars, capsules, pills on the Edenvia side, new claims, new text, or layout changes.

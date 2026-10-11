@@ -1,0 +1,28 @@
+{
+ "analysis": "Static split-sale ad. Left zone = brand/title, headline, offer bullets, proof, guarantee. Right zone = lifestyle hero + testimonial. Mechanism is a sale/promo layout with a one-glance promise: fast relief-oriented daily ritual vs current suffering. No rival product needed because the template is not product-vs-product; it is a split offer template with a product/lifestyle hero.",
+ "needs_rival": "none",
+ "template_lines": [
+  "MUD\\WTR",
+  "Our Biggest Sale Of The Year",
+  "+ FREE FROTHER",
+  "+ FREE OPEN MINDFULNESS APP",
+  "+ FREE SHIPPING",
+  "Money-Back Guarantee",
+  "Over 50k 5-star reviews",
+  "*I love my morning cup. I like the taste and it’s just a little something for me to enjoy in the morning.*",
+  "-Cheyenne H"
+ ],
+ "our_lines": [
+  "Edenvia",
+  "Our Biggest Leg-Lifting Sale Of The Year",
+  "+ FREE Cellular Recovery Protocol",
+  "+ FREE express shipping on the 5-pack",
+  "+ 30-Day Money Back Guarantee",
+  "30-Day Money Back Guarantee",
+  "Rated 4.9/5 | 12,000+ customers",
+  "*My heavy, swollen legs felt lighter by evening. My boots zip again, and I finally feel like it’s not a fat problem.*",
+  "-Cheyenne H"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it.\nChanges: left zone is the Edenvia sale stack and proof; right zone is the avatar’s swollen-legs lifestyle result, before/after feeling in her words; same split white/beige composition, no rival product, no extra objects.\nText, exactly and nothing else:\nEdenvia\nOur Biggest Leg-Lifting Sale Of The Year\n+ FREE Cellular Recovery Protocol\n+ FREE express shipping on the 5-pack\n+ 30-Day Money Back Guarantee\n30-Day Money Back Guarantee\nRated 4.9/5 | 12,000+ customers\n*My heavy, swollen legs felt lighter by evening. My boots zip again, and I finally feel like it’s not a fat problem.*\n-Cheyenne H\nDo NOT draw: extra logos, badges, pills, gummies, bottles, jars, capsules, app screens, frother, coffee brand marks, medical claims, competitor names.",
+ "validator_errors": []
+}

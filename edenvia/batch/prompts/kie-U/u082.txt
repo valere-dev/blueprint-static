@@ -1,14 +1,1 @@
-Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen stand-up resealable pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.  
-Changes: the three green blocks → three white effervescent tablets, same size and spacing; the brand logo at bottom → Edenvia wordmark with small atom icon in Edenvia blue (#1468DB); the accent glow → Edenvia blue/ice blue.  
-Text, exactly and nothing else:  
-"extended sale"  
-"30 tablets"  
-"Daily ritual"  
-"One tablet in a glass of water"  
-"3 minutes to dissolve"  
-"Drink once a day"  
-"Never hot water"  
-"for heavy, swollen legs"  
-"lighter by evening"  
-"water retention"  
-NOT TO DRAW: any capsule, pill bottle, jar, powder, competitor name, disease name, drug name, extra text, people, or clutter.
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Changes: keep the same white background and centered stack; top headline becomes about heavy, swollen legs and lighter legs by evening; middle product image is the Edenvia pouch only; checklist becomes benefit words for water retention and drainage support; bottom logo is Edenvia. Text, exactly and nothing else: extended sale ends soon / lighter legs by evening / Hydrogen / Magnesium / Minerals / Edenvia. Do NOT draw: pills, gummies, drops, bottle, jar, extra badges, before-after body, medical claims, competitor names.

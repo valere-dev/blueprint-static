@@ -1,0 +1,16 @@
+{
+ "analysis": "Format: cozy lifestyle ad with a large headline top, product hero on a dresser right foreground, bedroom scene as context, and a bottom brand/product lockup with short benefit line. Family: before/after implied by bedtime chaos vs calm sleep. Mechanism role: product promises wind-down; for Edenvia we reframe as fluid-drainage/water-retention relief for swollen legs. Zones: top = pain headline, scene = suffering at day’s end, right foreground = ours/product hero, bottom = brand + short benefit + CTA-like line.",
+ "needs_rival": "none",
+ "template_lines": [
+  "Tired of bedtime battles?",
+  "Kids Bedtime Essentials",
+  "Helps kids wind down. Melatonin-free."
+ ],
+ "our_lines": [
+  "Tired of heavy, swollen legs by 5 p.m.?",
+  "Edenvia Cellular Recovery",
+  "Flushes fluid. Lighter legs by evening. 8 PPM hydrogen."
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it.\nChanges: top headline becomes swollen legs/water retention pain; the room scene becomes a woman’s evening frustration with sock marks, puffy ankles, boots that won’t zip; right foreground shows the Edenvia pouch as the hero product; bottom line becomes a sharper fluid-drainage benefit and brand lockup.\nText, exactly and nothing else:\nTired of heavy, swollen legs by 5 p.m.?\nEdenvia Cellular Recovery\nFlushes fluid. Lighter legs by evening. 8 PPM hydrogen.\nDo NOT draw: a bottle, jar, pills, gummies, drops, a baby/child theme, medical badges, fake certifications, extra logos, or any product other than the Edenvia pouch.",
+ "validator_errors": []
+}

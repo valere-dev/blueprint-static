@@ -1,0 +1,18 @@
+{
+ "analysis": "Single-image vertical static ad, black background, close-up female portrait right side, bold stacked left-side text blocks. Mechanism: diagnosis-reversal headline with a highlighted middle phrase. Zones: right = suffering/diagnosis image; left = claim. No before/after split, no rival product, no comparison template in the strict sense.",
+ "needs_rival": "none",
+ "template_lines": [
+  "THE CHIN HAIR IS",
+  "NOT THE PROBLEM.",
+  "THE ZINC DEFICIENCY",
+  "DRIVING IT IS."
+ ],
+ "our_lines": [
+  "THE HEAVY, SWOLLEN LEGS ARE",
+  "NOT THE REAL PROBLEM.",
+  "THE OXIDATIVE STRESS",
+  "CAUSING IT IS."
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it.\n\nChanges: keep the same black-background portrait composition; swap the face cue for a woman 40–55 with visibly puffy, swollen legs/ankles implied by the message; right side is the avatar/pain, left side is the claim. The highlighted middle line is the mechanism; the last line is the cause. No rival product. Edenvia pouch appears where the template product sits, but make it the white-to-sky-blue stand-up resealable pouch, not a bottle/jar/capsule. The pose and mood stay serious, premium, high-contrast.\n\nText, exactly and nothing else:\nTHE HEAVY, SWOLLEN LEGS ARE\nNOT THE REAL PROBLEM.\nTHE OXIDATIVE STRESS\nCAUSING IT IS.\n\nDo NOT draw: bottle, jar, pills, gummies, drops, certification badges, extra logos, extra text, competitor names, hot water, capsules, powders, or any product other than the Edenvia pouch.",
+ "validator_errors": []
+}

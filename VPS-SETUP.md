@@ -66,13 +66,16 @@ demo page under `edenvia/pages/`, and send the two links. Budget per round: $30 
 ```
 git pull    # brings rules C23 + B23, brief c0138 (-50%), edenvia/assets/product/library/ (14 photos + INDEX.md), brand.json product_library
 ```
-1. **Product library.** 13 photos did not fit through the cloud session's Drive channel. Fetch them from the founder's folder
-   `https://drive.google.com/drive/folders/1yRiSc4xCw66dJdPtz_FzLD0cEJ1RbeWd` (founder: set the folder to "anyone with the link" for
-   the time of the download, or export it to the VPS yourself), file names: IMG (10), (12), (13), (14), (15), (16), (17), (146), IMG A,
-   IMG W (1), IMG W (5), IMGW (3). Downscale lifestyle shots to 1536 px JPEG q92, keep product-only shots full size PNG, add each to
-   `library/INDEX.md` with one line saying what it shows. Then build the cutouts: pouch standing (from `studio_pouch-ice-bowl-glass-straw-v2.png`),
-   pouch in hand with the hand (from `hand_pouch-kitchen.jpg` and `people_*`), tablets (from `flatlay_pouch-tablets-drops.png`). Save them as
-   `edenvia/assets/product/cutouts/<name>.png` and point `brand.json` `product_cutout` at the standing one.
+1. **Product library.** The founder's folder is now public ("anyone with the link"). On the VPS:
+   ```
+   pip install -q gdown
+   mkdir -p /tmp/edenvia-prodref && gdown --folder --remaining-ok -O /tmp/edenvia-prodref "https://drive.google.com/drive/folders/1yRiSc4xCw66dJdPtz_FzLD0cEJ1RbeWd"
+   ```
+   Then run `python3 $SKILL/../sort-ad/../../edenvia/assets/product/library/import_library.py /tmp/edenvia-prodref` — it imports only the files not yet in
+   `edenvia/assets/product/library/` (lifestyle shots → 1536 px JPEG q92, product-only shots → full-size PNG), appends one line per file to
+   `INDEX.md` with a placeholder description to fill after looking at each image, and skips the three logos. Then build the cutouts: pouch standing (from
+   `studio_pouch-ice-bowl-glass-straw-v2.png`), pouch in hand with the hand (from `hand_pouch-kitchen.jpg` and `people_*`), tablets (from
+   `flatlay_pouch-tablets-drops.png`). Save them as `edenvia/assets/product/cutouts/<name>.png` and point `brand.json` `product_cutout` at the standing one.
 2. **Redo S1–S10 per C23**: keep every validated pixel (D21), replace only the pouch placement: right library cutout for the slot, scaled to the
    template's product size or bigger, droplets kept, colour grade and contact shadow matched, hand from the library when the template's product is
    held. S2 also gets the button `-50%` (B23). Masters in `out/_raw/`, outputs 1080 wide (D15).

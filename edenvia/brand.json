@@ -1,0 +1,193 @@
+{
+  "_comment": "Edenvia brand file — FIRST PASS, not yet validated by the founder. Copied from the blank template in .claude/skills/static-ads/brand.json and filled from sourced material only. Every value carries a source in BRAND-KIT.md. [MISSING] = unknown, [TO CONFIRM] = sourced but awaiting founder sign-off. Lint blocks generation while a used value holds [MISSING]. Scripts find this file via SAC_WORKDIR=<repo>/edenvia. Keys starting with _ are notes.",
+  "_status": "DRAFT v0.1 — 2026-10-11 — awaiting founder validation",
+  "name": "EDENVIA",
+  "file_prefix": "Edenvia",
+  "wordmark": "EDENVIA",
+  "icon_description": "the Edenvia atom icon only (two crossed elliptical orbit rings with two small round dots, the H2 molecule), NO letters — pasted by script from the official file (D19), never drawn by the model",
+  "product_noun": "pouch",
+  "product_photo": "[MISSING] edenvia/assets/product/edenvia-molecular-hydrogen-pouch.png — real packshot, front label readable, neutral background, high resolution (Image 1 of every generation). Shopify product image 1P.png is a candidate but could not be fetched from this environment; founder to provide the source file.",
+  "product_cutout": "[MISSING] edenvia/assets/product/edenvia-molecular-hydrogen-pouch-cutout.png — transparent PNG, tight crop, upright, front label, 800 px tall minimum (pasted by composite.py)",
+  "product_lock": "[TO CONFIRM] the EDENVIA Molecular Hydrogen tablet pouch. Reproduce it exactly as in Image 1: a stand-up resealable pouch, white at the top fading to light blue at the bottom, the Edenvia atom icon and the EDENVIA wordmark in dark navy at the top, MOLECULAR HYDROGEN in bold dark navy capitals below it, a small descriptor line under the name, a short benefit line, the words DIETARY SUPPLEMENT and the tablet count near the bottom. [MISSING] exact label lines in reading order — founder to transcribe from the physical pouch.",
+  "lock_extra": "Leave every brand-logo spot outside the label EMPTY (plain background, no icon, no letters) — the official logo is pasted there by script afterwards.",
+  "_fonts_note": "fonts_dir defaults to scripts/fonts (Anton, Montserrat, Oswald, Fredoka). Brand font per Konvert scrape of edenvia.com: Manrope [TO CONFIRM]. Add the file as {\"Manrope\": \"edenvia/assets/fonts/Manrope.ttf\"} once provided.",
+  "fonts": {},
+  "colors": {
+    "accent": "#1468DB",
+    "accent_hover": "#176DE1",
+    "navy": "#14488F",
+    "deep_navy": "#172A54",
+    "darkest_navy": "#0A1327",
+    "steel_blue": "#547AAB",
+    "ice_blue": "#EAF1F9",
+    "soft_blue": "#CCDDF1",
+    "white": "#FFFFFF",
+    "near_black": "#121212",
+    "_source": "Drive › Edenvia › Branding | Logo › Colors (Google Doc, 2026-04-16). Konvert's scrape of edenvia.com reports primary #0E4DD3 — the Colors doc wins."
+  },
+  "product": {
+    "what": "[TO CONFIRM] 30 effervescent tablets per pouch, 1 tablet a day dissolved in a glass of room-temperature or chilled water (dissolves in ~3 minutes, drink within 30 minutes, never hot water). Ingredients per product page analysis (2026-03): molecular hydrogen (H2), magnesium blend, citric acid, mineral support complex. [MISSING] amounts per tablet, PPM of hydrogen per tablet.",
+    "ingredient_visual": "[TO CONFIRM] a clear glass of water with a white tablet fizzing at the bottom and fine hydrogen bubbles rising; the water stays clear and clean. Never a cloudy, coloured or foamy drink.",
+    "capsule_visual": "[TO CONFIRM] a round, flat, white effervescent tablet, matte, no coating, no imprint — never a capsule, never a pill in a blister, never a powder scoop.",
+    "not": "[TO CONFIRM] never a capsule, never a gel cap, never a powder, never a bottle of liquid, never a water bottle with a built-in generator"
+  },
+  "offer": {
+    "price": "[TO CONFIRM] $79.99 — Shopify live variant price (SKU 51358823). The founder's brief said $79.90: reconcile before the first batch.",
+    "compare_at": "[MISSING] no compare-at price on the Shopify variant; the landing page may show one — founder to confirm",
+    "deal": "[MISSING] site shows one-time post-purchase offers (2 bags $54.00, 3 bags $81.00) — these are checkout upsells, NOT for ads unless the founder says so",
+    "guarantee": "[TO CONFIRM] 30-day money-back guarantee — founder brief; product page (2026-03) wording was \"See Results in 30 Days or Get Your Money Back\"",
+    "_note": "site-only offers (autoship, subscription, 50% off with subscription) are NEVER mentioned in ads"
+  },
+  "prices_allowed": [
+    "[TO CONFIRM] $79.99"
+  ],
+  "_prices_note": "Every $ amount in an ad must be in this list (B20). While it holds [MISSING]/[TO CONFIRM], lint blocks any price.",
+  "proof": [
+    "[TO CONFIRM] \"12,674 reviews\" — product page analysis 2026-03-07; recheck the live count before use",
+    "[TO CONFIRM] \"50,000+ sold\" — product page analysis 2026-03-07; recheck",
+    "[TO CONFIRM] \"Rated 4.9/5\" — product page analysis 2026-03-07; recheck",
+    "[TO CONFIRM] \"Third-party lab tested\" — product page claim; needs the certificate on file",
+    "[MISSING] any customer survey stat (e.g. \"X% felt less morning stiffness*\") — none on file; do not invent one"
+  ],
+  "avatar": {
+    "who": "[TO CONFIRM] women and men 50–65, US, greying or silver hair, soft midlife build, formerly active; primary persona \"Carol\", 56, grandmother (Creative Strategy Report, 2026-03-07). Never a young fitness model.",
+    "core_problem": "[TO CONFIRM] stiff, achy joints — the morning stiffness and knee/back pain that make her feel her body is betraying her (default angle A1)",
+    "secondary_problems": [
+      "[TO CONFIRM] acid reflux / heartburn after meals (landing angle)",
+      "[TO CONFIRM] heart and arteries worry (landing angle)",
+      "[TO CONFIRM] kidney worry, often tied to years of painkillers (landing angle)",
+      "[TO CONFIRM] low energy, afternoon crash (landing angle)",
+      "[TO CONFIRM] stress (Shopify landing handle molecular-hydrogen-stress)",
+      "[TO CONFIRM] longevity / healthy aging (Shopify landing handle edenvia-molecular-hydrogen-longevity-avatar)"
+    ],
+    "hides_it_by": [
+      "[TO CONFIRM] holding the rail on stairs, pausing before getting up from a chair",
+      "[TO CONFIRM] skipping the walk, the garden, the grandkids on the floor",
+      "[TO CONFIRM] a bottle of ibuprofen in the bag, the car, the kitchen"
+    ],
+    "already_tried": [
+      "[TO CONFIRM] ibuprofen / Advil, naproxen / Aleve, Tylenol",
+      "[TO CONFIRM] turmeric / curcumin, glucosamine, fish oil, CBD, collagen",
+      "[TO CONFIRM] prescriptions (gabapentin, diclofenac, steroid shots)",
+      "[TO CONFIRM] diets, stretching, yoga"
+    ],
+    "pleasure_he_keeps": "[TO CONFIRM] her coffee, her garden, long walks, time on the floor with the grandkids — nothing to give up: one tablet in a glass of water",
+    "proud_proof": [
+      "[TO CONFIRM] first step out of bed without the negotiation",
+      "[TO CONFIRM] stairs without the rail, chair without the push",
+      "[TO CONFIRM] the ibuprofen bottle left untouched in the cabinet",
+      "[TO CONFIRM] a full morning in the garden, an afternoon on the floor with the grandkids"
+    ]
+  },
+  "mechanism": "[TO CONFIRM] plain words: the tablet turns a glass of water into hydrogen-rich water; hydrogen is the smallest molecule there is, so it reaches every cell and helps the body handle the everyday oxidative stress that drives stiffness and low energy. Structure/function wording only. Jargon never printed: selective antioxidant, hydroxyl radical, PPM, oxidative stress (as a headline), inflammation (as a disease claim), NSAID.",
+  "angles": [
+    {
+      "id": "A1",
+      "name": "[TO CONFIRM] Inflammation & stiffness — stiff joints, morning stiffness, the painkiller trap",
+      "default": true
+    },
+    {
+      "id": "A2",
+      "name": "[TO CONFIRM] Acid reflux — heartburn after meals, off the antacids"
+    },
+    {
+      "id": "A3",
+      "name": "[TO CONFIRM] Heart & arteries"
+    },
+    {
+      "id": "A4",
+      "name": "[TO CONFIRM] Kidneys — years of painkillers"
+    },
+    {
+      "id": "A5",
+      "name": "[TO CONFIRM] Energy — the afternoon crash"
+    },
+    {
+      "id": "A6",
+      "name": "[TO CONFIRM] Stress"
+    },
+    {
+      "id": "A7",
+      "name": "[TO CONFIRM] Longevity / healthy aging"
+    }
+  ],
+  "_angles_note": "Five angles come from the founder's brief (existing landing pages); A6 and A7 come from Shopify landing-page handles. The founder picks the default and may drop any. The mechanism map and angle cards are built in step 2 (1-understand/new-brand-worksheet.md).",
+  "competitors": [
+    "Dr. Mercola",
+    "Mercola",
+    "Drink HRW",
+    "HRW",
+    "Quicksilver Scientific",
+    "H2 Elite",
+    "H2TAB",
+    "Vital Reaction",
+    "Active H2",
+    "Gundry",
+    "Gundry MD"
+  ],
+  "_competitors_source": "Drive › Molecular Hydrogen › 09_competitor_teardown.md (2026-03-07). The competitor whose 35 ads we clone in step 1 is [MISSING] — founder's choice.",
+  "banned": {
+    "\\b(treat|treats|treating|cure|cures|curing|prevent|prevents|reverse|reverses|heal|heals|remedy|therapy for)\\b": "compliance (DSHEA): no disease treatment / cure / prevention claim",
+    "\\b(manage|manages|managing) (your |the )?(arthritis|reflux|GERD|blood sugar|pain|condition)": "compliance (DSHEA): 'manage [condition]' is a drug claim",
+    "\\b(arthritis|GERD|fibromyalgia|neuropathy|heart disease|kidney disease|fatty liver|autoimmune|cognitive decline|anxiety|depression)\\b": "compliance: never name a disease or medical condition",
+    "\\b(FDA[- ]approved|clinically proven|clinical proof|guaranteed results)\\b": "compliance: no clinical-proof or FDA claim (product page says 'clinically inspired', never 'proven')",
+    "\\b(doctor|doctors|physician|MD\\b|PhD|celebrity|Dr\\.)": "compliance: no doctors, no celebrities, no invented authority (phone KB §5, rules file)",
+    "\\b(replaces? (your )?(PPIs?|antacids?|painkillers?|ibuprofen|Advil|Aleve|Tylenol|NSAIDs?))": "compliance: never say it replaces a medication (phone KB §5)",
+    "\\b(autoship|subscription|subscribe|subscribe & save|50% off)\\b": "site-only offers never in ads",
+    "\\b(selective antioxidant|hydroxyl radical|PPM|oxidative stress|NSAID|NSAIDs|bioavailab\\w+)\\b": "B4: mechanism jargon never printed",
+    "\\b(Mercola|HRW|Quicksilver|H2TAB|Gundry|Vital Reaction)\\b": "competitor names never printed",
+    "\\bmen over 40\\b|\\bwomen over 40\\b": "A11: never an age-callout line that misreads the avatar (reuse of Wildhorn rule)",
+    "\\b(capsule|capsules|gel ?cap|pill|pills|powder|scoop)\\b": "C2: the product is an effervescent tablet, never a capsule / pill / powder"
+  },
+  "compliance": [
+    "Structure/function claims only: 'supports', 'helps maintain', 'may support'. Never diagnose, treat, cure, prevent, reverse, heal, manage a condition (DSHEA rollout doc, 2026-09-21).",
+    "Never name a disease or medical condition in headline or body.",
+    "No doctors, no celebrities, no invented experts or institutions.",
+    "No fake testimonials presented as real; no stat without a real source and its footnote.",
+    "No body before/after presented as a real customer.",
+    "Never say it replaces a medication or that someone should stop a medication.",
+    "Disclaimer slot (only where the template has the slot, short DSHEA version): 'These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.'",
+    "[TO CONFIRM] 'Results may vary' allowed as a footnote where the template carries one."
+  ],
+  "angle_keyword": {
+    "loose": "\\b(pain|stiff|stiffness)\\b",
+    "required_any": "stiff joints|joint stiffness|morning stiffness|achy joints|joint pain|stiff knees|stiff back",
+    "angle_prefix": "A1",
+    "msg": "B2: on the default angle name the core problem in plain words — 'stiff joints' / 'morning stiffness' / 'achy joints', never just 'pain' or 'stiff' [TO CONFIRM wording with the founder]"
+  },
+  "visual_checks": [
+    {
+      "if": "\\b(capsule|capsules|pill|pills|gel ?cap|powder|scoop)\\b",
+      "unless": "effervescent tablet",
+      "msg": "C2: Edenvia is an effervescent tablet dropped in a glass of water — never a capsule, pill or powder"
+    },
+    {
+      "if": "\\b(cloudy|murky|foam|foamy|coloured water|colored water|green|pink)\\b",
+      "unless": "clear water",
+      "msg": "C2: the glass stays clear and clean with fine rising bubbles — never cloudy, foamy or coloured"
+    },
+    {
+      "if": "\\b(bottle|jar|tub|blister)\\b",
+      "unless": "pouch",
+      "msg": "D6: the container is a stand-up pouch — never a bottle, jar, tub or blister"
+    },
+    {
+      "if": "\\b(hot water|boiling|tea|coffee)\\b",
+      "unless": "never",
+      "msg": "product fact: the tablet goes in room-temperature or chilled water, never hot water"
+    }
+  ],
+  "logo_files": {
+    "dark_bg": "edenvia/assets/logo/edenvia-logo-white-nobg.png",
+    "light_bg": "[TO CONFIRM] edenvia/assets/logo/edenvia-logo-blue-nobg.png",
+    "icon_only": "edenvia/assets/logo/edenvia-logo-500-nobg.png",
+    "_rule": "D19: pasted by script in the template's logo slot; never upscaled",
+    "_note": "The white wordmark file (5818x1080) has jagged edges at full size — a clean export (SVG or lossless PNG) from the source file is needed before it is pasted at large sizes. The 500x500 icon file carries the icon on a blue gradient disc; a transparent icon without the disc is [MISSING]."
+  },
+  "site": {
+    "domain": "edenvia.com",
+    "signoff": "[TO CONFIRM] edenvia.com",
+    "support_email": "support@edenvia.com",
+    "_source": "Shopify shop info (Shopify Plus, USD, United States). Older docs (phone KB, strategy report) say tryedenvia.com — superseded, founder confirmed edenvia.com on 2026-10-11."
+  }
+}

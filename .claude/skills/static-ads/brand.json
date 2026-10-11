@@ -1,0 +1,104 @@
+{
+  "_template": true,
+  "_comment": "BLANK brand file. Copy it to your brand's working folder ($SAC_WORKDIR/brand.json) and replace every [MISSING] from BRAND-KIT.md (section 'brand.json — key by key'). Scripts find it via scripts/sac_config.py: $BRAND_JSON > $SAC_WORKDIR/brand.json > this file (which only warns: it is the template). Filled example: the wildhorn-static-ads skill's brand.json. Keys starting with _ are notes.",
+  "name": "[MISSING]",
+  "file_prefix": "[MISSING]",
+  "wordmark": "[MISSING]",
+  "icon_description": "[MISSING] the official logo file, pasted by script (never drawn by the model — D19)",
+  "product_noun": "[MISSING] jar / pouch / bottle / box",
+  "product_photo": "[MISSING] /abs/path/product.jpg (Image 1 of every generation)",
+  "product_cutout": "[MISSING] /abs/path/product-cutout.png (transparent, pasted by composite.py)",
+  "product_lock": "[MISSING] the BRAND product NAME <container>. Reproduce it exactly as in Image 1: <every visible packaging element in reading order>.",
+  "lock_extra": "[MISSING] Leave every brand-logo spot outside the label EMPTY (plain background, no icon, no letters) — the official logo is pasted there by script afterwards.",
+  "_fonts_note": "fonts_dir defaults to scripts/fonts (Anton, Montserrat, Oswald, Fredoka). Add brand fonts as {\"Name\": \"/abs/path.ttf\"}.",
+  "fonts": {},
+  "colors": {
+    "accent": "[MISSING]"
+  },
+  "product": {
+    "what": "[MISSING] form, count, dose, ingredients",
+    "ingredient_visual": "[MISSING] how the ingredient must look in an ad",
+    "capsule_visual": "[MISSING] how the capsule / pill / powder looks"
+  },
+  "offer": {
+    "price": "[MISSING]",
+    "compare_at": "[MISSING]",
+    "deal": "[MISSING]",
+    "guarantee": "[MISSING]",
+    "_note": "site-only offers (autoship, subscription…) are NEVER mentioned in ads"
+  },
+  "prices_allowed": [
+    "[MISSING]"
+  ],
+  "_prices_note": "Every $ amount in an ad must be in this list (B20). While it holds [MISSING], lint blocks any price.",
+  "proof": [
+    "[MISSING] exact claim + footnote/source"
+  ],
+  "avatar": {
+    "who": "[MISSING] age range + look of every person shown as the customer",
+    "core_problem": "[MISSING]",
+    "secondary_problems": [
+      "[MISSING]"
+    ],
+    "hides_it_by": [
+      "[MISSING]"
+    ],
+    "already_tried": [
+      "[MISSING]"
+    ],
+    "pleasure_he_keeps": "[MISSING]",
+    "proud_proof": [
+      "[MISSING]"
+    ]
+  },
+  "mechanism": "[MISSING] the hidden cause in plain words (+ the jargon never to print)",
+  "angles": [
+    {
+      "id": "A1",
+      "name": "[MISSING]",
+      "default": true
+    },
+    {
+      "id": "A2",
+      "name": "[MISSING]"
+    },
+    {
+      "id": "A3",
+      "name": "[MISSING]"
+    }
+  ],
+  "competitors": [],
+  "_competitors_example": [
+    "Competitor A",
+    "Competitor B"
+  ],
+  "banned": {},
+  "_banned_example": {
+    "\\bdoctor|\\bcelebrity": "compliance: no doctors / celebrities",
+    "\\bsome-jargon": "B4 no mechanism jargon"
+  },
+  "compliance": [
+    "[MISSING] e.g. no fake testimonials presented as real",
+    "no doctors or celebrities"
+  ],
+  "angle_keyword": null,
+  "_angle_keyword_example": {
+    "loose": "\\bbelly\\b",
+    "required_any": "beer belly|belly fat",
+    "angle_prefix": "A1",
+    "msg": "B2 say 'beer belly', not just 'belly'"
+  },
+  "visual_checks": [],
+  "_visual_checks_example": [
+    {
+      "if": "\\bcapsules?\\b",
+      "unless": "transparent",
+      "msg": "C2 generic capsule — show the ingredient inside a transparent capsule"
+    }
+  ],
+  "logo_files": {
+    "dark_bg": "[MISSING] /abs/path/logo-light.png (for dark backgrounds)",
+    "light_bg": "[MISSING] /abs/path/logo-dark.png (for light backgrounds)",
+    "_rule": "D19: pasted by script in the template's logo slot; never upscaled"
+  }
+}

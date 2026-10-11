@@ -22,3 +22,13 @@ Family 2: Before-after / timeline
 - 27_BA_3929_before.webp — code BA → Before/After = F2 (sure)
 - 28_BA_4209_before.webp — code BA → Before/After = F2 (sure)
 - 32_ST_4640_before.webp — code ST → Stat shown before -> after = F2 (probable, runner-up F7)
+
+
+## Image_Ad_Concepts — sorted by sort-ad (2026-10-11) — 5 ads
+Source: founder's `Image_Ad_Concepts`. Original filenames kept; "dup:" = a byte-identical copy also sat at that path.
+
+- IMG - Whiteboard - Whiteboard Transformation.jpg — probable — cue: whiteboard stages March → April → May on the same chest; "get 50% off" is the closing line — runner-up: F6 — format: Whiteboard drawing timeline — from: Bottom of Funnel/Whiteboard/ (dup: Middle of Funnel/)
+- Percentage Facts 3.jpg — probable — cue: before/after face photos under the stat — runner-up: F7 — format: Stat + before/after photos — from: Middle of Funnel/15-Percentage Facts/ (dup: Middle of Funnel/)
+- IMG - Transformation - Before & After (2).jpg — probable — cue: same man twice, before slumped / after with product, "flat gut in 21 days" — runner-up: F1 — format: Split before/after photo — from: Middle of Funnel/
+- IMG - Transformation - Before & After.jpg — sure — cue: "I went from this TO this" two belly close-ups with arrow — format: Before/after circles + product — from: Middle of Funnel/
+- IMG - Whiteboard Sketch Pitch.jpg — probable — cue: whiteboard "from this... to this!" stick figures + product in hand — runner-up: F7 — format: Whiteboard drawing before/after — from: Middle of Funnel/

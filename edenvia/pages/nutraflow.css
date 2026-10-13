@@ -1,0 +1,110 @@
+/* Nutraflow design system override — "Nutraflow white" (light) edition for blueprint.nutraflow.app.
+   Same skeleton and class hooks as the nutraflow.css of index.nutraflow.app (zinc + emerald, system font),
+   colours flipped to the light palette. Colours + polish only, no layout changes. Single theme by choice:
+   the page stays white whatever the OS setting. */
+:root{
+  --nf-bg:#fafafa;--nf-panel:#ffffff;--nf-panel2:#f4f4f5;--nf-panel3:#e4e4e7;
+  --nf-line:#e4e4e7;--nf-line-strong:#d4d4d8;
+  --nf-txt:#18181b;--nf-txt2:#3f3f46;--nf-mut:#71717a;--nf-mut2:#a1a1aa;
+  --nf-green:#059669;--nf-green-bright:#10b981;--nf-green-ink:#052e1f;--nf-green-soft:#ecfdf5;
+  --nf-amber:#d97706;--nf-red:#e11d48;--nf-violet:#7c3aed;
+  --nf-font:-apple-system,BlinkMacSystemFont,"SF Pro Display","Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  --nf-mono:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+  color-scheme:light;
+  /* remap of every page's own tokens (review / compare / demo, gate 2, step 1) */
+  --bg:var(--nf-bg);--card:var(--nf-panel);--card2:var(--nf-panel2);--panel:var(--nf-panel);
+  --line:var(--nf-line);--acc:var(--nf-green);--accent:var(--nf-green);--accent2:#047857;--ok:var(--nf-green);
+  --fg:var(--nf-txt);--txt:var(--nf-txt);--muted:var(--nf-mut);--warn:var(--nf-amber);--bad:var(--nf-red);
+  --tag:var(--nf-green-soft);--tpl:#fffbeb;--ours:var(--nf-green-soft);
+  --display:var(--nf-font);--body:var(--nf-font);
+}
+/* the step-1 page ships its own dark blocks at higher specificity: pin them to the light values */
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#fafafa;--panel:#ffffff;--fg:#18181b;--muted:#71717a;--line:#e4e4e7;--accent:#059669;--accent2:#047857;color-scheme:light}}
+:root[data-theme="dark"]{--bg:#fafafa;--panel:#ffffff;--fg:#18181b;--muted:#71717a;--line:#e4e4e7;--accent:#059669;--accent2:#047857;color-scheme:light}
+html{-webkit-text-size-adjust:100%}
+body{font-family:var(--nf-font)!important;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;background:var(--nf-bg)!important;color:var(--nf-txt)!important}
+h1,h2,h3,h4,.tabs a,nav a,summary,th,button,.tag,.badge,.num,.lb,.eyebrow{font-family:var(--nf-font)!important}
+h1,h2{text-transform:none!important;letter-spacing:-.02em!important;font-weight:700!important}
+h3{text-transform:none!important;letter-spacing:-.01em!important;font-weight:650!important}
+h1{color:var(--nf-txt)!important}
+pre,code,kbd,.prompt pre,.an{font-family:var(--nf-mono)!important}
+a{color:var(--nf-green)}
+a:hover{color:#047857}
+::selection{background:rgba(16,185,129,.25)}
+img{border-radius:8px}
+/* tabs / nav pills */
+.tabs{border-bottom:1px solid var(--nf-line)!important;gap:4px!important}
+.tabs a{color:var(--nf-mut)!important;border-radius:8px!important;padding:8px 14px!important;font-size:14px!important;font-weight:600!important;transition:background .15s,color .15s}
+.tabs a:hover{background:var(--nf-panel3)!important;color:var(--nf-txt)!important}
+.tabs a.on{background:var(--nf-green-bright)!important;color:var(--nf-green-ink)!important}
+nav a{border:1px solid var(--nf-line-strong)!important;border-radius:999px!important;color:var(--nf-txt2)!important;font-weight:500!important;font-size:14px!important;background:var(--nf-panel);transition:border-color .15s,color .15s,background .15s}
+nav a:hover{border-color:var(--nf-green)!important;color:var(--nf-txt)!important;background:var(--nf-green-soft)!important}
+/* cards & panels */
+section,.box,details,.card,.c,.ad,.side,details.ov,.info div,.stats,.plan,.summary,.steps,.kpi,.report{background:var(--nf-panel)!important;border:1px solid var(--nf-line)!important;border-radius:12px!important;box-shadow:none!important}
+.box,.c,.info div,details{background:var(--nf-panel2)!important}
+.box b,.info b{color:var(--nf-green)!important;letter-spacing:.06em!important;font-size:12px!important;font-weight:700!important}
+.tag,.pill,.eyebrow{background:var(--nf-green-soft)!important;color:var(--nf-green)!important;border:1px solid rgba(16,185,129,.3);border-radius:6px!important;letter-spacing:.08em!important;font-size:11px!important;font-weight:700!important;padding:3px 9px!important;text-transform:uppercase}
+.pill.deleted{background:#fff1f2!important;color:var(--nf-red)!important;border-color:rgba(225,29,72,.3)}
+.pill.inactive{background:var(--nf-panel2)!important;color:var(--nf-mut)!important;border-color:var(--nf-line-strong)}
+.prompt{background:var(--nf-panel2)!important;border:1px solid var(--nf-line-strong)!important;border-radius:12px!important}
+.prompt .head{border-bottom:1px solid var(--nf-line)!important;color:var(--nf-txt2)!important;font-weight:600!important}
+.prompt pre{color:var(--nf-txt2)!important;font-size:13.5px!important}
+button.copy,a.dl,.zip,.btn{background:var(--nf-green-bright)!important;color:var(--nf-green-ink)!important;border:0!important;border-radius:8px!important;font-weight:600!important;transition:filter .15s}
+button.copy:hover,a.dl:hover,.zip:hover,.btn:hover{filter:brightness(1.05)}
+button.copy.done{background:#34d399!important}
+/* tables */
+table{border-collapse:separate!important;border-spacing:0;font-size:14.5px!important}
+th{color:var(--nf-mut)!important;font-size:11.5px!important;letter-spacing:.08em!important;font-weight:600!important;text-transform:uppercase;border-bottom:1px solid var(--nf-line-strong)!important;background:var(--nf-panel2)}
+td{border-bottom:1px solid var(--nf-line)!important;color:var(--nf-txt2)!important}
+tr:hover td{background:rgba(228,228,231,.35)}
+.tw{border:1px solid var(--nf-line);border-radius:10px;overflow:auto;background:var(--nf-panel)}
+/* flow chips */
+.flow span{background:var(--nf-panel2)!important;border:1px solid var(--nf-line-strong)!important;border-radius:8px!important;font-weight:500!important;color:var(--nf-txt2)!important}
+.flow i{color:var(--nf-green)!important}
+details{border-radius:10px!important}
+summary{color:var(--nf-txt)!important;font-weight:600!important}
+summary:hover{color:var(--nf-green)!important}
+pre{color:var(--nf-txt2)}
+hr{border:0;border-top:1px solid var(--nf-line)}
+/* review / compare / demo pages (pages_common.py CSS) */
+.row{border-top:1px solid var(--nf-line-strong)!important}
+.num{color:var(--nf-green)!important}
+.num span{color:var(--nf-txt)!important}
+.lb{background:var(--nf-panel)!important;color:var(--nf-txt)!important;border:1px solid var(--nf-line-strong);letter-spacing:.06em!important;text-transform:uppercase}
+.lb.a{background:var(--nf-green-bright)!important;color:var(--nf-green-ink)!important;border-color:var(--nf-green-bright)}
+.strip img,.g img,.pair img,.imgbox img,.ad img{background:var(--nf-panel2)!important;border:1px solid var(--nf-line)}
+.strip figure.sell img{outline:3px solid var(--nf-green-bright)!important;outline-offset:-3px}
+.wait{border:1px dashed var(--nf-line-strong)!important;color:var(--nf-mut)}
+.stats{border-color:var(--nf-line-strong)!important}
+.cap b{color:var(--nf-green)!important}
+.why,.cap{color:var(--nf-txt2)}
+/* review app (index + launch) hooks kept for parity with index.nutraflow.app */
+header{background:transparent!important;border-bottom:0!important}
+.btns button{background:var(--nf-panel2)!important;border:1px solid var(--nf-line-strong)!important;color:var(--nf-txt2)!important;border-radius:8px!important}
+.btns .v.on{background:var(--nf-green-bright)!important;border-color:var(--nf-green-bright)!important;color:var(--nf-green-ink)!important}
+.btns .r.on{background:var(--nf-red)!important;border-color:var(--nf-red)!important;color:#fff!important}
+.ad.ok{border-color:var(--nf-green)!important;box-shadow:0 0 0 1px var(--nf-green)!important}
+.ad.no{border-color:var(--nf-red)!important;box-shadow:0 0 0 1px var(--nf-red)!important}
+.row input,.row textarea,.cp,.cz,.btn.light,.meta a{background:var(--nf-panel)!important;border:1px solid var(--nf-line-strong)!important;color:var(--nf-txt)!important}
+.row input:focus,.row textarea:focus{border-color:var(--nf-green)!important;box-shadow:0 0 0 3px rgba(16,185,129,.2)}
+.badge{background:#fffbeb!important;color:#b45309!important;border:1px solid rgba(217,119,6,.3)}
+.an{background:var(--nf-panel3)!important;color:var(--nf-txt2)!important}
+/* scrollbars */
+*{scrollbar-width:thin;scrollbar-color:#d4d4d8 transparent}
+::-webkit-scrollbar{width:10px;height:10px}::-webkit-scrollbar-thumb{background:#d4d4d8;border-radius:8px;border:2px solid var(--nf-bg)}::-webkit-scrollbar-track{background:transparent}
+/* brand bar (top-left Nutraflow logo, same look as index.nutraflow.app, white edition) + site nav */
+.nf-brand{display:flex;align-items:center;gap:14px;padding:12px 22px;background:rgba(255,255,255,.92);border-bottom:1px solid var(--nf-line);backdrop-filter:blur(10px);position:sticky;top:0;z-index:50;flex-wrap:wrap}
+.nf-brand a{display:flex;align-items:center;line-height:0}
+.nf-logo{height:26px;width:auto;border-radius:0}
+.nf-divider{height:20px;width:1px;background:var(--nf-line-strong)}
+.nf-tag{font-size:13px;font-weight:500;color:var(--nf-mut);letter-spacing:.5px}
+.nf-nav{display:flex;gap:4px;flex-wrap:wrap;margin-left:auto}
+.nf-nav a{line-height:1.2;color:var(--nf-mut);text-decoration:none;font-size:13px;font-weight:600;padding:6px 10px;border-radius:8px;transition:background .15s,color .15s}
+.nf-nav a:hover{background:var(--nf-panel3);color:var(--nf-txt)}
+.nf-nav a.on{background:var(--nf-green-soft);color:var(--nf-green)}
+@media(max-width:600px){.nf-brand{padding:10px 16px}.nf-logo{height:22px}.nf-nav{margin-left:0;width:100%}}
+/* polish found at QC */
+nav a{display:inline-block;padding:6px 12px;line-height:1.2}
+body{padding:0!important}body>main{padding:24px 16px 48px}          /* gate-2 pages pad the body: keep the bar edge to edge */
+.info div{min-width:0;overflow-wrap:anywhere}
+@media(max-width:480px){.info{grid-template-columns:1fr!important}}

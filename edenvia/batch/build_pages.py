@@ -9,7 +9,7 @@ import html, json, os, shutil, sys
 SKILL = os.environ.get("SKILL", "/home/adanalysis/workspace/blueprint-static/.claude/skills/static-ads")
 sys.path.insert(0, SKILL + "/scripts")
 import sac_config as C
-from pages_common import HEAD, CSS, load_specs, load_json, web, outs_for
+from pages_common import HEAD, CSS, load_specs, load_json, web, outs_for, restyle
 
 B = C.BATCH; EX = f"{C.PAGES}/ex"; os.makedirs(EX, exist_ok=True); KP = os.environ.get("SAC_KEY_PREFIX", "s")
 FAMILY = {1: "US vs THEM / comparison"}            # family per batch round (B01-clone-plan.md §8.1); round 1 = family 1
@@ -42,4 +42,5 @@ open(f"{C.PAGES}/compare.html", "w").write(head + f'<body><div class="wrap"><h1>
     f'<p>Concept family 1, {len(sells)} ads. Left: the template. Right: our ad (click for full size). Angle and headline under each pair.</p>{rows}</div></body></html>')
 grid = "".join(f'<a href="ex/{KP}_{n:02d}_sell.png" target="_blank"><img src="{web(p, f"{KP}_{n:02d}_sell")}" loading="lazy" alt=""></a>' for n, p in sells)
 open(f"{C.PAGES}/demo.html", "w").write(HEAD.format(title="Edenvia ads", css=CSS) + f'<body><div class="wrap"><h1>Edenvia ads</h1><div class="g">{grid}</div></div></body></html>')
+restyle()
 print(f"compare.html + demo.html: {len(sells)} ads")

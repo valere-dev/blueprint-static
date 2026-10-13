@@ -32,6 +32,12 @@ def page(title, on, body):
     return HEAD.format(title=title, css=CSS) + f'<body><div class="wrap">{tabs(on)}{body}</div></body></html>'
 
 
+def restyle():
+    """Nutraflow white theme (blueprint.nutraflow.app): run edenvia/batch/nutraflow_restyle.py on $SAC_PAGES after a build."""
+    f = os.path.join(C.WORKDIR, "batch", "nutraflow_restyle.py")
+    if os.path.exists(f): subprocess.run([sys.executable, "-I", f, C.PAGES], check=False)
+
+
 def load_specs(batch=None):
     """All s*specs.py of the batch, later files override earlier ones (a redo spec replaces the original by num)."""
     batch = batch or C.BATCH; specs = {}

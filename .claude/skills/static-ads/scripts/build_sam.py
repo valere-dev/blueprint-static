@@ -5,7 +5,7 @@ Generic copy of /root/workspace/wh-remix/sam-batch/build_sam.py (it wrote /srv/b
 import json, os, html, shutil, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import sac_config as C
-from pages_common import page, load_specs, load_json, web, outs_for
+from pages_common import page, load_specs, load_json, web, outs_for, restyle
 
 B = C.BATCH; EX = f"{C.PAGES}/ex"; os.makedirs(EX, exist_ok=True)
 KP = os.environ.get("SAC_KEY_PREFIX", "s")
@@ -45,5 +45,5 @@ stats = f"""<section class="stats"><h2>Hit rate</h2><div class="tw"><table>
 body = (f"<h1>{html.escape(C.NAME)} — to review</h1><p>Every ad built with the full rulebook (3-improve/rules.md) and the pixel inventory (A13). "
         f"{done}/{len(specs)} generated. Validated ads are hidden. Record a Loom ad by ad (say the S number).</p>{stats}{rows}")
 os.makedirs(C.PAGES, exist_ok=True)
-open(f"{C.PAGES}/review.html", "w").write(page(f"{C.NAME} review", "review", body))
+open(f"{C.PAGES}/review.html", "w").write(page(f"{C.NAME} review", "review", body)); restyle()
 print(done, len(specs), len(calls))

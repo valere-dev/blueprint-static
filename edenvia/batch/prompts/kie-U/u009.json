@@ -1,0 +1,42 @@
+{
+ "analysis": "Format: split-screen comparison ad, top headline + 2 product zones + 3 benefit callouts each. Family: old routine vs our product. Mechanism: rival = generic water pills causing bathroom runs/no change; ours = Edenvia pouch + one glass daily, lighter legs by evening and less water retention. Roles: left/orange = losing side, heavy legs, sock marks, pricier; right/gray = winning side, slimmer ankles, boots zip, one-a-day ritual.",
+ "needs_rival": "pills",
+ "template_lines": [
+  "GO BEYOND BASIC",
+  "HAIR LOSS GUMMIES",
+  "NATURAL SOFTGELS",
+  "Blocks DHT",
+  "Cause of Hair Loss",
+  "Natural Solution",
+  "Side Effect Free",
+  "Clinically Proven",
+  "Results in Humans",
+  "HAIR GUMMIES",
+  "No DHT Blocker",
+  "Hair Still Sheds",
+  "Basically Sugar",
+  "+ Basic Vitamins",
+  "Artificial Flavors",
+  "& Unhealthy Junk"
+ ],
+ "our_lines": [
+  "GO BEYOND BASIC SWOLLEN LEGS",
+  "HEAVY SWOLLEN LEGS",
+  "WATER PILLS",
+  "Keeps Water Retention",
+  "Heavy by 5 p.m.",
+  "ONE GLASS A DAY",
+  "Drains Fluid Fast",
+  "Third-Party Lab Tested",
+  "Rated 4.9/5",
+  "EDENVIA POUCH",
+  "No Bathroom Runs",
+  "Lighter by Evening",
+  "8PPM Hydrogen",
+  "+ Magnesium & Minerals",
+  "One Tablet",
+  "Dissolves in 3 Minutes"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Image 4 is the rival product for the losing side.\nChanges: left/orange zone = rival WATER PILLS and heavy swollen legs, sock marks, bathroom runs, pricier, nothing changes; right/gray zone = Edenvia pouch and lighter legs by evening, slimmer ankles, boots zip, one tablet in a glass of water daily, FREE Cellular Recovery Protocol. Top headline names heavy swollen legs.\nText, exactly and nothing else:\nGO BEYOND BASIC SWOLLEN LEGS\nHEAVY SWOLLEN LEGS\nWATER PILLS\nKeeps Water Retention\nHeavy by 5 p.m.\nONE GLASS A DAY\nDrains Fluid Fast\nThird-Party Lab Tested\nRated 4.9/5\nEDENVIA POUCH\nNo Bathroom Runs\nLighter by Evening\n8PPM Hydrogen\n+ Magnesium & Minerals\nOne Tablet\nDissolves in 3 Minutes\nDo NOT draw: bottles, jars, capsules, pills on our side, extra badges, competitor names, disease names, medical claims, hair imagery, or any text not listed.",
+ "validator_errors": []
+}

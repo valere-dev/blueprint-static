@@ -1,0 +1,15 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it.
+Changes: left side is the PROBLEM = swollen legs, sock marks, boots won’t zip, aching calves, water retention; right side is the SOLUTION = Edenvia pouch, lighter legs by evening, slimmer ankles, one white tablet in a glass once a day, drains fluid. No rival product shown. Keep the vertical divider and bottom CTA shape.
+Text, exactly and nothing else:
+THE PROBLEM:
+THE SOLUTION:
+Heavy, swollen legs
+Puffy ankles by 5 p.m.
+Sock marks
+Boots won’t zip
+Aching, tender calves
+Water retention
+TRY ONE GLASS A DAY
+Do NOT draw: capsules, pills, bottles, jars, hair imagery, extra badges, seals, or any text beyond the lines above.
+
+FIX from QC: Standalone brand mark shown is not Edenvia with atom icon; it is another logo/badge.; Edenvia product is placed on the solution side but the comparison still uses a rival product on the left; ensure only Edenvia is featured if required.

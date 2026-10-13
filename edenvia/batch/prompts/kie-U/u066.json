@@ -1,0 +1,28 @@
+{
+ "analysis": "Static single-column Meta-style promo: large headline top right, subhead beneath, product hero lower left overlapping anatomy visual, offer banner mid-right. Zones: top headline = pain/problem framing; subhead = mechanism/authority; hero/product = ours; offer banner = urgency and conversion.",
+ "needs_rival": "none",
+ "template_lines": [
+  "Your hormones depend on 6 organs",
+  "working together.",
+  "Beef organs support",
+  "all 6 at once.",
+  "Bovine ovary, uterus,",
+  "liver, heart, kidney.",
+  "The nutrition that",
+  "medicine skips.",
+  "GET 1 MONTH FREE",
+  "+ 4 FREE GIFTS"
+ ],
+ "our_lines": [
+  "Your heavy, swollen legs depend on",
+  "fluid draining from the tissue.",
+  "Edenvia flushes",
+  "the water sitting in your legs.",
+  "Hydrogen, magnesium, minerals.",
+  "The cellular answer your body skips.",
+  "FREE Cellular Recovery Protocol",
+  "+ 4 FREE GIFTS"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Changes: replace anatomy/organ claim with heavy swollen-legs water-retention framing; keep top-left hero area as a stylized female leg-fluid/lymphatic anatomy concept with puffy legs and ankles, sock marks, boots not zipping, not fat; product zone shows the Edenvia pouch only; right text zone is the pain-to-desire message; offer banner swaps to our allowed free offer. Text, exactly and nothing else: Your heavy, swollen legs depend on / fluid draining from the tissue. / Edenvia flushes / the water sitting in your legs. / Hydrogen, magnesium, minerals. / The cellular answer your body skips. / FREE Cellular Recovery Protocol / + 4 FREE GIFTS Do NOT draw: competitor name, pills, capsules, bottle, jar, droppers, badges, certifications, medical claims, extra text.",
+ "validator_errors": []
+}

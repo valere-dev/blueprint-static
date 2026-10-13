@@ -1,0 +1,22 @@
+{
+ "analysis": "Format: 3-zone static ad. Top hero image, middle white split panel with product + headline, bottom dark proof bar. Mechanism: before/after transformation. Role: top zone = emotional before/after mood; middle left = ours product/benefit; middle right = headline; bottom = social proof. For this avatar, the before is heavy, swollen legs and evening pain; the after is lighter legs, slimmer ankles, boots zip, one glass a day. No rival product needed because template is not product-vs-product.",
+ "needs_rival": "none",
+ "template_lines": [
+  "After years of",
+  "struggle with ED a",
+  "product that works",
+  "and makes us",
+  "younger.",
+  "Over 1 Million Doses Sold"
+ ],
+ "our_lines": [
+  "After years of heavy, swollen legs",
+  "struggle with fluid stuck in your legs",
+  "Edenvia drains and flushes",
+  "the cellular inflammation",
+  "lighter, slimmer ankles by evening.",
+  "Over 12,000 Customers Sold"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it.\nChanges: top hero becomes a 40–55 woman with heavy, swollen, puffy legs/ankles; middle left shows the Edenvia pouch only; middle right is the new headline; bottom bar is proof for the legs niche.\nText, exactly and nothing else:\nAfter years of heavy, swollen legs\nstruggle with fluid stuck in your legs\nEdenvia drains and flushes\nthe cellular inflammation\nlighter, slimmer ankles by evening.\nOver 12,000 Customers Sold\nDo NOT draw: pills, bottles, jars, capsules, medical claims, competitor names, extra badges, any text not listed, or a different pouch.",
+ "validator_errors": []
+}

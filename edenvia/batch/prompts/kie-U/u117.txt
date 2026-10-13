@@ -1,0 +1,9 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
+Changes: replace the gummy bottle with the Edenvia Molecular Hydrogen stand-up resealable pouch, same size and angle; keep it floating left; make the orange slice become a clear glass of water with one white effervescent tablet fizzing; keep the black burst at upper left but make it Edenvia offer; use Edenvia blue #1468DB for accents and the red bottom banner; replace the product branding with Edenvia logo outside the label (word Edenvia with small atom icon); main avatar is a 40–55 woman with heavy, swollen, puffy legs and ankles, hidden partly by the composition, aching by 5 p.m., sock marks, boots won’t zip, “it was never fat”.
+Text, exactly and nothing else:
+"1-Pack:" / "$39.00" / "each!"
+"NOW" / "50%" / "OFF!"
+"Edenvia Molecular Hydrogen"
+"CONSUME DAILY ANTIOXIDANTS AND EXHIBIT HEALTHIER, IMPROVED LIVING"
+"30 TABLETS | 30 DAY SUPPLY"
+Do not draw: gummy bottle, pills, capsules, powder, jar, competitor names, disease names, drug claims, clinical claims, extra text, extra objects, or any layout changes.

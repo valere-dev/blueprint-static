@@ -1,0 +1,26 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
+Changes: the spacegoods pouch → our Edenvia pouch same spot and size; the tumbler → a clear glass of water with one white effervescent tablet fizzing; the spoon scoop → the dissolving tablet; the purple/magenta brand colour → Edenvia blue #1468DB and deep navy #172A54; the product benefit badges → claims about heavy, swollen legs, puffy ankles, water retention, drainage support, oxidative stress, 8 PPM, and antioxidants.
+Text, exactly and nothing else:
+"Bloat isn’t normal."
+"Let’s fix it."
+"heavy, swollen legs"
+"puffy ankles"
+"water retention"
+"drainage support"
+"8 PPM"
+"antioxidants"
+"lighter legs by evening"
+"my boots zip again"
+"30-Day Money Back Guarantee"
+"93% sold"
+"Rated 4.9/5"
+"12,000+ customers"
+"Trusted by healthcare professionals"
+"First 1,000 orders"
+"FREE Cellular Recovery Protocol"
+"FREE express shipping on the 5-pack"
+"Buy 2 Get 1 Free $78.00"
+"Buy 3 Get 2 Free $117.00"
+"$39.00"
+What NOT to draw: no capsules, pills, powder, bottle, jar, competitor name, disease name, drug name, or clinical/FDA claims.

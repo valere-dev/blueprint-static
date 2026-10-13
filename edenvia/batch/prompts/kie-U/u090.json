@@ -1,0 +1,36 @@
+{
+ "analysis": "Static offer poster; top headline + subheadline + sale line + product trio. Zone roles: top = urgency/offer, middle = product hero, bottom = proof/feature chips on packs. No before/after, no rival needed.",
+ "needs_rival": "none",
+ "template_lines": [
+  "RESILIA",
+  "3 FOR",
+  "ONLY $20",
+  "SALE ENDS TONIGHT!",
+  "OIL OF OREGANO",
+  "6,000MG",
+  "WITH BLACK SEED OIL",
+  "ULTRA HIGH CONCENTRATION",
+  "NATURAL ANTIOXIDANT",
+  "DIGESTIVE SUPPORT",
+  "IMMUNE SYSTEM SUPPORT",
+  "DUE TO SWEETENERS",
+  "DIETARY SUPPLEMENT"
+ ],
+ "our_lines": [
+  "Edenvia",
+  "3 FOR",
+  "ONLY $117.00",
+  "TONIGHT ONLY — ENDS FAST!",
+  "MOLECULAR HYDROGEN",
+  "GENERATES 8PPM OF HYDROGEN PER TABLET",
+  "DAILY CELLULAR SUPPLEMENT",
+  "DRIVES DOWN OXIDATIVE STRESS",
+  "FLOODS THE TISSUE WITH ANTIOXIDANTS",
+  "DRAINAGE SUPPORT",
+  "LIGHTER LEGS BY EVENING",
+  "SLIMMER ANKLES",
+  "30 TABLETS | 30 DAY SUPPLY"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Changes: swap the top offer text to a 2026 Edenvia flash sale; top zone = urgency/offer, middle zone = product hero stack, bottom zones on packs = our benefits and supply details, all rewritten for the avatar with heavy, swollen legs and water retention. Text, exactly and nothing else: Edenvia / 3 FOR / ONLY $117.00 / TONIGHT ONLY — ENDS FAST! / MOLECULAR HYDROGEN / GENERATES 8PPM OF HYDROGEN PER TABLET / DAILY CELLULAR SUPPLEMENT / DRIVES DOWN OXIDATIVE STRESS / FLOODS THE TISSUE WITH ANTIOXIDANTS / DRAINAGE SUPPORT / LIGHTER LEGS BY EVENING / SLIMMER ANKLES / 30 TABLETS | 30 DAY SUPPLY. Do NOT draw: competitor names, bottles, jars, capsules, pills, pills-in-water, extra badges, certification marks, extra ingredients, medical claims, before/after, people, hands.",
+ "validator_errors": []
+}

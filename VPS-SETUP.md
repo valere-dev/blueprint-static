@@ -1,4 +1,7 @@
-# Running the Edenvia system on the VPS (Adrien's setup, 1:1)
+# Running the Edenvia system on the VPS
+
+> 2026-10-11: the process described below (skill pipeline, Caddy, mr-transcribe) is superseded by **`SOP.md`**. Only §2 (secrets) and §3c (product library) still apply.
+
 
 The cloud session that built this repo cannot reach the VPS (no SSH client, outbound limited to an HTTPS
 allow-list). Everything below runs **on the VPS itself**, in a Claude Code session opened there, exactly as

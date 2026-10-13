@@ -1,0 +1,30 @@
+{
+ "analysis": "Static promotional product ad; single-product hero with headline, central packshot, right-side benefit list, discount badge, and CTA button. No rival comparison; the old/cheat framing becomes our avatar’s pain vs desire, with the packshot zone as ours and the benefits zone as the transformation/result.",
+ "needs_rival": "none",
+ "template_lines": [
+  "Lose Weight",
+  "Even if You Cheat",
+  "UP TO",
+  "40%",
+  "OFF",
+  "IMPROVED STAMINA",
+  "STRONGER IMMUNITY",
+  "ALL-DAY ENERGY",
+  "DELICIOUS TASTE",
+  "FREE GIFTS + FREE SHIPPING"
+ ],
+ "our_lines": [
+  "FLUSH HEAVY, SWOLLEN LEGS",
+  "EVEN WHEN YOU TRIED EVERYTHING",
+  "UP TO",
+  "50%",
+  "OFF",
+  "LIGHTER LEGS BY EVENING",
+  "SLIMMER ANKLES",
+  "LESS WATER RETENTION",
+  "ONE GLASS A DAY",
+  "FREE CELLULAR RECOVERY PROTOCOL"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Changes: replace the weight-loss claim with lymphatic bloating relief; keep the pouch on the left/center as the hero product, keep the right-side 4 benefit callouts as our result zone, and make the badge/CTA sell urgency and the allowed offer. Text, exactly and nothing else: FLUSH HEAVY, SWOLLEN LEGS / EVEN WHEN YOU TRIED EVERYTHING / UP TO / 50% / OFF / LIGHTER LEGS BY EVENING / SLIMMER ANKLES / LESS WATER RETENTION / ONE GLASS A DAY / FREE CELLULAR RECOVERY PROTOCOL. Do NOT draw: extra products, pills, capsules, jars, competitor names, certifications, badges other than the discount circle, or any text not listed.",
+ "validator_errors": []
+}

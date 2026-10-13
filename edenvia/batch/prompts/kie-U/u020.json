@@ -1,0 +1,24 @@
+{
+ "analysis": "Format: square static social ad with top kicker, large serif headline/subhead, centered before/after comparison, bottom proof/footer bar. Family: comparison / transformation. Mechanism: old bad side vs our good side; left shows swollen heavy legs, right shows lighter ankles/boots zipping. Roles: top zone = category + promise; middle left = rival/old suffering; middle right = ours/desire; bottom bar = offer/proof/urgency.",
+ "needs_rival": "pills",
+ "template_lines": [
+  "THE BODY CREAM",
+  "Show Off Your Skin",
+  "With Confidence",
+  "BEFORE",
+  "AFTER",
+  "Cindy V. (52, UT)",
+  "Fade Body Dark Spots  |  Prescribed at Musely.com"
+ ],
+ "our_lines": [
+  "THE LEG DEFLATER",
+  "Show Off Your Legs",
+  "By Evening",
+  "BEFORE",
+  "AFTER",
+  "Cindy V. (52, WA)",
+  "Drain Heavy, Swollen Legs  |  Edenvia 8PPM Daily"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Image 4 is the rival product for the losing side.\nChanges: left BEFORE = generic WATER PILLS bottle + heavy, swollen legs, sock marks, ache by 5 p.m.; right AFTER = Edenvia pouch + lighter legs by evening, slimmer ankles, boots zip again, one glass a day. Top names heavy swollen legs / water retention. Bottom bar becomes urgency + proof + offer.\nText, exactly and nothing else:\nTHE LEG DEFLATER\nShow Off Your Legs\nBy Evening\nBEFORE\nAFTER\nCindy V. (52, WA)\nDrain Heavy, Swollen Legs  |  Edenvia 8PPM Daily\nDo NOT draw: real competitor names, capsules, pills, jars, bottles on our side, extra badges, skin/hair/chin/gut wording, medical claims, lymphedema, lipedema.",
+ "validator_errors": []
+}

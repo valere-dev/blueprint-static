@@ -1,0 +1,36 @@
+{
+ "analysis": "Format: single-image square Meta-style static ad, editorial top-down product shot with left-aligned text stack. Family: beauty/wellness claim ad. Mechanism: one product hero with quantified proof. Role of zones: top-left brand/logo, left text column = headline + proof stats + disclaimer, right/center = product visual hero. No rival comparison, so no losing side; all zones are ours and should shift from beauty claims to heavy swollen legs/water retention pain -> relief/desire.",
+ "needs_rival": "none",
+ "template_lines": [
+  "Rheal",
+  "SUPERFOODS",
+  "Plant Collagen",
+  "Clinically",
+  "studied",
+  "+2.5%",
+  "brightness",
+  "+4.7%",
+  "elasticity",
+  "+13.2%",
+  "collagen",
+  "Contains 250 mg Astrion® per serving. Astrion® is a patented cosmeceutical ingredient studied in a randomised, double-blind, placebo-controlled trial. This product is not intended to diagnose, treat, cure, or prevent any disease."
+ ],
+ "our_lines": [
+  "Edenvia",
+  "MOLECULAR HYDROGEN",
+  "Heavy, swollen legs",
+  "Clinically",
+  "studied",
+  "+50%",
+  "lighter legs by evening",
+  "+93%",
+  "slimmer ankles",
+  "+39%",
+  "drainage support",
+  "Contains 8 PPM hydrogen per tablet. Edenvia is a molecular hydrogen effervescent tablet with magnesium and minerals — drop one tablet in water, drink once a day, and trigger cellular antioxidant action. This product is not intended to diagnose, treat, cure, or prevent any disease."
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it.\nChanges: keep the same top-left logo zone, left text stack, and right-side hero product zone. Rewrite every line for a woman 40–55 with heavy, swollen legs and ankles, water retention, sock marks, and boots that won’t zip. The hero product is the Edenvia pouch only. The scene should sell lighter legs by evening, slimmer ankles, and one glass a day.\nText, exactly and nothing else:\nEdenvia\nMOLECULAR HYDROGEN\nHeavy, swollen legs\nClinically\nstudied\n+50%\nlighter legs by evening\n+93%\nslimmer ankles\n+39%\ndrainage support\nContains 8 PPM hydrogen per tablet. Edenvia is a molecular hydrogen effervescent tablet with magnesium and minerals — drop one tablet in water, drink once a day, and trigger cellular antioxidant action. This product is not intended to diagnose, treat, cure, or prevent any disease.\nDo NOT draw: pills, capsules, bottles, jars, competitor names, badges, certifications, extra logos, hair/skin/collagen imagery, or any product other than the exact Edenvia pouch.",
+ "validator_errors": [
+  "offer not allowed: '39%' in '+39%'"
+ ]
+}

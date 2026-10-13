@@ -1,0 +1,30 @@
+{
+ "analysis": "Split layout: left = authority photo on dark background; right = headline + CTA on white. Role: left is the before/pain zone showing the avatar’s heavy, swollen legs and urgency; right is the after/desire zone with Edenvia pouch and the wanted result. Mechanism is in the headline; CTA invites the article.",
+ "needs_rival": "none",
+ "template_lines": [
+  "TESTOSTERONE NEWS",
+  "An Oxford Doctor",
+  "Who Works With",
+  "Navy SEALs and",
+  "Olympic Athletes",
+  "Has a Warning for",
+  "Every Man on a",
+  "GLP-1.",
+  "Read the 2-minute article",
+  "featuring Dr. Latt Mansor"
+ ],
+ "our_lines": [
+  "LYMPHATIC BLOATING",
+  "Oxford Doctor on",
+  "Who Sees",
+  "Heavy, Swollen Legs and",
+  "Puffy Ankles",
+  "Warns",
+  "Every Woman with",
+  "Water Retention.",
+  "Read the quick article",
+  "featuring Edenvia"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Changes: left zone becomes the before authority image showing a woman 40–55 with heavy, swollen legs/ankles, puffy lower legs, sock marks, hiding her legs, dark urgent mood; right zone becomes the clean after zone with the Edenvia pouch and the desired result: lighter legs by evening, slimmer ankles, boots zip again, one glass a day. Text, exactly and nothing else: LYMPHATIC BLOATING / Oxford Doctor on / Who Sees / Heavy, Swollen Legs and / Puffy Ankles / Warns / Every Woman with / Water Retention. / Read the quick article / featuring Edenvia. Do NOT draw: competitor names, pills, capsules, jars, bottles, badges, certifications, extra labels, extra copy.",
+ "validator_errors": []
+}

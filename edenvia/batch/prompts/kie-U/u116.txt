@@ -1,0 +1,4 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
+Changes: the stacked product cans → one Edenvia stand-up resealable pouch in the same right-side spot and visual size, label readable, white fading to sky blue with water droplets, lit by the scene; the dark red/orange accent → Edenvia blue (#1468DB); the masculine branding → Edenvia atom logo and clean geometric sans.
+Text, exactly and nothing else: "INTRODUCING" / "THE LAUNCH KIT" / "50% OFF" / "FOR LIFE" / "FREE" / "SHIPPING" / "FREE" / "GIFTS" / "30-DAY MONEY" / "BACK GUARANTEE" / "$39.00" / "WAS $79.99"
+Do not draw competitor names, cans, bottles, jars, capsules, pills, powder, extra products, extra text, medical claims, or a different layout.

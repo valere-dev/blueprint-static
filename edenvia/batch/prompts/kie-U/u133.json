@@ -1,0 +1,26 @@
+{
+ "analysis": "Format: 1:1 square static feed ad, photoreal bedroom scene with bold warning-style headline and 3 benefit callouts around a centered product pack. Family: sexual enhancement. Mechanism: performance/stamina. Zones: top headline = attention hook; center product = hero brand; bottom/side badges = claims. For Edenvia, convert to before/after style around leg heaviness/puffiness, with our product on the winning side and a generic rival on the losing side.",
+ "needs_rival": "gummies",
+ "template_lines": [
+  "WARNING",
+  "TAKING THIS WILL GET",
+  "HER ADDICTED TO YOU IN BED",
+  "+1.2 INCHES",
+  "UNLIMITED",
+  "STAMINA",
+  "BETTER",
+  "BLOOD FLOW"
+ ],
+ "our_lines": [
+  "WARNING",
+  "THIS WILL GET HER LIGHTER LEGS BY EVENING",
+  "HER ANKLES FINALLY LOOK SLIMMER",
+  "+1.2 WAYS",
+  "UNLIMITED",
+  "DRAINAGE SUPPORT",
+  "BETTER",
+  "WATER RETENTION"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Image 4 is the rival product for the losing side.\nChanges: top headline becomes a bold fear/relief hook about heavy, swollen legs and puffy ankles. Left/losing zone shows the rival gummies and what she suffers: heavy by 5 p.m., sock marks, bathroom runs, nothing changes. Center hero becomes Edenvia pouch. Right/winning zone shows her desire: lighter legs by evening, slimmer ankles, boots zip again, one glass a day.\nText, exactly and nothing else:\nWARNING\nTHIS WILL GET HER LIGHTER LEGS BY EVENING\nHER ANKLES FINALLY LOOK SLIMMER\n+1.2 WAYS\nUNLIMITED\nDRAINAGE SUPPORT\nBETTER\nWATER RETENTION\nDo NOT draw: extra badges, fake seals, capsules, bottles, jars, different pouch designs, competitor names, surgery, anatomy diagrams, or any text not in the template.",
+ "validator_errors": []
+}

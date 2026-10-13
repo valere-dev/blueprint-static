@@ -1,0 +1,6 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
+Changes: green → Edenvia navy (#14488F) band, cream background kept. Their bag → our pouch, same spot and size, bottom right, water droplets instead of leaves.
+Text, exactly and nothing else:
+Headline: "WHY DO YOUR LEGS" / "SWELL BY 5 P.M.?" · band: "My heavy, puffy legs (which no diet ever fixed) finally MAKE SENSE!"
+Body: "When your legs swell by evening, it isn't fat. The tissue in your calves stays inflamed, stops draining, and fluid sits there — heavy, tender, puffy. Since no one looks at the drainage, you keep dieting while the swelling stays." / "At 48, I finally addressed the oxidative stress keeping that tissue swollen, with one tablet in a glass of water." / "In two weeks my ankles were back by evening and my boots zipped again." / "No bathroom runs, third-party lab tested, and it takes 3 minutes a day."
+Footnote: "It works for most women whose legs swell no matter how hard they diet.*"

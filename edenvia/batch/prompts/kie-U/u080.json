@@ -1,0 +1,24 @@
+{
+ "analysis": "Format: single-panel organic product ad with stacked headline, one narrow subline banner, and three short callout labels. Family: no comparison; the template is a direct claim/benefit layout. Mechanism: replace gut-wrecking food claim with heavy-leg/water-retention claim and Edenvia’s molecular hydrogen as the daily ritual that targets inflammation/oxidative stress and drainage support. Zones: headline = the avatar’s pain; banner = product + mechanism; callouts = specific desired outcomes tied to the pouch.",
+ "needs_rival": "none",
+ "template_lines": [
+  "A SNACK THAT",
+  "DOESN'T WRECK",
+  "YOUR GUT",
+  "GRASS-FED, GRASS-FINISHED MEAT & SALT. NOTHING ELSE.",
+  "ZERO ADDITIVES",
+  "NO SEED OILS",
+  "GUT FRIENDLY"
+ ],
+ "our_lines": [
+  "A DAILY RITUAL THAT",
+  "DOESN'T BLOAT",
+  "YOUR LEGS",
+  "MOLECULAR HYDROGEN. 8 PPM PER TABLET. NOTHING ELSE.",
+  "REDUCES INFLAMMATION",
+  "SUPPORTS DRAINAGE",
+  "LIGHTER ANKLES"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Changes: keep the single-panel orange background and the same bold food-ad energy, but replace the snack with the Edenvia pouch and the avatar’s problem of heavy, swollen legs and water retention. Top headline = pain; middle ribbon = product/mechanism; three callouts = desired outcomes. Text, exactly and nothing else: A DAILY RITUAL THAT / DOESN'T BLOAT / YOUR LEGS / MOLECULAR HYDROGEN. 8 PPM PER TABLET. NOTHING ELSE. / REDUCES INFLAMMATION / SUPPORTS DRAINAGE / LIGHTER ANKLES. Do NOT draw: snack food, meat, bottle, jar, pills, capsules, competitor names, badges, certifications, extra copy, extra logos.",
+ "validator_errors": []
+}

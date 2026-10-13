@@ -1,0 +1,7 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.  
+Changes: the gross gut barrier → the avatar’s swollen lower legs and ankles, puffy, heavy, tender, fluid-stuck, not fat; the left side = constant bloating / inflamed water retention, the right side = lighter legs by evening / slimmer ankles with flow returning; replace probiotic visuals with Edenvia hydrogen tablet support, keep the dark clinical 3D style, Edenvia blue accents (#1468DB), Manrope-like geometric sans.  
+Text, exactly and nothing else:  
+"HEAVY" / "SWOLLEN" / "LEGS"  
+"LIGHTER LEGS" / "BY EVENING"  
+"ONE TABLET IN A GLASS OF WATER"  
+Do not draw a gut, intestines, probiotics, a capsule, pill, powder, bottle, jar, competitor branding, disease names, or medical claims.

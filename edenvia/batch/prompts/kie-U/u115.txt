@@ -1,0 +1,20 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
+Changes: the two gummy pouches → one Edenvia stand-up resealable pouch, same right-side position and size, white fading to sky blue with water droplets, label readable and lit by the scene. Keep the dark premium maroon/burgundy background, gold accents become Edenvia blue (#1468DB) and ice blue (#EAF1F9). Replace the bundle/offer vibe with the Edenvia offer for heavy, swollen legs and water retention. The badge becomes a clean natural wellness seal.
+Text, exactly and nothing else:
+"LYMPHATIC BLOATING BUNDLE"
+"BUY 1 GET 1 FREE"
+"heavy, swollen legs"
+"puffy ankles"
+"lighter legs by evening"
+"$39.00"
+"was $79.99"
+"30-Day Money Back Guarantee"
+"Rated 4.9/5"
+"12,000+ customers"
+"Trusted by healthcare professionals"
+"Third-party lab tested"
+"first 1,000 orders"
+"93% sold"
+"FREE Cellular Recovery Protocol"
+What not to draw: no capsules, pills, powders, bottles, jars, competitors, disease names, drug names, hot water, or medical claims like clinically proven/FDA approved.

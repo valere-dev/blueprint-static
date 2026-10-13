@@ -1,0 +1,40 @@
+{
+ "analysis": "Static comparison ad; two-column old/new before-after layout with top brand handle, left losing zone, right winning zone, centered vs, product cups, headline, 4 bullets each, footer logo. Role: left = rival routine causing heavy, swollen legs and bathroom runs; right = Edenvia pouch + daily tablet for lighter legs, slimmer ankles, boots zip.",
+ "needs_rival": "pills",
+ "template_lines": [
+  "@ryzesuperfoods",
+  "Old Me",
+  "vs",
+  "New Me",
+  "1.5 HOURS OF ENERGY",
+  "No L-Theanine (jitters+anxiety)",
+  "Low antioxidants",
+  "Causes bad breath",
+  "Destroys teeth",
+  "6 HOURS OF ENERGY",
+  "L-Theanine (eases stress)",
+  "140x antioxidants",
+  "Helps bad breath",
+  "Cleans teeth",
+  "RYZE"
+ ],
+ "our_lines": [
+  "@edenvia",
+  "Old Me",
+  "vs",
+  "New Me",
+  "HARD, SWOLLEN LEGS BY 5 P.M.",
+  "WATER PILLS (bathroom runs)",
+  "Low hydration recovery",
+  "Sock marks, boots won't zip",
+  "Nothing changes",
+  "LIGHTER LEGS BY EVENING",
+  "Edenvia hydrogen tablets (1 glass daily)",
+  "8 PPM hydrogen",
+  "Flushes water retention",
+  "Slimmer ankles, boots zip",
+  "Edenvia"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Image 4 is the rival product for the losing side.\nChanges: keep the same two-column comparison. Left zone = old/wrong routine with generic WATER PILLS and the avatar suffering heavy, swollen legs, sock marks, bathroom runs, and nothing changes. Right zone = Edenvia pouch and the avatar's desire: lighter legs by evening, slimmer ankles, boots zip, one glass a day. Use the product image exactly on the winning side only.\nText, exactly and nothing else:\n@edenvia\nOld Me\nvs\nNew Me\nHARD, SWOLLEN LEGS BY 5 P.M.\nWATER PILLS (bathroom runs)\nLow hydration recovery\nSock marks, boots won't zip\nNothing changes\nLIGHTER LEGS BY EVENING\nEdenvia hydrogen tablets (1 glass daily)\n8 PPM hydrogen\nFlushes water retention\nSlimmer ankles, boots zip\nEdenvia\nDo NOT draw: extra logos, badges, bottles, jars, capsules, pills on the Edenvia side, new claims, new text, or layout changes.",
+ "validator_errors": []
+}

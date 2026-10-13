@@ -1,0 +1,14 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
+Changes: keep the dark charcoal background and minimalist symptom-checklist layout; replace the right-side brand word with Edenvia + atom icon in Edenvia blue (#1468DB); replace the two battery bars with a drained red battery on the left and a full icy-blue/glowing battery on the right; keep the centered headline and small footer style; use the woman 40–55 with heavy, swollen, puffy legs and ankles as the problem avatar implied by the symptom words.
+Text, exactly and nothing else:
+heavy, swollen legs
+puffy
+sock marks
+boots won't zip
+aches by 5 p.m.
+slimmer ankles
+lighter legs by evening
+Edenvia
+Feel It By Week 3
+30-day money back guarantee
+What NOT to draw: no competitor names, no disease names, no capsules/pills/powders, no medical claims, no extra objects, no bright background, no clutter, no cartoon style.

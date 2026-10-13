@@ -1,0 +1,9 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
+Changes: the close-up whisper scene → a woman 45–50 with a puffy face, double chin, and heavy swollen legs/ankles implied by the lower frame; keep the intimate word-of-mouth composition, dark background, and white bold text. Use Edenvia blue only if a brand accent is needed. Replace the humorous social-proof vibe with a believable wellness whisper. No bottles, no jars, no capsules, no pills.
+Text, exactly and nothing else:
+"That Edenvia pouch is 50% off. It helped with my heavy, swollen legs in 21 days"
+"My wife"
+"Me, ordering 3 pouches"
+"30-day guarantee"
+---

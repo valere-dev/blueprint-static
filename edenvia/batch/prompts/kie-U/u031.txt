@@ -1,0 +1,12 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
+
+Changes: keep the same green background, split-card layout, banner, and typography; swap the brush hair for a woman 40–55 with heavy, swollen, puffy legs and ankles “it was never fat”; the right-hand hand-held item becomes a clear glass of water with one white effervescent tablet fizzing; use Edenvia blue #1468DB for the accent ribbon and brand details; place the Edenvia stand-up resealable pouch in the left product panel if any product appears, same size and prominence, label readable exactly: Edenvia (atom icon) / MOLECULAR / HYDROGEN / GENERATES 8PPM OF HYDROGEN PER TABLET / CONSUME DAILY ANTIOXIDANTS AND EXHIBIT HEALTHIER, IMPROVED LIVING / DIETARY SUPPLEMENT / 30 TABLETS | 30 DAY SUPPLY, white fading to sky blue with water droplets.
+
+Text, exactly and nothing else:
+"Are your heavy, swollen legs like this?"
+"Support with antioxidants like 8 PPM hydrogen"
+"Clinicians' Choice"
+"1,200+ customers shared this with their patients and were not compensated."
+"*This statement has not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease."
+
+Do not draw capsules, pills, powder, bottles, jars, a competitor brand, a disease name, medical claims, or hot water.

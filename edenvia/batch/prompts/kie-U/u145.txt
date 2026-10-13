@@ -1,0 +1,12 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
+Changes: the coffee pouch → Edenvia pouch same spot and size. The product theme → a 40–55 woman with heavy, swollen, puffy legs and ankles, hidden under the pouch as the body-part symbol, with subtle sock marks and a tired end-of-day stance. Replace the warm brown/orange brand accents with Edenvia blue #1468DB and ice blue #EAF1F9. Keep the same clean stacked headline and right-side benefit rows, same white curved arrows, same bold promo badge, same orange button shape but in Edenvia blue.
+Text, exactly and nothing else:
+"NO MORE" / "HEAVY LEGS"
+"IMPROVED DRAINAGE SUPPORT"
+"LIGHTER BY EVENING"
+"SLIMMER ANKLES"
+"NO BATHROOM RUNS"
+"UP TO" / "40%" / "OFF"
+"FREE GIFTS + FREE SHIPPING"
+Do not draw any competitor branding, no capsule, pill, powder, bottle, or jar, no disease names, no drug claims, no extra text, no different layout, no extra people, no hot-water ritual.

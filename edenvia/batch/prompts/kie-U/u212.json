@@ -1,0 +1,22 @@
+{
+ "analysis": "Single-panel static ad, centered top visual, stacked headline, subhead, feature line, CTA. No comparison; role zones are: hero visual = avatar problem state converted to product benefit, headline = pain/desire, subhead = objection handling, feature line = mechanism/ingredients translated into benefits, CTA = offer/urgency.",
+ "needs_rival": "none",
+ "template_lines": [
+  "The focus upgrade that",
+  "doesn't wreck your",
+  "nervous system.",
+  "No jitters. No crash. No prescription required.",
+  "Coffee+ stacks Lion's Mane, L-Theanine, and functional mushrooms for clean, all-day attention.",
+  "Claim 40% off your Starter Kit →"
+ ],
+ "our_lines": [
+  "The leg upgrade that",
+  "doesn't flatten your",
+  "afternoon stride.",
+  "No heavy legs. No sock marks. No prescription required.",
+  "Hydrogen + magnesium + minerals trigger drainage support, reduce oxidative stress, and deflate water retention for lighter legs by evening.",
+  "Claim $39.00 Edenvia Starter Pack →"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it.\nChanges: top visual becomes a 40–55 woman with heavy, swollen, puffy legs and ankles; keep the same clean white background and premium minimal layout. The headline names heavy legs and the desire for better movement; the subhead kills objections with short punchy lines; the feature line sells hydrogen, magnesium, and minerals as drainage support against oxidative stress; the CTA is urgency-driven and price-led.\nText, exactly and nothing else:\nThe leg upgrade that\ndoesn't flatten your\nafternoon stride.\nNo heavy legs. No sock marks. No prescription required.\nHydrogen + magnesium + minerals trigger drainage support, reduce oxidative stress, and deflate water retention for lighter legs by evening.\nClaim $39.00 Edenvia Starter Pack →\nDo NOT draw: pills, capsules, bottles, jars, gummies, drops, extra badges, certification seals, competitor names, extra text, or any product other than the Edenvia pouch.",
+ "validator_errors": []
+}

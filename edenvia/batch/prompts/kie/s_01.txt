@@ -1,0 +1,10 @@
+Image 1 is the ad template to clone 1:1 (same dark navy layout, badge, 2-line serif headline, three columns with product photos, bold rows, big coloured verdict words, star lines, gold frame on column 3, gold banner at the bottom). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit like the other products.
+Changes: column 1 product → a plain white bottle labelled only WATER TABLETS; column 2 → a plain brown dropper bottle labelled only LYMPH DROPS; column 3 → our pouch, same height as the bottles.
+Text, exactly and nothing else:
+Badge: "2026 INDEPENDENT TEST" · Headline: "3 Leg-Swelling Fixes. 1 Pair Of Heavy Legs. Here's The Truth."
+Column titles: "WATER TABLETS" · "LYMPH DROPS" · "EDENVIA"
+Column 1 rows: "Form: 2 tablets, swallowed" / "Works on: water only" / "Per day: 2 + bathroom runs" / "Reaches the tissue: No ❌" / "Hydrogen: None ❌" · "Result After 30 Days:" red "STILL SWOLLEN" · "★★ — Would Not Recommend"
+Column 2 rows: "Form: 20 drops in water" / "Works on: herbs, 'drainage'" / "Per day: 2 doses, bitter" / "Reaches the tissue: Barely ❌" / "Hydrogen: None ❌" · "Result After 30 Days:" orange "SLIGHTLY LESS PUFFY" · "★★★ — Overhyped"
+Column 3 rows: "Form: 1 tablet in a glass of water" / "Works on: the inflamed tissue holding the fluid" / "Per day: 1 glass, 3 minutes" / "Reaches the tissue: Yes — smallest molecule ✅" / "Hydrogen: 8 PPM ✅" · "Result After 30 Days:" green "LEGS FEEL LIGHT" · "★★★★★ — Editor's Choice ✅"
+Gold banner: "HEAVY LEGS GONE IN 30 DAYS. 30-DAY MONEY-BACK 💧👇"
+No bison, no capsules, no other brand.

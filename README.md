@@ -14,18 +14,11 @@ same rules — only the brand input changes.
 The Wildhorn-filled example (`wildhorn-static-ads`) and the Blueprint pages stay in the founder's Drive
 as reference; they are not copied into this repo.
 
-## Status
+## Status (2026-10-11)
 
-- Brand kit: **v1.5 locked** (`edenvia/BRAND-KIT.md`, `edenvia/brand.json`). Angle A8 lymphatic bloating; three sub-angles signed at gate 1 (legs/belly, puffy face, man's belly).
-- Step 1: **done and signed off** — Lymphoria (lymphoria.co), 35 statics decoded (`edenvia/research/lymphoria/`).
-- Step 2: families 1 (us vs them, 10) and 2 (before-after / timeline, 8) **briefed** — `edenvia/briefs/`, 18 briefs, lint OK. Gate 2 pending: the VPS session generates family 1, the founder validates (Loom 1 → rules), family 2 is retouched against those rules before it is generated, then families 3–9.
-- Steps 3–5 run on the founder's VPS (`VPS-SETUP.md`).
+**Read `SOP.md` first** — the current process (one kie call per ad, `edenvia/batch/pipeline2.py`), the founder's rules, the costs, the state of every batch
+and the bootstrap prompt for a new session. The skill under `.claude/skills/static-ads/` is the original Wildhorn method, kept for reference; its
+generation pipeline (briefs → specs → lint → OpenAI direct → cutout pasting) was retired by the founder on 2026-10-11.
 
-## How the scripts find the brand
-
-```
-export SAC_WORKDIR=/path/to/blueprint-static/edenvia
-python3 .claude/skills/static-ads/scripts/lint.py <spec file>
-```
-
-Everything produced by the system (specs, prompts, pages, rules, briefs) is in English.
+- Batch U (the whole swipe file, 270 templates): **v1 validated by the founder** — `edenvia/batch/validated-U/` (269 PNG).
+- Family 1 (10) and batch T (25): generated, see `edenvia/pages/`.

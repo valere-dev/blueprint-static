@@ -1,0 +1,11 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.  
+Changes: replace the athlete on the track with a woman 40–55 with heavy, swollen, puffy legs and ankles, lying down in the same pose; keep the product pouch in the same lower-left spot and size; swap the pink brand colour to Edenvia blue (#1468DB) and deep navy (#172A54); keep the athletic/clean modern ad look, Manrope-like geometric sans.  
+Text, exactly and nothing else:  
+"Myth:"  
+"Rest days mean doing nothing"  
+"Fact:"  
+"Heavy, swollen legs and Edenvia:" Boosts drainage support naturally.  
+"Assists inflammatory response."  
+"Aids healthy circulation."  
+"Helps with water retention."  
+Do not draw capsules, pills, powder, bottles, jars, competitor names, disease names, drug claims, or any extra text.

@@ -1,0 +1,5 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
+Changes: the black supplement bottle → our stand-up resealable Edenvia pouch, same spot and size; the man’s hand/arm → a woman 45–50 with heavy, swollen, puffy legs and ankles implied by the same pose, no body fat emphasis; the shower-glass black marker circles → match the same hand-drawn callout style in Edenvia blue (#1468DB) and deep navy; the symptom labels → avatar language about heavy swollen legs / puffy ankles / boots won’t zip.
+Text, exactly and nothing else: "heavy, swollen legs" / "puffy ankles" / "boots won't zip"
+Do not draw: pills, capsules, powder, jars, bottles, competitor branding, disease names, drug names, medical claims, extra text, extra icons, or a different product package.

@@ -1,0 +1,10 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.  
+Changes: the hair-loss headline → “The Solution to Heavy, Swollen Legs”; the before/after scalp photos → a split before/after of the same woman 40–55 with puffy, swollen legs and ankles, hiding her legs vs lighter-looking legs by evening; the purple product bottle → the Edenvia pouch in the same spot and size, held by a hand; the free bonus box → a white glass of water with one fizzing tablet; the accent colour → Edenvia blue #1468DB.  
+Text, exactly and nothing else:  
+“The Solution to”  
+“Heavy, Swollen Legs”  
+“Before”  
+“After”  
+“FREE”  
+“Cellular Recovery Protocol”  
+What not to draw: no bottle, jar, capsule, pill, powder, competitor name, disease name, or drug name; no extra text, no logos other than Edenvia atom icon.

@@ -1,0 +1,16 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
+Changes: the bottle → the Edenvia stand-up resealable pouch, same spot and size, white fading to sky blue with water droplets, label fully readable, lit by the scene; the hand remains but holds the pouch; the dark supplement capsule shape on the right → one white effervescent tablet; replace magenta brand colour with Edenvia blue #1468DB and ice blue #EAF1F9 accents; keep the same bold headline and callout structure.
+Text, exactly and nothing else:
+"HELLO,"
+"LIGHTER LEGS."
+"PLEASED TO MEET YOU."
+"NEW"
+"1 WHITE TABLET IN A GLASS OF WATER"
+"DAILY"
+"30 TABLETS | 30 DAY SUPPLY"
+"8 PPM"
+"DRainage support"
+"NO HOT WATER"
+"30-DAY MONEY BACK GUARANTEE"
+"RATED 4.9/5"
+Do not draw capsules, pills, powder, bottle, jar, or any competitor name; do not add extra text, extra products, medical claims, or anatomical labels.

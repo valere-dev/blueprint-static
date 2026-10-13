@@ -1,0 +1,22 @@
+{
+ "analysis": "Format: square multi-panel static ad collage with a bold central headline, UGC testimonial card, product packs in background, and a 3-column benefit strip footer. Family: transformation/testimonial performance ad. Mechanism zones: top-left and bottom-left show product/action benefits; top-right shows user delight/consumption; center is social proof testimonial; bottom strip is benefit summary. For Edenvia, left/before zones become heavy swollen legs/water retention suffering; right/after zones become lighter legs, slimmer ankles, boots zip, one tablet a day. The testimonial card should be the avatar speaking in first person. No rival needed because template is not comparison-based.",
+ "needs_rival": "none",
+ "template_lines": [
+  "LIFE CHANGING!",
+  "I’ve already lost 10lbs with the burn box, and honestly I just feel so much more myself lately",
+  "more energy, less bloat, and finally some confidence!",
+  "Ignite Your Metabolism",
+  "Boost Cravings & Mimic Fasting",
+  "Lose Extra lbs. While You Sleep"
+ ],
+ "our_lines": [
+  "LEGS FEEL LIGHT AGAIN!",
+  "I’ve already lost the heavy, swollen feeling in my legs, and honestly I just feel so much better by 5 p.m.",
+  "slimmer ankles, less puffiness, and finally boots that zip again!",
+  "Drain Fluid Stuck In Your Legs",
+  "Trigger Lighter Legs By Evening",
+  "Deflate Water Retention Overnight"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Changes: swap the product visual to Edenvia everywhere the template shows the main product, keep the testimonial card as a real-looking UGC quote from a 40–55 woman with heavy, swollen legs and ankles, and make the side/background visuals show puffy legs/boots not zipping, sock marks, and evening heaviness; top-left and bottom-left = suffering/before, top-right = relief/after, center = her words, footer = 3 benefit blocks. Text, exactly and nothing else: LEGs FEEL LIGHT AGAIN!; I’ve already lost the heavy, swollen feeling in my legs, and honestly I just feel so much better by 5 p.m.; slimmer ankles, less puffiness, and finally boots that zip again!; Drain Fluid Stuck In Your Legs; Trigger Lighter Legs By Evening; Deflate Water Retention Overnight. Do NOT draw: bottles, jars, pills, gummies, drops, competitor names, certification badges, extra logos, or any text not in the template.",
+ "validator_errors": []
+}

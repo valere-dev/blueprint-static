@@ -1,0 +1,8 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
+Changes: replace the oregano pouches with the Edenvia stand-up resealable pouch, same spot and size, white fading to sky blue with water droplets, label readable and lit by the scene; replace the product family/green accents with Edenvia blue (#1468DB), navy #14488F, deep navy #172A54, ice blue #EAF1F9; replace the generic sale messaging with the avatar angle A8: a 40–55 woman with heavy, swollen, puffy legs and ankles, hiding her legs, sock marks, boots won’t zip, tired by 5 p.m.
+Text, exactly and nothing else:
+"BUY 2"
+"GET 3 FREE"
+"LAST CHANCE"
+"70% OFF SALE"
+Finish with: do not draw capsules, pills, powder, bottles, jars, competitor branding, disease names, drugs, or medical claims.

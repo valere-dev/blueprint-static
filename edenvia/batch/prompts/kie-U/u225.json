@@ -1,0 +1,14 @@
+{
+ "analysis": "Format: single-image UGC product photo, vertical 4:5, woman centered, large white caption box across lower-mid, rival jar on table. Mechanism: old painful routine vs our simple daily tablet ritual. Zones: top = avatar emotion/action; middle caption = before/after switch; bottom-right = product pack hero; left/bottom props = lifestyle realism. Rival/ours: losing side is generic NAD+ CORE jar and injections; ours is Edenvia pouch and one daily effervescent tablet in water. Before/after: hated injections -> loved one simple tablet. Pain/desire: injection fatigue/complexity -> easy daily routine, lighter legs, less puffy by evening.",
+ "needs_rival": "none",
+ "template_lines": [
+  "I hated daily injections, but then",
+  "LOVED one simple capsule"
+ ],
+ "our_lines": [
+  "I hated swollen, heavy legs, but then",
+  "LOVED one simple tablet"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Changes: swap injections/capsule pain for heavy swollen legs and puffy ankles; keep the same woman-at-table lifestyle feel; bottom-right pack is Edenvia pouch; the caption is the before/after shift from tired, swollen legs to lighter legs by evening; focus on simple daily water ritual. Text, exactly and nothing else: I hated swollen, heavy legs, but then / LOVED one simple tablet. Do NOT draw: any capsule, bottle, jar, syringe, drug brand, badge, certification mark, extra text, or changes to composition.",
+ "validator_errors": []
+}

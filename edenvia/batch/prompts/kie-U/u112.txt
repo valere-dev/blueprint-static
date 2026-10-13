@@ -1,0 +1,14 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
+Changes: the red bra → a realistic before/after split scene with one woman 40–55 showing heavy, swollen, puffy legs and ankles; use Edenvia blue (#1468DB) accents where the template uses red; the candy bag → our white-to-sky-blue resealable pouch in the same spot and size; the candy cubes → one white effervescent tablet and a clear glass of water fizzing; persons → our avatar, same bold ad energy.
+Text, exactly and nothing else:
+"Heavy.\\nSwollen.\\nFor more." 
+"$39"
+"BUY 1\\nGET 1 FREE"
+"30 DAY MONEY BACK GUARANTEE"
+"EDENVIA"
+"MOLECULAR HYDROGEN"
+"GENERATES 8PPM OF HYDROGEN PER TABLET"
+"CONSUME DAILY ANTIOXIDANTS AND EXHIBIT HEALTHIER, IMPROVED LIVING"
+"30 TABLETS | 30 DAY SUPPLY"
+Do not draw: nipples, lingerie details, medical claims, disease names, capsules, pills, powder, bottle, jar, competitor branding, extra text, or cartoon style.

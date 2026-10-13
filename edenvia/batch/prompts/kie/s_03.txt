@@ -1,0 +1,7 @@
+Image 1 is the ad template to clone 1:1 (same layout, split, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
+Changes: the left half becomes an Edenvia blue gradient (#1468DB to #14488F). Their bottle → our pouch, same spot and size. The coffee cup → the same white cup on a saucer holding pale green tea with a teabag tag reading DETOX.
+Text, exactly and nothing else:
+Left headline (white): "Edenvia's HYDROGEN" · badge: "VS" · right headline (black): "Detox Tea"
+Left ticks (green ✅): "Reaches the fluid stuck in your legs" / "No bathroom runs every hour" / "Legs feel lighter by evening" / "No swelling bounce-back tomorrow" / "One tablet, one glass of water"
+Right crosses (red ❌): "Only flushes water for a few hours" / "Keeps you up for the bathroom" / "Legs heavy again by noon" / "Washes out minerals, not the puffiness" / "Only a temporary flush"
+No other brand, no logo outside the label, no person.

@@ -1,0 +1,8 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.  
+Changes: replace the top-left sad bedroom scene with a grayscale woman 45–55 with heavy, swollen, puffy legs and ankles, hiding her legs in bed; replace the top-right warm transformation scene with the same woman standing relieved, slimmer-looking ankles, boots zipping, evening light, no bathroom runs; replace the center product with the Edenvia pouch same spot and size; replace the red accent and deal styling with Edenvia blue (#1468DB), navy #14488F, deep navy #172A54, ice blue #EAF1F9.  
+Text, exactly and nothing else:  
+"LOST THE LIGHTNESS YOU USED TO HAVE?"  
+"AGE IS NOT THE PROBLEM."  
+"SPECIAL DEAL"  
+"BUY 2, GET 1 FREE"  
+Do not draw: competitor brands, pills, capsules, bottles, jars, powders, diseases, medical devices, extra text, extra people, watermark, or inaccurate packaging.

@@ -1,0 +1,28 @@
+{
+ "analysis": "Format: static comparison ad, editorial serif headline with centered product-and-benefit hierarchy. Family: beauty/health transformation, old problem vs solution. Mechanism zone: explainer text between headline and CTA. Role: top line names the suffering/benefit, middle explains why the old thing fails and our mechanism wins, bottom CTA closes hard. Rival side: WATER PILLS, losing. Ours: Edenvia pouch, winning. Before/after: before = heavy swollen legs, after = lighter legs by evening, slimmer ankles, boots zip.",
+ "needs_rival": "drops",
+ "template_lines": [
+  "You can keep your hair and your GLP-1.",
+  "Here's how it works",
+  "Two different systems:",
+  "GLP-1 works on appetite. Bloom & Bond blocks DHT.",
+  "Nothing to cancel out:",
+  "No drugs, no hormones. Plant-based ingredients.",
+  "Stops the shedding at the root.",
+  "While you stay on your dose.",
+  "STOP Your GLP-1 Hair Loss"
+ ],
+ "our_lines": [
+  "You can keep your lighter legs and your water retention.",
+  "This is how it works",
+  "Two systems, one outcome:",
+  "Water pills trigger bathroom runs. Edenvia drains the fluid stuck in your legs.",
+  "Nothing left to chase:",
+  "No capsules, no jar, no guessing. One white tablet daily.",
+  "Deflates the inflammation at the root.",
+  "Every morning, one glass; every evening, lighter legs.",
+  "STOP Heavy Leg Puffiness"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Image 4 is the rival product for the losing side. Changes: top headline swaps hair/GLP-1 for heavy swollen legs/water retention; left/losing concept is a generic WATER PILLS bottle causing bathroom runs; right/winning concept is the Edenvia pouch and the desired result: lighter legs by evening, slimmer ankles, boots zip again. Mechanism copy becomes plain-English drainage support and oxidative stress/inflammation language. Text, exactly and nothing else: You can keep your lighter legs and your water retention. This is how it works Two systems, one outcome: Water pills trigger bathroom runs. Edenvia drains the fluid stuck in your legs. Nothing left to chase: No capsules, no jar, no guessing. One white tablet daily. Deflates the inflammation at the root. Every morning, one glass; every evening, lighter legs. STOP Heavy Leg Puffiness. Do NOT draw: extra badges, capsules, jars, pills, hair imagery, GLP-1, FDA marks, before/after arrows, new layout.",
+ "validator_errors": []
+}

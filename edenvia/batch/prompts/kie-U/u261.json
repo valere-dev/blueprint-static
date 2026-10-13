@@ -1,0 +1,22 @@
+{
+ "analysis": "Single-zone static square ad. Format: bold centered headline only, no product packshot, no CTA, no comparison. Family: recruitment/identity hook. Mechanism of template: audience qualification + desired transformation. Role of zone: all text is the hook; no rival/ours split, no before/after. For Edenvia, the zone should become a pain-to-desire hook about heavy, swollen legs and lighter ankles by evening.",
+ "needs_rival": "none",
+ "template_lines": [
+  "HEY! We’re looking",
+  "for women under 30",
+  "who’ve struggled",
+  "with acne and want",
+  "to clear their skin",
+  "— for good."
+ ],
+ "our_lines": [
+  "HEY! We’re seeking",
+  "for women 40–55",
+  "who’ve dealt",
+  "with heavy, swollen",
+  "legs and ankles",
+  "and want lighter legs by evening."
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it.\nChanges: keep the same square full-bleed gradient background and centered bold black headline. Replace the acne audience with women 40–55 with heavy, swollen legs and ankles. Make the hook about puffiness, water retention, and wanting lighter legs by evening. No rival side; no product packshot needed.\nText, exactly and nothing else:\nHEY! We’re seeking\nfor women 40–55\nwho’ve dealt\nwith heavy, swollen\nlegs and ankles\nand want lighter legs by evening.\nDo NOT draw: acne, face, skin-clearing claims, pills, gummies, drops, bottles, jars, badges, seals, extra logos, small print, or any comparison layout.",
+ "validator_errors": []
+}

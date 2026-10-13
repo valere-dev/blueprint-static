@@ -1,0 +1,20 @@
+{
+ "analysis": "Format: single-image static Meta ad, 1:1 square, premium minimalist ecommerce layout with top headline, discount banner, code bar, left stacked before/after lifestyle panels, right hero product-in-hand. Mechanism: comparison/old routine vs our product. Zones: top = brand/category and urgency; left upper = pain before; left lower = desired after; right = product hero and proof of offer. Rival/ours: no separate rival product shown, only before/after lives; our side is the pouch. Before/after: top-left discomfort and hidden puffy legs; bottom-left relief, confidence, lighter legs. Pain/desire: heavy swollen legs, sock marks, boots not zipping vs lighter ankles by evening, boots zip, one glass a day.",
+ "needs_rival": "none",
+ "template_lines": [
+  "PREMIUM",
+  "CATA NUTRA DRINK",
+  "70% OFF ENERGY SALE",
+  "USE CODE: 'ENERGY70'",
+  ""
+ ],
+ "our_lines": [
+  "PREMIUM",
+  "EDENVIA MOLECULAR HYDROGEN",
+  "50% OFF LYMPHATIC BLOATING SALE",
+  "FREE CELLULAR RECOVERY PROTOCOL",
+  ""
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Changes: top brand line becomes Edenvia; red sale banner becomes heavy, swollen legs / water retention urgency; code bar becomes FREE Cellular Recovery Protocol. Left upper zone shows her puffy legs/ankles, sock marks, boots won't zip, 5 p.m. ache. Left lower zone shows lighter legs by evening, slimmer ankles, boots zip, one glass a day. Right zone shows the Edenvia pouch in a hand, clean premium hero product. Text, exactly and nothing else: PREMIUM / EDENVIA MOLECULAR HYDROGEN / 50% OFF LYMPHATIC BLOATING SALE / FREE CELLULAR RECOVERY PROTOCOL. Do NOT draw: competitor names, pills, gummies, drops, jar, bottle, badge, certification mark, extra copy, changed layout, different colors, or a non-exact pouch.",
+ "validator_errors": []
+}

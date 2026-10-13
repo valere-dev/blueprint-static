@@ -1,0 +1,20 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
+Changes: the nose anatomy → a woman 45–50 with puffy face, double chin, jawline swelling and heavy, swollen legs/ankles; the swollen lining callout → inflamed tissue and water retention in the legs; the little scientist character → a concerned woman hiding her legs; the red/navy brand accents → Edenvia blue (#1468DB), navy #14488F, deep navy #172A54, ice blue #EAF1F9; the spray problem → “heavy, swollen legs” problem. Place the Edenvia pouch in the same top-brand area style as the template.
+Text, exactly and nothing else:
+"EDENVIA"
+"YOU’RE"
+"NOT"
+"HEAVY."
+"YOUR LEGS"
+"ARE PUFFY."
+"Most products are helping with the wrong problem."
+"SWOLLEN LINING"
+"Inflamed tissue narrows drainage."
+"NOT FAT"
+"Little to no change."
+"Just puffy, heavy tissue."
+"I’m not full of fat. I’m just swollen and tired."
+"SCIENCE. NOT GUESSWORK."
+"Real causes. Real solutions."
+Do not draw a competitor name, capsule, pill, powder, bottle, jar, disease name, drug name, lymphedema, lipedema, or hot water.

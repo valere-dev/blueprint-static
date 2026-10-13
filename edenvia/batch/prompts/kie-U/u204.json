@@ -1,0 +1,18 @@
+{
+ "analysis": "Format: organic phone-photo UGC flat lay inside an open suitcase. Family: hydration/supplement blend ad. Mechanism: product claim stack via taste + ingredient callouts. Zones: top white text bubble = main testimonial headline; mid pink callout left = flavor claim; mid pink callout right = functional claim; bottom pink callout = ingredient stack. Rival/ours: none, because no comparison layout. Before/after: absent. Pain/desire: rewrite from taste/hydration to heavy, swollen legs and evening relief.",
+ "needs_rival": "none",
+ "template_lines": [
+  "I’ve never had a better tasting electrolyte blend than this",
+  "made from real watermelon",
+  "all-in-one hydration mushroom mix",
+  "With sodium, vitamin C, potassium, magnesium, zinc, vitamin B3, B6, B1 & Reishi mushrooms"
+ ],
+ "our_lines": [
+  "I’ve never had lighter legs by evening than this",
+  "one effervescent tablet a day",
+  "flushes the fluid stuck in your legs",
+  "With hydrogen, magnesium, minerals, 8 PPM of hydrogen, drainage support, antioxidants, water retention, cellular recovery"
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it.\nChanges: organic suitcase flat lay becomes Edenvia UGC; top bubble = woman 40–55 with heavy, swollen legs saying lighter legs by evening; left pink callout = one effervescent tablet a day; right pink callout = flushes the fluid stuck in your legs; bottom pink callout = hydrogen, magnesium, minerals, 8 PPM, drainage support, antioxidants, water retention, cellular recovery. No rival side.\nText, exactly and nothing else:\nI’ve never had lighter legs by evening than this\none effervescent tablet a day\nflushes the fluid stuck in your legs\nWith hydrogen, magnesium, minerals, 8 PPM of hydrogen, drainage support, antioxidants, water retention, cellular recovery\nDo NOT draw: bottles, jars, capsules, pills, powders, competitor names, medical claims, badges, extra logos, or anything not in Image 2 and Image 3.",
+ "validator_errors": []
+}

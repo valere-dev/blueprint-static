@@ -1,0 +1,15 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
+Changes: the herb name → Edenvia; the product pack → our stand-up resealable pouch same spot and size; the red berries in hand → one clear glass of water with a single white effervescent tablet fizzing; the hand remains but the message becomes about heavy, swollen legs and water retention; replace green accents with Edenvia blue (#1468DB), navy #14488F, deep navy #172A54, ice blue #EAF1F9; keep the same infographic layout and dotted background.
+Text, exactly and nothing else:
+"Rediscover Your Energy, Comfort, and Drive with EDENVIA'S MOLECULAR HYDROGEN"
+"Feel Lighter, Stronger, and More Energized—Every Single Day"
+"1" "Say Goodbye to Heavy, Swollen Legs"
+"Struggling with puffy legs, sock marks, or boots that won’t zip? Edenvia helps reach the fluid stuck in your legs and supports drainage support and antioxidants for lighter legs by evening."
+"2" "Feel Lighter and More Comfortable"
+"From morning to evening, Edenvia gives clean, steady support without bathroom runs. One tablet in water helps with oxidative stress and water retention so you feel ready to move."
+"3" "Stay Calm and in Control"
+"Life doesn’t slow down, but with Edenvia you can support cellular balance under pressure and help the inflammatory response so you can focus on what matters most without feeling weighed down."
+"Get Back in the Driver’s Seat"
+"47% Off Today Only!"
+Do not draw any capsules, pills, powders, bottles, jars, competitor names, disease names, medical claims, or extra products.

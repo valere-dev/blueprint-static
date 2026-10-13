@@ -1,0 +1,20 @@
+{
+ "analysis": "Static single-product ad, left text stack + right hero product on clean color field. Mechanism: negation list followed by benefit claim. Role of zones: left side = rival/old false solutions and rejection, right side = our product replacing them. No before/after split; comparison is against other categories. For Edenvia, the avatar is lymphatic bloating: heavy, swollen legs/ankles, puffy by evening, sock marks, boots won’t zip. Rival role should be generic losing product 'LYMPH DROPS' or 'WATER PILLS' showing bathroom runs and no change. Our side is Edenvia pouch with one daily tablet ritual and lighter legs, slimmer ankles, boots zip again.",
+ "needs_rival": "drops",
+ "template_lines": [
+  "Not biotin.",
+  "Not collagen.",
+  "Not hair gummies.",
+  "400+ bioactive nutrients that support hair health at the root.",
+  "These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease."
+ ],
+ "our_lines": [
+  "Not water pills.",
+  "Not lymph drops.",
+  "Not pills.",
+  "8 PPM hydrogen tablets that trigger drainage support at the tissue level.",
+  "Results vary by person; 12,000+ customers rate Edenvia 4.9/5."
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Image 4 is the rival product for the losing side. Changes: left text zone rejects heavy, swollen legs / puffy ankles / water retention and the rival LYMPH DROPS; right hero is Edenvia pouch with one white tablet in a clear glass, dissolving. Left zone = suffering, right zone = desire: lighter legs by evening, slimmer ankles, boots zip again, no bathroom runs. Text, exactly and nothing else: Not water pills. Not lymph drops. Not pills. 8 PPM hydrogen tablets that trigger drainage support at the tissue level. Results vary by person; 12,000+ customers rate Edenvia 4.9/5. Do NOT draw: hair, biotin, collagen, gummies, capsules, jars, badges, extra claims, competitor names, or any product other than the Edenvia pouch.",
+ "validator_errors": []
+}

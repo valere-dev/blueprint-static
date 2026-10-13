@@ -1,0 +1,14 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
+Changes: replace the repeated brand word with Edenvia; keep the same centered stacked text rhythm, minimalist poster look, dark brown background, white typography, same spacing. Use the Edenvia logo wordmark with small atom icon at the bottom in white. No people, no product shot.
+Text, exactly and nothing else:
+"Heavy legs? Edenvia"
+"Puffy ankles? Edenvia"
+"Water retention? Edenvia"
+"Swollen by evening? Edenvia"
+"Won’t zip up? Edenvia"
+"Heavy, tender legs? Edenvia"
+"Tired all day? Edenvia"
+"Need drainage support? Edenvia"
+"WATER RETENTION?"
+"Edenvia"
+Do not draw any competitor branding, extra graphics, tablets, glass, pouch, bottle, jar, capsule, pill, powder, medical claims, disease names, or extra text.

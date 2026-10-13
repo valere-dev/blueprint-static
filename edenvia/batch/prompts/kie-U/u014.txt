@@ -1,0 +1,11 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.
+Changes: the product pack stays in the same left spot and size but becomes the Edenvia stand-up resealable pouch (white fading to sky blue, water droplets). Replace the headline and week callouts with Edenvia copy. Use Edenvia blue (#1468DB), navy #14488F, deep navy #172A54, ice blue #EAF1F9. Use a 40–55 woman with heavy, swollen, puffy legs and ankles, hidden posture, sock marks, boots won’t zip, “it was never fat”.
+Text, exactly and nothing else:
+"MY HEAVY, SWOLLEN LEGS"
+"WERE KICKING MY BUTT"
+"Week 1" / "No Bathroom Runs" / "LIGHTER LEGS BY EVENING"
+"Week 3" / "Reaches The Fluid Stuck In Your Legs" / "SLIMMER ANKLES"
+"Week 5" / "Oxidative Stress, Inflammatory Response" / "MY BOOTS ZIP AGAIN"
+"30 TABLETS | 30 DAY SUPPLY" / "$39.00" / "93% SOLD"
+Do not draw capsules, pills, powder, bottle, jar, competitor names, disease names, drug names, hot water, or any extra text.

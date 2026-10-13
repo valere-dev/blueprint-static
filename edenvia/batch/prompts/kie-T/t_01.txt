@@ -1,0 +1,6 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
+Changes: the two bedroom photos become two kitchen-floor-level photos of the same woman of 45–50: LEFT at 5 p.m. sitting on the sofa edge rubbing her swollen, heavy calf, compression socks peeled down, tired; RIGHT the same evening, barefoot on the kitchen floor, slim ankles, holding a glass of water, relaxed smile. Same dark moody photo look. The notification bubbles stay as grey chat bubbles with emoji.
+Text, exactly and nothing else: "How my legs feel" / "without Edenvia" · "How my legs feel" / "with Edenvia"
+Left bubbles: "Me at 9:00 am — Ankles already tight in my shoes" · "Me at 12:00 — Legs heavy under the desk" · "Me at 3:00 pm — Sock marks won't fade" · "Me at 5:00 pm — Calves swollen, standing hurts" · "Me at 7:00 pm — Legs up the wall, still puffy" · "Me at 10:00 pm — Can't zip my boots for tomorrow"
+Right bubbles: "Me at 8:00 am — One tablet in a glass of water" · "Me at 7:00 pm — Legs feel light, ankles back"
+Bottom right: "Edenvia" in white with the small atom icon.

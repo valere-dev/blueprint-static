@@ -1,0 +1,26 @@
+{
+ "analysis": "Format: full-bleed vertical static ad, one hero object centered, bold stacked headline, thin divider line, short four-point feature strip, small brand mark bottom corner. Family/mechanism: comparison-free product-pun template; role zones are headline = desire/benefit, subhead = product evolution claim, feature strip = feature-to-benefit proof, bottom corner = brand/product packshot. No rival side; the hero object is the old niche metaphor replaced by our product.",
+ "needs_rival": "none",
+ "template_lines": [
+  "NO MORE",
+  "SOFT D*CK",
+  "POUCHES HAVE EVOLVED",
+  "Zero Nicotine",
+  "Zero Caffeine",
+  "Lasts 1-2",
+  "Hours",
+  "Zero Crash"
+ ],
+ "our_lines": [
+  "NO MORE",
+  "HEAVY LEGS",
+  "TABLETS HAVE EVOLVED",
+  "Zero water retention",
+  "Zero bathroom runs",
+  "One tablet",
+  "A day",
+  "Zero heavy p.m."
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Changes: replace the eggplant hero with the Edenvia pouch as the central object; keep the same sky background, bold white typography, thin divider line, and bottom-corner brand mark. Top zone = the problem statement for lymphatic bloating in the avatar's words; middle zone = the evolution claim; feature strip = fast, daily, no-routine benefits; bottom corner = Edenvia logo + pouch. Text, exactly and nothing else: NO MORE / HEAVY LEGS / TABLETS HAVE EVOLVED / Zero water retention / Zero bathroom runs / One tablet / A day / Zero heavy p.m. Do NOT draw: rival products, bottles, jars, capsules, pills, badges, certifications, extra copy, different logo, different packaging, or any text not listed.",
+ "validator_errors": []
+}

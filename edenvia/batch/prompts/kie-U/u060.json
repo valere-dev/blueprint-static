@@ -1,0 +1,39 @@
+{
+ "analysis": "Single-panel static ad; beige background; top headline, left-side checklist benefits, right-side large product packshot, badge offer, bottom CTA. Rival/ours not needed. Before/after role = old discomfort vs our daily ritual; pain/desire = heavy, swollen legs vs lighter legs, slimmer ankles, boots zip.",
+ "needs_rival": "none",
+ "template_lines": [
+  "The First Superfood",
+  "Chocolate Bar",
+  "20% off",
+  "(Limited Time Only)",
+  "0g Added Sugar",
+  "10-11g Fiber",
+  "Just Organic Cacao",
+  "+ Organic Dates",
+  "Best-Tasting",
+  "Chocolate on Earth",
+  "Don't miss your",
+  "chance to eat better",
+  "chocolate — and feel",
+  "nourished after."
+ ],
+ "our_lines": [
+  "The First Daily",
+  "Molecular Hydrogen",
+  "Effervescent Tablets",
+  "$39.00 off",
+  "(Ends Tonight Only)",
+  "Heavy, Swollen Legs",
+  "Lighter Legs by Evening",
+  "One White Tablet",
+  "+ 8PPM Hydrogen",
+  "Bigger Morning Energy",
+  "for Puffy Ankles",
+  "Grab yours now",
+  "chance to flush fluid",
+  "and feel lighter",
+  "by 5 p.m."
+ ],
+ "prompt": "Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene. Image 3 is the official Edenvia logo: use it wherever the template shows a brand logo, never redraw it. Changes: top headline becomes heavy, swollen legs / water retention; left zone becomes the benefit stack; right zone is the Edenvia pouch in the same place and scale; offer badge becomes the allowed deal; bottom CTA becomes urgency for puffy ankles; role = old pain versus our desired lighter legs and slimmer ankles. Text, exactly and nothing else: The First Daily Molecular Hydrogen Effervescent Tablets $39.00 off (Ends Tonight Only) Heavy, Swollen Legs Lighter Legs by Evening One White Tablet + 8PPM Hydrogen Bigger Morning Energy for Puffy Ankles Grab yours now chance to flush fluid and feel lighter by 5 p.m. Do NOT draw: chocolate, bars, cacao, dates, extra logos, badges, bottles, jars, capsules, pills, powder.",
+ "validator_errors": []
+}

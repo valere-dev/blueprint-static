@@ -1,0 +1,13 @@
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). Image 2 is our product: the Edenvia Molecular Hydrogen pouch — reproduce it exactly — the label reads GENERATES 8PPM OF HYDROGEN PER TABLET (the digit is 8, not 6) — label readable, water droplets, lit by the scene.  
+Changes: the bottle → our stand-up resealable pouch same spot and size; the left/right before-after circles → puffy swollen legs/ankles on the left and slimmer ankles/legs on the right; the red accents → Edenvia blue (#1468DB) and navy (#14488F); the guarantee badge → 30-Day Money Back Guarantee. Keep the arrow and overall composition.  
+Text, exactly and nothing else:  
+"I went from this, TO this"  
+"Heavy, swollen legs & ankles"  
+"Clinically studied ingredients that:"  
+"Rehydrate and support drainage"  
+"Relieve heaviness and puffy swelling"  
+"Restore comfort and confidence"  
+"30-Day Money Back Guarantee"  
+"Rated 4.9/5 • 12,000+ customers"  
+"FREE Cellular Recovery Protocol"  
+Do not draw a bottle, jar, capsule, pill, powder, disease name, competitor name, or medical claims like clinically proven / FDA approved.

@@ -1,0 +1,12 @@
+---
+Image 1 is the ad template to clone 1:1 (same layout, composition, render style, fonts, text sizes and positions, same amount of text). No product (the template has none).
+Changes: replace the hand-held capsule with a clear glass of water and one white Edenvia effervescent tablet fizzing/dissolving; replace the implied skin issue with a woman 40–55 with heavy, swollen, puffy legs and ankles, sock marks, boots won’t zip, tired by 5 p.m., hiding her legs; use Edenvia blue #1468DB for the top banner accent where the template uses its brand color. Keep the same editorial/static-ad look, off-white background, clean typography, and simple stock-photo realism.
+Text, exactly and nothing else:
+"WHY DO WOMEN WITH HEAVY, SWOLLEN LEGS FEEL WORSE BY EVENING?"
+"\"My heavy, swollen legs finally felt LIGHTER!\""
+"When you have puffy legs, you're not just tired. You're dealing with water retention and inflammation that keep fluid stuck in the tissue all day."
+"At 44, I finally learned a daily ritual with one effervescent tablet in a glass of water that supports drainage and helps with oxidative stress."
+"In just 2 weeks after starting, my ankles looked slimmer and my boots zipped again."
+"So I didn't need a complicated routine, this is simple, daily, and takes 3 minutes to dissolve."
+"It works for most people whose symptoms stem from water retention and inflammatory response."
+Not to draw: capsules, pills, powder, bottle, jar, disease names, drug names, lymphedema, lipedema, clinical claims, or any competitor branding.

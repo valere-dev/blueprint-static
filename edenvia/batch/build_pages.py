@@ -48,7 +48,7 @@ for s in specs:
 os.makedirs(C.PAGES, exist_ok=True)
 head = HEAD.format(title="Edenvia — batch 01, template vs ad", css=CSS + EXTRA)
 open(f"{C.PAGES}/compare{"-" + KP.upper() if BATCH_T else ""}.html", "w").write(head + f'<body><div class="wrap"><h1>Edenvia — {"batch " + KP.upper() if BATCH_T else "batch 01"} · template | ad</h1>'
-    f'<p>{"25 random templates across all families" if BATCH_T else "Concept family 1"}, {len(sells)} ads. Left: the template. Right: our ad (click for full size). Angle and headline under each pair.</p>{rows}</div></body></html>')
+    f'<p>{"Every remaining template of the swipe file" if KP == "u" else "25 random templates across all families" if BATCH_T else "Concept family 1"}, {len(sells)} ads. Left: the template. Right: our ad (click for full size). Angle and headline under each pair.</p>{rows}</div></body></html>')
 grid = "".join(f'<a href="ex/{KP}_{n:0{DIG}d}_sell.png" target="_blank"><img src="{web(p, f"{KP}_{n:0{DIG}d}_sell")}" loading="lazy" alt=""></a>' for n, p in sells)
 open(f"{C.PAGES}/demo{"-" + KP.upper() if BATCH_T else ""}.html", "w").write(HEAD.format(title="Edenvia ads", css=CSS) + f'<body><div class="wrap"><h1>Edenvia ads</h1><div class="g">{grid}</div></div></body></html>')
 restyle()

@@ -12,8 +12,8 @@ P = os.path.abspath(args[0]) if args else SRC
 ASSETS = ["nutraflow.css", "nutraflow-logo-dark.png", "favicon-32.png", "favicon-16.png", "apple-touch-icon.png"]
 if P != SRC:
     for a in ASSETS: shutil.copy(os.path.join(SRC, a), os.path.join(P, a))
-EDENVIA = [("index.html", "Blueprint"), ("review.html", "Review"), ("compare.html", "Template | ad"), ("demo.html", "Demo"),
-           ("step1-lymphoria-decode.html", "Step 1 · Decode"), ("step2-gate2-family1.html", "Gate 2 · F1"), ("step2-gate2-family2.html", "Gate 2 · F2")]
+EDENVIA = [("index.html", "Blueprint"), ("compare-U.html", "Batch U"), ("demo-U.html", "Demo U"), ("compare-T.html", "Batch T"),
+           ("review.html", "Family 1"), ("step1-lymphoria-decode.html", "Step 1"), ("step2-gate2-family1.html", "Gate 2")]
 
 
 def title_of(f):
